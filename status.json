@@ -1,11 +1,6 @@
 {
     "scripts": [
         {
-            "id": "5",
-            "status": "inactive",
-            "countdown_start_time": "2024-12-28T18:35:07.798466"
-        },
-        {
             "id": "4",
             "status": "active",
             "countdown_start_time": "2024-12-28T18:37:12.802570"
