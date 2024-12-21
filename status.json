@@ -2,7 +2,7 @@
     "scripts": [
         {
             "id": "1",
-            "status": "active",
+            "status": "inactive",
             "countdown": 1
         }
     ]
