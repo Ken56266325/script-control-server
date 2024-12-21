@@ -2,9 +2,9 @@
     "scripts": [
         {
             "id": "1",
-            "status": "inactive",
+            "status": "active",
             "countdown": 1,
-            "countdown_start_time": "0"
+            "countdown_start_time": "2024-12-28T15:02:42.010698"
         }
     ]
 }
