@@ -22,13 +22,6 @@
             "id": "Antoine1",
             "status": "active",
             "countdown_start_time": "2024-12-29T17:59:03.739356"
-        },
-        {
-            "id": "2",
-            "referred_by": "edou12",
-            "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2024-12-30T10:07:06.752077"
         }
     ],
     "references": {
