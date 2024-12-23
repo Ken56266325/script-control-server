@@ -21,9 +21,18 @@
         {
             "id": "dennery12",
             "referred_by": null,
-            "referred_to": [],
+            "referred_to": [
+                "Antoine1"
+            ],
             "status": "inactive",
             "countdown_start_time": "2024-12-30T10:32:13.976658"
+        },
+        {
+            "id": "Antoine1",
+            "referred_by": "dennery12",
+            "referred_to": [],
+            "status": "inactive",
+            "countdown_start_time": "2024-12-30T10:40:22.728086"
         }
     ],
     "references": {
