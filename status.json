@@ -24,11 +24,6 @@
             "id": "Antoine1",
             "status": "active",
             "countdown_start_time": "2024-12-29T17:59:03.739356"
-        },
-        {
-            "id": "2",
-            "status": "inactive",
-            "countdown_start_time": null
         }
     ],
     "references": {
