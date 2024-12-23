@@ -1,14 +1,6 @@
 {
     "scripts": [
         {
-            "id": "1",
-            "status": "active",
-            "countdown_start_time": "2024-12-29T10:44:11.170880",
-            "referred_to": [
-                "2"
-            ]
-        },
-        {
             "id": "edou12",
             "status": "active",
             "countdown_start_time": "2024-12-30T09:20:03.240052"
