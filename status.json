@@ -26,9 +26,18 @@
         {
             "id": "1",
             "referred_by": null,
-            "referred_to": [],
+            "referred_to": [
+                "2"
+            ],
             "status": "active",
             "countdown_start_time": "2024-12-30T10:09:23.343630"
+        },
+        {
+            "id": "2",
+            "referred_by": "1",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2024-12-30T10:16:51.184010"
         }
     ],
     "references": {
