@@ -22,8 +22,7 @@
             "id": "1",
             "referred_by": null,
             "referred_to": [
-                "2",
-                "4"
+                "2"
             ],
             "status": "active",
             "countdown_start_time": "2024-12-30T10:09:23.343630"
@@ -41,13 +40,6 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2024-12-30T10:30:22.901712"
-        },
-        {
-            "id": "4",
-            "referred_by": "1",
-            "referred_to": [],
-            "status": "active",
-            "countdown_start_time": "2024-12-30T10:30:40.341273"
         }
     ],
     "references": {
