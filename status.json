@@ -27,8 +27,8 @@
         },
         {
             "id": "2",
-            "status": "active",
-            "countdown_start_time": "2024-12-30T09:04:33.435821"
+            "status": "inactive",
+            "countdown_start_time": null
         }
     ],
     "references": {
