@@ -4,9 +4,7 @@
             "id": "edou12",
             "status": "active",
             "countdown_start_time": "2024-12-30T09:20:03.240052",
-            "referred_to": [
-                "3"
-            ]
+            "referred_to": []
         },
         {
             "id": "sergina09",
@@ -33,13 +31,6 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2024-12-30T10:29:42.272097"
-        },
-        {
-            "id": "3",
-            "referred_by": "edou12",
-            "referred_to": [],
-            "status": "active",
-            "countdown_start_time": "2024-12-30T10:30:22.901712"
         }
     ],
     "references": {
