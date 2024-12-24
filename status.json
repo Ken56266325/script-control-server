@@ -32,9 +32,19 @@
         {
             "id": "1",
             "referred_by": null,
-            "referred_to": [],
+            "referred_to": [
+                "ken"
+            ],
             "status": "active",
             "countdown_start_time": "2024-12-31T10:25:18.855159",
+            "affiliation_balance": 0
+        },
+        {
+            "id": "ken",
+            "referred_by": "1",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2024-12-31T10:26:28.548919",
             "affiliation_balance": 0
         }
     ],
