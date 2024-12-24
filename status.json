@@ -52,6 +52,14 @@
             "affiliation_balance": 0,
             "status": "inactive",
             "countdown_start_time": "2024-12-31T10:11:51.033942"
+        },
+        {
+            "id": "a",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "inactive",
+            "countdown_start_time": "2024-12-31T10:14:00.786462",
+            "affiliation_balance": 0
         }
     ],
     "references": {
