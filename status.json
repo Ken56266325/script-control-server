@@ -9,6 +9,7 @@
             "id": "dennery12",
             "referred_by": null,
             "referred_to": [
+                "Antoine1",
                 "Antoine1"
             ],
             "status": "active",
@@ -38,6 +39,14 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2024-12-31T10:26:28.548919",
+            "affiliation_balance": 0
+        },
+        {
+            "id": "Antoine1",
+            "referred_by": "dennery12",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2024-12-31T19:47:27.900648",
             "affiliation_balance": 0
         }
     ],
