@@ -36,14 +36,6 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2024-12-30T15:57:21.529332"
-        },
-        {
-            "id": "p",
-            "referred_by": null,
-            "referred_to": [],
-            "affiliation_balance": 0,
-            "status": "active",
-            "countdown_start_time": "2024-12-31T10:06:34.747504"
         }
     ],
     "references": {
