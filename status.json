@@ -10,7 +10,8 @@
             "referred_by": null,
             "referred_to": [
                 "Antoine1",
-                "Antoine1"
+                "Antoine1",
+                "Feno0998"
             ],
             "status": "active",
             "countdown_start_time": "2024-12-30T10:32:13.976658",
@@ -39,6 +40,14 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2024-12-31T10:26:28.548919",
+            "affiliation_balance": 0
+        },
+        {
+            "id": "Feno0998",
+            "referred_by": "dennery12",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-01-01T08:47:21.387542",
             "affiliation_balance": 0
         }
     ],
