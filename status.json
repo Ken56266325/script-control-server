@@ -25,16 +25,6 @@
             "countdown_start_time": "2024-12-30T15:57:21.529332"
         },
         {
-            "id": "1",
-            "referred_by": null,
-            "referred_to": [
-                "ken"
-            ],
-            "status": "active",
-            "countdown_start_time": "2024-12-31T10:25:18.855159",
-            "affiliation_balance": 10000
-        },
-        {
             "id": "Feno0998",
             "referred_by": "dennery12",
             "referred_to": [],
