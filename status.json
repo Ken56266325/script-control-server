@@ -20,7 +20,9 @@
         {
             "id": "edou12",
             "referred_by": null,
-            "referred_to": [],
+            "referred_to": [
+                "Fasil6763"
+            ],
             "status": "active",
             "countdown_start_time": "2024-12-30T15:57:21.529332"
         },
@@ -64,6 +66,14 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-01-01T16:57:49.164169",
+            "affiliation_balance": 0
+        },
+        {
+            "id": "Fasil6763",
+            "referred_by": "edou12",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-01-01T18:06:19.355787",
             "affiliation_balance": 0
         }
     ],
