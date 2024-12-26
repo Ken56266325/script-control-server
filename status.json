@@ -67,6 +67,14 @@
             "status": "inactive",
             "countdown_start_time": "2024-12-26T05:55:22.087540",
             "affiliation_balance": 0
+        },
+        {
+            "id": "Fidelson890",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-01-02T06:12:43.975249",
+            "affiliation_balance": 0
         }
     ],
     "references": {
