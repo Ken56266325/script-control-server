@@ -73,6 +73,14 @@
             "status": "active",
             "countdown_start_time": "2025-01-02T06:23:53.478068",
             "affiliation_balance": 0
+        },
+        {
+            "id": "Andry5130",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-01-02T08:22:47.747610",
+            "affiliation_balance": 0
         }
     ],
     "references": {
