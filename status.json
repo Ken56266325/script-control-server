@@ -39,7 +39,9 @@
         {
             "id": "viviane2367",
             "referred_by": null,
-            "referred_to": [],
+            "referred_to": [
+                "Ramiandrisoa4538"
+            ],
             "status": "active",
             "countdown_start_time": "2025-01-02T06:23:53.478068",
             "affiliation_balance": 0
@@ -74,6 +76,14 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-01-02T14:34:34.538496",
+            "affiliation_balance": 0
+        },
+        {
+            "id": "Ramiandrisoa4538",
+            "referred_by": "viviane2367",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-01-02T17:12:33.291945",
             "affiliation_balance": 0
         }
     ],
