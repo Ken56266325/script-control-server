@@ -10,8 +10,6 @@
             "referred_by": null,
             "referred_to": [
                 "Antoine1",
-                "Antoine1",
-                "Feno0998",
                 "Feno0998"
             ],
             "status": "active",
@@ -22,7 +20,6 @@
             "id": "edou12",
             "referred_by": null,
             "referred_to": [
-                "Fasil6763",
                 "Fasil6763"
             ],
             "status": "active",
@@ -58,8 +55,8 @@
             "id": "Fasil6763",
             "referred_by": "edou12",
             "referred_to": [],
-            "status": "active",
-            "countdown_start_time": "2025-01-02T09:44:42.691021",
+            "status": "inactive",
+            "countdown_start_time": "2024-12-26T18:47:19.374605",
             "affiliation_balance": 0
         },
         {
