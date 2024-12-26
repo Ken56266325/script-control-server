@@ -74,6 +74,14 @@
             "status": "active",
             "countdown_start_time": "2025-01-02T17:12:33.291945",
             "affiliation_balance": 0
+        },
+        {
+            "id": "Fasil6763",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-01-02T21:51:12.485108",
+            "affiliation_balance": 0
         }
     ],
     "references": {
