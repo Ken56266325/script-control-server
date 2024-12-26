@@ -65,6 +65,14 @@
             "status": "active",
             "countdown_start_time": "2025-01-02T06:12:43.975249",
             "affiliation_balance": 0
+        },
+        {
+            "id": "viviane2367",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-01-02T06:23:53.478068",
+            "affiliation_balance": 0
         }
     ],
     "references": {
