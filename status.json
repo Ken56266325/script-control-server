@@ -38,7 +38,6 @@
             "referred_by": null,
             "referred_to": [
                 "Ramiandrisoa4538",
-                "Emmanuel6837",
                 "Emmanuel6837"
             ],
             "status": "active",
@@ -88,9 +87,19 @@
         {
             "id": "Emmanuel6837",
             "referred_by": "viviane2367",
-            "referred_to": [],
+            "referred_to": [
+                "Mandimbisoa58203"
+            ],
             "status": "active",
             "countdown_start_time": "2025-01-03T14:04:55.418686",
+            "affiliation_balance": 0
+        },
+        {
+            "id": "Mandimbisoa58203",
+            "referred_by": "Emmanuel6837",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-01-03T16:59:01.835559",
             "affiliation_balance": 0
         }
     ],
