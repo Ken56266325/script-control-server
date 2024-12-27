@@ -88,7 +88,8 @@
             "id": "Emmanuel6837",
             "referred_by": "viviane2367",
             "referred_to": [
-                "Mandimbisoa58203"
+                "Mandimbisoa58203",
+                "Mbolatina"
             ],
             "status": "active",
             "countdown_start_time": "2025-01-03T14:04:55.418686",
@@ -100,6 +101,14 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-01-03T16:59:01.835559",
+            "affiliation_balance": 0
+        },
+        {
+            "id": "Mbolatina",
+            "referred_by": "Emmanuel6837",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-01-03T17:51:35.131115",
             "affiliation_balance": 0
         }
     ],
