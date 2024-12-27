@@ -37,7 +37,8 @@
             "id": "viviane2367",
             "referred_by": null,
             "referred_to": [
-                "Ramiandrisoa4538"
+                "Ramiandrisoa4538",
+                "Emmanuel6837"
             ],
             "status": "active",
             "countdown_start_time": "2025-01-02T06:23:53.478068",
@@ -81,6 +82,14 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-01-02T21:51:12.485108",
+            "affiliation_balance": 0
+        },
+        {
+            "id": "Emmanuel6837",
+            "referred_by": "viviane2367",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-01-03T06:38:38.445257",
             "affiliation_balance": 0
         }
     ],
