@@ -117,9 +117,19 @@
         {
             "id": "1",
             "referred_by": null,
-            "referred_to": [],
+            "referred_to": [
+                "2"
+            ],
             "status": "active",
             "countdown_start_time": "2025-01-04T08:37:05.294770",
+            "affiliation_balance": 0
+        },
+        {
+            "id": "2",
+            "referred_by": "1",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-01-04T08:37:25.092482",
             "affiliation_balance": 0
         }
     ],
