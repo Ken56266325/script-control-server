@@ -93,7 +93,8 @@
                 "Mandimbisoa58203",
                 "Mbolatina",
                 "Mbolatina572883",
-                "Nirina34968"
+                "Nirina34968",
+                "Victorine563813"
             ],
             "status": "active",
             "countdown_start_time": "2025-01-03T14:04:55.418686",
@@ -121,6 +122,14 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-01-04T17:40:49.373322",
+            "affiliation_balance": 0
+        },
+        {
+            "id": "Victorine563813",
+            "referred_by": "Emmanuel6837",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-01-05T09:55:21.935579",
             "affiliation_balance": 0
         }
     ],
