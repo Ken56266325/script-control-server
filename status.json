@@ -139,15 +139,6 @@
             "status": "active",
             "countdown_start_time": "2025-01-05T19:07:00.799174",
             "affiliation_balance": 0
-        },
-        {
-            "id": "ken",
-            "devise_id": "Olxn7nP04CVbE87o",
-            "referred_by": null,
-            "referred_to": [],
-            "status": "active",
-            "countdown_start_time": "2025-01-05T19:39:34.101135",
-            "affiliation_balance": 0
         }
     ],
     "references": {
