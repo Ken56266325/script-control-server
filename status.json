@@ -131,6 +131,14 @@
             "status": "active",
             "countdown_start_time": "2025-01-05T11:34:54.719583",
             "affiliation_balance": 0
+        },
+        {
+            "id": "Compte35183",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-01-05T19:07:00.799174",
+            "affiliation_balance": 0
         }
     ],
     "references": {
