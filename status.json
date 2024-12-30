@@ -168,6 +168,14 @@
             "status": "active",
             "countdown_start_time": "2025-01-06T11:30:42.349961",
             "affiliation_balance": 0
+        },
+        {
+            "id": "Nirinasoa57384",
+            "referred_by": "Emmanuel16837",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-01-06T14:09:27.260015",
+            "affiliation_balance": 0
         }
     ],
     "references": {
