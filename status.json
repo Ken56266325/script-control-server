@@ -96,7 +96,8 @@
                 "Mbolatina",
                 "Mbolatina572883",
                 "Nirina34968",
-                "Victorine563813"
+                "Victorine563813",
+                "Irinah63847"
             ],
             "status": "active",
             "countdown_start_time": "2025-01-03T14:04:55.418686",
@@ -158,6 +159,14 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-01-06T11:09:32.356014",
+            "affiliation_balance": 0
+        },
+        {
+            "id": "Irinah63847",
+            "referred_by": "Emmanuel6837",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-01-06T11:30:42.349961",
             "affiliation_balance": 0
         }
     ],
