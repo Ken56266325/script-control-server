@@ -57,7 +57,9 @@
         {
             "id": "Fidelson890",
             "referred_by": null,
-            "referred_to": [],
+            "referred_to": [
+                "Fidelis4728"
+            ],
             "status": "active",
             "countdown_start_time": "2025-01-02T09:47:34.660338",
             "affiliation_balance": 0
@@ -138,6 +140,14 @@
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2025-01-05T19:07:00.799174",
+            "affiliation_balance": 0
+        },
+        {
+            "id": "Fidelis4728",
+            "referred_by": "Fidelson890",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-01-06T08:17:30.217333",
             "affiliation_balance": 0
         }
     ],
