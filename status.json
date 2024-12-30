@@ -142,7 +142,8 @@
             "referred_by": null,
             "referred_to": [
                 "Dany57383",
-                "Joseph2"
+                "Joseph2",
+                "Fideline3689"
             ],
             "status": "active",
             "countdown_start_time": "2025-01-06T14:33:42.976091",
@@ -194,6 +195,14 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-01-06T16:07:44.301315",
+            "affiliation_balance": 0
+        },
+        {
+            "id": "Fideline3689",
+            "referred_by": "Compte35183",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-01-06T16:15:16.780161",
             "affiliation_balance": 0
         }
     ],
