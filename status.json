@@ -137,7 +137,9 @@
         {
             "id": "Compte35183",
             "referred_by": null,
-            "referred_to": [],
+            "referred_to": [
+                "Dany57383"
+            ],
             "status": "inactive",
             "countdown_start_time": "2025-01-05T19:07:00.799174",
             "affiliation_balance": 0
@@ -156,6 +158,14 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-01-06T10:12:01.125295",
+            "affiliation_balance": 0
+        },
+        {
+            "id": "Dany57383",
+            "referred_by": "Compte35183",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-01-06T11:09:32.356014",
             "affiliation_balance": 0
         }
     ],
