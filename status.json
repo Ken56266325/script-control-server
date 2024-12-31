@@ -151,7 +151,9 @@
         {
             "id": "Fidelis4728",
             "referred_by": "Fidelson890",
-            "referred_to": [],
+            "referred_to": [
+                "Claire62873"
+            ],
             "status": "active",
             "countdown_start_time": "2025-01-06T14:56:49.226659",
             "affiliation_balance": 0
@@ -204,6 +206,14 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-01-06T17:06:35.554546",
+            "affiliation_balance": 0
+        },
+        {
+            "id": "Claire62873",
+            "referred_by": "Fidelis4728",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-01-07T08:44:09.328014",
             "affiliation_balance": 0
         }
     ],
