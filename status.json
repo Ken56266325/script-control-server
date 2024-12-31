@@ -147,14 +147,12 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-01-06T14:33:42.976091",
-            "affiliation_balance": 700
+            "affiliation_balance": 1400
         },
         {
             "id": "Fidelis4728",
             "referred_by": "Fidelson890",
-            "referred_to": [
-                "Claire62873"
-            ],
+            "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-01-06T14:56:49.226659",
             "affiliation_balance": 0
