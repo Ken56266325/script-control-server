@@ -144,7 +144,8 @@
             "referred_to": [
                 "Fideline3689",
                 "George45335",
-                "CompteN2973681"
+                "CompteN2973681",
+                "Zafimimi38940"
             ],
             "status": "active",
             "countdown_start_time": "2025-01-06T14:33:42.976091",
@@ -231,6 +232,14 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-01-08T11:44:03.231835",
+            "affiliation_balance": 0
+        },
+        {
+            "id": "Zafimimi38940",
+            "referred_by": "Compte35183",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-01-08T12:54:50.100370",
             "affiliation_balance": 0
         }
     ],
