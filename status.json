@@ -249,7 +249,9 @@
         {
             "id": "2",
             "referred_by": null,
-            "referred_to": [],
+            "referred_to": [
+                "1"
+            ],
             "status": "inactive",
             "countdown_start_time": "2025-01-09T11:18:06.600360",
             "affiliation_balance": 0
@@ -260,6 +262,15 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-01-09T11:19:12.265499",
+            "affiliation_balance": 0
+        },
+        {
+            "id": "1",
+            "android_id": "sokjzkaoaoala",
+            "referred_by": "2",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-01-09T16:12:47.723655",
             "affiliation_balance": 0
         }
     ],
