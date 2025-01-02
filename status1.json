@@ -249,19 +249,6 @@
             "affiliation_balance": 0
         },
         {
-            "id": "2",
-            "referred_by": null,
-            "referred_to": [
-                "1",
-                "1",
-                "9"
-            ],
-            "status": "active",
-            "countdown_start_time": "2025-01-09T17:20:05.215852",
-            "affiliation_balance": 100,
-            "android_id": "527829191"
-        },
-        {
             "id": "Stanislas39942",
             "referred_by": "George45335",
             "referred_to": [],
