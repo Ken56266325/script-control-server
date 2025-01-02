@@ -21,7 +21,6 @@
             "referred_by": null,
             "referred_to": [
                 "Fasil6763",
-                "1",
                 "1"
             ],
             "status": "active",
@@ -262,6 +261,15 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-01-09T16:36:53.881531",
+            "affiliation_balance": 0
+        },
+        {
+            "id": "1",
+            "android_id": "edou12",
+            "referred_by": "edou12",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-01-09T19:03:35.836670",
             "affiliation_balance": 0
         }
     ],
