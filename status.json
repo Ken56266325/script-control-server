@@ -264,6 +264,15 @@
             "status": "active",
             "countdown_start_time": "2025-01-09T11:19:12.265499",
             "affiliation_balance": 0
+        },
+        {
+            "id": "1",
+            "android_id": "2",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-01-09T16:28:01.436580",
+            "affiliation_balance": 0
         }
     ],
     "references": {
