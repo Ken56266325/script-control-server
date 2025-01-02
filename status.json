@@ -207,7 +207,9 @@
         {
             "id": "George45335",
             "referred_by": "Compte35183",
-            "referred_to": [],
+            "referred_to": [
+                "Stanislas39942"
+            ],
             "status": "active",
             "countdown_start_time": "2025-01-07T12:05:15.976268",
             "affiliation_balance": 0
@@ -258,6 +260,14 @@
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2025-01-09T11:18:06.600360",
+            "affiliation_balance": 0
+        },
+        {
+            "id": "Stanislas39942",
+            "referred_by": "George45335",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-01-09T11:19:12.265499",
             "affiliation_balance": 0
         }
     ],
