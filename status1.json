@@ -112,7 +112,8 @@
                 "Irinah63847",
                 "Nirinasoa57384",
                 "Onjah45755",
-                "Nirinasoa57384"
+                "Nirinasoa57384",
+                "Haingo183629"
             ],
             "status": "active",
             "countdown_start_time": "2025-01-03T14:04:55.418686",
@@ -296,6 +297,15 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-01-10T09:44:54.453234",
+            "affiliation_balance": 0
+        },
+        {
+            "id": "Haingo183629",
+            "android_id": "",
+            "referred_by": "Emmanuel6837",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-01-10T12:52:28.669261",
             "affiliation_balance": 0
         }
     ],
