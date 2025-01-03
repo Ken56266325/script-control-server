@@ -283,15 +283,6 @@
             "status": "active",
             "countdown_start_time": "2025-01-09T16:36:53.881531",
             "affiliation_balance": 0
-        },
-        {
-            "id": "1",
-            "android_id": "yiyhj",
-            "referred_by": null,
-            "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2025-01-09T20:25:53.527512",
-            "affiliation_balance": 0
         }
     ],
     "references": {
