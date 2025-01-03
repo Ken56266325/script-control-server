@@ -165,7 +165,8 @@
                 "George45335",
                 "CompteN2973681",
                 "Zafimimi38940",
-                "Nayah628420"
+                "Nayah628420",
+                "Ursilla28492"
             ],
             "status": "active",
             "countdown_start_time": "2025-01-06T14:33:42.976091",
@@ -317,6 +318,15 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-01-10T15:08:59.529675",
+            "affiliation_balance": 0
+        },
+        {
+            "id": "Ursilla28492",
+            "android_id": "",
+            "referred_by": "Compte35183",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-01-10T23:54:06.275455",
             "affiliation_balance": 0
         }
     ],
