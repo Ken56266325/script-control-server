@@ -329,7 +329,9 @@
             "id": "Ursilla28492",
             "android_id": "a818d091f073ca4e46b29bacc43fa87e",
             "referred_by": "Compte35183",
-            "referred_to": [],
+            "referred_to": [
+                "Renot73910"
+            ],
             "status": "active",
             "countdown_start_time": "2025-01-12T10:36:09.282283",
             "affiliation_balance": 0
@@ -377,6 +379,15 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-01-12T13:24:35.772752",
+            "affiliation_balance": 0
+        },
+        {
+            "id": "Renot73910",
+            "android_id": "01ba367ce9fc2b8adef9bc714f2f567b",
+            "referred_by": "Ursilla28492",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-01-12T14:04:04.402213",
             "affiliation_balance": 0
         }
     ],
