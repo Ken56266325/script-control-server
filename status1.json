@@ -11,7 +11,8 @@
             "referred_by": null,
             "referred_to": [
                 "Antoine1",
-                "Feno0998"
+                "Feno0998",
+                "Andry5839403"
             ],
             "status": "active",
             "countdown_start_time": "2025-01-06T10:59:33.508447",
@@ -367,6 +368,15 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-01-12T10:38:31.312318",
+            "affiliation_balance": 0
+        },
+        {
+            "id": "Andry5839403",
+            "android_id": "",
+            "referred_by": "dennery12",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-01-12T13:24:35.772752",
             "affiliation_balance": 0
         }
     ],
