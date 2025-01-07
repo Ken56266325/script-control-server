@@ -168,7 +168,8 @@
                 "CompteN2973681",
                 "Zafimimi38940",
                 "Nayah628420",
-                "Ursilla28492"
+                "Ursilla28492",
+                "Aime73014"
             ],
             "status": "active",
             "countdown_start_time": "2025-01-14T04:59:24.838170",
@@ -388,6 +389,15 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-01-12T19:54:57.880293",
+            "affiliation_balance": 0
+        },
+        {
+            "id": "Aime73014",
+            "android_id": "",
+            "referred_by": "Compte35183",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-01-14T18:37:09.241659",
             "affiliation_balance": 0
         }
     ],
