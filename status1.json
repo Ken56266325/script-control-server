@@ -445,9 +445,10 @@
             "android_id": "",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2025-01-16T02:30:19.356079",
-            "affiliation_balance": 0
+            "status": "active",
+            "countdown_start_time": "2025-01-16T02:30:45.539041",
+            "affiliation_balance": 0,
+            "plan": "\ud83d\udc8eVIP\ud83d\udc8e"
         }
     ],
     "references": {
