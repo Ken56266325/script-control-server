@@ -446,7 +446,7 @@
             "android_id": "",
             "referred_by": null,
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-01-16T02:38:31.610223",
             "affiliation_balance": 0,
             "plan": "VIP"
