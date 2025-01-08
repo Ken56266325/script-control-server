@@ -117,7 +117,8 @@
                 "Haingo183629",
                 "Richard294024",
                 "Tatamo5394",
-                "Saorazy628"
+                "Saorazy628",
+                "Hanta6839"
             ],
             "status": "active",
             "countdown_start_time": "2025-01-10T19:32:37.424452",
@@ -428,6 +429,15 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-01-15T13:01:44.769732",
+            "affiliation_balance": 0
+        },
+        {
+            "id": "Hanta6839",
+            "android_id": "",
+            "referred_by": "Emmanuel6837",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-01-15T16:49:55.217298",
             "affiliation_balance": 0
         }
     ],
