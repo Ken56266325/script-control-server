@@ -445,7 +445,7 @@
             "android_id": "",
             "referred_by": null,
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-01-16T02:24:31.631226",
             "affiliation_balance": 0
         }
