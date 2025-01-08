@@ -169,7 +169,8 @@
                 "Zafimimi38940",
                 "Nayah628420",
                 "Ursilla28492",
-                "Aime73014"
+                "Aime73014",
+                "Randria3678"
             ],
             "status": "active",
             "countdown_start_time": "2025-01-14T04:59:24.838170",
@@ -398,6 +399,15 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-01-14T18:37:09.241659",
+            "affiliation_balance": 0
+        },
+        {
+            "id": "Randria3678",
+            "android_id": "",
+            "referred_by": "Compte35183",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-01-15T05:11:36.771807",
             "affiliation_balance": 0
         }
     ],
