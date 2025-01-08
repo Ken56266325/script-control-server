@@ -439,16 +439,6 @@
             "status": "active",
             "countdown_start_time": "2025-01-15T16:49:55.217298",
             "affiliation_balance": 0
-        },
-        {
-            "id": "3",
-            "android_id": "",
-            "referred_by": null,
-            "referred_to": [],
-            "status": "active",
-            "countdown_start_time": "2025-01-16T02:30:45.539041",
-            "affiliation_balance": 0,
-            "plan": "\ud83d\udc8eVIP\ud83d\udc8e"
         }
     ],
     "references": {
