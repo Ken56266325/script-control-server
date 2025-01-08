@@ -171,7 +171,8 @@
                 "Nayah628420",
                 "Ursilla28492",
                 "Aime73014",
-                "Randria3678"
+                "Randria3678",
+                "Emmanuel1"
             ],
             "status": "active",
             "countdown_start_time": "2025-01-14T04:59:24.838170",
@@ -418,6 +419,15 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-01-15T09:57:27.085166",
+            "affiliation_balance": 0
+        },
+        {
+            "id": "Emmanuel1",
+            "android_id": "",
+            "referred_by": "Compte35183",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-01-15T13:01:44.769732",
             "affiliation_balance": 0
         }
     ],
