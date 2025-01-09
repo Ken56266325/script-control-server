@@ -305,7 +305,8 @@
             "countdown_start_time": "2025-01-15T16:42:50.478854",
             "affiliation_balance": 0,
             "android_id": "adb0ebb6cf7439ff356a8a71e3e6cdaa",
-            "countdown_paused": false
+            "countdown_paused": false,
+            "plan": "Basique"
         },
         {
             "id": "CompteN2973681",
