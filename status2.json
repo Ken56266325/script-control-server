@@ -392,7 +392,8 @@
             "status": "active",
             "countdown_start_time": "2025-01-16T13:56:22.085408",
             "affiliation_balance": 0,
-            "countdown_paused": false
+            "countdown_paused": false,
+            "plan": "Basique"
         },
         {
             "id": "Ursilla28492",
