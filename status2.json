@@ -326,7 +326,8 @@
             "status": "inactive",
             "countdown_start_time": "2025-01-08T12:54:50.100370",
             "affiliation_balance": 0,
-            "countdown_paused": false
+            "countdown_paused": false,
+            "plan": "Basique"
         },
         {
             "id": "Faralahy339401",
