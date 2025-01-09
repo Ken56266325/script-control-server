@@ -71,7 +71,8 @@
             "status": "inactive",
             "countdown_start_time": "2024-12-26T16:45:18.384266",
             "affiliation_balance": 0,
-            "countdown_paused": true
+            "countdown_paused": true,
+            "plan": "VIP"
         },
         {
             "id": "Fidelson890",
