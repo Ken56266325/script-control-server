@@ -416,7 +416,8 @@
             "status": "active",
             "countdown_start_time": "2025-01-11T17:28:50.689564",
             "affiliation_balance": 0,
-            "countdown_paused": false
+            "countdown_paused": false,
+            "plan": "Basique"
         },
         {
             "id": "Th\u00e9odore46433",
