@@ -482,7 +482,8 @@
             "status": "active",
             "countdown_start_time": "2025-01-15T17:17:47.427752",
             "affiliation_balance": 0,
-            "countdown_paused": false
+            "countdown_paused": false,
+            "plan": "Basique"
         },
         {
             "id": "Randria3678",
