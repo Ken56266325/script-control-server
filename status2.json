@@ -460,7 +460,8 @@
             "status": "inactive",
             "countdown_start_time": "2025-01-12T13:24:35.772752",
             "affiliation_balance": 0,
-            "countdown_paused": false
+            "countdown_paused": false,
+            "plan": "Basique"
         },
         {
             "id": "Renot73910",
