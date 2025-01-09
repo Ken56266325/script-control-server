@@ -438,7 +438,8 @@
             "status": "active",
             "countdown_start_time": "2025-01-12T09:00:00.484309",
             "affiliation_balance": 0,
-            "countdown_paused": false
+            "countdown_paused": false,
+            "plan": "Basique"
         },
         {
             "id": "Tatamo5394",
