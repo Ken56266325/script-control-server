@@ -493,7 +493,8 @@
             "status": "inactive",
             "countdown_start_time": "2025-01-15T19:27:22.300319",
             "affiliation_balance": 0,
-            "countdown_paused": false
+            "countdown_paused": false,
+            "plan": "Basique"
         },
         {
             "id": "Saorazy628",
