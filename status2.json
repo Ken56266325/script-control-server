@@ -449,7 +449,8 @@
             "status": "active",
             "countdown_start_time": "2025-01-12T17:13:31.073217",
             "affiliation_balance": 0,
-            "countdown_paused": false
+            "countdown_paused": false,
+            "plan": "Basique"
         },
         {
             "id": "Andry5839403",
