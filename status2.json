@@ -270,7 +270,8 @@
             "countdown_start_time": "2025-01-14T15:15:31.410997",
             "affiliation_balance": 0,
             "android_id": "e2e0864fc845e90db28f238fb1860c8c",
-            "countdown_paused": false
+            "countdown_paused": false,
+            "plan": "Basique"
         },
         {
             "id": "George45335",
