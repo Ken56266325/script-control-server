@@ -427,7 +427,8 @@
             "status": "active",
             "countdown_start_time": "2025-01-11T17:29:01.614343",
             "affiliation_balance": 0,
-            "countdown_paused": false
+            "countdown_paused": false,
+            "plan": "Basique"
         },
         {
             "id": "Mamour5626",
