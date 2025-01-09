@@ -471,7 +471,8 @@
             "status": "active",
             "countdown_start_time": "2025-01-12T19:54:57.880293",
             "affiliation_balance": 0,
-            "countdown_paused": false
+            "countdown_paused": false,
+            "plan": "Basique"
         },
         {
             "id": "Aime73014",
