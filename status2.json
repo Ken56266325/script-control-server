@@ -208,7 +208,8 @@
                 "Randria3678",
                 "Emmanuel1",
                 "Tahiry6393",
-                "Harimalala58294"
+                "Harimalala58294",
+                "Nantenaina7204"
             ],
             "status": "active",
             "countdown_start_time": "2025-01-14T07:32:57.139680",
@@ -563,6 +564,15 @@
             "countdown_start_time": "2025-01-17T09:11:07.637736",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Nantenaina7204",
+            "android_id": "be197bc85014b547edfb46cd80055ceb",
+            "referred_by": "Compte35183",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-01-17T09:30:06.616612",
+            "affiliation_balance": 0
         }
     ],
     "references": {
