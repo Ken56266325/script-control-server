@@ -211,7 +211,8 @@
                 "Tahiry6393",
                 "Harimalala58294",
                 "Nantenaina7204",
-                "Carlos68301"
+                "Carlos68301",
+                "Miki5739"
             ],
             "status": "active",
             "countdown_start_time": "2025-01-14T07:32:57.139680",
@@ -596,6 +597,15 @@
             "countdown_start_time": "2025-01-18T08:56:14.076283",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Miki5739",
+            "android_id": "60accab71021920ecf1052c61c2bd917",
+            "referred_by": "Compte35183",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-01-18T12:08:58.563892",
+            "affiliation_balance": 0
         }
     ],
     "references": {
