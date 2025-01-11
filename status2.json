@@ -261,7 +261,8 @@
                 "Joseph2",
                 "Claire62873",
                 "Noeline5754880",
-                "Th\u00e9odore46433"
+                "Th\u00e9odore46433",
+                "Madara6939"
             ],
             "status": "active",
             "countdown_start_time": "2025-01-14T17:43:31.320932",
@@ -607,6 +608,15 @@
             "countdown_start_time": "2025-01-11T20:09:37.723222",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Madara6939",
+            "android_id": "87774981d42e10725eaf0cc545f051d6",
+            "referred_by": "Fideline3689",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-01-18T12:10:41.566945",
+            "affiliation_balance": 0
         }
     ],
     "references": {
