@@ -210,7 +210,8 @@
                 "Carlos68301",
                 "Miki5739",
                 "TontonAm6820",
-                "Mione5719"
+                "Mione5719",
+                "eugenie58293"
             ],
             "status": "active",
             "countdown_start_time": "2025-01-14T07:32:57.139680",
@@ -671,6 +672,15 @@
             "countdown_start_time": "2025-01-13T01:13:02.187426",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "eugenie58293",
+            "android_id": "8ae26b037ee95f9f609bc419bcc03c2b",
+            "referred_by": "Compte35183",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-01-19T17:51:02.574995",
+            "affiliation_balance": 0
         }
     ],
     "references": {
