@@ -716,6 +716,15 @@
             "countdown_start_time": "2025-01-17T01:15:18.316874",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Hajawaka5729",
+            "android_id": "d93da14516f2a63b2fbe18de2d40cd0e",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-01-23T17:39:39.648532",
+            "affiliation_balance": 0
         }
     ],
     "references": {
