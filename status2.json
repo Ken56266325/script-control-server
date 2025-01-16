@@ -86,7 +86,9 @@
         {
             "id": "Feno0998",
             "referred_by": "dennery12",
-            "referred_to": [],
+            "referred_to": [
+                "Hugue5824"
+            ],
             "status": "active",
             "countdown_start_time": "2025-01-23T14:34:20.562779",
             "affiliation_balance": 0,
@@ -704,6 +706,15 @@
             "countdown_start_time": "2025-01-16T02:04:04.662074",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Hugue5824",
+            "android_id": "",
+            "referred_by": "Feno0998",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-01-23T17:14:06.100280",
+            "affiliation_balance": 0
         }
     ],
     "references": {
