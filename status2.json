@@ -142,7 +142,8 @@
                 "Hanta6839",
                 "Nasaina5776",
                 "Vonjy51930",
-                "Saint5293"
+                "Saint5293",
+                "Bernard5729"
             ],
             "status": "active",
             "countdown_start_time": "2025-01-24T21:02:37.611785",
@@ -748,6 +749,15 @@
             "countdown_start_time": "2025-01-19T04:13:14.261424",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Bernard5729",
+            "android_id": "889c2d542ce7414f3020b1a7958fc33f",
+            "referred_by": "Emmanuel6837",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-01-26T10:36:13.951135",
+            "affiliation_balance": 0
         }
     ],
     "references": {
