@@ -143,7 +143,8 @@
                 "Nasaina5776",
                 "Vonjy51930",
                 "Saint5293",
-                "Bernard5729"
+                "Bernard5729",
+                "Sitraka5730"
             ],
             "status": "active",
             "countdown_start_time": "2025-01-24T21:02:37.611785",
@@ -759,6 +760,15 @@
             "countdown_start_time": "2025-01-26T19:18:04.658449",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Sitraka5730",
+            "android_id": "ca943f3cceb3d02b021f30b154dee2e5",
+            "referred_by": "Emmanuel6837",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-01-26T21:25:08.436626",
+            "affiliation_balance": 0
         }
     ],
     "references": {
