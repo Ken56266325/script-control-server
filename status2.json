@@ -271,7 +271,8 @@
                 "Claire62873",
                 "Noeline5754880",
                 "Th\u00e9odore46433",
-                "Madara6939"
+                "Madara6939",
+                "Rojoniaina5813"
             ],
             "status": "active",
             "countdown_start_time": "2025-01-21T18:17:02.287470",
@@ -782,6 +783,15 @@
             "countdown_start_time": "2025-01-20T14:24:51.085584",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Rojoniaina5813",
+            "android_id": "f3f6e1ffa9f7ca4be7a5b4f2096afa99",
+            "referred_by": "Fideline3689",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-01-27T17:33:50.887949",
+            "affiliation_balance": 0
         }
     ],
     "references": {
