@@ -647,7 +647,9 @@
             "id": "Doda6920",
             "android_id": "ee609971598f415aa86275c810f0baf2",
             "referred_by": "Madara6939",
-            "referred_to": [],
+            "referred_to": [
+                "Valeria"
+            ],
             "status": "active",
             "countdown_start_time": "2025-01-26T08:02:27.184102",
             "affiliation_balance": 0,
@@ -816,6 +818,15 @@
             "countdown_start_time": "2025-01-22T13:15:03.349127",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Valeria",
+            "android_id": "6d8f23b9e40feee30530de3e783daf79",
+            "referred_by": "Doda6920",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-01-29T08:46:57.536181",
+            "affiliation_balance": 0
         }
     ],
     "references": {
