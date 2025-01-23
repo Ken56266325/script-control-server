@@ -41,7 +41,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-01-30T17:06:49.182656",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "android_id": "d099fb72fa1d28a5627ff511b88111f7",
             "plan": "Basique",
             "paused_at": null,
@@ -859,9 +859,9 @@
             "referred_by": "td5626tody",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-01-30T20:24:57.735032",
+            "countdown_start_time": "2025-01-30T20:31:51.333230",
             "affiliation_balance": 0,
-            "plan": "VIP"
+            "plan": "Basique"
         }
     ],
     "references": {
