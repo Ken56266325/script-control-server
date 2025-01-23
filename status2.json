@@ -862,6 +862,15 @@
             "countdown_start_time": "2025-01-30T20:33:22.066421",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Brichard1038",
+            "android_id": "810ae255bde0a9c92b1444e49d34b64a",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-01-30T22:42:40.365455",
+            "affiliation_balance": 0
         }
     ],
     "references": {
