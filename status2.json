@@ -277,7 +277,8 @@
                 "Madara6939",
                 "Rojoniaina5813",
                 "Rop91022",
-                "Marcel10325"
+                "Marcel10325",
+                "Hanma5638"
             ],
             "status": "active",
             "countdown_start_time": "2025-01-28T21:32:42.067152",
@@ -883,6 +884,15 @@
             "countdown_start_time": "2025-01-24T21:57:02.567504",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Hanma5638",
+            "android_id": "249628c9098c617b0869bffffd245432",
+            "referred_by": "Fideline3689",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-01-31T14:21:14.245406",
+            "affiliation_balance": 0
         }
     ],
     "references": {
