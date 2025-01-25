@@ -149,7 +149,8 @@
                 "Sitraka5730",
                 "Manitriniaina58193",
                 "Fabienne1382",
-                "Victorine4876"
+                "Victorine4876",
+                "Lanja2847"
             ],
             "status": "active",
             "countdown_start_time": "2025-02-03T21:22:13.936210",
@@ -951,6 +952,15 @@
             "countdown_start_time": "2025-01-26T02:00:31.295258",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Lanja2847",
+            "android_id": "2fd25014a7793c0b33a8dee59ee8f6f4",
+            "referred_by": "Emmanuel6837",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-02-01T18:01:54.605919",
+            "affiliation_balance": 0
         }
     ],
     "references": {
