@@ -147,7 +147,8 @@
                 "Saint5293",
                 "Bernard5729",
                 "Sitraka5730",
-                "Manitriniaina58193"
+                "Manitriniaina58193",
+                "Fabienne1382"
             ],
             "status": "active",
             "countdown_start_time": "2025-02-03T21:22:13.936210",
@@ -918,6 +919,15 @@
             "countdown_start_time": "2025-01-25T04:43:31.421971",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Fabienne1382",
+            "android_id": "94e1ff4429affd63b623c798e0c81388",
+            "referred_by": "Emmanuel6837",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-02-01T05:20:36.705015",
+            "affiliation_balance": 0
         }
     ],
     "references": {
