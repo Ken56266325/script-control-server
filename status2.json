@@ -150,7 +150,8 @@
                 "Manitriniaina58193",
                 "Fabienne1382",
                 "Victorine4876",
-                "Lanja2847"
+                "Lanja2847",
+                "Gaelode10361"
             ],
             "status": "active",
             "countdown_start_time": "2025-02-03T21:22:13.936210",
@@ -962,6 +963,15 @@
             "countdown_start_time": "2025-02-02T01:04:46.106810",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Gaelode10361",
+            "android_id": "41aedd589d69325a656b072ec128b497",
+            "referred_by": "Emmanuel6837",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-02-02T09:59:09.185330",
+            "affiliation_balance": 0
         }
     ],
     "references": {
