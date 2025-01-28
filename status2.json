@@ -1006,6 +1006,15 @@
             "countdown_start_time": "2025-01-28T19:13:36.692124",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Mandresy241632",
+            "android_id": "6e28a0485c29d21367fed9475fd996b4",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-02-04T17:02:47.747983",
+            "affiliation_balance": 0
         }
     ],
     "references": {
