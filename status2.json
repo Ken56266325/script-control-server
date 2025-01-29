@@ -766,7 +766,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-02-05T14:24:59.535714",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -827,7 +827,7 @@
                 "Rebeka5258"
             ],
             "status": "active",
-            "countdown_start_time": "2025-01-29T07:36:58.108310",
+            "countdown_start_time": "2025-02-05T16:49:17.013695",
             "affiliation_balance": 1000,
             "plan": "Basique"
         },
