@@ -1014,7 +1014,9 @@
             "id": "Mandresy241632",
             "android_id": "6e28a0485c29d21367fed9475fd996b4",
             "referred_by": null,
-            "referred_to": [],
+            "referred_to": [
+                "Hardy157204"
+            ],
             "status": "active",
             "countdown_start_time": "2025-02-05T01:18:48.219522",
             "affiliation_balance": 0,
@@ -1029,6 +1031,15 @@
             "countdown_start_time": "2025-02-05T07:16:34.175731",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Hardy157204",
+            "android_id": "b16619d6f0afdb39fd27a00788919895",
+            "referred_by": "Mandresy241632",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-02-05T08:14:51.592414",
+            "affiliation_balance": 0
         }
     ],
     "references": {
