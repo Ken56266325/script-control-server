@@ -1073,6 +1073,15 @@
             "countdown_start_time": "2025-01-30T01:58:04.969560",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Germain5719\u20ac",
+            "android_id": "81db24a8759cbf78bc0fec72166cd81b",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-02-05T18:00:03.434013",
+            "affiliation_balance": 0
         }
     ],
     "references": {
