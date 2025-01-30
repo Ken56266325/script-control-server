@@ -1084,7 +1084,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-02-06T07:30:27.956744",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -1093,7 +1093,7 @@
             "referred_by": "Germain5719\u20ac",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-01-30T02:04:03.197158",
+            "countdown_start_time": "2025-02-06T17:38:28.352068",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
