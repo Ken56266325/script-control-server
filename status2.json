@@ -161,7 +161,8 @@
                 "Tahina59173",
                 "Michel51032",
                 "Bolida50172",
-                "Elysa59102"
+                "Elysa59102",
+                "Rall130103"
             ],
             "status": "active",
             "countdown_start_time": "2025-02-03T21:22:13.936210",
@@ -1192,6 +1193,15 @@
             "countdown_start_time": "2025-02-01T01:56:57.493621",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Rall130103",
+            "android_id": "195d767e251acef78c9840fa879dba9b",
+            "referred_by": "Emmanuel6837",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-02-07T17:58:01.286988",
+            "affiliation_balance": 0
         }
     ],
     "references": {
