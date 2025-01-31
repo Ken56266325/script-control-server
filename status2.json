@@ -1067,7 +1067,9 @@
             "id": "Hoby5826",
             "android_id": "8c9699d4c0152199f62a4bfb2e553ab7",
             "referred_by": "1",
-            "referred_to": [],
+            "referred_to": [
+                "Claudia501\u20ac2"
+            ],
             "status": "active",
             "countdown_start_time": "2025-02-06T07:14:37.599309",
             "affiliation_balance": 0,
@@ -1214,6 +1216,15 @@
             "countdown_start_time": "2025-02-01T02:01:57.434481",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Claudia501\u20ac2",
+            "android_id": "18623b966b4211aebaf5ad1220cc82dc",
+            "referred_by": "Hoby5826",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-02-07T19:40:12.829756",
+            "affiliation_balance": 0
         }
     ],
     "references": {
