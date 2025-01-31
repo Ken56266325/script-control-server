@@ -156,7 +156,8 @@
                 "Gaelode10361",
                 "Vakilaaa10\u20ac7",
                 "Tahina59132",
-                "Luc51942"
+                "Luc51942",
+                "Luc581032"
             ],
             "status": "active",
             "countdown_start_time": "2025-02-03T21:22:13.936210",
@@ -1137,6 +1138,15 @@
             "countdown_start_time": "2025-02-01T01:39:05.706656",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Luc581032",
+            "android_id": "2b0bc9cba1070b71ebfc039601cb0f3b",
+            "referred_by": "Emmanuel6837",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-02-07T17:43:27.847235",
+            "affiliation_balance": 0
         }
     ],
     "references": {
