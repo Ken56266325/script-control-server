@@ -1249,6 +1249,15 @@
             "countdown_start_time": "2025-02-01T16:38:04.006166",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Fitiavana59120",
+            "android_id": "d6fb61d968678ee341c808c407d2bf2b",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-02-08T08:41:41.808858",
+            "affiliation_balance": 0
         }
     ],
     "references": {
