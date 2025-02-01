@@ -323,7 +323,8 @@
             "id": "George45335",
             "referred_by": "Compte35183",
             "referred_to": [
-                "Stanislas39942"
+                "Stanislas39942",
+                "David69132"
             ],
             "status": "active",
             "countdown_start_time": "2025-02-05T04:38:22.870239",
@@ -1259,6 +1260,15 @@
             "countdown_start_time": "2025-02-01T16:53:01.507962",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "David69132",
+            "android_id": "8bd29e4b90187531c1c420dec2eb1530",
+            "referred_by": "George45335",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-02-08T11:37:46.834908",
+            "affiliation_balance": 0
         }
     ],
     "references": {
