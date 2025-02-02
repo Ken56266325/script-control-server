@@ -1094,7 +1094,8 @@
             "android_id": "81db24a8759cbf78bc0fec72166cd81b",
             "referred_by": null,
             "referred_to": [
-                "Shogun581930"
+                "Shogun581930",
+                "Escag\u00e9s591732"
             ],
             "status": "active",
             "countdown_start_time": "2025-02-06T07:30:27.956744",
@@ -1280,6 +1281,15 @@
             "countdown_start_time": "2025-02-02T16:56:11.434727",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Escag\u00e9s591732",
+            "android_id": "b90643c84adda48614a1942949967937",
+            "referred_by": "Germain5719\u20ac",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-02-09T13:15:35.497907",
+            "affiliation_balance": 0
         }
     ],
     "references": {
