@@ -1413,6 +1413,15 @@
             "countdown_start_time": "2025-02-04T05:54:42.527943",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Juckelly58103",
+            "android_id": "13d6600502f2124d27e2a6a69f619cbd",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-02-10T22:35:01.682945",
+            "affiliation_balance": 0
         }
     ],
     "references": {
