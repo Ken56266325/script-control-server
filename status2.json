@@ -1400,7 +1400,8 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "4489-04-20T10:55:58.219106",
-            "affiliation_balance": 0
+            "affiliation_balance": 0,
+            "plan": "VIP"
         }
     ],
     "references": {
