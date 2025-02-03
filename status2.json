@@ -501,7 +501,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-02-09T18:21:59.805084",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "countdown_paused": false,
             "plan": "Basique"
         },
@@ -1379,7 +1379,7 @@
             "referred_by": "Tatamo5394",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-02-03T18:51:09.136800",
+            "countdown_start_time": "2025-02-10T19:40:01.334912",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
