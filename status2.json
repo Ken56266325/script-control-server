@@ -241,7 +241,8 @@
                 "eugenie58293",
                 "Herininakely5830",
                 "Louis5634",
-                "Danny59173"
+                "Danny59173",
+                "Mamitina791402"
             ],
             "status": "active",
             "countdown_start_time": "2025-02-04T10:21:18.114657",
@@ -1346,6 +1347,15 @@
             "countdown_start_time": "2025-02-03T15:12:36.987336",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Mamitina791402",
+            "android_id": "f3839c63100fe9f529e9c59f2e35f075",
+            "referred_by": "Compte35183",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-02-10T09:51:03.172644",
+            "affiliation_balance": 0
         }
     ],
     "references": {
