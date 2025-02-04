@@ -162,7 +162,8 @@
                 "Michel51032",
                 "Bolida50172",
                 "Elysa59102",
-                "Rall130103"
+                "Rall130103",
+                "Rovasoa69193"
             ],
             "status": "active",
             "countdown_start_time": "2025-02-11T00:36:31.375219",
@@ -1423,6 +1424,15 @@
             "countdown_start_time": "2025-02-04T06:35:36.703702",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Rovasoa69193",
+            "android_id": "e9ef980c34e599326b6c24712b95d677",
+            "referred_by": "Emmanuel6837",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-02-11T08:09:39.529138",
+            "affiliation_balance": 0
         }
     ],
     "references": {
