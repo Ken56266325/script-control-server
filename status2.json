@@ -1419,7 +1419,9 @@
             "id": "Juckelly58103",
             "android_id": "13d6600502f2124d27e2a6a69f619cbd",
             "referred_by": null,
-            "referred_to": [],
+            "referred_to": [
+                "Grav69130"
+            ],
             "status": "active",
             "countdown_start_time": "2025-02-11T10:16:01.169647",
             "affiliation_balance": 0,
@@ -1434,6 +1436,15 @@
             "countdown_start_time": "2025-02-04T16:10:45.272253",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Grav69130",
+            "android_id": "2a06924a6245c9414cd809c431910bd5",
+            "referred_by": "Juckelly58103",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-02-11T13:19:39.870290",
+            "affiliation_balance": 0
         }
     ],
     "references": {
