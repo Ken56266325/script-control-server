@@ -170,7 +170,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-02-11T00:36:31.375219",
-            "affiliation_balance": 33000,
+            "affiliation_balance": 32000,
             "android_id": "c4665ee227bd5513d44e32d4d69a242c",
             "countdown_paused": false,
             "plan": "Basique"
@@ -246,7 +246,8 @@
                 "Herininakely5830",
                 "Louis5634",
                 "Danny59173",
-                "Mamitina791402"
+                "Mamitina791402",
+                "Itsimindrana"
             ],
             "status": "active",
             "countdown_start_time": "2025-02-11T14:39:24.578428",
@@ -1486,7 +1487,7 @@
             "referred_by": "Emmanuel6837",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-02-12T07:49:25.239657",
+            "countdown_start_time": "2025-02-05T07:48:53.195981",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
@@ -1509,6 +1510,15 @@
             "countdown_start_time": "2025-02-12T04:40:09.459765",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Itsimindrana",
+            "android_id": "64a31d0e4f517f972e366abe62341ca0",
+            "referred_by": "Compte35183",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-02-12T08:01:30.315333",
+            "affiliation_balance": 0
         }
     ],
     "references": {
