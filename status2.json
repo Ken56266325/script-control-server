@@ -1532,6 +1532,15 @@
             "countdown_start_time": "2025-02-05T19:58:16.036715",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "3",
+            "android_id": "oaoa",
+            "referred_by": "1",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-02-13T07:19:00.141817",
+            "affiliation_balance": 0
         }
     ],
     "references": {
