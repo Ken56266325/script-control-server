@@ -745,7 +745,8 @@
                 "Travailko564",
                 "Raymond59130",
                 "Tan591043",
-                "Fitiavana57193"
+                "Fitiavana57193",
+                "Fabio59103"
             ],
             "status": "active",
             "countdown_start_time": "2025-02-12T20:42:50.640135",
@@ -1540,6 +1541,15 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-02-13T07:19:00.141817",
+            "affiliation_balance": 0
+        },
+        {
+            "id": "Fabio59103",
+            "android_id": "203aabd2b942e33b28e83fe77d8d4caa",
+            "referred_by": "Herininakely5830",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-02-13T09:56:09.519104",
             "affiliation_balance": 0
         }
     ],
