@@ -1456,7 +1456,8 @@
             "referred_to": [
                 "SNeddie58103",
                 "YvanoChri581030",
-                "Marie581032"
+                "Marie581032",
+                "JassBoy58103"
             ],
             "status": "active",
             "countdown_start_time": "2025-02-12T08:04:43.638026",
@@ -1651,6 +1652,15 @@
             "countdown_start_time": "2025-02-07T14:58:50.756697",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "JassBoy58103",
+            "android_id": "70f4571997d6f3550fa01abc56b7e3e6",
+            "referred_by": "Grav69130",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-02-14T07:00:14.678069",
+            "affiliation_balance": 0
         }
     ],
     "references": {
