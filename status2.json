@@ -611,7 +611,9 @@
             "id": "Harimalala58294",
             "android_id": "f927039a0ae71338ac6809ecaf49a1f9",
             "referred_by": "Compte35183",
-            "referred_to": [],
+            "referred_to": [
+                "Rakoto59102"
+            ],
             "status": "active",
             "countdown_start_time": "2025-02-09T19:33:53.498384",
             "affiliation_balance": 0,
@@ -1664,6 +1666,15 @@
             "countdown_start_time": "2025-02-08T16:18:12.119030",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Rakoto59102",
+            "android_id": "fdcf5b94fc0465723003082e589aef6b",
+            "referred_by": "Harimalala58294",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-02-15T10:08:59.875856",
+            "affiliation_balance": 0
         }
     ],
     "references": {
