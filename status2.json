@@ -1093,7 +1093,8 @@
                 "Claudia501\u20ac2",
                 "Rivomanana69142",
                 "Tanjona5738",
-                "Tsiresy71932"
+                "Tsiresy71932",
+                "Rovaniaina7810e"
             ],
             "status": "active",
             "countdown_start_time": "2025-02-13T08:17:23.542720",
@@ -1676,6 +1677,15 @@
             "countdown_start_time": "2025-02-08T18:09:32.738375",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Rovaniaina7810e",
+            "android_id": "db43bc4bb813d82fcfe2d12d1c2de4ff",
+            "referred_by": "Hoby5826",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-02-15T14:15:27.889176",
+            "affiliation_balance": 0
         }
     ],
     "references": {
