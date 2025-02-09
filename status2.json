@@ -1719,7 +1719,8 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-02-16T10:49:26.792817",
-            "affiliation_balance": 0
+            "affiliation_balance": 0,
+            "plan": "Basique"
         },
         {
             "id": "Ursila57193",
