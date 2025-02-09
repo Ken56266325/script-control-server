@@ -457,7 +457,8 @@
             "referred_to": [
                 "Renot73910",
                 "Ir\u00e8ne5720",
-                "juvet5913"
+                "juvet5913",
+                "Ursila57193"
             ],
             "status": "active",
             "countdown_start_time": "2025-02-11T06:29:49.383266",
@@ -1718,6 +1719,15 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-02-16T10:49:26.792817",
+            "affiliation_balance": 0
+        },
+        {
+            "id": "Ursila57193",
+            "android_id": "a818d091f073ca4e46b29bacc43fa87e",
+            "referred_by": "Ursilla28492",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-02-16T10:51:46.895771",
             "affiliation_balance": 0
         }
     ],
