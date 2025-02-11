@@ -1763,6 +1763,15 @@
             "status": "active",
             "countdown_start_time": "2025-02-18T16:56:36.726922",
             "affiliation_balance": 0
+        },
+        {
+            "id": "Andriamahefa58103",
+            "android_id": "0ef946f988aaf81e4aaa579e4994c6dd",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-02-18T17:03:34.897594",
+            "affiliation_balance": 0
         }
     ],
     "references": {
