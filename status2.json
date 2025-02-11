@@ -254,7 +254,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-02-18T15:00:20.316463",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 3000,
             "android_id": "24e6c12d88d27aba84a80b1d0c821285",
             "countdown_paused": false,
             "plan": "Basique"
@@ -665,7 +665,7 @@
                 "Nini60132"
             ],
             "status": "active",
-            "countdown_start_time": "2025-02-11T20:57:36.692695",
+            "countdown_start_time": "2025-02-18T22:04:22.656671",
             "affiliation_balance": 1000,
             "plan": "Basique"
         },
