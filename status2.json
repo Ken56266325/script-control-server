@@ -1118,7 +1118,8 @@
                 "Escag\u00e9s591732",
                 "Faneva69103",
                 "Styve4709",
-                "Maminirina68103"
+                "Maminirina68103",
+                "Bakolimalala681910"
             ],
             "status": "active",
             "countdown_start_time": "2025-02-13T15:51:12.134700",
@@ -1797,6 +1798,15 @@
             "countdown_start_time": "2025-02-12T02:47:14.369560",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Bakolimalala681910",
+            "android_id": "8c1057b5306ad36ce8084425b7d19b31",
+            "referred_by": "Germain5719\u20ac",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-02-18T19:14:40.647593",
+            "affiliation_balance": 0
         }
     ],
     "references": {
