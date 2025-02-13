@@ -44,7 +44,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-02-18T23:31:50.867484",
-            "affiliation_balance": 28000,
+            "affiliation_balance": 21000,
             "android_id": "d099fb72fa1d28a5627ff511b88111f7",
             "plan": "Basique",
             "paused_at": null,
@@ -905,7 +905,7 @@
                 "1"
             ],
             "status": "active",
-            "countdown_start_time": "2025-02-20T18:55:08.689612",
+            "countdown_start_time": "2025-02-20T19:14:19.245200",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
