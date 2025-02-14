@@ -1470,7 +1470,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-02-19T09:41:20.517760",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -1601,7 +1601,7 @@
                 "Lje5819e"
             ],
             "status": "active",
-            "countdown_start_time": "2025-02-14T08:03:07.070699",
+            "countdown_start_time": "2025-02-21T08:25:12.557239",
             "affiliation_balance": 1000,
             "plan": "Basique"
         },
