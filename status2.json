@@ -1996,7 +1996,8 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-02-16T01:31:46.652103",
-            "affiliation_balance": 0
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
