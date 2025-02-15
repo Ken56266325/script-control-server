@@ -1790,7 +1790,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-02-19T16:55:20.332110",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -1921,7 +1921,7 @@
                 "Christian58194"
             ],
             "status": "active",
-            "countdown_start_time": "2025-02-15T19:08:07.787367",
+            "countdown_start_time": "2025-02-22T20:08:07.870708",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
