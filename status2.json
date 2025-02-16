@@ -1129,7 +1129,8 @@
                 "Styve4709",
                 "Maminirina68103",
                 "Bakolimalala681910",
-                "Tsilavina7913"
+                "Tsilavina7913",
+                "Smiley571902e"
             ],
             "status": "active",
             "countdown_start_time": "2025-02-20T17:34:58.977487",
@@ -2065,6 +2066,15 @@
             "countdown_start_time": "2025-02-17T02:46:04.873515",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Smiley571902e",
+            "android_id": "895745d085421c488f039d46037bbb69",
+            "referred_by": "Germain5719\u20ac",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-02-23T18:46:14.911620",
+            "affiliation_balance": 0
         }
     ],
     "references": {
