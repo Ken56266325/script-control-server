@@ -169,7 +169,8 @@
                 "Manohisoa591030",
                 "Tolonjanahary68103",
                 "Laurent58193",
-                "Bienvenue51909"
+                "Bienvenue51909",
+                "Johnica672930"
             ],
             "status": "active",
             "countdown_start_time": "2025-02-18T05:59:58.504917",
@@ -2021,6 +2022,15 @@
             "countdown_start_time": "2025-02-16T06:56:40.659185",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Johnica672930",
+            "android_id": "245aced9f6d2c8af5cdde5c3d2a65a04",
+            "referred_by": "Emmanuel6837",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-02-23T12:29:42.017674",
+            "affiliation_balance": 0
         }
     ],
     "references": {
