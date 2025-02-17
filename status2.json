@@ -1932,7 +1932,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-02-22T20:08:07.870708",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -1943,7 +1943,7 @@
                 "Rasta681030"
             ],
             "status": "active",
-            "countdown_start_time": "2025-02-15T19:17:18.869439",
+            "countdown_start_time": "2025-02-24T12:03:15.815652",
             "affiliation_balance": 1000,
             "plan": "Basique"
         },
