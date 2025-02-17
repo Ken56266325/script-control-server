@@ -752,7 +752,8 @@
                 "Fabio59103",
                 "Nanouh6819303",
                 "Emillie68103",
-                "Ravaly68193"
+                "Ravaly68193",
+                "Fran\u00e7ois6819302"
             ],
             "status": "active",
             "countdown_start_time": "2025-02-20T07:41:49.111547",
@@ -2087,6 +2088,15 @@
             "countdown_start_time": "2025-02-17T15:58:03.999439",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Fran\u00e7ois6819302",
+            "android_id": "9cffe1a744b5ea0d3f0b0b223d2c2628",
+            "referred_by": "Herininakely5830",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-02-24T08:53:19.801902",
+            "affiliation_balance": 0
         }
     ],
     "references": {
