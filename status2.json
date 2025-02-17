@@ -2098,6 +2098,15 @@
             "countdown_start_time": "2025-02-24T18:43:08.272175",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Bru6819302",
+            "android_id": "b1dd96dbdbd8a70e06ac0e7fc5a71784",
+            "referred_by": "Germain5719\u20ac\u00a0\u00a0",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-02-24T20:30:34.150220",
+            "affiliation_balance": 0
         }
     ],
     "references": {
