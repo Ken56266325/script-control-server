@@ -1613,7 +1613,8 @@
             "referred_by": "Grav69130",
             "referred_to": [
                 "Donatien58193",
-                "Lje5819e"
+                "Lje5819e",
+                "JusVip58199320"
             ],
             "status": "active",
             "countdown_start_time": "2025-02-21T08:25:12.557239",
@@ -2141,6 +2142,15 @@
             "countdown_start_time": "2025-02-19T00:58:03.412903",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "JusVip58199320",
+            "android_id": "53b25b4d79f248bd19eed30c1930622b",
+            "referred_by": "SNeddie58103",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-02-25T19:24:00.751639",
+            "affiliation_balance": 0
         }
     ],
     "references": {
