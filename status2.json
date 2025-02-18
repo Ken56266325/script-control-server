@@ -753,7 +753,8 @@
                 "Nanouh6819303",
                 "Emillie68103",
                 "Ravaly68193",
-                "Fran\u00e7ois6819302"
+                "Fran\u00e7ois6819302",
+                "Lucien6810302"
             ],
             "status": "active",
             "countdown_start_time": "2025-02-20T07:41:49.111547",
@@ -2130,6 +2131,15 @@
             "countdown_start_time": "2025-02-18T20:40:32.834151",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Lucien6810302",
+            "android_id": "ab670c29b6a6a12c975c35885a7cb369",
+            "referred_by": "Herininakely5830",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-02-25T16:57:25.099070",
+            "affiliation_balance": 0
         }
     ],
     "references": {
