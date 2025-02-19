@@ -662,7 +662,8 @@
                 "Rova69192",
                 "Rrinah68192",
                 "Maminiaina79192",
-                "Setra68189"
+                "Setra68189",
+                "Antonia681930"
             ],
             "status": "active",
             "countdown_start_time": "2025-02-25T18:45:34.070281",
@@ -2275,6 +2276,15 @@
             "countdown_start_time": "2025-02-20T02:13:44.001890",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Antonia681930",
+            "android_id": "baac8739f7b3d2c0cec55e5bf8f7b65a",
+            "referred_by": "Nasaina5776",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-02-26T18:14:18.661737",
+            "affiliation_balance": 0
         }
     ],
     "references": {
