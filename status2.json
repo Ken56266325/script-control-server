@@ -17,7 +17,8 @@
                 "Antoine1",
                 "Feno0998",
                 "Andry5839403",
-                "Jems781922"
+                "Jems781922",
+                "Mazy681080"
             ],
             "status": "active",
             "countdown_start_time": "2025-02-25T19:49:31.797353",
@@ -2344,6 +2345,15 @@
             "countdown_start_time": "2025-02-20T23:40:59.746026",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Mazy681080",
+            "android_id": "d0548cc419be98befbf7d924160b8cd8",
+            "referred_by": "dennery12",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-02-27T18:32:56.736370",
+            "affiliation_balance": 0
         }
     ],
     "references": {
