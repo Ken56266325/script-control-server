@@ -2107,7 +2107,8 @@
             "android_id": "bc3361f909e88e9a97259a12e17f42a8",
             "referred_by": "Feno0998",
             "referred_to": [
-                "Tokiniaina78103"
+                "Tokiniaina78103",
+                "Junior68193"
             ],
             "status": "active",
             "countdown_start_time": "2025-02-24T11:51:59.596866",
@@ -2333,6 +2334,15 @@
             "countdown_start_time": "2025-02-20T22:51:29.612749",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Junior68193",
+            "android_id": "0228a50e794e7b0d3fcd097dce308b69",
+            "referred_by": "Nantenaina6810301",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-02-27T15:40:34.633543",
+            "affiliation_balance": 0
         }
     ],
     "references": {
