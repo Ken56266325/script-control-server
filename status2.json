@@ -1115,7 +1115,8 @@
                 "Rivomanana69142",
                 "Tanjona5738",
                 "Tsiresy71932",
-                "Rovaniaina7810e"
+                "Rovaniaina7810e",
+                "Tina681922"
             ],
             "status": "active",
             "countdown_start_time": "2025-02-20T11:31:35.956159",
@@ -2310,6 +2311,15 @@
             "countdown_start_time": "2025-02-20T15:03:11.160451",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Tina681922",
+            "android_id": "3e7edd363a9455eaade1ebf294d005d3",
+            "referred_by": "Hoby5826",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-02-27T12:04:30.591971",
+            "affiliation_balance": 0
         }
     ],
     "references": {
