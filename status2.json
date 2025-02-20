@@ -1398,7 +1398,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-02-20T19:16:46.013641",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -1641,7 +1641,7 @@
             "referred_by": "Tsiresy71932",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-02-16T17:49:45.536072",
+            "countdown_start_time": "2025-02-27T12:48:56.386067",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
