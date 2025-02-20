@@ -45,7 +45,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-02-26T20:16:35.537653",
-            "affiliation_balance": 16000,
+            "affiliation_balance": 23000,
             "android_id": "d099fb72fa1d28a5627ff511b88111f7",
             "plan": "VIP",
             "paused_at": null,
@@ -177,7 +177,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-02-25T11:18:46.915025",
-            "affiliation_balance": 12000,
+            "affiliation_balance": 11000,
             "android_id": "c4665ee227bd5513d44e32d4d69a242c",
             "countdown_paused": false,
             "plan": "Basique"
@@ -1119,8 +1119,8 @@
                 "Tina681922"
             ],
             "status": "active",
-            "countdown_start_time": "2025-02-27T13:20:00.427434",
-            "affiliation_balance": 0,
+            "countdown_start_time": "2025-02-20T11:31:35.956159",
+            "affiliation_balance": 7000,
             "plan": "Basique"
         },
         {
@@ -1398,7 +1398,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-02-20T19:16:46.013641",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 0,
             "plan": "Basique"
         },
         {
@@ -1538,7 +1538,7 @@
             "referred_by": "Emmanuel6837",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-02-27T13:33:44.937145",
+            "countdown_start_time": "2025-02-20T06:56:28.738473",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
@@ -1641,7 +1641,7 @@
             "referred_by": "Tsiresy71932",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-02-27T12:48:56.386067",
+            "countdown_start_time": "2025-02-16T17:49:45.536072",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
@@ -1858,7 +1858,7 @@
             "referred_by": "Germain5719\u20ac",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-02-27T14:24:52.697024",
+            "countdown_start_time": "2025-02-20T09:49:45.040365",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
@@ -2330,7 +2330,7 @@
             "referred_by": "Tanjona5738",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-02-27T12:46:07.076360",
+            "countdown_start_time": "2025-02-28T14:51:11.268068",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
