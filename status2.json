@@ -1151,7 +1151,8 @@
                 "Tsilavina7913",
                 "Smiley571902e",
                 "Eriande5819302",
-                "Loval581930z"
+                "Loval581930z",
+                "Daniel89203"
             ],
             "status": "active",
             "countdown_start_time": "2025-02-27T19:46:07.338465",
@@ -2455,6 +2456,15 @@
             "countdown_start_time": "2025-02-22T01:01:44.750009",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Daniel89203",
+            "android_id": "10a5dfadf45832acf70240fc99f1bfcd",
+            "referred_by": "Germain5719\u20ac",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-02-28T17:23:54.002196",
+            "affiliation_balance": 0
         }
     ],
     "references": {
