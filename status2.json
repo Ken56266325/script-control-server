@@ -2342,7 +2342,9 @@
             "id": "Arijaona79124",
             "android_id": "ec3ff0c37c110f0e0eaa84f0be3d542b",
             "referred_by": "Tanjona5738",
-            "referred_to": [],
+            "referred_to": [
+                "Niaina89103"
+            ],
             "status": "active",
             "countdown_start_time": "2025-02-28T10:21:43.591370",
             "affiliation_balance": 0,
@@ -2477,6 +2479,15 @@
             "countdown_start_time": "2025-02-22T01:34:46.538038",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Niaina89103",
+            "android_id": "10ab88b1dac78a03596c46da8d9897c9",
+            "referred_by": "Arijaona79124",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-02-28T20:10:01.352779",
+            "affiliation_balance": 0
         }
     ],
     "references": {
