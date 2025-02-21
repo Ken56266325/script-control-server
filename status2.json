@@ -1197,7 +1197,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-02-28T09:17:28.917307",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -2338,7 +2338,7 @@
             "referred_by": "Tanjona5738",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-02-20T22:51:29.612749",
+            "countdown_start_time": "2025-02-28T10:21:43.591370",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
