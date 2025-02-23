@@ -2346,7 +2346,8 @@
             "referred_by": "Tanjona5738",
             "referred_to": [
                 "Niaina89103",
-                "Rakotomandimby78104"
+                "Rakotomandimby78104",
+                "Julio9203"
             ],
             "status": "active",
             "countdown_start_time": "2025-02-28T10:21:43.591370",
@@ -2512,6 +2513,15 @@
             "countdown_start_time": "2025-02-23T03:08:02.090729",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Julio9203",
+            "android_id": "376676b0948340985b93859c3deb5df9",
+            "referred_by": "Arijaona79124",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-03-02T06:15:32.427073",
+            "affiliation_balance": 0
         }
     ],
     "references": {
