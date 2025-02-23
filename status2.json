@@ -75,7 +75,8 @@
             "countdown_start_time": "2025-03-01T19:47:24.899982",
             "affiliation_balance": 0,
             "countdown_paused": false,
-            "plan": "Basique"
+            "plan": "Basique",
+            "android_id": "b92b0079eaf9c52de1fde6e1de8d35e8"
         },
         {
             "id": "Fidelson890",
@@ -1829,7 +1830,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-02-26T19:43:50.952679",
-            "affiliation_balance": 5000,
+            "affiliation_balance": 4000,
             "plan": "Basique"
         },
         {
@@ -1962,7 +1963,7 @@
                 "Christian58194"
             ],
             "status": "active",
-            "countdown_start_time": "2025-03-01T22:12:02.969014",
+            "countdown_start_time": "2025-02-22T20:08:07.870708",
             "affiliation_balance": 1000,
             "plan": "Basique"
         },
@@ -1975,7 +1976,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-02-24T12:03:15.815652",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -1986,8 +1987,8 @@
                 "Hery619190"
             ],
             "status": "active",
-            "countdown_start_time": "2025-03-01T21:13:06.743022",
-            "affiliation_balance": 2000,
+            "countdown_start_time": "2025-02-22T20:07:06.383397",
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -1996,7 +1997,7 @@
             "referred_by": "Rasta681030",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-03-01T22:12:17.478541",
+            "countdown_start_time": "2025-02-22T21:45:16.717746",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
@@ -2349,7 +2350,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-02-28T10:21:43.591370",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -2508,7 +2509,7 @@
             "referred_by": "Arijaona79124",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-03-02T04:06:17.291330",
+            "countdown_start_time": "2025-02-23T03:08:02.090729",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
