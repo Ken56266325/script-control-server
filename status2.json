@@ -1826,7 +1826,8 @@
                 "Mamy6795",
                 "Tsitohaina581932",
                 "Andry6719302",
-                "Mihasini7819202"
+                "Mihasini7819202",
+                "Andry80103"
             ],
             "status": "active",
             "countdown_start_time": "2025-02-26T19:43:50.952679",
@@ -2523,6 +2524,15 @@
             "countdown_start_time": "2025-02-23T14:17:05.201445",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Andry80103",
+            "android_id": "5891381670d5116fb893bbc7a56467bc",
+            "referred_by": "Andriamahefa58103",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-03-02T06:17:48.026589",
+            "affiliation_balance": 0
         }
     ],
     "references": {
