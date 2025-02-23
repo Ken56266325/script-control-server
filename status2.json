@@ -175,7 +175,8 @@
                 "Laurent58193",
                 "Bienvenue51909",
                 "Johnica672930",
-                "Mbaeva791030"
+                "Mbaeva791030",
+                "Sitraka8910e"
             ],
             "status": "active",
             "countdown_start_time": "2025-02-25T11:18:46.915025",
@@ -2590,6 +2591,15 @@
             "countdown_start_time": "2025-02-23T23:33:49.423012",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Sitraka8910e",
+            "android_id": "4c0de4b4548f65164c4f7d9999555645",
+            "referred_by": "Emmanuel6837",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-03-02T15:35:25.254181",
+            "affiliation_balance": 0
         }
     ],
     "references": {
