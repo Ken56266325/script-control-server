@@ -2582,7 +2582,8 @@
             "referred_by": "Fasou5819302",
             "referred_to": [
                 "Lydia681038",
-                "Rjc68103"
+                "Rjc68103",
+                "James681303"
             ],
             "status": "active",
             "countdown_start_time": "2025-03-02T20:34:31.822259",
@@ -2788,6 +2789,15 @@
             "countdown_start_time": "2025-02-25T03:39:49.580909",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "James681303",
+            "android_id": "0f020ee91b4d995f21d2902bf8918d39",
+            "referred_by": "Nantenaina90183",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-03-03T20:11:13.271730",
+            "affiliation_balance": 0
         }
     ],
     "references": {
