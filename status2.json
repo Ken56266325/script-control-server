@@ -1514,7 +1514,8 @@
                 "YvanoChri581030",
                 "Marie581032",
                 "JassBoy58103",
-                "SannyDeem5790"
+                "SannyDeem5790",
+                "Harris681971"
             ],
             "status": "active",
             "countdown_start_time": "2025-02-26T16:47:37.355957",
@@ -2799,6 +2800,15 @@
             "countdown_start_time": "2025-02-25T04:11:46.535244",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Harris681971",
+            "android_id": "e49fc1097a542ce8f571fb8cba8dbc79",
+            "referred_by": "Grav69130",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-03-03T20:37:23.644895",
+            "affiliation_balance": 0
         }
     ],
     "references": {
