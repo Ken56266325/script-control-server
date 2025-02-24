@@ -1163,7 +1163,8 @@
                 "Daniel89203",
                 "LovaL819030",
                 "Valisoa79104",
-                "ToneJuly681030"
+                "ToneJuly681030",
+                "Roddy57193"
             ],
             "status": "active",
             "countdown_start_time": "2025-02-27T19:46:07.338465",
@@ -2777,6 +2778,15 @@
             "countdown_start_time": "2025-02-25T03:29:51.910544",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Roddy57193",
+            "android_id": "d5bd84395ba2e54069f1deac4511dbee",
+            "referred_by": "Germain5719\u20ac",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-03-03T19:39:14.735787",
+            "affiliation_balance": 0
         }
     ],
     "references": {
