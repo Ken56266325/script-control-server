@@ -1161,7 +1161,8 @@
                 "Eriande5819302",
                 "Loval581930z",
                 "Daniel89203",
-                "LovaL819030"
+                "LovaL819030",
+                "Valisoa79104"
             ],
             "status": "active",
             "countdown_start_time": "2025-02-27T19:46:07.338465",
@@ -2689,6 +2690,15 @@
             "countdown_start_time": "2025-02-24T19:50:23.730464",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Valisoa79104",
+            "android_id": "773c6dd47d9aef3f1e2089414b5596e0",
+            "referred_by": "Germain5719\u20ac",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-03-03T12:44:55.474510",
+            "affiliation_balance": 0
         }
     ],
     "references": {
