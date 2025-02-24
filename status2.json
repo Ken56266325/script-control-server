@@ -1841,7 +1841,8 @@
                 "Mihasini7819202",
                 "Andry80103",
                 "Njaka79103",
-                "Lova691030"
+                "Lova691030",
+                "Roger791030"
             ],
             "status": "active",
             "countdown_start_time": "2025-02-26T19:43:50.952679",
@@ -2766,6 +2767,15 @@
             "countdown_start_time": "2025-02-25T02:55:43.151247",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Roger791030",
+            "android_id": "50752c8876209c4f90c8e4b9d6fc805e",
+            "referred_by": "Andriamahefa58103",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-03-03T19:28:51.290117",
+            "affiliation_balance": 0
         }
     ],
     "references": {
