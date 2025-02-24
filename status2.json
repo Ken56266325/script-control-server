@@ -1838,7 +1838,8 @@
                 "Tsitohaina581932",
                 "Andry6719302",
                 "Mihasini7819202",
-                "Andry80103"
+                "Andry80103",
+                "Njaka79103"
             ],
             "status": "active",
             "countdown_start_time": "2025-02-26T19:43:50.952679",
@@ -2700,6 +2701,15 @@
             "countdown_start_time": "2025-02-24T22:28:12.849743",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Njaka79103",
+            "android_id": "7652d4877ecd6441c0463eee4efab8ab",
+            "referred_by": "Andriamahefa58103",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-03-03T14:29:38.499560",
+            "affiliation_balance": 0
         }
     ],
     "references": {
