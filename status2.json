@@ -180,7 +180,8 @@
                 "Jejery57103",
                 "Soandry6819z",
                 "Dedie7810302",
-                "Herman781930"
+                "Herman781930",
+                "Joel68010"
             ],
             "status": "active",
             "countdown_start_time": "2025-02-25T11:18:46.915025",
@@ -2889,6 +2890,15 @@
             "countdown_start_time": "2025-02-26T02:41:17.069371",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Joel68010",
+            "android_id": "a1ceaedb31b7dca58a2fbb67d051826f",
+            "referred_by": "Emmanuel6837",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-03-04T19:46:56.257492",
+            "affiliation_balance": 0
         }
     ],
     "references": {
