@@ -1168,7 +1168,8 @@
                 "ToneJuly681030",
                 "Roddy57193",
                 "Tommy671930",
-                "Gilles671930"
+                "Gilles671930",
+                "Jaona67193"
             ],
             "status": "active",
             "countdown_start_time": "2025-02-27T19:46:07.338465",
@@ -2878,6 +2879,15 @@
             "countdown_start_time": "2025-02-26T02:37:08.425841",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Jaona67193",
+            "android_id": "884217a8a7bd7d0a7d7147c83ffc88a7",
+            "referred_by": "Germain5719\u20ac",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-03-04T18:40:35.199869",
+            "affiliation_balance": 0
         }
     ],
     "references": {
