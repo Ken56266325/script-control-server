@@ -1167,7 +1167,8 @@
                 "Valisoa79104",
                 "ToneJuly681030",
                 "Roddy57193",
-                "Tommy671930"
+                "Tommy671930",
+                "Gilles671930"
             ],
             "status": "active",
             "countdown_start_time": "2025-02-27T19:46:07.338465",
@@ -2867,6 +2868,15 @@
             "countdown_start_time": "2025-02-26T02:34:55.788966",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Gilles671930",
+            "android_id": "9e39972f2109a9fb574ff78cb0e06d5b",
+            "referred_by": "Germain5719\u20ac",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-03-04T18:36:39.960028",
+            "affiliation_balance": 0
         }
     ],
     "references": {
