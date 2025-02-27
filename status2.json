@@ -225,7 +225,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-03-04T19:10:01.936438",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "android_id": "e74af1c33b0fd4e7b3ecef900c118751",
             "countdown_paused": false,
             "plan": "Basique"
@@ -2979,7 +2979,7 @@
             "referred_by": "Onjaniaina52809",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-02-27T22:17:57.390654",
+            "countdown_start_time": "2025-03-06T20:52:09.937757",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
