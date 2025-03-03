@@ -1749,8 +1749,8 @@
                 "Jean67103"
             ],
             "status": "active",
-            "countdown_start_time": "2025-03-10T10:18:09.768149",
-            "affiliation_balance": 0,
+            "countdown_start_time": "2025-03-01T17:29:08.012793",
+            "affiliation_balance": 2000,
             "plan": "Basique"
         },
         {
@@ -2397,7 +2397,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-03-07T13:43:19.145615",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 0,
             "plan": "Basique"
         },
         {
