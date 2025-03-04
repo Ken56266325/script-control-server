@@ -1536,7 +1536,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-03-05T19:02:59.462783",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -2845,7 +2845,7 @@
                 "Andii69103"
             ],
             "status": "active",
-            "countdown_start_time": "2025-03-04T11:53:47.973497",
+            "countdown_start_time": "2025-03-11T20:08:43.063427",
             "affiliation_balance": 1000,
             "plan": "Basique"
         },
