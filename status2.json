@@ -2537,7 +2537,9 @@
             "id": "Niaina89103",
             "android_id": "10ab88b1dac78a03596c46da8d9897c9",
             "referred_by": "Arijaona79124",
-            "referred_to": [],
+            "referred_to": [
+                "Luca68920"
+            ],
             "status": "active",
             "countdown_start_time": "2025-03-08T20:06:38.871241",
             "affiliation_balance": 0,
@@ -3224,6 +3226,15 @@
             "countdown_start_time": "2025-03-04T20:19:50.426992",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Luca68920",
+            "android_id": "c9aacf68d4bee66e39f9a2737c449a7e",
+            "referred_by": "Niaina89103",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-03-11T12:20:14.376445",
+            "affiliation_balance": 0
         }
     ],
     "references": {
