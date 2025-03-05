@@ -537,7 +537,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-03-09T19:51:21.867333",
-            "affiliation_balance": 5000,
+            "affiliation_balance": 4000,
             "countdown_paused": false,
             "plan": "Basique"
         },
@@ -1465,7 +1465,7 @@
                 "Stalien68103"
             ],
             "status": "active",
-            "countdown_start_time": "2025-03-12T07:39:50.169284",
+            "countdown_start_time": "2025-03-04T14:03:55.474362",
             "affiliation_balance": 4000,
             "plan": "Basique"
         },
@@ -2276,8 +2276,8 @@
             "android_id": "fa2be7aadf7fc8f7e9262cfaed831601",
             "referred_by": "dennery12",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2025-03-21T17:17:20.094583",
+            "status": "active",
+            "countdown_start_time": "2025-03-12T07:40:09.006263",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
