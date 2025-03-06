@@ -491,7 +491,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-03-12T21:15:11.362170",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "countdown_paused": false,
             "plan": "Basique"
         },
@@ -744,7 +744,7 @@
             "referred_by": "Ursilla28492",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-03-06T10:37:31.673465",
+            "countdown_start_time": "2025-03-13T15:02:40.544785",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
