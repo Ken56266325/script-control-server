@@ -1876,7 +1876,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-03-13T01:32:01.221858",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique"
         },
         {
@@ -3292,7 +3292,7 @@
             "referred_by": "Andriamahefa58103",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-03-05T17:47:37.060228",
+            "countdown_start_time": "2025-03-13T14:16:55.325870",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
