@@ -2804,7 +2804,8 @@
                 "Razanamaly56193",
                 "Odon571030",
                 "Tina78103",
-                "Miora68120"
+                "Miora68120",
+                "Francois681922"
             ],
             "status": "active",
             "countdown_start_time": "2025-03-11T09:23:29.154795",
@@ -3312,6 +3313,15 @@
             "countdown_start_time": "2079-04-07T20:32:38.615426",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Francois681922",
+            "android_id": "3c72aa7204562f65319d6122a2e1f5dc",
+            "referred_by": "Rjc68103",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-03-13T11:31:10.449541",
+            "affiliation_balance": 0
         }
     ],
     "references": {
