@@ -1179,7 +1179,8 @@
                 "Tommy671930",
                 "Gilles671930",
                 "Jaona67193",
-                "Timote689901"
+                "Timote689901",
+                "Sa\u00efd681930"
             ],
             "status": "active",
             "countdown_start_time": "2025-03-06T20:53:33.296197",
@@ -3346,6 +3347,15 @@
             "countdown_start_time": "2025-03-07T01:50:13.704475",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Sa\u00efd681930",
+            "android_id": "e6f4a6aa0f755f663a8e635b891aa573",
+            "referred_by": "Germain5719\u20ac",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-03-13T19:10:03.166395",
+            "affiliation_balance": 0
         }
     ],
     "references": {
