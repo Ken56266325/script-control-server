@@ -832,7 +832,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-03-08T16:27:34.253056",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -896,7 +896,7 @@
                 "Fiderana82930"
             ],
             "status": "active",
-            "countdown_start_time": "2025-03-06T13:38:36.707393",
+            "countdown_start_time": "2025-03-14T09:45:21.188574",
             "affiliation_balance": 5000,
             "plan": "Basique"
         },
