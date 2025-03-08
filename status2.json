@@ -1699,7 +1699,8 @@
             "referred_by": "Germain5719\u20ac",
             "referred_to": [
                 "My5794",
-                "Heritina6893"
+                "Heritina6893",
+                "Bru57132"
             ],
             "status": "active",
             "countdown_start_time": "2025-03-15T11:58:19.323961",
@@ -3471,6 +3472,15 @@
             "countdown_start_time": "2025-03-15T19:09:29.501603",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Bru57132",
+            "android_id": "2fe6edf1f645c1a0a7e0cdf23f202eec",
+            "referred_by": "Styve4709",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-03-15T20:01:00.224751",
+            "affiliation_balance": 0
         }
     ],
     "references": {
