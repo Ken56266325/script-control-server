@@ -1514,7 +1514,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-03-11T17:18:43.489227",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -1620,7 +1620,7 @@
             "referred_by": "Juckelly58103",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-03-07T12:13:52.383649",
+            "countdown_start_time": "2025-03-15T09:30:48.688964",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
