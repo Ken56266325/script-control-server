@@ -2407,7 +2407,8 @@
                 "Rakotomandimby78104",
                 "Julio9203",
                 "Arilanto89103",
-                "Mika68193"
+                "Mika68193",
+                "Lina4689"
             ],
             "status": "active",
             "countdown_start_time": "2025-03-15T08:14:28.093100",
@@ -3482,6 +3483,15 @@
             "countdown_start_time": "2025-03-16T06:10:23.849144",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Lina4689",
+            "android_id": "8d4c499b6de9afc61771c4c73e926567",
+            "referred_by": "Arijaona79124",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-03-16T10:25:10.772360",
+            "affiliation_balance": 0
         }
     ],
     "references": {
