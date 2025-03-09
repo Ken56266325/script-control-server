@@ -3430,7 +3430,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-03-08T20:19:44.378525",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -3459,7 +3459,7 @@
             "referred_by": "Harden5794",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-03-09T02:40:26.751953",
+            "countdown_start_time": "2025-03-16T08:47:25.055979",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
