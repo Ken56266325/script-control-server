@@ -1445,7 +1445,8 @@
             "referred_by": "Compte35183",
             "referred_to": [
                 "Soso79103",
-                "Sarobidy681930"
+                "Sarobidy681930",
+                "BoanaX6819z0"
             ],
             "status": "active",
             "countdown_start_time": "2025-03-10T18:58:32.208844",
@@ -3504,6 +3505,15 @@
             "countdown_start_time": "2025-03-09T22:56:42.591708",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "BoanaX6819z0",
+            "android_id": "bc4481a97699facd87a0540d31ab33e3",
+            "referred_by": "Mamitina791402",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-03-16T15:24:54.797842",
+            "affiliation_balance": 0
         }
     ],
     "references": {
