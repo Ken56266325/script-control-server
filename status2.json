@@ -2412,7 +2412,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-03-15T08:14:28.093100",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -2557,7 +2557,7 @@
                 "Luca68920"
             ],
             "status": "active",
-            "countdown_start_time": "2025-03-08T20:06:38.871241",
+            "countdown_start_time": "2025-03-16T11:18:20.717951",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
