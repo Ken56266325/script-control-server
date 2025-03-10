@@ -1996,7 +1996,9 @@
             "id": "Victory57993",
             "android_id": "13a1c54910fb1a4d8801f5932132ba2a",
             "referred_by": null,
-            "referred_to": [],
+            "referred_to": [
+                "Luc37"
+            ],
             "status": "active",
             "countdown_start_time": "2025-03-14T16:58:07.093323",
             "affiliation_balance": 0,
@@ -3537,6 +3539,15 @@
             "countdown_start_time": "2025-03-10T14:19:17.264679",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Luc37",
+            "android_id": "205f717f3fa569debc2a27faaaf93aec",
+            "referred_by": "Victory57993",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-03-17T09:19:46.048396",
+            "affiliation_balance": 0
         }
     ],
     "references": {
