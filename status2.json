@@ -1648,7 +1648,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-03-15T20:48:36.236812",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -2617,7 +2617,7 @@
                 "Martinien57192"
             ],
             "status": "active",
-            "countdown_start_time": "2025-03-10T10:40:19.125090",
+            "countdown_start_time": "2025-03-17T12:56:01.897541",
             "affiliation_balance": 1000,
             "plan": "Basique"
         },
