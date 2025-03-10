@@ -223,7 +223,8 @@
                 "Andredi1032",
                 "Narindra58193",
                 "Andr\u00e9a10030",
-                "Randrianarivo68130"
+                "Randrianarivo68130",
+                "Ntsoa67192"
             ],
             "status": "active",
             "countdown_start_time": "2025-03-11T19:35:35.281891",
@@ -3526,6 +3527,15 @@
             "countdown_start_time": "2025-03-09T22:44:37.008839",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Ntsoa67192",
+            "android_id": "851e2a4816534f4ceaa365775204c306",
+            "referred_by": "Onjaniaina52809",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-03-17T06:15:46.639194",
+            "affiliation_balance": 0
         }
     ],
     "references": {
