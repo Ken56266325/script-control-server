@@ -2214,7 +2214,8 @@
             "referred_to": [
                 "Mahomed6719302",
                 "Clement571930",
-                "Bosila67103"
+                "Bosila67103",
+                "Aristide358967"
             ],
             "status": "active",
             "countdown_start_time": "2025-03-18T17:41:20.943032",
@@ -3615,6 +3616,15 @@
             "countdown_start_time": "2025-03-12T00:44:05.548423",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Aristide358967",
+            "android_id": "0c49cda9308615ee9ac69b1be9098e54",
+            "referred_by": "Bru6819302",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-03-18T19:12:43.152500",
+            "affiliation_balance": 0
         }
     ],
     "references": {
