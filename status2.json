@@ -2050,7 +2050,8 @@
             "referred_by": "Christian58194",
             "referred_to": [
                 "Hery619190",
-                "Ericka79a03"
+                "Ericka79a03",
+                "Claudio91781"
             ],
             "status": "active",
             "countdown_start_time": "2025-03-16T14:10:30.431868",
@@ -3660,6 +3661,15 @@
             "countdown_start_time": "2025-03-20T04:04:03.129758",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Claudio91781",
+            "android_id": "4b29da196105ce987be5e5809315667e",
+            "referred_by": "Rasta681030",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-03-20T10:41:19.472668",
+            "affiliation_balance": 0
         }
     ],
     "references": {
