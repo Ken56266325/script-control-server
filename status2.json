@@ -46,7 +46,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2027-12-09T09:02:50.500342",
-            "affiliation_balance": 74000,
+            "affiliation_balance": 67000,
             "android_id": "d099fb72fa1d28a5627ff511b88111f7",
             "plan": "Basique",
             "paused_at": null,
@@ -2336,7 +2336,7 @@
             "referred_by": "Nasaina5776",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-03-14T06:34:20.860571",
+            "countdown_start_time": "2025-03-21T09:36:22.645970",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
