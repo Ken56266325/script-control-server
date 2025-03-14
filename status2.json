@@ -632,7 +632,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-03-18T21:26:10.296423",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -3684,7 +3684,7 @@
             "referred_by": "Tahiry6393",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-03-13T18:56:48.286723",
+            "countdown_start_time": "2025-03-21T12:15:37.850934",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
