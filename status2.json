@@ -694,7 +694,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-03-18T20:16:01.786278",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -2335,7 +2335,7 @@
             "referred_by": "Nasaina5776",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-03-14T06:34:20.860571",
+            "countdown_start_time": "2025-03-21T07:14:01.315493",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
