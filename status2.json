@@ -5,10 +5,10 @@
             "status": "active",
             "referred_by": null,
             "referred_to": [],
-            "countdown_start_time": "2025-03-14T06:06:40.461878",
+            "countdown_start_time": "2025-03-21T09:05:38.569001",
             "android_id": "6b58be3f2531d1a61759928a41bf0e4e",
             "countdown_paused": false,
-            "plan": "VIP"
+            "plan": "Basique"
         },
         {
             "id": "dennery12",
@@ -46,7 +46,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2027-12-09T09:02:50.500342",
-            "affiliation_balance": 81000,
+            "affiliation_balance": 74000,
             "android_id": "d099fb72fa1d28a5627ff511b88111f7",
             "plan": "Basique",
             "paused_at": null,
