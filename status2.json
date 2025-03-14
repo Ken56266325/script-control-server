@@ -3769,6 +3769,15 @@
             "countdown_start_time": "2025-03-14T23:36:16.747449",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Ronaldin217569",
+            "android_id": "29990a5c46febc036a64717818725358",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-03-21T18:00:01.240625",
+            "affiliation_balance": 0
         }
     ],
     "references": {
