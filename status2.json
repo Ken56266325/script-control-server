@@ -3767,7 +3767,8 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-03-21T15:34:57.395962",
-            "affiliation_balance": 0
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
