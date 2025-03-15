@@ -1195,7 +1195,8 @@
                 "Sa\u00efd681930",
                 "Asmah68193",
                 "David68102",
-                "Lalaina681032"
+                "Lalaina681032",
+                "Razafindrafara68132"
             ],
             "status": "active",
             "countdown_start_time": "2025-03-21T19:33:06.962668",
@@ -3812,6 +3813,15 @@
             "countdown_start_time": "2025-03-15T17:55:59.830957",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Razafindrafara68132",
+            "android_id": "04ce979c5e52a960f6f0262362800b0f",
+            "referred_by": "Germain5719\u20ac",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-03-22T09:56:41.102248",
+            "affiliation_balance": 0
         }
     ],
     "references": {
