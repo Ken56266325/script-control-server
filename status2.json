@@ -3066,7 +3066,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-03-20T17:52:07.044362",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -3859,7 +3859,7 @@
             "referred_by": "Randrianarivo68130",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-03-16T18:29:25.899478",
+            "countdown_start_time": "2025-03-23T19:10:31.774367",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
