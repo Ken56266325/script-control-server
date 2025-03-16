@@ -1102,7 +1102,8 @@
                 "Patty2751932",
                 "Tsilavina68192",
                 "RanofaAuto",
-                "Andry21"
+                "Andry21",
+                "Carlos691030"
             ],
             "status": "active",
             "countdown_start_time": "2025-03-19T19:26:21.015998",
@@ -3912,6 +3913,15 @@
             "countdown_start_time": "2025-03-17T01:31:41.783266",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Carlos691030",
+            "android_id": "961e1de73ea76b234e12c59e4857c880",
+            "referred_by": "Mandresy241632",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-03-23T19:17:27.188793",
+            "affiliation_balance": 0
         }
     ],
     "references": {
