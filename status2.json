@@ -1197,7 +1197,8 @@
                 "Asmah68193",
                 "David68102",
                 "Lalaina681032",
-                "Razafindrafara68132"
+                "Razafindrafara68132",
+                "Harrison691302"
             ],
             "status": "active",
             "countdown_start_time": "2025-03-21T19:33:06.962668",
@@ -3901,6 +3902,15 @@
             "countdown_start_time": "2025-03-17T01:29:36.042448",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Harrison691302",
+            "android_id": "e74900893a6383035a9d3c75f9d2dceb",
+            "referred_by": "Germain5719\u20ac",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-03-23T17:30:26.051467",
+            "affiliation_balance": 0
         }
     ],
     "references": {
