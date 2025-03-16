@@ -2853,7 +2853,8 @@
                 "Miora68120",
                 "Francois681922",
                 "Nirina8810",
-                "Rossia579310"
+                "Rossia579310",
+                "Liantsoa0279103"
             ],
             "status": "active",
             "countdown_start_time": "2025-03-18T10:11:35.421346",
@@ -3857,6 +3858,15 @@
             "countdown_start_time": "2025-03-16T18:29:25.899478",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Liantsoa0279103",
+            "android_id": "80ad6ea7115da957d66349068d7950d5",
+            "referred_by": "Rjc68103",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-03-23T10:47:35.979078",
+            "affiliation_balance": 0
         }
     ],
     "references": {
