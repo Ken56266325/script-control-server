@@ -1202,7 +1202,8 @@
                 "Razafindrafara68132",
                 "Harrison691302",
                 "Sorah681032",
-                "Fanomezantsoa6810e0"
+                "Fanomezantsoa6810e0",
+                "Maka78103"
             ],
             "status": "active",
             "countdown_start_time": "2025-03-21T19:33:06.962668",
@@ -3956,6 +3957,15 @@
             "countdown_start_time": "2025-03-18T02:34:21.718791",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Maka78103",
+            "android_id": "1b7589469d179c6e77e55e410f693899",
+            "referred_by": "Germain5719\u20ac",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-03-24T18:43:22.872939",
+            "affiliation_balance": 0
         }
     ],
     "references": {
