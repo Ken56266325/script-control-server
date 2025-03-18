@@ -706,7 +706,8 @@
                 "Nini60132",
                 "Mikaia890320",
                 "Elmii80103004",
-                "Mimi691032"
+                "Mimi691032",
+                "Leonie6819004"
             ],
             "status": "active",
             "countdown_start_time": "2025-03-19T21:13:03.149019",
@@ -3990,6 +3991,15 @@
             "countdown_start_time": "2025-03-19T02:13:09.849550",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Leonie6819004",
+            "android_id": "ab853b213a664760c8cd17b340940983",
+            "referred_by": "Miki5739",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-03-25T19:01:53.311410",
+            "affiliation_balance": 0
         }
     ],
     "references": {
