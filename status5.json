@@ -46,7 +46,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-03-24T19:08:24.676022",
-            "affiliation_balance": 952000,
+            "affiliation_balance": 945000,
             "android_id": "d099fb72fa1d28a5627ff511b88111f7",
             "plan": "Basique",
             "paused_at": null,
@@ -277,7 +277,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-03-21T19:20:40.506279",
-            "affiliation_balance": 10000,
+            "affiliation_balance": 11000,
             "android_id": "24e6c12d88d27aba84a80b1d0c821285",
             "countdown_paused": false,
             "plan": "Basique"
@@ -633,7 +633,7 @@
                 "Damasc\u00e8ne6710302"
             ],
             "status": "active",
-            "countdown_start_time": "2025-03-18T21:26:10.296423",
+            "countdown_start_time": "2025-03-26T07:15:14.436084",
             "affiliation_balance": 1000,
             "plan": "Basique"
         },
