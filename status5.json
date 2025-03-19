@@ -1540,8 +1540,8 @@
                 "Marianoh59103"
             ],
             "status": "active",
-            "countdown_start_time": "2025-03-26T10:45:49.764464",
-            "affiliation_balance": 0,
+            "countdown_start_time": "2025-03-19T09:30:13.300133",
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -1782,7 +1782,7 @@
                 "Tojosoa6819e0",
                 "Jean67103"
             ],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-03-25T08:54:00.859832",
             "affiliation_balance": 0,
             "plan": "Basique"
