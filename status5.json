@@ -187,7 +187,8 @@
                 "Marie681930",
                 "Lalao671930",
                 "Razay7813022",
-                "Maeh571930"
+                "Maeh571930",
+                "Fidelis7819z0a"
             ],
             "status": "active",
             "countdown_start_time": "2025-03-19T19:39:35.336734",
@@ -4046,6 +4047,15 @@
             "countdown_start_time": "2025-03-19T18:49:34.148762",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Fidelis7819z0a",
+            "android_id": "1d8f023ce7b0b59b66f58d870e387d26",
+            "referred_by": "Emmanuel6837",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-03-26T16:07:45.408346",
+            "affiliation_balance": 0
         }
     ],
     "references": {
