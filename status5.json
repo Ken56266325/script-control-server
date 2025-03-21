@@ -46,7 +46,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-03-24T19:08:24.676022",
-            "affiliation_balance": 910000,
+            "affiliation_balance": 903000,
             "android_id": "d099fb72fa1d28a5627ff511b88111f7",
             "plan": "Basique",
             "paused_at": null,
@@ -128,7 +128,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-03-25T03:54:46.188935",
-            "affiliation_balance": 4000,
+            "affiliation_balance": 5000,
             "android_id": "9093ba10d8d1d052127427c4338e55e9",
             "countdown_paused": false,
             "plan": "Basique"
@@ -646,7 +646,7 @@
             "referred_by": "Fasil6763",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-03-21T09:04:10.295893",
+            "countdown_start_time": "2025-03-28T19:13:24.624220",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
