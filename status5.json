@@ -46,7 +46,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-03-24T19:08:24.676022",
-            "affiliation_balance": 889000,
+            "affiliation_balance": 882000,
             "android_id": "d099fb72fa1d28a5627ff511b88111f7",
             "plan": "Basique",
             "paused_at": null,
@@ -279,7 +279,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-03-28T21:12:20.175013",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "android_id": "24e6c12d88d27aba84a80b1d0c821285",
             "countdown_paused": false,
             "plan": "Basique"
@@ -2185,7 +2185,7 @@
                 "Lalaina6910p3"
             ],
             "status": "active",
-            "countdown_start_time": "2025-03-21T20:42:55.594544",
+            "countdown_start_time": "2025-03-29T10:31:18.482167",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
