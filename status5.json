@@ -1254,7 +1254,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-03-21T09:45:27.750671",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -2453,8 +2453,8 @@
                 "Ni681200"
             ],
             "status": "active",
-            "countdown_start_time": "2025-03-22T13:32:54.347557",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-03-29T13:36:33.234635",
+            "affiliation_balance": 0,
             "plan": "Basique"
         },
         {
