@@ -2455,7 +2455,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-03-29T13:36:33.234635",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -3058,7 +3058,7 @@
             "referred_by": "Arijaona79124",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-03-22T16:28:02.888350",
+            "countdown_start_time": "2025-03-29T16:52:42.732718",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
