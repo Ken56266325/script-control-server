@@ -46,7 +46,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-03-24T19:08:24.676022",
-            "affiliation_balance": 868000,
+            "affiliation_balance": 861000,
             "android_id": "d099fb72fa1d28a5627ff511b88111f7",
             "plan": "Basique",
             "paused_at": null,
@@ -2604,7 +2604,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-03-23T17:39:54.950449",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique"
         },
         {
@@ -3558,7 +3558,7 @@
                 "Pass58190"
             ],
             "status": "active",
-            "countdown_start_time": "2025-03-22T18:46:38.047165",
+            "countdown_start_time": "2025-03-29T18:44:28.092983",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
