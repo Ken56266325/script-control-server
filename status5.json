@@ -231,7 +231,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-03-25T22:01:21.353730",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 3000,
             "android_id": "e74af1c33b0fd4e7b3ecef900c118751",
             "countdown_paused": false,
             "plan": "Basique"
@@ -3594,7 +3594,7 @@
                 "FaliTina6810321"
             ],
             "status": "active",
-            "countdown_start_time": "2025-03-24T17:27:16.116367",
+            "countdown_start_time": "2025-03-31T17:16:05.090439",
             "affiliation_balance": 1000,
             "plan": "Basique"
         },
