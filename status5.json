@@ -1707,7 +1707,8 @@
                 "Donatien58193",
                 "Lje5819e",
                 "JusVip58199320",
-                "Luciah571930"
+                "Luciah571930",
+                "Aurnela681036910"
             ],
             "status": "active",
             "countdown_start_time": "2025-03-28T15:22:30.011573",
@@ -4184,6 +4185,15 @@
             "countdown_start_time": "2025-03-25T18:09:18.310629",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Aurnela681036910",
+            "android_id": "57379f7388853efcf37842946d7fad21",
+            "referred_by": "SNeddie58103",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-04-01T10:09:38.807651",
+            "affiliation_balance": 0
         }
     ],
     "references": {
