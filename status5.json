@@ -1914,7 +1914,8 @@
                 "Njaka79103",
                 "Lova691030",
                 "Roger791030",
-                "New68192"
+                "New68192",
+                "Dina689301"
             ],
             "status": "active",
             "countdown_start_time": "2025-03-27T06:45:31.674356",
@@ -4173,6 +4174,15 @@
             "countdown_start_time": "2025-04-01T06:51:42.696414",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Dina689301",
+            "android_id": "aee0f3ff211f85a7ae662038481f03f9",
+            "referred_by": "Andriamahefa58103",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-04-01T10:08:39.724308",
+            "affiliation_balance": 0
         }
     ],
     "references": {
