@@ -2473,7 +2473,8 @@
                 "Tsimbina68192",
                 "Volana68103",
                 "Sarobidy68130",
-                "Eldo9017807"
+                "Eldo9017807",
+                "Zafiafy6813791"
             ],
             "status": "active",
             "countdown_start_time": "2025-03-28T11:19:27.910714",
@@ -4295,6 +4296,15 @@
             "countdown_start_time": "2025-03-26T19:46:48.683426",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Zafiafy6813791",
+            "android_id": "26496f40af9f906af38ad39ccd0cc55a",
+            "referred_by": "Junior68193",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-04-02T11:47:49.343352",
+            "affiliation_balance": 0
         }
     ],
     "references": {
