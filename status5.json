@@ -639,7 +639,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-04-02T07:46:12.268476",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -4051,8 +4051,8 @@
                 "Milay258193"
             ],
             "status": "active",
-            "countdown_start_time": "2025-03-26T18:05:46.115397",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-04-02T18:24:05.214273",
+            "affiliation_balance": 0,
             "plan": "Basique"
         },
         {
