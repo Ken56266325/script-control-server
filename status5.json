@@ -609,7 +609,8 @@
             "referred_to": [
                 "Rakalamina6810",
                 "Tody681610",
-                "Sergio81p3697"
+                "Sergio81p3697",
+                "Da79167300"
             ],
             "status": "active",
             "countdown_start_time": "2025-04-01T20:54:21.109275",
@@ -1925,7 +1926,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-04-03T08:11:15.071861",
-            "affiliation_balance": 3000,
+            "affiliation_balance": 2000,
             "plan": "Basique"
         },
         {
@@ -2295,7 +2296,7 @@
             "referred_by": "Andriamahefa58103",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-04-03T10:41:53.913887",
+            "countdown_start_time": "2025-03-27T10:33:19.240173",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
@@ -4317,6 +4318,15 @@
             "countdown_start_time": "2025-03-27T17:01:35.468273",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Da79167300",
+            "android_id": "4ef2fb3f7f88d7d5f4a2ec5cdb632450",
+            "referred_by": "Emmanuel1",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-04-03T10:41:56.976560",
+            "affiliation_balance": 0
         }
     ],
     "references": {
