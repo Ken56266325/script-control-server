@@ -232,7 +232,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-04-02T05:39:51.654634",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "android_id": "e74af1c33b0fd4e7b3ecef900c118751",
             "countdown_paused": false,
             "plan": "Basique"
@@ -3098,7 +3098,7 @@
                 "Andrianantenaina79192"
             ],
             "status": "active",
-            "countdown_start_time": "2025-03-27T20:01:30.469498",
+            "countdown_start_time": "2025-04-03T19:41:32.647530",
             "affiliation_balance": 2000,
             "plan": "Basique"
         },
