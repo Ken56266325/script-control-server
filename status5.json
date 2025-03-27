@@ -1920,7 +1920,8 @@
                 "Lova691030",
                 "Roger791030",
                 "New68192",
-                "Dina689301"
+                "Dina689301",
+                "Chanks36128"
             ],
             "status": "active",
             "countdown_start_time": "2025-04-03T08:11:15.071861",
@@ -4306,6 +4307,15 @@
             "countdown_start_time": "2025-04-03T08:04:08.468021",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Chanks36128",
+            "android_id": "856dce1735b9691619c26371ea22ad65",
+            "referred_by": "Andriamahefa58103",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-04-03T09:00:33.967113",
+            "affiliation_balance": 0
         }
     ],
     "references": {
