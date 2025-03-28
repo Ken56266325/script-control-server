@@ -1167,7 +1167,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-03-28T18:03:26.926309",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -2448,8 +2448,8 @@
                 "Rajaonarivo4792180"
             ],
             "status": "active",
-            "countdown_start_time": "2025-03-28T18:20:26.897297",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-04-04T18:40:34.057705",
+            "affiliation_balance": 0,
             "plan": "Basique"
         },
         {
