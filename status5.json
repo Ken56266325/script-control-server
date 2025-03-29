@@ -2899,7 +2899,8 @@
                 "Nirina8810",
                 "Rossia579310",
                 "Liantsoa0279103",
-                "Valisoa79192y19"
+                "Valisoa79192y19",
+                "MamaSitraka7819381"
             ],
             "status": "active",
             "countdown_start_time": "2025-04-01T13:11:30.054789",
@@ -4540,6 +4541,15 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-04-05T16:03:37.516922",
+            "affiliation_balance": 0
+        },
+        {
+            "id": "MamaSitraka7819381",
+            "android_id": "db2e5c20288f9b29150aaefcf45b5739",
+            "referred_by": "Rjc68103",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-04-05T16:35:36.826437",
             "affiliation_balance": 0
         }
     ],
