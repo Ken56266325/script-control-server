@@ -1084,7 +1084,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-04-02T19:14:17.496604",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -2356,7 +2356,7 @@
             "referred_by": "Vakilaaa10\u20ac7",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-03-29T17:33:26.331818",
+            "countdown_start_time": "2025-04-05T17:38:39.473436",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
