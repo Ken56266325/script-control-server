@@ -2492,7 +2492,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-04-04T13:48:50.095530",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -3365,7 +3365,7 @@
             "referred_by": "Junior68193",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-03-28T15:11:23.470335",
+            "countdown_start_time": "2025-04-05T18:12:14.172394",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
