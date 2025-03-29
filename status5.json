@@ -1900,7 +1900,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-04-05T16:36:20.015659",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -3440,7 +3440,7 @@
                 "Rijason8916691"
             ],
             "status": "active",
-            "countdown_start_time": "2025-03-29T20:17:48.743062",
+            "countdown_start_time": "2025-04-05T21:29:36.830462",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
