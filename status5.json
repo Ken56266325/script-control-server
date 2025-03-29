@@ -46,7 +46,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-03-31T20:12:41.816082",
-            "affiliation_balance": 763000,
+            "affiliation_balance": 756000,
             "android_id": "d099fb72fa1d28a5627ff511b88111f7",
             "plan": "Basique",
             "paused_at": null,
@@ -1170,7 +1170,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-04-05T07:16:17.970975",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -1468,7 +1468,7 @@
                 "Mampionona58103"
             ],
             "status": "active",
-            "countdown_start_time": "2025-03-21T14:42:21.644176",
+            "countdown_start_time": "2025-04-05T10:27:38.959855",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
