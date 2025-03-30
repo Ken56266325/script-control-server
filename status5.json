@@ -4643,6 +4643,15 @@
             "countdown_start_time": "2025-03-31T01:41:09.512293",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "rt",
+            "android_id": "",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-04-06T17:41:19.844700",
+            "affiliation_balance": 0
         }
     ],
     "references": {
