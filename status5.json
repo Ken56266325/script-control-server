@@ -4652,6 +4652,15 @@
             "status": "active",
             "countdown_start_time": "2025-04-06T17:41:19.844700",
             "affiliation_balance": 0
+        },
+        {
+            "id": "Vanessa791032610",
+            "android_id": "b38599b8e1ab990fb3e992e6d0480c8e",
+            "referred_by": "b38599b8e1ab990fb3e992e6d0480c8e",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-04-06T18:28:21.413089",
+            "affiliation_balance": 0
         }
     ],
     "references": {
