@@ -2488,7 +2488,8 @@
                 "Eldo9017807",
                 "Zafiafy6813791",
                 "Airtel791628962",
-                "Haingo91831"
+                "Haingo91831",
+                "Raoleina681932"
             ],
             "status": "active",
             "countdown_start_time": "2025-04-04T13:48:50.095530",
@@ -4574,6 +4575,15 @@
             "countdown_start_time": "2025-04-06T09:47:40.637932",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Raoleina681932",
+            "android_id": "7cd20a0cdba8c8339e37e1132c25bc39",
+            "referred_by": "Junior68193",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-04-06T12:06:59.317574",
+            "affiliation_balance": 0
         }
     ],
     "references": {
