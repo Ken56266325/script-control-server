@@ -364,7 +364,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-04-02T16:46:44.317100",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "android_id": "701cae64f05e1d4683d2972cefe41cab",
             "countdown_paused": false,
             "plan": "Basique"
@@ -1385,8 +1385,8 @@
                 "Malala5919201"
             ],
             "status": "active",
-            "countdown_start_time": "2025-03-31T16:21:18.978838",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-04-07T17:59:04.189316",
+            "affiliation_balance": 0,
             "plan": "Basique"
         },
         {
