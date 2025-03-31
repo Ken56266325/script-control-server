@@ -110,9 +110,7 @@
         {
             "id": "Ramiandrisoa4538",
             "referred_by": "viviane2367",
-            "referred_to": [
-                "Faralahy339401"
-            ],
+            "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-04-06T20:51:35.418280",
             "affiliation_balance": 3000,
@@ -414,17 +412,6 @@
             "countdown_paused": false,
             "plan": "Basique",
             "android_id": "3df0c9a74b11130bb5ba2e5cfaf2d37d"
-        },
-        {
-            "id": "Faralahy339401",
-            "referred_by": "Ramiandrisoa4538",
-            "referred_to": [],
-            "status": "active",
-            "countdown_start_time": "2025-04-04T05:58:29.393080",
-            "affiliation_balance": 0,
-            "android_id": "1bf29bcae386a1a29dc4ad426310233e",
-            "countdown_paused": false,
-            "plan": "Basique"
         },
         {
             "id": "Stanislas39942",
