@@ -1676,7 +1676,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-04-07T23:51:40.985739",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -2664,8 +2664,8 @@
                 "Nirikoolivier57380"
             ],
             "status": "active",
-            "countdown_start_time": "2025-03-31T17:20:16.408729",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-04-08T09:29:11.204445",
+            "affiliation_balance": 0,
             "plan": "Basique"
         },
         {
