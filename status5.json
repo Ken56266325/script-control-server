@@ -530,7 +530,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-04-06T20:50:30.207042",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "countdown_paused": false,
             "plan": "Basique"
         },
@@ -1502,8 +1502,8 @@
                 "Fanantenana79132"
             ],
             "status": "active",
-            "countdown_start_time": "2025-03-29T10:33:02.926583",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-04-08T06:59:59.598114",
+            "affiliation_balance": 0,
             "plan": "Basique"
         },
         {
