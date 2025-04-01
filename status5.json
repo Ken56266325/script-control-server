@@ -653,7 +653,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-04-08T08:33:48.190753",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -2796,7 +2796,7 @@
             "referred_by": "Harimalala58294",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-03-11T14:34:21.583236",
+            "countdown_start_time": "2025-04-08T22:15:58.177795",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
