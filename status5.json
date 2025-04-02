@@ -46,7 +46,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-04-05T15:58:53.954382",
-            "affiliation_balance": 644000,
+            "affiliation_balance": 651000,
             "android_id": "d099fb72fa1d28a5627ff511b88111f7",
             "plan": "Basique",
             "paused_at": null,
@@ -62,7 +62,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-02-19T07:33:24.556493",
-            "affiliation_balance": 5000,
+            "affiliation_balance": 4000,
             "android_id": "dc1ba5e41a314a307d179fc9b5932c33",
             "countdown_paused": false,
             "plan": "Basique"
@@ -190,8 +190,8 @@
                 "Julles6819369"
             ],
             "status": "active",
-            "countdown_start_time": "2025-04-09T20:35:48.079126",
-            "affiliation_balance": 3000,
+            "countdown_start_time": "2025-04-02T20:00:12.887294",
+            "affiliation_balance": 5000,
             "android_id": "c4665ee227bd5513d44e32d4d69a242c",
             "countdown_paused": false,
             "plan": "Basique"
@@ -201,7 +201,7 @@
             "referred_by": "Emmanuel6837",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-04-09T19:21:44.685853",
+            "countdown_start_time": "2025-04-02T14:13:46.581154",
             "affiliation_balance": 0,
             "android_id": "3d69acd82a47ca03e85aac071618d166",
             "countdown_paused": false,
@@ -240,7 +240,7 @@
             "referred_by": "Emmanuel6837",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-04-09T19:34:52.444330",
+            "countdown_start_time": "2025-04-02T14:31:13.949247",
             "affiliation_balance": 0,
             "android_id": "0783924e00f3596fa3312ca53853d647",
             "countdown_paused": false,
@@ -278,7 +278,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-04-05T05:21:03.124504",
-            "affiliation_balance": 17000,
+            "affiliation_balance": 14000,
             "android_id": "24e6c12d88d27aba84a80b1d0c821285",
             "countdown_paused": false,
             "plan": "Basique"
@@ -407,7 +407,7 @@
             "referred_by": "Compte35183",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-04-09T19:28:03.865955",
+            "countdown_start_time": "2025-04-02T18:04:40.118929",
             "affiliation_balance": 0,
             "countdown_paused": false,
             "plan": "Basique",
@@ -674,7 +674,7 @@
                 "Sylvain6910317"
             ],
             "status": "active",
-            "countdown_start_time": "2025-04-09T20:39:52.360320",
+            "countdown_start_time": "2025-04-02T20:23:59.782307",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
@@ -709,7 +709,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-04-02T21:26:59.495333",
-            "affiliation_balance": 8000,
+            "affiliation_balance": 7000,
             "plan": "Basique"
         },
         {
@@ -735,7 +735,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-04-06T09:18:46.067956",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 0,
             "plan": "Basique"
         },
         {
@@ -796,8 +796,8 @@
                 "Niaina90103"
             ],
             "status": "active",
-            "countdown_start_time": "2025-04-09T19:12:01.845167",
-            "affiliation_balance": 3000,
+            "countdown_start_time": "2025-04-02T19:00:40.687359",
+            "affiliation_balance": 9000,
             "plan": "Basique"
         },
         {
@@ -913,7 +913,7 @@
             "referred_by": "Emmanuel6837",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-04-09T20:20:23.048563",
+            "countdown_start_time": "2025-04-02T19:25:47.617214",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
@@ -923,7 +923,7 @@
             "referred_by": "Doda6920",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-04-09T19:29:55.996616",
+            "countdown_start_time": "2025-04-02T19:20:54.307491",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
@@ -1071,7 +1071,7 @@
                 "Marina671922"
             ],
             "status": "active",
-            "countdown_start_time": "2025-04-09T19:29:45.610456",
+            "countdown_start_time": "2025-04-02T19:14:17.496604",
             "affiliation_balance": 1000,
             "plan": "Basique"
         },
@@ -1210,7 +1210,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-03-21T19:33:06.962668",
-            "affiliation_balance": 26000,
+            "affiliation_balance": 25000,
             "plan": "Basique"
         },
         {
@@ -1239,7 +1239,7 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-04-09T19:30:30.586598",
+            "countdown_start_time": "2025-04-02T18:41:30.496609",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
@@ -1594,7 +1594,7 @@
             "referred_by": "Emmanuel6837",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-04-09T20:11:10.110653",
+            "countdown_start_time": "2025-04-02T09:47:19.383980",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
@@ -1713,7 +1713,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-04-04T13:53:49.768386",
-            "affiliation_balance": 3000,
+            "affiliation_balance": 2000,
             "plan": "Basique"
         },
         {
@@ -1791,7 +1791,7 @@
                 "Jean67103"
             ],
             "status": "active",
-            "countdown_start_time": "2025-04-09T20:11:48.567659",
+            "countdown_start_time": "2025-04-02T19:29:06.130777",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
@@ -2265,7 +2265,7 @@
             "referred_by": "Herininakely5830",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-04-09T20:28:17.233291",
+            "countdown_start_time": "2025-04-02T20:14:11.857939",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
@@ -2991,7 +2991,7 @@
             "referred_by": "Germain5719\u20ac",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-04-09T20:19:25.726176",
+            "countdown_start_time": "2025-04-02T20:13:24.691616",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
@@ -4032,7 +4032,7 @@
             "referred_by": "Miki5739",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-04-09T19:16:39.886927",
+            "countdown_start_time": "2025-04-02T12:37:49.995683",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
@@ -4249,7 +4249,7 @@
             "referred_by": "Robert77193",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-04-02T20:27:45.147287",
+            "countdown_start_time": "2025-04-10T07:03:16.020200",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
