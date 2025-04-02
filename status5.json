@@ -3538,7 +3538,6 @@
             "referred_by": "Harden5794",
             "referred_to": [
                 "Azarya6813001",
-                "Fanomezantsoa69e9090",
                 "Fanomezantsoa710001"
             ],
             "status": "active",
@@ -4720,15 +4719,6 @@
             "countdown_start_time": "2025-04-02T16:20:32.026004",
             "affiliation_balance": 0,
             "plan": "Basique"
-        },
-        {
-            "id": "Fanomezantsoa69e9090",
-            "android_id": "d728d74854821064994fd470f28e2d8b",
-            "referred_by": "Jospin67103",
-            "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2025-04-09T09:52:38.713692",
-            "affiliation_balance": 0
         },
         {
             "id": "Fanomezantsoa710001",
