@@ -1907,7 +1907,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-04-10T09:38:28.579208",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -2577,7 +2577,7 @@
             "referred_by": "Tafita58192",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-04-04T22:19:18.817845",
+            "countdown_start_time": "2025-04-11T22:17:34.045761",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
