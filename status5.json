@@ -1502,7 +1502,8 @@
                 "Herimada68192",
                 "Amiral77193",
                 "Stalien68103",
-                "Fanantenana79132"
+                "Fanantenana79132",
+                "Herilaea68103051040"
             ],
             "status": "active",
             "countdown_start_time": "2025-04-08T06:59:59.598114",
@@ -4809,6 +4810,15 @@
             "countdown_start_time": "2025-04-04T21:04:23.438452",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Herilaea68103051040",
+            "android_id": "45cee12011b01b9fb4156523940bbaa5",
+            "referred_by": "Wayne69193",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-04-11T17:40:21.604976",
+            "affiliation_balance": 0
         }
     ],
     "references": {
