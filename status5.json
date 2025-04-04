@@ -191,7 +191,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-04-09T21:17:29.062922",
-            "affiliation_balance": 9000,
+            "affiliation_balance": 10000,
             "android_id": "c4665ee227bd5513d44e32d4d69a242c",
             "countdown_paused": false,
             "plan": "Basique"
@@ -313,8 +313,8 @@
                 "Njaouh79103"
             ],
             "status": "active",
-            "countdown_start_time": "2025-03-29T11:12:01.565845",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-04-11T09:51:23.019174",
+            "affiliation_balance": 0,
             "android_id": "59b06a4026ee0cc6fdbed97e7830a4da",
             "countdown_paused": false,
             "plan": "Basique"
