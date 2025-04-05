@@ -1550,7 +1550,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-04-09T12:21:59.535580",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -1577,8 +1577,8 @@
                 "Rodin79103890"
             ],
             "status": "active",
-            "countdown_start_time": "2025-04-05T06:14:27.117151",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-04-12T07:33:02.732705",
+            "affiliation_balance": 0,
             "plan": "Basique"
         },
         {
