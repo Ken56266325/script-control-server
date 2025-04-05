@@ -2614,7 +2614,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-04-06T20:31:43.441115",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -3655,7 +3655,7 @@
                 "Money5819921"
             ],
             "status": "active",
-            "countdown_start_time": "2025-04-05T12:49:57.123734",
+            "countdown_start_time": "2025-04-12T11:57:42.834001",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
