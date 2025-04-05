@@ -1503,7 +1503,8 @@
                 "Amiral77193",
                 "Stalien68103",
                 "Fanantenana79132",
-                "Herilaea68103051040"
+                "Herilaea68103051040",
+                "Angelo81990"
             ],
             "status": "active",
             "countdown_start_time": "2025-04-08T06:59:59.598114",
@@ -4909,6 +4910,15 @@
             "countdown_start_time": "2025-04-06T00:38:29.813745",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Angelo81990",
+            "android_id": "44f583f5ed0ba488564f04d6ea77fcb6",
+            "referred_by": "Wayne69193",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-04-12T17:38:10.188925",
+            "affiliation_balance": 0
         }
     ],
     "references": {
