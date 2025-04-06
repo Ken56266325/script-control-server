@@ -3052,7 +3052,8 @@
             "android_id": "0090c0d360b503debe16eb5636e01794",
             "referred_by": "Fasou5819302",
             "referred_to": [
-                "Fame69103719"
+                "Fame69103719",
+                "Claudio017812"
             ],
             "status": "active",
             "countdown_start_time": "2025-04-12T12:57:35.990568",
@@ -4999,6 +5000,15 @@
             "countdown_start_time": "2025-04-07T00:29:28.607164",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Claudio017812",
+            "android_id": "03b1f5618c6a20ef9ad1c54aded3a727",
+            "referred_by": "Robinson781930",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-04-13T18:10:27.957161",
+            "affiliation_balance": 0
         }
     ],
     "references": {
