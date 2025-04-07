@@ -3660,7 +3660,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-04-12T11:57:42.834001",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -4809,7 +4809,7 @@
             "referred_by": "MarcRaz619002",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-04-04T03:26:58.831533",
+            "countdown_start_time": "2025-04-14T14:09:40.239147",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
