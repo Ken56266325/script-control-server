@@ -2071,7 +2071,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-04-14T13:59:50.411608",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -2082,7 +2082,7 @@
                 "Rasta681030"
             ],
             "status": "active",
-            "countdown_start_time": "2025-04-02T09:29:13.956434",
+            "countdown_start_time": "2025-04-14T15:34:16.012944",
             "affiliation_balance": 6000,
             "plan": "Basique"
         },
