@@ -1899,7 +1899,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-04-12T20:08:19.236155",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -3429,7 +3429,7 @@
                 "Stephanie6768122"
             ],
             "status": "active",
-            "countdown_start_time": "2025-04-05T21:29:36.830462",
+            "countdown_start_time": "2025-04-14T11:55:34.040960",
             "affiliation_balance": 3000,
             "plan": "Basique"
         },
