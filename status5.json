@@ -2816,7 +2816,9 @@
             "id": "LovaL819030",
             "android_id": "a70c382fe76a69509cf65e0fc547c45e",
             "referred_by": "Germain5719\u20ac",
-            "referred_to": [],
+            "referred_to": [
+                "Luciano001673901"
+            ],
             "status": "active",
             "countdown_start_time": "2025-04-08T22:36:00.574541",
             "affiliation_balance": 0,
@@ -5053,6 +5055,15 @@
             "countdown_start_time": "2025-04-08T03:31:51.733315",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Luciano001673901",
+            "android_id": "36e42dc854ca144de7c264ac96bbfd27",
+            "referred_by": "LovaL819030",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-04-15T06:00:46.348617",
+            "affiliation_balance": 0
         }
     ],
     "references": {
