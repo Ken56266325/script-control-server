@@ -533,7 +533,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-04-13T20:42:55.605052",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 3000,
             "countdown_paused": false,
             "plan": "Basique"
         },
@@ -1511,8 +1511,8 @@
                 "Angelo81990"
             ],
             "status": "active",
-            "countdown_start_time": "2025-04-08T06:59:59.598114",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-04-16T00:49:13.130588",
+            "affiliation_balance": 0,
             "plan": "Basique"
         },
         {
