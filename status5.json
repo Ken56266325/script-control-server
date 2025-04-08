@@ -5075,6 +5075,15 @@
             "countdown_start_time": "2025-04-08T19:11:17.284469",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Juliot79103601",
+            "android_id": "6d36859effbb726a7d7eb7a7db5a695f",
+            "referred_by": "Germain5719\u20ac ",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-04-15T11:20:41.581815",
+            "affiliation_balance": 0
         }
     ],
     "references": {
