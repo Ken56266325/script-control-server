@@ -601,7 +601,8 @@
                 "Rakalamina6810",
                 "Tody681610",
                 "Sergio81p3697",
-                "Da79167300"
+                "Da79167300",
+                "Gariste78103"
             ],
             "status": "active",
             "countdown_start_time": "2025-04-15T22:06:30.762399",
@@ -5130,6 +5131,15 @@
             "countdown_start_time": "2025-04-10T01:08:51.548513",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Gariste78103",
+            "android_id": "3b361727918f2dbadd7a53e61e080ecb",
+            "referred_by": "Emmanuel1",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-04-16T17:26:55.108585",
+            "affiliation_balance": 0
         }
     ],
     "references": {
