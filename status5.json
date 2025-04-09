@@ -233,7 +233,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-04-16T07:15:38.863497",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "android_id": "e74af1c33b0fd4e7b3ecef900c118751",
             "countdown_paused": false,
             "plan": "Basique"
@@ -3634,8 +3634,8 @@
                 "Mbappe78032"
             ],
             "status": "active",
-            "countdown_start_time": "2025-04-09T07:30:40.472801",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-04-16T17:06:22.300483",
+            "affiliation_balance": 0,
             "plan": "Basique"
         },
         {
