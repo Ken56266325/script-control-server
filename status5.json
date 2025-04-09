@@ -2823,7 +2823,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-04-15T23:33:36.527517",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -5066,7 +5066,7 @@
             "referred_by": "LovaL819030",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-04-08T14:01:16.287402",
+            "countdown_start_time": "2025-04-16T14:30:47.177735",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
