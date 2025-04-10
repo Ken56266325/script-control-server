@@ -1065,7 +1065,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-04-15T18:46:08.749530",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -3434,7 +3434,8 @@
             "referred_to": [
                 "Rijason8916691",
                 "Stephanie6768122",
-                "Miora89131"
+                "Miora89131",
+                "Razafimahefa891030"
             ],
             "status": "active",
             "countdown_start_time": "2025-04-14T11:55:34.040960",
@@ -4476,7 +4477,7 @@
             "referred_by": "Gaelode10361",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-04-17T14:25:39.251436",
+            "countdown_start_time": "2025-04-10T13:37:37.517674",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
@@ -5173,6 +5174,15 @@
             "countdown_start_time": "2025-04-10T22:23:49.661455",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Razafimahefa891030",
+            "android_id": "354e519282ba793cb84557e00d92dff5",
+            "referred_by": "Tsila68130",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-04-17T14:25:40.193419",
+            "affiliation_balance": 0
         }
     ],
     "references": {
