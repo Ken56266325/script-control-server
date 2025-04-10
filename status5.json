@@ -4124,7 +4124,6 @@
             "android_id": "cdf02709e2370491b40dcb086ad62236",
             "referred_by": "Tahiry6393",
             "referred_to": [
-                "Junot791030",
                 "Alain691090"
             ],
             "status": "active",
@@ -4171,16 +4170,6 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-04-13T21:43:07.270651",
-            "affiliation_balance": 0,
-            "plan": "Basique"
-        },
-        {
-            "id": "Junot791030",
-            "android_id": "5d51ce7e371e300cde3fd85dcd93343b",
-            "referred_by": "Tiana79030",
-            "referred_to": [],
-            "status": "active",
-            "countdown_start_time": "2025-03-23T23:55:05.326373",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
