@@ -190,7 +190,8 @@
                 "Maeh571930",
                 "Fidelis7819z0a",
                 "Julles6819369",
-                "Anja68913240"
+                "Anja68913240",
+                "Rodin681021"
             ],
             "status": "active",
             "countdown_start_time": "2025-04-17T04:56:06.395424",
@@ -5284,6 +5285,15 @@
             "countdown_start_time": "2025-04-12T03:53:34.838981",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Rodin681021",
+            "android_id": "f73a79b6728f2994eb4a3125f9111dc",
+            "referred_by": "Emmanuel6837",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-04-18T20:04:19.537172",
+            "affiliation_balance": 0
         }
     ],
     "references": {
