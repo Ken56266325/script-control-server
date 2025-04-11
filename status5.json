@@ -4965,7 +4965,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-04-13T21:00:13.945729",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -5204,7 +5204,7 @@
             "referred_by": "Totomora909311",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-04-11T01:58:48.200572",
+            "countdown_start_time": "2025-04-18T10:20:33.464706",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
