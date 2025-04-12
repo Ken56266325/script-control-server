@@ -1490,7 +1490,8 @@
                 "Sitraka691932",
                 "Ashley69103710",
                 "Andrianah618391518",
-                "Razakanirina6819482"
+                "Razakanirina6819482",
+                "Sarah571932"
             ],
             "status": "active",
             "countdown_start_time": "2025-04-14T20:48:42.587512",
@@ -5385,6 +5386,15 @@
             "countdown_start_time": "2025-04-13T01:33:24.401186",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Sarah571932",
+            "android_id": "875c0eceeb95607936eb8d3f8a7a8b57",
+            "referred_by": "Mamitina791402",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-04-19T18:19:40.026198",
+            "affiliation_balance": 0
         }
     ],
     "references": {
