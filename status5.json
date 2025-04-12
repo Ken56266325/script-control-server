@@ -1218,7 +1218,8 @@
                 "Maka78103",
                 "Rija7810320",
                 "Miray519093i0",
-                "Malawi6810321"
+                "Malawi6810321",
+                "Brada7912"
             ],
             "status": "active",
             "countdown_start_time": "2025-04-18T12:49:23.530158",
@@ -5316,6 +5317,15 @@
             "countdown_start_time": "2025-04-19T10:30:49.135378",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Brada7912",
+            "android_id": "347feaad999a462f0e1dca7b7c32ec58",
+            "referred_by": "Germain5719\u20ac",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-04-19T10:32:24.851072",
+            "affiliation_balance": 0
         }
     ],
     "references": {
