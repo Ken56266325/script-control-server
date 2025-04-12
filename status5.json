@@ -5295,6 +5295,15 @@
             "countdown_start_time": "2025-04-12T04:05:21.287452",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Harisarobidy5810301",
+            "android_id": "4cb3ea7681861b2936bed38b1e2635c9",
+            "referred_by": "Damasc\u00e8ne6110302",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-04-19T10:29:14.050321",
+            "affiliation_balance": 0
         }
     ],
     "references": {
