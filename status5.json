@@ -1517,7 +1517,8 @@
                 "Stalien68103",
                 "Fanantenana79132",
                 "Herilaea68103051040",
-                "Angelo81990"
+                "Angelo81990",
+                "Lovasoa367569"
             ],
             "status": "active",
             "countdown_start_time": "2025-04-16T00:49:13.130588",
@@ -5339,6 +5340,15 @@
             "countdown_start_time": "2025-04-12T19:38:32.877023",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Lovasoa367569",
+            "android_id": "7f8cc14dca2aa9b232a415544dec0107",
+            "referred_by": "Wayne69193",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-04-19T16:03:38.056984",
+            "affiliation_balance": 0
         }
     ],
     "references": {
