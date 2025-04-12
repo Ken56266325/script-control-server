@@ -2477,7 +2477,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-04-19T17:18:06.921355",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -3097,7 +3097,7 @@
                 "Hajaniaina7967193"
             ],
             "status": "active",
-            "countdown_start_time": "2025-04-12T20:41:34.285551",
+            "countdown_start_time": "2025-04-19T20:57:45.055754",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
