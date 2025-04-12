@@ -4383,7 +4383,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-04-17T11:43:06.069761",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -5362,7 +5362,7 @@
             "referred_by": "Airtel791628962",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-04-13T00:28:32.280496",
+            "countdown_start_time": "2025-04-19T18:08:37.856874",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
