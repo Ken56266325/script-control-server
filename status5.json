@@ -2666,7 +2666,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-04-14T01:24:40.885380",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -3525,7 +3525,7 @@
                 "Rovinesco58103"
             ],
             "status": "active",
-            "countdown_start_time": "2025-04-13T19:10:49.017737",
+            "countdown_start_time": "2025-04-20T19:25:50.246175",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
