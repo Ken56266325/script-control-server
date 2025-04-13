@@ -4559,7 +4559,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-04-17T19:32:56.563768",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -4983,7 +4983,7 @@
                 "Junot7910371"
             ],
             "status": "active",
-            "countdown_start_time": "2025-04-13T21:00:13.945729",
+            "countdown_start_time": "2025-04-20T09:51:15.690575",
             "affiliation_balance": 1000,
             "plan": "Basique"
         },
