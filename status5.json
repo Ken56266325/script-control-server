@@ -5099,7 +5099,9 @@
             "id": "Djeeyy791040",
             "android_id": "c2cae0cfd907ea3a967d8dbf12d4734d",
             "referred_by": null,
-            "referred_to": [],
+            "referred_to": [
+                "Mampionona571921"
+            ],
             "status": "active",
             "countdown_start_time": "2025-04-16T09:36:33.539198",
             "affiliation_balance": 0,
@@ -5474,6 +5476,15 @@
             "countdown_start_time": "2025-04-21T08:11:48.743682",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Mampionona571921",
+            "android_id": "a9afa86969d31407fb170b6058a4d760",
+            "referred_by": "Djeeyy791040",
+            "referred_to": [],
+            "status": "inactive",
+            "countdown_start_time": "2025-04-21T19:30:42.302371",
+            "affiliation_balance": 0
         }
     ],
     "references": {
