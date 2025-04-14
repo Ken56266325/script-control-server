@@ -607,7 +607,8 @@
                 "Da79167300",
                 "Gariste78103",
                 "Tsila90032681",
-                "Irina681921"
+                "Irina681921",
+                "Walter671930"
             ],
             "status": "active",
             "countdown_start_time": "2025-04-15T22:06:30.762399",
@@ -5486,6 +5487,15 @@
             "countdown_start_time": "2025-04-15T03:31:58.069615",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Walter671930",
+            "android_id": "1498f1cb330efd82f4065f87470496eb",
+            "referred_by": "Emmanuel1",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-04-21T19:35:55.697286",
+            "affiliation_balance": 0
         }
     ],
     "references": {
