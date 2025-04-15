@@ -916,7 +916,8 @@
                 "Rebeka5258",
                 "Robelina69173",
                 "Randria571932",
-                "Fiderana82930"
+                "Fiderana82930",
+                "Rosia5719"
             ],
             "status": "active",
             "countdown_start_time": "2025-04-19T12:46:02.224220",
@@ -5587,6 +5588,15 @@
             "countdown_start_time": "2025-04-16T04:18:01.408581",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Rosia5719",
+            "android_id": "a83d4de45a23b74d8b593874466006f1 Api Hash",
+            "referred_by": "Lantsaniaina57204",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-04-22T20:57:40.580957",
+            "affiliation_balance": 0
         }
     ],
     "references": {
