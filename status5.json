@@ -1919,7 +1919,8 @@
             "referred_to": [
                 "Tsila68130",
                 "L\u00f4die57899",
-                "World791922"
+                "World791922",
+                "Uzumaki67190"
             ],
             "status": "active",
             "countdown_start_time": "2025-04-13T06:03:36.905599",
@@ -5564,6 +5565,15 @@
             "countdown_start_time": "2025-04-16T01:57:53.247293",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Uzumaki67190",
+            "android_id": "fc2dd58cc3e34260a268aa83594d5273",
+            "referred_by": "Tsila5819292",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-04-22T20:13:31.811665",
+            "affiliation_balance": 0
         }
     ],
     "references": {
