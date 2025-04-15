@@ -3459,7 +3459,8 @@
                 "Rijason8916691",
                 "Stephanie6768122",
                 "Miora89131",
-                "Razafimahefa891030"
+                "Razafimahefa891030",
+                "Itachi67191"
             ],
             "status": "active",
             "countdown_start_time": "2025-04-21T17:18:45.135073",
@@ -5508,6 +5509,15 @@
             "countdown_start_time": "2025-04-15T05:15:03.918728",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Itachi67191",
+            "android_id": "d08fa77759c1793fc62a532fb7788629",
+            "referred_by": "Tsila68130",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-04-22T09:48:13.540603",
+            "affiliation_balance": 0
         }
     ],
     "references": {
