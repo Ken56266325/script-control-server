@@ -804,7 +804,8 @@
                 "Ravaly68193",
                 "Fran\u00e7ois6819302",
                 "Lucien6810302",
-                "Niaina90103"
+                "Niaina90103",
+                "Julien57182o1"
             ],
             "status": "active",
             "countdown_start_time": "2025-04-17T08:00:11.410109",
@@ -5530,6 +5531,15 @@
             "countdown_start_time": "2025-04-15T21:00:23.440334",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Julien57182o1",
+            "android_id": "f14c8042468beec1233f565437ae721d",
+            "referred_by": "Herininakely5830",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-04-22T14:07:15.823961",
+            "affiliation_balance": 0
         }
     ],
     "references": {
