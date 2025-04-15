@@ -3463,7 +3463,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-04-21T17:18:45.135073",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -5073,7 +5073,7 @@
             "referred_by": "Tsila68130",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-04-15T09:40:19.030293",
+            "countdown_start_time": "2025-04-22T08:53:15.425834",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
