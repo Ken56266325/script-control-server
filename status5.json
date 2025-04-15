@@ -727,7 +727,9 @@
             "id": "TontonAm6820",
             "android_id": "720cb8da15c5649fa72cc628c91f8a35",
             "referred_by": "Compte35183",
-            "referred_to": [],
+            "referred_to": [
+                "Fanomezantsoa71899"
+            ],
             "status": "active",
             "countdown_start_time": "2025-04-19T18:30:41.740762",
             "affiliation_balance": 0,
@@ -1228,7 +1230,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-04-18T12:49:23.530158",
-            "affiliation_balance": 14000,
+            "affiliation_balance": 13000,
             "plan": "Basique"
         },
         {
@@ -1996,7 +1998,7 @@
             "referred_by": "Germain5719\u20ac",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-04-22T17:57:05.115209",
+            "countdown_start_time": "2025-04-11T20:36:53.354831",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
@@ -5552,6 +5554,15 @@
             "countdown_start_time": "2025-04-15T22:19:25.527842",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Fanomezantsoa71899",
+            "android_id": "b79b9eae460b309afbec1496277ed862",
+            "referred_by": "TontonAm6820",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-04-22T17:57:21.698472",
+            "affiliation_balance": 0
         }
     ],
     "references": {
