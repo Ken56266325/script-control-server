@@ -21,7 +21,7 @@
                 "Mazy681080"
             ],
             "status": "active",
-            "countdown_start_time": "2025-04-16T07:32:06.907597",
+            "countdown_start_time": "2025-04-23T08:57:04.687477",
             "affiliation_balance": 10000,
             "android_id": "87911a1e24cfa271928d2c86e29188c5",
             "countdown_paused": false,
@@ -450,7 +450,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-04-19T19:54:35.042224",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 0,
             "countdown_paused": false,
             "plan": "Basique"
         },
@@ -921,7 +921,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-04-19T12:46:02.224220",
-            "affiliation_balance": 4000,
+            "affiliation_balance": 3000,
             "plan": "Basique"
         },
         {
@@ -5587,7 +5587,7 @@
             "referred_by": "Nirinasoa57384",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-04-23T07:50:52.957267",
+            "countdown_start_time": "2025-04-16T04:18:01.408581",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
@@ -5597,7 +5597,7 @@
             "referred_by": "Lantsaniaina57204",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-04-23T08:52:07.253487",
+            "countdown_start_time": "2025-04-16T04:58:10.242039",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
