@@ -3878,7 +3878,8 @@
             "android_id": "29990a5c46febc036a64717818725358",
             "referred_by": null,
             "referred_to": [
-                "Justin351806"
+                "Justin351806",
+                "Judex671920"
             ],
             "status": "active",
             "countdown_start_time": "2025-07-25T00:27:18.413723",
@@ -5631,6 +5632,15 @@
             "countdown_start_time": "2025-04-16T20:25:33.912566",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Judex671920",
+            "android_id": "13b0b1d009cd651f5c35c81c341028fe",
+            "referred_by": "Ronaldin217569",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-04-23T15:55:44.295205",
+            "affiliation_balance": 0
         }
     ],
     "references": {
