@@ -1923,7 +1923,8 @@
                 "Tsila68130",
                 "L\u00f4die57899",
                 "World791922",
-                "Uzumaki67190"
+                "Uzumaki67190",
+                "Fasou6799302"
             ],
             "status": "active",
             "countdown_start_time": "2025-04-13T06:03:36.905599",
@@ -5676,6 +5677,15 @@
             "countdown_start_time": "2025-04-17T19:05:26.395759",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Fasou6799302",
+            "android_id": "8311917773adfa089fb951ab28e6e2cf",
+            "referred_by": "Tsila5819292",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-04-24T12:42:57.539291",
+            "affiliation_balance": 0
         }
     ],
     "references": {
