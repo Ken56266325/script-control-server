@@ -234,7 +234,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-04-23T09:01:52.845458",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "android_id": "e74af1c33b0fd4e7b3ecef900c118751",
             "countdown_paused": false,
             "plan": "Basique"
@@ -3143,8 +3143,8 @@
                 "Yvon6819200"
             ],
             "status": "active",
-            "countdown_start_time": "2025-04-17T19:58:30.296739",
-            "affiliation_balance": 11000,
+            "countdown_start_time": "2025-04-24T19:45:12.538763",
+            "affiliation_balance": 4000,
             "plan": "Basique"
         },
         {
