@@ -3474,7 +3474,8 @@
                 "Miora89131",
                 "Razafimahefa891030",
                 "Itachi67191",
-                "Fameno68130"
+                "Fameno68130",
+                "Rakotozafy681902"
             ],
             "status": "active",
             "countdown_start_time": "2025-04-21T17:18:45.135073",
@@ -5731,6 +5732,15 @@
             "countdown_start_time": "2025-04-18T20:42:24.050407",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Rakotozafy681902",
+            "android_id": "8cba3c3a5bca1249286d367164a3ecfe",
+            "referred_by": "Tsila68130",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-04-25T12:43:01.053676",
+            "affiliation_balance": 0
         }
     ],
     "references": {
