@@ -1926,7 +1926,8 @@
                 "L\u00f4die57899",
                 "World791922",
                 "Uzumaki67190",
-                "Fasou6799302"
+                "Fasou6799302",
+                "Lucky571932"
             ],
             "status": "active",
             "countdown_start_time": "2025-04-13T06:03:36.905599",
@@ -5776,6 +5777,15 @@
             "countdown_start_time": "2025-04-18T23:32:19.838631",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Lucky571932",
+            "android_id": "3e9d969e51dadab2b59e5a0c4e499fb8",
+            "referred_by": "Tsila5819292",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-04-25T15:33:14.049672",
+            "affiliation_balance": 0
         }
     ],
     "references": {
