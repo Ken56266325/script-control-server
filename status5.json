@@ -1359,7 +1359,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-04-23T20:40:07.802105",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -2048,7 +2048,7 @@
                 "Ando6819202"
             ],
             "status": "active",
-            "countdown_start_time": "2025-04-18T13:54:59.374917",
+            "countdown_start_time": "2025-04-25T16:24:49.186011",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
