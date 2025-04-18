@@ -537,7 +537,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-04-20T19:31:13.377659",
-            "affiliation_balance": 4000,
+            "affiliation_balance": 5000,
             "countdown_paused": false,
             "plan": "Basique"
         },
@@ -1534,8 +1534,8 @@
                 "Lovasoa367569"
             ],
             "status": "active",
-            "countdown_start_time": "2025-04-16T00:49:13.130588",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-04-25T15:07:42.443016",
+            "affiliation_balance": 0,
             "plan": "Basique"
         },
         {
