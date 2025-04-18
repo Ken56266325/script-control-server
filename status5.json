@@ -1178,7 +1178,8 @@
                 "Tina681922",
                 "Tahiry581930",
                 "Sedera6810303",
-                "Arison791033"
+                "Arison791033",
+                "Charone68132"
             ],
             "status": "active",
             "countdown_start_time": "2025-04-21T09:04:41.388313",
@@ -5797,6 +5798,15 @@
             "countdown_start_time": "2025-04-19T00:17:14.348341",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Charone68132",
+            "android_id": "707f68e2858d8d0e8ada6d62b0a438ef",
+            "referred_by": "Hoby5826",
+            "referred_to": [],
+            "status": "inactive",
+            "countdown_start_time": "2025-04-25T20:51:27.269656",
+            "affiliation_balance": 0
         }
     ],
     "references": {
