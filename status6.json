@@ -5829,7 +5829,8 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-04-26T20:13:39.100210",
-            "affiliation_balance": 0
+            "affiliation_balance": 0,
+            "plan": "Basique"
         },
         {
             "id": "Mamitina68010301",
