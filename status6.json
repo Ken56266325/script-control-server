@@ -5819,24 +5819,6 @@
             "countdown_start_time": "2025-04-19T05:43:49.536747",
             "affiliation_balance": 0,
             "plan": "Basique"
-        },
-        {
-            "id": "ksks",
-            "android_id": "kzkz",
-            "referred_by": "izkz",
-            "referred_to": [],
-            "status": "active",
-            "countdown_start_time": "2025-04-26T18:17:12.450160",
-            "affiliation_balance": 0
-        },
-        {
-            "id": "izkz",
-            "android_id": "izkzk",
-            "referred_by": "kzkzk",
-            "referred_to": [],
-            "status": "active",
-            "countdown_start_time": "2025-04-26T18:17:50.081226",
-            "affiliation_balance": 0
         }
     ],
     "references": {
