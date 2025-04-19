@@ -1607,7 +1607,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-04-26T09:08:16.913417",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -1812,8 +1812,8 @@
             "referred_by": "Grav69130",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-04-19T14:36:35.331031",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-04-26T14:37:41.751687",
+            "affiliation_balance": 0,
             "plan": "Basique"
         },
         {
