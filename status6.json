@@ -1504,7 +1504,8 @@
                 "Ashley69103710",
                 "Andrianah618391518",
                 "Razakanirina6819482",
-                "Sarah571932"
+                "Sarah571932",
+                "Mamitina68010301"
             ],
             "status": "active",
             "countdown_start_time": "2025-04-21T21:16:19.199288",
@@ -5828,6 +5829,15 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-04-26T20:13:39.100210",
+            "affiliation_balance": 0
+        },
+        {
+            "id": "Mamitina68010301",
+            "android_id": "c4bbf7e61bd14a8a71ceea29a5daf0fa",
+            "referred_by": "Mamitina791402",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-04-26T20:14:38.783531",
             "affiliation_balance": 0
         }
     ],
