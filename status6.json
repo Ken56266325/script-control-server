@@ -662,7 +662,8 @@
                 "Rakoto59102",
                 "Seheno57129",
                 "NelRakoto681930",
-                "Harivola79103"
+                "Harivola79103",
+                "Faneva67193920"
             ],
             "status": "active",
             "countdown_start_time": "2025-04-22T21:29:58.544173",
@@ -5841,6 +5842,15 @@
             "countdown_start_time": "2025-04-20T04:15:06.355012",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Faneva67193920",
+            "android_id": "86beb8ffdc04b1eb4c41c77d7c5eb6a4",
+            "referred_by": "Harimalala58294",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-04-27T08:50:38.454130",
+            "affiliation_balance": 0
         }
     ],
     "references": {
