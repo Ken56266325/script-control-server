@@ -1537,7 +1537,8 @@
                 "Fanantenana79132",
                 "Herilaea68103051040",
                 "Angelo81990",
-                "Lovasoa367569"
+                "Lovasoa367569",
+                "Dafa571930202"
             ],
             "status": "active",
             "countdown_start_time": "2025-04-25T15:07:42.443016",
@@ -5929,6 +5930,15 @@
             "countdown_start_time": "2025-04-29T17:34:49.018334",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Dafa571930202",
+            "android_id": "ffa8d6d30610c06f723c0c10fb234ad7",
+            "referred_by": "Wayne69193",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-04-28T17:40:39.920206",
+            "affiliation_balance": 0
         }
     ],
     "references": {
