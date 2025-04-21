@@ -1234,7 +1234,8 @@
                 "Rija7810320",
                 "Miray519093i0",
                 "Malawi6810321",
-                "Brada7912"
+                "Brada7912",
+                "Juliot79103601"
             ],
             "status": "active",
             "countdown_start_time": "2025-04-25T13:19:33.653343",
@@ -5908,6 +5909,15 @@
             "countdown_start_time": "2025-04-24T10:15:49.350921",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Juliot79103601",
+            "android_id": "6d36859effbb726a7d7eb7a7db5a695f",
+            "referred_by": "Germain5719\u20ac",
+            "referred_to": [],
+            "status": "inactive",
+            "countdown_start_time": "2025-04-28T11:03:35.360610",
+            "affiliation_balance": 0
         }
     ],
     "references": {
