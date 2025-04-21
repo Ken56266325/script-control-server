@@ -2226,7 +2226,8 @@
                 "Robinson781930",
                 "Andrianandraina68193",
                 "Lalaina6910p3",
-                "Andry5718e0"
+                "Andry5718e0",
+                "Mamy68193920"
             ],
             "status": "active",
             "countdown_start_time": "2025-04-23T06:18:48.111502",
@@ -5885,6 +5886,15 @@
             "countdown_start_time": "2025-04-21T17:06:32.067955",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Mamy68193920",
+            "android_id": "84b7b5b06bd157ccc8893858d5b84212",
+            "referred_by": "Fasou5819302",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-04-28T09:21:26.620068",
+            "affiliation_balance": 0
         }
     ],
     "references": {
