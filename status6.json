@@ -3101,7 +3101,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-04-28T10:36:16.025024",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -4475,7 +4475,7 @@
                 "Jeremia571922"
             ],
             "status": "active",
-            "countdown_start_time": "2025-04-21T17:02:03.749051",
+            "countdown_start_time": "2025-04-28T17:53:23.526286",
             "affiliation_balance": 2000,
             "plan": "Basique"
         },
