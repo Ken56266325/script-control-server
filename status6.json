@@ -638,7 +638,8 @@
             "referred_to": [
                 "Namby6819202",
                 "Damasc\u00e8ne6710302",
-                "Tiana79030"
+                "Tiana79030",
+                "Chance69680"
             ],
             "status": "active",
             "countdown_start_time": "2025-04-25T03:43:45.573274",
@@ -5940,6 +5941,15 @@
             "countdown_start_time": "2025-04-22T01:44:20.236902",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Chance69680",
+            "android_id": "cde7287dc223c9d8149bea03f1d82e58",
+            "referred_by": "Tahiry6393",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-04-28T20:10:26.596768",
+            "affiliation_balance": 0
         }
     ],
     "references": {
