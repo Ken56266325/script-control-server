@@ -4507,7 +4507,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-03-29T00:21:04.779692",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -5656,7 +5656,7 @@
             "referred_by": "Ashley69103710",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-04-17T02:22:11.770078",
+            "countdown_start_time": "2025-04-28T11:44:56.434372",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
