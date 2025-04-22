@@ -4169,7 +4169,8 @@
                 "Sarobidy799201oe2",
                 "Pascal90032710",
                 "Patty5831570",
-                "Jeremie571e99"
+                "Jeremie571e99",
+                "Bambi68193020"
             ],
             "status": "active",
             "countdown_start_time": "2025-04-25T01:57:51.779622",
@@ -5996,6 +5997,15 @@
             "countdown_start_time": "2025-04-22T17:16:44.110234",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Bambi68193020",
+            "android_id": "e9a48b527ace5f6ffa254bd746f14c22",
+            "referred_by": "Pass58190",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-04-29T13:13:31.162715",
+            "affiliation_balance": 0
         }
     ],
     "references": {
