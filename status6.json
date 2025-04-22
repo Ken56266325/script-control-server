@@ -6041,6 +6041,15 @@
             "countdown_start_time": "2025-04-22T23:12:40.162964",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "L'honneur68100e02",
+            "android_id": "f695e28e52e4f1e1cba717985dbaeaec",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-04-29T15:16:18.148993",
+            "affiliation_balance": 0
         }
     ],
     "references": {
