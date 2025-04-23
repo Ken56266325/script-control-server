@@ -4130,7 +4130,8 @@
                 "Jackeline5789",
                 "Herifenitra68103920",
                 "Babyy68192920",
-                "J\u00f4van68193920"
+                "J\u00f4van68193920",
+                "Rangilo5819302"
             ],
             "status": "active",
             "countdown_start_time": "2025-04-23T20:42:29.273103",
@@ -6084,6 +6085,15 @@
             "countdown_start_time": "2025-04-23T17:07:44.796270",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Rangilo5819302",
+            "android_id": "993fbaddba44db6cbd50bec08cfe8652",
+            "referred_by": "Damasc\u00e8ne6710302",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-04-30T09:13:51.216640",
+            "affiliation_balance": 0
         }
     ],
     "references": {
