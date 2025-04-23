@@ -7,7 +7,7 @@
             "referred_to": [],
             "countdown_start_time": "2025-04-25T14:36:26.733547",
             "android_id": "6b58be3f2531d1a61759928a41bf0e4e",
-            "countdown_paused": false,
+            "countdown_paused": true,
             "plan": "Basique"
         },
         {
@@ -24,7 +24,7 @@
             "countdown_start_time": "2025-05-01T21:14:50.181849",
             "affiliation_balance": 12000,
             "android_id": "87911a1e24cfa271928d2c86e29188c5",
-            "countdown_paused": false,
+            "countdown_paused": true,
             "plan": "VIP"
         },
         {
@@ -34,7 +34,7 @@
             "status": "active",
             "countdown_start_time": "2025-07-19T11:59:01.177207",
             "android_id": "1f4093bd28f7152ce63451d3a72746d4",
-            "countdown_paused": false,
+            "countdown_paused": true,
             "plan": "Basique",
             "affiliation_balance": 0
         },
@@ -50,7 +50,7 @@
             "android_id": "d099fb72fa1d28a5627ff511b88111f7",
             "plan": "Basique",
             "paused_at": null,
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "viviane2367",
@@ -64,7 +64,7 @@
             "countdown_start_time": "2025-02-19T07:33:24.556493",
             "affiliation_balance": 9000,
             "android_id": "dc1ba5e41a314a307d179fc9b5932c33",
-            "countdown_paused": false,
+            "countdown_paused": true,
             "plan": "Basique"
         },
         {
@@ -74,7 +74,7 @@
             "status": "active",
             "countdown_start_time": "2025-04-23T19:09:19.201727",
             "affiliation_balance": 0,
-            "countdown_paused": false,
+            "countdown_paused": true,
             "plan": "Basique",
             "android_id": "b92b0079eaf9c52de1fde6e1de8d35e8"
         },
@@ -89,7 +89,7 @@
             "countdown_start_time": "2025-04-30T06:45:53.372912",
             "affiliation_balance": 0,
             "android_id": "d8b9616100a74a27fbf852a7fb7857b8",
-            "countdown_paused": false,
+            "countdown_paused": true,
             "plan": "Basique"
         },
         {
@@ -104,7 +104,7 @@
             "countdown_start_time": "2025-04-27T19:11:55.637659",
             "affiliation_balance": 1000,
             "android_id": "69d1cd8860c9981fe73891d313c8088d",
-            "countdown_paused": false,
+            "countdown_paused": true,
             "plan": "Basique"
         },
         {
@@ -117,7 +117,7 @@
             "countdown_start_time": "2025-04-29T20:45:28.971017",
             "affiliation_balance": 4000,
             "android_id": "19e098cc342893aa43c837c95291f0de",
-            "countdown_paused": false,
+            "countdown_paused": true,
             "plan": "Basique"
         },
         {
@@ -130,7 +130,7 @@
             "countdown_start_time": "2025-04-23T16:35:17.543986",
             "affiliation_balance": 0,
             "android_id": "9093ba10d8d1d052127427c4338e55e9",
-            "countdown_paused": false,
+            "countdown_paused": true,
             "plan": "Basique"
         },
         {
@@ -198,7 +198,7 @@
             "countdown_start_time": "2025-04-24T05:53:21.377264",
             "affiliation_balance": 1000,
             "android_id": "c4665ee227bd5513d44e32d4d69a242c",
-            "countdown_paused": false,
+            "countdown_paused": true,
             "plan": "Basique"
         },
         {
@@ -209,7 +209,7 @@
             "countdown_start_time": "2025-04-24T18:32:26.824059",
             "affiliation_balance": 0,
             "android_id": "3d69acd82a47ca03e85aac071618d166",
-            "countdown_paused": false,
+            "countdown_paused": true,
             "plan": "Basique"
         },
         {
@@ -220,7 +220,7 @@
             "countdown_start_time": "2025-04-28T20:23:40.692227",
             "affiliation_balance": 0,
             "android_id": "6d28c59b078bda883f9f88307ce74b02",
-            "countdown_paused": false,
+            "countdown_paused": true,
             "plan": "Basique"
         },
         {
@@ -237,7 +237,7 @@
             "countdown_start_time": "2025-04-30T09:44:05.414492",
             "affiliation_balance": 0,
             "android_id": "e74af1c33b0fd4e7b3ecef900c118751",
-            "countdown_paused": false,
+            "countdown_paused": true,
             "plan": "Basique"
         },
         {
@@ -248,7 +248,7 @@
             "countdown_start_time": "2025-04-24T13:51:10.581852",
             "affiliation_balance": 0,
             "android_id": "0783924e00f3596fa3312ca53853d647",
-            "countdown_paused": false,
+            "countdown_paused": true,
             "plan": "Basique"
         },
         {
@@ -285,7 +285,7 @@
             "countdown_start_time": "2025-04-12T07:19:38.459801",
             "affiliation_balance": 48000,
             "android_id": "24e6c12d88d27aba84a80b1d0c821285",
-            "countdown_paused": false,
+            "countdown_paused": true,
             "plan": "Basique"
         },
         {
@@ -296,7 +296,7 @@
             "countdown_start_time": "2025-04-27T08:55:07.864355",
             "affiliation_balance": 0,
             "android_id": "0867a56330418ec2c114360c52d2d026",
-            "countdown_paused": false,
+            "countdown_paused": true,
             "plan": "Basique"
         },
         {
@@ -307,7 +307,7 @@
             "countdown_start_time": "2025-04-28T10:01:36.737528",
             "affiliation_balance": 0,
             "android_id": "b2d842afb31b54249a259ebebe53aed0",
-            "countdown_paused": false,
+            "countdown_paused": true,
             "plan": "Basique"
         },
         {
@@ -321,7 +321,7 @@
             "countdown_start_time": "2025-04-25T11:06:11.266845",
             "affiliation_balance": 0,
             "android_id": "59b06a4026ee0cc6fdbed97e7830a4da",
-            "countdown_paused": false,
+            "countdown_paused": true,
             "plan": "Basique"
         },
         {
@@ -344,7 +344,7 @@
             "countdown_start_time": "2025-04-29T20:53:22.289101",
             "affiliation_balance": 4200,
             "android_id": "56f274f07f0875f8f4c28f68451427e0",
-            "countdown_paused": false,
+            "countdown_paused": true,
             "plan": "Basique"
         },
         {
@@ -355,7 +355,7 @@
             "countdown_start_time": "2025-04-29T20:54:42.952591",
             "affiliation_balance": 0,
             "android_id": "e2e0864fc845e90db28f238fb1860c8c",
-            "countdown_paused": false,
+            "countdown_paused": true,
             "plan": "Basique"
         },
         {
@@ -371,7 +371,7 @@
             "countdown_start_time": "2025-04-23T17:47:00.544559",
             "affiliation_balance": 1000,
             "android_id": "701cae64f05e1d4683d2972cefe41cab",
-            "countdown_paused": false,
+            "countdown_paused": true,
             "plan": "Basique"
         },
         {
@@ -382,7 +382,7 @@
             "countdown_start_time": "2025-04-28T17:56:58.223482",
             "affiliation_balance": 0,
             "android_id": "5df83a9e9fdbbe9025f8775258c306bd",
-            "countdown_paused": false,
+            "countdown_paused": true,
             "plan": "Basique"
         },
         {
@@ -393,7 +393,7 @@
             "countdown_start_time": "2025-04-25T02:11:02.667893",
             "affiliation_balance": 0,
             "android_id": "adb0ebb6cf7439ff356a8a71e3e6cdaa",
-            "countdown_paused": false,
+            "countdown_paused": true,
             "plan": "Basique"
         },
         {
@@ -405,7 +405,7 @@
             "affiliation_balance": 0,
             "android_id": "583e973065e6ac1cfbda38afc9bb6e62",
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Zafimimi38940",
@@ -414,7 +414,7 @@
             "status": "active",
             "countdown_start_time": "2025-04-24T08:15:11.718131",
             "affiliation_balance": 0,
-            "countdown_paused": false,
+            "countdown_paused": true,
             "plan": "Basique",
             "android_id": "3df0c9a74b11130bb5ba2e5cfaf2d37d"
         },
@@ -426,7 +426,7 @@
             "countdown_start_time": "2025-03-31T09:43:28.890566",
             "affiliation_balance": 0,
             "android_id": "e8acaaa9b54af8d760b6d9a846ec7bcd",
-            "countdown_paused": false,
+            "countdown_paused": true,
             "plan": "Basique"
         },
         {
@@ -439,7 +439,7 @@
             "countdown_start_time": "2025-03-06T13:14:17.791508",
             "affiliation_balance": 6000,
             "android_id": "9c8e403dc492cca4fe015b4bf4a3fb2d",
-            "countdown_paused": false,
+            "countdown_paused": true,
             "plan": "Basique"
         },
         {
@@ -452,7 +452,7 @@
             "status": "active",
             "countdown_start_time": "2025-04-26T19:50:07.060545",
             "affiliation_balance": 1000,
-            "countdown_paused": false,
+            "countdown_paused": true,
             "plan": "Basique"
         },
         {
@@ -463,7 +463,7 @@
             "status": "active",
             "countdown_start_time": "2025-04-28T20:26:32.003399",
             "affiliation_balance": 0,
-            "countdown_paused": false,
+            "countdown_paused": true,
             "plan": "Basique"
         },
         {
@@ -476,7 +476,7 @@
             "status": "active",
             "countdown_start_time": "2025-04-29T00:24:53.113111",
             "affiliation_balance": 0,
-            "countdown_paused": false,
+            "countdown_paused": true,
             "plan": "Basique"
         },
         {
@@ -492,7 +492,7 @@
             "status": "active",
             "countdown_start_time": "2025-04-24T22:07:15.388979",
             "affiliation_balance": 2000,
-            "countdown_paused": false,
+            "countdown_paused": true,
             "plan": "Basique"
         },
         {
@@ -503,7 +503,7 @@
             "status": "active",
             "countdown_start_time": "2025-04-29T16:12:37.123020",
             "affiliation_balance": 0,
-            "countdown_paused": false,
+            "countdown_paused": true,
             "plan": "Basique"
         },
         {
@@ -514,7 +514,7 @@
             "status": "active",
             "countdown_start_time": "2025-04-29T16:08:31.452300",
             "affiliation_balance": 0,
-            "countdown_paused": false,
+            "countdown_paused": true,
             "plan": "Basique"
         },
         {
@@ -525,7 +525,7 @@
             "status": "active",
             "countdown_start_time": "2026-06-06T19:15:00.398897",
             "affiliation_balance": 0,
-            "countdown_paused": false,
+            "countdown_paused": true,
             "plan": "Basique"
         },
         {
@@ -539,7 +539,7 @@
             "status": "active",
             "countdown_start_time": "2025-04-27T19:40:29.841179",
             "affiliation_balance": 0,
-            "countdown_paused": false,
+            "countdown_paused": true,
             "plan": "Basique"
         },
         {
@@ -552,7 +552,7 @@
             "status": "active",
             "countdown_start_time": "2025-04-28T16:46:46.740399",
             "affiliation_balance": 1000,
-            "countdown_paused": false,
+            "countdown_paused": true,
             "plan": "Basique"
         },
         {
@@ -563,7 +563,7 @@
             "status": "active",
             "countdown_start_time": "2025-04-26T16:09:15.919901",
             "affiliation_balance": 0,
-            "countdown_paused": false,
+            "countdown_paused": true,
             "plan": "Basique"
         },
         {
@@ -574,7 +574,7 @@
             "status": "active",
             "countdown_start_time": "2025-04-25T10:00:48.859620",
             "affiliation_balance": 0,
-            "countdown_paused": false,
+            "countdown_paused": true,
             "plan": "Basique"
         },
         {
@@ -585,7 +585,7 @@
             "status": "active",
             "countdown_start_time": "2025-04-23T18:50:52.347713",
             "affiliation_balance": 0,
-            "countdown_paused": false,
+            "countdown_paused": true,
             "plan": "Basique"
         },
         {
@@ -597,7 +597,7 @@
             "countdown_start_time": "2025-04-22T14:17:38.676461",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Emmanuel1",
@@ -617,7 +617,7 @@
             "status": "active",
             "countdown_start_time": "2025-04-22T22:32:56.633457",
             "affiliation_balance": 4000,
-            "countdown_paused": false,
+            "countdown_paused": true,
             "plan": "Basique"
         },
         {
@@ -629,7 +629,7 @@
             "countdown_start_time": "2025-04-27T09:41:56.452738",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Tahiry6393",
@@ -645,7 +645,7 @@
             "countdown_start_time": "2025-04-25T03:43:45.573274",
             "affiliation_balance": 2000,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "@Dylangh",
@@ -656,7 +656,7 @@
             "countdown_start_time": "2025-04-07T13:10:51.346534",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Harimalala58294",
@@ -675,7 +675,7 @@
             "countdown_start_time": "2025-04-30T07:44:11.201065",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Nantenaina7204",
@@ -686,7 +686,7 @@
             "countdown_start_time": "2025-04-30T07:29:15.130873",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Carlos68301",
@@ -699,7 +699,7 @@
             "countdown_start_time": "2025-04-24T12:45:44.299069",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Nasaina5776",
@@ -717,7 +717,7 @@
             "countdown_start_time": "2025-04-29T20:48:36.937249",
             "affiliation_balance": 4000,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Miki5739",
@@ -736,7 +736,7 @@
             "countdown_start_time": "2025-04-23T22:41:56.597529",
             "affiliation_balance": 5000,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "TontonAm6820",
@@ -749,7 +749,7 @@
             "countdown_start_time": "2025-04-27T13:48:19.302953",
             "affiliation_balance": 1000,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Doda6920",
@@ -766,7 +766,7 @@
             "countdown_start_time": "2025-04-27T09:08:51.453812",
             "affiliation_balance": 3000,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Onja6839",
@@ -777,7 +777,7 @@
             "countdown_start_time": "2025-04-26T23:15:03.457123",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Ir\u00e8ne5720",
@@ -788,7 +788,7 @@
             "countdown_start_time": "2025-04-30T09:40:28.491065",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Mione5719",
@@ -799,7 +799,7 @@
             "countdown_start_time": "2025-04-30T07:31:01.748731",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "eugenie58293",
@@ -810,7 +810,7 @@
             "countdown_start_time": "2025-04-21T21:21:51.567262",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Herininakely5830",
@@ -834,7 +834,7 @@
             "countdown_start_time": "2025-04-24T07:03:54.411782",
             "affiliation_balance": 6000,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Vonjy51930",
@@ -845,7 +845,7 @@
             "countdown_start_time": "2025-03-11T20:03:03.113302",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Hugue5824",
@@ -856,7 +856,7 @@
             "countdown_start_time": "2025-04-27T20:56:49.022492",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Hajawaka5729",
@@ -867,7 +867,7 @@
             "countdown_start_time": "2025-01-24T10:59:36.947160",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Louis5634",
@@ -881,7 +881,7 @@
             "countdown_start_time": "2025-04-29T21:42:09.786184",
             "affiliation_balance": 1000,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Saint5293",
@@ -892,7 +892,7 @@
             "countdown_start_time": "2025-02-26T17:33:07.477292",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Bernard5729",
@@ -903,7 +903,7 @@
             "countdown_start_time": "2025-03-02T20:05:29.040099",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Sitraka5730",
@@ -914,7 +914,7 @@
             "countdown_start_time": "2025-04-30T09:30:53.133900",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Travailko564",
@@ -925,7 +925,7 @@
             "countdown_start_time": "2025-02-18T17:10:34.454070",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Rojoniaina5813",
@@ -936,7 +936,7 @@
             "countdown_start_time": "2025-02-12T10:51:18.172707",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Lantsaniaina57204",
@@ -953,7 +953,7 @@
             "countdown_start_time": "2025-04-26T14:02:29.401395",
             "affiliation_balance": 2000,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Manitriniaina58193",
@@ -964,7 +964,7 @@
             "countdown_start_time": "2025-04-24T09:41:41.884372",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Valerya6013",
@@ -975,7 +975,7 @@
             "countdown_start_time": "2025-04-24T06:14:05.653425",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Niel's",
@@ -986,7 +986,7 @@
             "countdown_start_time": "2025-02-07T08:56:53.286796",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Rop91022",
@@ -997,7 +997,7 @@
             "countdown_start_time": "2025-04-25T16:16:28.648646",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "2",
@@ -1010,7 +1010,7 @@
             "countdown_start_time": "2025-04-20T02:02:25.955119",
             "affiliation_balance": 2000,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Brichard1038",
@@ -1021,7 +1021,7 @@
             "countdown_start_time": "2025-04-24T02:23:28.605359",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Marcel10325",
@@ -1034,7 +1034,7 @@
             "countdown_start_time": "2025-04-27T18:17:13.827075",
             "affiliation_balance": 2000,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Hanma5638",
@@ -1045,7 +1045,7 @@
             "countdown_start_time": "2025-04-26T19:23:44.544058",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Andredi1032",
@@ -1056,7 +1056,7 @@
             "countdown_start_time": "2025-04-28T19:41:17.097200",
             "affiliation_balance": 0,
             "plan": "VIP",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Rebeka5258",
@@ -1067,7 +1067,7 @@
             "countdown_start_time": "2025-04-22T09:56:40.127884",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Fabienne1382",
@@ -1078,7 +1078,7 @@
             "countdown_start_time": "2025-03-20T10:31:32.609189",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Hatake10372",
@@ -1089,7 +1089,7 @@
             "countdown_start_time": "2025-04-29T20:51:02.798013",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Victorine4876",
@@ -1100,7 +1100,7 @@
             "countdown_start_time": "2025-04-23T05:29:17.978258",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Lanja2847",
@@ -1111,7 +1111,7 @@
             "countdown_start_time": "2025-04-28T09:07:21.929519",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Gaelode10361",
@@ -1126,7 +1126,7 @@
             "countdown_start_time": "2025-04-22T18:56:45.437645",
             "affiliation_balance": 5000,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Vakilaaa10\u20ac7",
@@ -1139,7 +1139,7 @@
             "countdown_start_time": "2025-04-23T23:08:21.471418",
             "affiliation_balance": 3000,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Tahina59132",
@@ -1150,7 +1150,7 @@
             "countdown_start_time": "2025-04-14T11:23:22.493909",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Luc51942",
@@ -1161,7 +1161,7 @@
             "countdown_start_time": "2025-04-26T10:04:49.452805",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Mandresy241632",
@@ -1180,7 +1180,7 @@
             "countdown_start_time": "2025-04-24T00:07:32.777100",
             "affiliation_balance": 3000,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Rojoniaina1379",
@@ -1191,7 +1191,7 @@
             "countdown_start_time": "2025-04-24T19:04:41.569876",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Hardy157204",
@@ -1204,7 +1204,7 @@
             "countdown_start_time": "2025-04-25T22:50:50.655860",
             "affiliation_balance": 1000,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Danny59173",
@@ -1215,7 +1215,7 @@
             "countdown_start_time": "2025-04-27T20:41:27.576185",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Hoby5826",
@@ -1237,7 +1237,7 @@
             "countdown_start_time": "2025-04-21T09:04:41.388313",
             "affiliation_balance": 9000,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Olivoliv57152",
@@ -1248,7 +1248,7 @@
             "countdown_start_time": "2025-04-24T07:51:53.369907",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Germain5719\u20ac",
@@ -1292,7 +1292,7 @@
             "countdown_start_time": "2025-04-25T13:19:33.653343",
             "affiliation_balance": 12000,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Shogun581930",
@@ -1303,7 +1303,7 @@
             "countdown_start_time": "2025-04-26T20:14:01.203923",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Narindra58193",
@@ -1314,7 +1314,7 @@
             "countdown_start_time": "2025-04-26T20:13:04.251123",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Da6518\u20ac92",
@@ -1325,7 +1325,7 @@
             "countdown_start_time": "2025-04-23T21:08:45.032343",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Tanjona5738",
@@ -1338,7 +1338,7 @@
             "countdown_start_time": "2025-04-24T21:38:17.743704",
             "affiliation_balance": 1000,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Patty2751932",
@@ -1349,7 +1349,7 @@
             "countdown_start_time": "2025-04-24T22:10:46.174990",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Luc581032",
@@ -1360,7 +1360,7 @@
             "countdown_start_time": "2025-02-01T01:43:47.446863",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Tahina59173",
@@ -1371,7 +1371,7 @@
             "countdown_start_time": "2025-02-01T01:45:01.829203",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Michel51032",
@@ -1382,7 +1382,7 @@
             "countdown_start_time": "2025-04-28T15:32:54.489349",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Bolida50172",
@@ -1393,7 +1393,7 @@
             "countdown_start_time": "2025-04-20T16:24:06.331294",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Elysa59102",
@@ -1404,7 +1404,7 @@
             "countdown_start_time": "2025-02-01T01:56:57.493621",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Rall130103",
@@ -1415,7 +1415,7 @@
             "countdown_start_time": "2025-03-20T08:16:25.244946",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Raymond59130",
@@ -1429,7 +1429,7 @@
             "countdown_start_time": "2025-04-23T20:40:07.802105",
             "affiliation_balance": 2000,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Claudia501\u20ac2",
@@ -1443,7 +1443,7 @@
             "countdown_start_time": "2025-04-28T18:09:43.463256",
             "affiliation_balance": 2000,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Nini60132",
@@ -1454,7 +1454,7 @@
             "countdown_start_time": "2025-04-30T07:26:48.067767",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Tan591043",
@@ -1465,7 +1465,7 @@
             "countdown_start_time": "2025-04-22T18:26:58.372140",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Fitiavana59120",
@@ -1476,7 +1476,7 @@
             "countdown_start_time": "2025-04-21T21:16:24.350724",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "David69132",
@@ -1489,7 +1489,7 @@
             "countdown_start_time": "2025-04-22T17:32:43.200255",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Princia591730",
@@ -1500,7 +1500,7 @@
             "countdown_start_time": "2025-02-11T18:27:38.531180",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Escag\u00e9s591732",
@@ -1511,7 +1511,7 @@
             "countdown_start_time": "2025-04-23T17:07:13.864249",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Fitiavana57193",
@@ -1522,7 +1522,7 @@
             "countdown_start_time": "2025-02-10T20:25:01.418006",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Faneva69103",
@@ -1533,7 +1533,7 @@
             "countdown_start_time": "2025-04-22T14:52:14.167409",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "juvet5913",
@@ -1544,7 +1544,7 @@
             "countdown_start_time": "2025-02-25T06:15:53.512530",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Rivomanana69142",
@@ -1555,7 +1555,7 @@
             "countdown_start_time": "2025-04-30T07:19:10.299961",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Tsiresy71932",
@@ -1568,7 +1568,7 @@
             "countdown_start_time": "2025-04-26T12:53:20.014330",
             "affiliation_balance": 2000,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Mamitina791402",
@@ -1591,7 +1591,7 @@
             "countdown_start_time": "2025-04-29T07:45:55.211197",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Tsiory6816219",
@@ -1602,7 +1602,7 @@
             "countdown_start_time": "2025-03-29T19:25:18.775593",
             "affiliation_balance": -7000,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Wayne69193",
@@ -1622,7 +1622,7 @@
             "countdown_start_time": "2025-04-25T15:07:42.443016",
             "affiliation_balance": 5000,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Mbolatiana591021",
@@ -1633,7 +1633,7 @@
             "countdown_start_time": "2025-02-18T14:04:06.934541",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Mama5656",
@@ -1644,7 +1644,7 @@
             "countdown_start_time": "4489-04-20T10:55:58.219106",
             "affiliation_balance": 0,
             "plan": "VIP",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Robelina69173",
@@ -1655,7 +1655,7 @@
             "countdown_start_time": "2025-04-29T12:17:45.433416",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Juckelly58103",
@@ -1669,7 +1669,7 @@
             "countdown_start_time": "2025-04-23T13:06:17.083880",
             "affiliation_balance": 1000,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Rovasoa69193",
@@ -1680,7 +1680,7 @@
             "countdown_start_time": "2025-04-29T20:31:36.291655",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Grav69130",
@@ -1699,7 +1699,7 @@
             "countdown_start_time": "2025-04-27T09:18:20.710033",
             "affiliation_balance": 1000,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Mampionona69103",
@@ -1710,7 +1710,7 @@
             "countdown_start_time": "2025-04-29T21:13:21.333541",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Nomena519302",
@@ -1721,7 +1721,7 @@
             "countdown_start_time": "2025-04-25T11:21:04.890197",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Triomphe681920",
@@ -1732,7 +1732,7 @@
             "countdown_start_time": "2025-02-18T22:14:20.683099",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Manohisoa591030",
@@ -1743,7 +1743,7 @@
             "countdown_start_time": "2025-04-23T05:14:11.424489",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Tolonjanahary68103",
@@ -1754,7 +1754,7 @@
             "countdown_start_time": "2025-02-22T08:58:12.169712",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Sarobidiniaina69193",
@@ -1765,7 +1765,7 @@
             "countdown_start_time": "2025-04-26T20:13:35.350922",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Marianoh59103",
@@ -1776,7 +1776,7 @@
             "countdown_start_time": "2025-04-12T20:38:35.832796",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "3",
@@ -1786,7 +1786,7 @@
             "status": "active",
             "countdown_start_time": "2025-02-13T07:19:00.141817",
             "affiliation_balance": 0,
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Fabio59103",
@@ -1801,7 +1801,7 @@
             "countdown_start_time": "2025-04-25T20:39:10.081107",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Misey69103",
@@ -1812,7 +1812,7 @@
             "countdown_start_time": "2025-04-12T19:39:37.904548",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Mama58103",
@@ -1823,7 +1823,7 @@
             "countdown_start_time": "2052-06-23T17:05:23.326124",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "SNeddie58103",
@@ -1841,7 +1841,7 @@
             "countdown_start_time": "2025-04-27T05:43:23.628642",
             "affiliation_balance": 6000,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Mampionona58103",
@@ -1852,7 +1852,7 @@
             "countdown_start_time": "2025-04-25T08:07:40.998561",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Styve4709",
@@ -1867,7 +1867,7 @@
             "countdown_start_time": "2025-03-22T12:53:56.427296",
             "affiliation_balance": 1000,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Nanouh6819303",
@@ -1880,7 +1880,7 @@
             "countdown_start_time": "2025-04-24T11:07:35.117464",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "YvanoChri581030",
@@ -1893,7 +1893,7 @@
             "countdown_start_time": "2025-04-27T07:17:01.376154",
             "affiliation_balance": 1000,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Marie581032",
@@ -1904,7 +1904,7 @@
             "countdown_start_time": "2025-02-07T14:58:50.756697",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "JassBoy58103",
@@ -1915,7 +1915,7 @@
             "countdown_start_time": "2025-04-27T17:15:51.410579",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Donatien58193",
@@ -1930,7 +1930,7 @@
             "countdown_start_time": "2025-04-26T01:17:00.127866",
             "affiliation_balance": 1000,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Rakoto59102",
@@ -1944,7 +1944,7 @@
             "countdown_start_time": "2025-04-27T09:28:03.885905",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Rovaniaina7810e",
@@ -1955,7 +1955,7 @@
             "countdown_start_time": "2025-02-24T07:27:52.632462",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Tsilavina68192",
@@ -1968,7 +1968,7 @@
             "countdown_start_time": "2025-04-30T07:12:30.456044",
             "affiliation_balance": 4000,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "RanofaAuto",
@@ -1982,7 +1982,7 @@
             "countdown_start_time": "2025-04-22T16:26:03.366336",
             "affiliation_balance": 2000,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Laurent58193",
@@ -1993,7 +1993,7 @@
             "countdown_start_time": "2025-04-29T07:40:09.797062",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Bienvenue51909",
@@ -2004,7 +2004,7 @@
             "countdown_start_time": "2025-04-26T16:15:42.831855",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Liakakely57180",
@@ -2015,7 +2015,7 @@
             "countdown_start_time": "2025-04-30T09:14:06.669709",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "1",
@@ -2026,7 +2026,7 @@
             "countdown_start_time": "2025-03-24T17:57:30.901276",
             "affiliation_balance": 6000,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Tsila5819292",
@@ -2044,7 +2044,7 @@
             "countdown_start_time": "2025-04-13T06:03:36.905599",
             "affiliation_balance": 5000,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Tafita58192",
@@ -2058,7 +2058,7 @@
             "countdown_start_time": "2025-04-17T17:46:05.239250",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Andriamahefa58103",
@@ -2082,7 +2082,7 @@
             "countdown_start_time": "2025-04-24T11:14:20.333805",
             "affiliation_balance": 16000,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Seheno57129",
@@ -2093,7 +2093,7 @@
             "countdown_start_time": "2025-04-23T17:47:19.605013",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Herimada68192",
@@ -2104,7 +2104,7 @@
             "countdown_start_time": "2025-04-30T08:28:04.459481",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Bakolimalala681910",
@@ -2115,7 +2115,7 @@
             "countdown_start_time": "2025-04-26T20:00:14.478426",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Tsilavina7913",
@@ -2126,7 +2126,7 @@
             "countdown_start_time": "2025-04-23T14:52:53.721942",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Lje5819e",
@@ -2137,7 +2137,7 @@
             "countdown_start_time": "2025-02-19T11:30:30.091372",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Laria68929",
@@ -2148,7 +2148,7 @@
             "countdown_start_time": "2025-04-29T09:20:10.507139",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Emillie68103",
@@ -2159,7 +2159,7 @@
             "countdown_start_time": "2025-04-26T15:34:17.427818",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Nathalia67193",
@@ -2172,7 +2172,7 @@
             "countdown_start_time": "2025-04-25T16:24:49.186011",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Ravaly68193",
@@ -2183,7 +2183,7 @@
             "countdown_start_time": "2025-04-19T20:30:28.892692",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Razanabary581022",
@@ -2194,7 +2194,7 @@
             "countdown_start_time": "2025-02-14T00:18:15.075773",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Victory57993",
@@ -2207,7 +2207,7 @@
             "countdown_start_time": "2025-03-29T16:19:30.854598",
             "affiliation_balance": 5000,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Lenanido58193",
@@ -2218,7 +2218,7 @@
             "countdown_start_time": "2025-02-15T03:07:38.163958",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Mamy6795",
@@ -2231,7 +2231,7 @@
             "countdown_start_time": "2025-04-28T21:14:42.842560",
             "affiliation_balance": 1000,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Christian58194",
@@ -2244,7 +2244,7 @@
             "countdown_start_time": "2025-04-14T15:34:16.012944",
             "affiliation_balance": 8000,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Rasta681030",
@@ -2258,7 +2258,7 @@
             "countdown_start_time": "2025-04-28T15:09:31.497966",
             "affiliation_balance": 4000,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Valisoa681930",
@@ -2269,7 +2269,7 @@
             "countdown_start_time": "2025-02-15T20:30:25.403182",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Fran\u00e7ois57193",
@@ -2280,7 +2280,7 @@
             "countdown_start_time": "2025-02-15T22:24:45.138547",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Rosalie6893",
@@ -2291,7 +2291,7 @@
             "countdown_start_time": "2025-04-27T18:54:17.888826",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Avotra4719302",
@@ -2302,7 +2302,7 @@
             "countdown_start_time": "2025-04-29T08:09:30.436297",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Randria571932",
@@ -2313,7 +2313,7 @@
             "countdown_start_time": "2025-04-17T18:26:14.650799",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Ando6819202",
@@ -2324,7 +2324,7 @@
             "countdown_start_time": "2025-02-16T06:56:40.659185",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Johnica672930",
@@ -2335,7 +2335,7 @@
             "countdown_start_time": "2025-04-24T14:14:47.332448",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "NelRakoto681930",
@@ -2346,7 +2346,7 @@
             "countdown_start_time": "2025-04-28T20:34:56.818541",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Fasou5819302",
@@ -2367,7 +2367,7 @@
             "countdown_start_time": "2025-04-30T08:59:36.171449",
             "affiliation_balance": 7000,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "SannyDeem5790",
@@ -2378,7 +2378,7 @@
             "countdown_start_time": "2025-02-17T02:46:04.873515",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Smiley571902e",
@@ -2389,7 +2389,7 @@
             "countdown_start_time": "2025-04-16T08:16:46.975283",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Nantenaina6810301",
@@ -2407,7 +2407,7 @@
             "countdown_start_time": "2025-04-19T20:51:22.817106",
             "affiliation_balance": 1000,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Fran\u00e7ois6819302",
@@ -2418,7 +2418,7 @@
             "countdown_start_time": "2025-04-29T13:19:53.436864",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Bru6819302",
@@ -2435,7 +2435,7 @@
             "countdown_start_time": "2025-04-30T09:30:15.756305",
             "affiliation_balance": 2000,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Eriande5819302",
@@ -2446,7 +2446,7 @@
             "countdown_start_time": "2025-04-20T05:56:12.599520",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Lucien6810302",
@@ -2457,7 +2457,7 @@
             "countdown_start_time": "2025-04-24T12:18:11.771165",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "JusVip58199320",
@@ -2468,7 +2468,7 @@
             "countdown_start_time": "2025-04-25T13:55:42.710380",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Tsitohaina581932",
@@ -2479,7 +2479,7 @@
             "countdown_start_time": "2025-04-24T15:23:32.306938",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Fran\u00e7ia57193",
@@ -2490,7 +2490,7 @@
             "countdown_start_time": "2025-04-29T21:29:49.681358",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Andry6719302",
@@ -2501,7 +2501,7 @@
             "countdown_start_time": "2025-04-30T07:25:52.301659",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Mihasini7819202",
@@ -2512,7 +2512,7 @@
             "countdown_start_time": "2025-04-30T09:24:31.502021",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Jems781922",
@@ -2523,7 +2523,7 @@
             "countdown_start_time": "2025-04-24T14:30:00.425117",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Marina671922",
@@ -2534,7 +2534,7 @@
             "countdown_start_time": "2025-04-24T08:20:05.622925",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Rova69192",
@@ -2545,7 +2545,7 @@
             "countdown_start_time": "2025-04-28T17:41:50.116350",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Rrinah68192",
@@ -2556,7 +2556,7 @@
             "countdown_start_time": "2025-04-27T21:59:50.776479",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Maminiaina79192",
@@ -2567,7 +2567,7 @@
             "countdown_start_time": "2025-02-27T11:19:51.646317",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Setra68189",
@@ -2578,7 +2578,7 @@
             "countdown_start_time": "2025-04-24T16:27:33.664603",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Mbaeva791030",
@@ -2589,7 +2589,7 @@
             "countdown_start_time": "2025-04-25T12:03:51.435991",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Antonia681930",
@@ -2600,7 +2600,7 @@
             "countdown_start_time": "2025-04-08T15:18:31.048180",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Laivao890202",
@@ -2611,7 +2611,7 @@
             "countdown_start_time": "2025-04-24T20:12:10.076593",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Tokiniaina78103",
@@ -2622,7 +2622,7 @@
             "countdown_start_time": "2025-03-18T16:47:59.876830",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Tina681922",
@@ -2644,7 +2644,7 @@
             "countdown_start_time": "2025-04-29T10:00:59.573886",
             "affiliation_balance": 4000,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Arijaona79124",
@@ -2663,7 +2663,7 @@
             "countdown_start_time": "2025-04-29T09:46:55.650193",
             "affiliation_balance": 5000,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Junior68193",
@@ -2684,7 +2684,7 @@
             "countdown_start_time": "2025-04-25T20:12:02.702527",
             "affiliation_balance": 2000,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Mazy681080",
@@ -2695,7 +2695,7 @@
             "countdown_start_time": "2025-04-25T15:31:31.482175",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Rosa7910z01",
@@ -2706,7 +2706,7 @@
             "countdown_start_time": "2025-04-29T21:30:06.267092",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Floremma89102",
@@ -2721,7 +2721,7 @@
             "countdown_start_time": "2025-04-25T18:14:20.178339",
             "affiliation_balance": 4000,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Njaouh79103",
@@ -2732,7 +2732,7 @@
             "countdown_start_time": "2025-04-27T09:09:08.987447",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Christian189103",
@@ -2745,7 +2745,7 @@
             "countdown_start_time": "2025-04-19T19:17:38.044994",
             "affiliation_balance": 1000,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Raharimalala89103",
@@ -2756,7 +2756,7 @@
             "countdown_start_time": "2025-04-26T13:11:53.377956",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Tahina79103",
@@ -2767,7 +2767,7 @@
             "countdown_start_time": "2025-04-18T09:09:20.924423",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Mama80103",
@@ -2778,7 +2778,7 @@
             "countdown_start_time": "2053-09-06T04:57:21.029895",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "LesRak79103",
@@ -2789,7 +2789,7 @@
             "countdown_start_time": "2025-03-02T12:51:13.992264",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Aina90103",
@@ -2800,7 +2800,7 @@
             "countdown_start_time": "2025-04-21T19:46:29.033798",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Daniel89203",
@@ -2811,7 +2811,7 @@
             "countdown_start_time": "2025-03-02T07:05:31.029452",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Mikaia890320",
@@ -2822,7 +2822,7 @@
             "countdown_start_time": "2025-04-24T07:51:41.747962",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Niaina89103",
@@ -2840,7 +2840,7 @@
             "countdown_start_time": "2025-04-27T19:21:45.947601",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Niaina90103",
@@ -2851,7 +2851,7 @@
             "countdown_start_time": "2025-04-28T11:47:28.865793",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Rakotomandimby78104",
@@ -2866,7 +2866,7 @@
             "countdown_start_time": "2025-04-28T00:27:39.765091",
             "affiliation_balance": 2000,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Julio9203",
@@ -2877,7 +2877,7 @@
             "countdown_start_time": "2025-04-30T09:22:14.631613",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Andry80103",
@@ -2888,7 +2888,7 @@
             "countdown_start_time": "2025-04-28T10:03:50.170977",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Markien89134",
@@ -2902,7 +2902,7 @@
             "countdown_start_time": "2025-04-22T15:18:19.547808",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Todisoa80103",
@@ -2913,7 +2913,7 @@
             "countdown_start_time": "2025-04-13T14:11:23.344493",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Nantenaina90183",
@@ -2933,7 +2933,7 @@
             "countdown_start_time": "2025-04-28T19:09:19.667889",
             "affiliation_balance": 3000,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Andr\u00e9a10030",
@@ -2944,7 +2944,7 @@
             "countdown_start_time": "2025-04-30T05:40:49.285563",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Lalaina89103",
@@ -2959,7 +2959,7 @@
             "countdown_start_time": "2025-04-12T17:00:19.402367",
             "affiliation_balance": 4000,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Sitraka8910e",
@@ -2970,7 +2970,7 @@
             "countdown_start_time": "2025-03-06T18:53:53.873111",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "VIP29013",
@@ -2981,7 +2981,7 @@
             "countdown_start_time": "2025-03-10T14:56:33.575770",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Jejery57103",
@@ -2992,7 +2992,7 @@
             "countdown_start_time": "2025-04-25T20:14:00.058855",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Ravakiniaina90103",
@@ -3003,7 +3003,7 @@
             "countdown_start_time": "2025-04-20T20:36:57.730537",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Soso79103",
@@ -3014,7 +3014,7 @@
             "countdown_start_time": "2025-04-28T20:38:08.291256",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Hary79103",
@@ -3027,7 +3027,7 @@
             "countdown_start_time": "2025-04-28T20:18:50.151860",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Soandry6819z",
@@ -3038,7 +3038,7 @@
             "countdown_start_time": "2025-02-24T02:58:45.988972",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Harivola79103",
@@ -3049,7 +3049,7 @@
             "countdown_start_time": "2025-04-27T11:29:04.261955",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "LovaL819030",
@@ -3062,7 +3062,7 @@
             "countdown_start_time": "2025-04-30T08:57:45.681776",
             "affiliation_balance": 2000,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Njaka79103",
@@ -3073,7 +3073,7 @@
             "countdown_start_time": "2025-04-21T11:44:35.980087",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Lova691030",
@@ -3084,7 +3084,7 @@
             "countdown_start_time": "2025-04-27T09:32:21.954857",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Sergina3.068103",
@@ -3095,7 +3095,7 @@
             "countdown_start_time": "2025-05-05T17:53:33.364357",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "ToneJuly681030",
@@ -3106,7 +3106,7 @@
             "countdown_start_time": "2025-04-30T10:33:03.076296",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Lydia681038",
@@ -3117,7 +3117,7 @@
             "countdown_start_time": "2025-04-24T14:51:01.094050",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Rjc68103",
@@ -3142,7 +3142,7 @@
             "countdown_start_time": "2025-04-29T15:16:28.965328",
             "affiliation_balance": 2000,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Roger791030",
@@ -3153,7 +3153,7 @@
             "countdown_start_time": "2025-04-12T20:36:38.828573",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Roddy57193",
@@ -3164,7 +3164,7 @@
             "countdown_start_time": "2025-04-24T09:57:14.667935",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "James681303",
@@ -3175,7 +3175,7 @@
             "countdown_start_time": "2025-04-29T16:40:45.915543",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Harris681971",
@@ -3188,7 +3188,7 @@
             "countdown_start_time": "2025-04-25T17:08:46.535021",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Dedie7810302",
@@ -3199,7 +3199,7 @@
             "countdown_start_time": "2025-04-26T20:32:52.809884",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Sarobidy681930",
@@ -3210,7 +3210,7 @@
             "countdown_start_time": "2025-03-21T15:27:44.797446",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Herman781930",
@@ -3221,7 +3221,7 @@
             "countdown_start_time": "2025-03-31T14:33:39.209150",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Tojosoa6819e0",
@@ -3232,7 +3232,7 @@
             "countdown_start_time": "2025-03-06T14:13:12.740974",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Jean67103",
@@ -3243,7 +3243,7 @@
             "countdown_start_time": "2025-03-05T11:30:01.896273",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Tommy671930",
@@ -3254,7 +3254,7 @@
             "countdown_start_time": "2025-04-24T18:01:26.018679",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Gilles671930",
@@ -3265,7 +3265,7 @@
             "countdown_start_time": "2025-04-23T23:03:15.390485",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Jaona67193",
@@ -3276,7 +3276,7 @@
             "countdown_start_time": "2025-04-24T01:27:53.064961",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Joel68010",
@@ -3289,7 +3289,7 @@
             "countdown_start_time": "2025-04-25T06:24:35.463258",
             "affiliation_balance": 1000,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Compte2078203",
@@ -3300,7 +3300,7 @@
             "countdown_start_time": "2025-03-06T11:06:12.025466",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Marie681930",
@@ -3311,7 +3311,7 @@
             "countdown_start_time": "2025-04-06T11:49:41.167615",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Robinson781930",
@@ -3325,7 +3325,7 @@
             "countdown_start_time": "2025-04-28T10:36:16.025024",
             "affiliation_balance": 2000,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Mahomed6719302",
@@ -3336,7 +3336,7 @@
             "countdown_start_time": "2025-04-14T08:29:35.927717",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Arilanto89103",
@@ -3349,7 +3349,7 @@
             "countdown_start_time": "2025-04-26T21:36:05.548243",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Pascal67193",
@@ -3360,7 +3360,7 @@
             "countdown_start_time": "2025-02-27T21:13:02.080896",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Randrianarivo68130",
@@ -3376,7 +3376,7 @@
             "countdown_start_time": "2025-04-24T19:45:12.538763",
             "affiliation_balance": 7000,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "My5794",
@@ -3387,7 +3387,7 @@
             "countdown_start_time": "2025-03-21T15:57:26.465346",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Fiderana82930",
@@ -3398,7 +3398,7 @@
             "countdown_start_time": "2025-04-29T20:51:47.048528",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Luciah571930",
@@ -3409,7 +3409,7 @@
             "countdown_start_time": "2025-04-29T13:38:32.662268",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Clement571930",
@@ -3420,7 +3420,7 @@
             "countdown_start_time": "2025-04-19T19:41:41.073809",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Bosila67103",
@@ -3431,7 +3431,7 @@
             "countdown_start_time": "2025-04-05T11:23:11.962740",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Amiral77193",
@@ -3442,7 +3442,7 @@
             "countdown_start_time": "2025-04-30T08:24:20.768008",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Stalien68103",
@@ -3453,7 +3453,7 @@
             "countdown_start_time": "2025-04-23T20:15:14.041414",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Noely561920",
@@ -3464,7 +3464,7 @@
             "countdown_start_time": "2025-04-15T01:43:38.698310",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Andii69103",
@@ -3475,7 +3475,7 @@
             "countdown_start_time": "2025-04-26T06:50:42.821613",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Robert77193",
@@ -3490,7 +3490,7 @@
             "countdown_start_time": "2025-04-26T20:40:45.088838",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Lalao671930",
@@ -3501,7 +3501,7 @@
             "countdown_start_time": "2025-03-31T09:04:12.426889",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "No\u00ebl571930",
@@ -3512,7 +3512,7 @@
             "countdown_start_time": "2025-03-08T15:06:44.546178",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Claude57193",
@@ -3523,7 +3523,7 @@
             "countdown_start_time": "2025-04-30T07:57:12.286012",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Faneva178302",
@@ -3534,7 +3534,7 @@
             "countdown_start_time": "2025-04-27T16:47:42.031147",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Andrianandraina68193",
@@ -3545,7 +3545,7 @@
             "countdown_start_time": "2025-04-25T15:46:02.018224",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Malala57193",
@@ -3556,7 +3556,7 @@
             "countdown_start_time": "2025-04-25T19:43:40.963656",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Tsimbina68192",
@@ -3567,7 +3567,7 @@
             "countdown_start_time": "2025-04-22T12:28:59.397460",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Heritina6893",
@@ -3578,7 +3578,7 @@
             "countdown_start_time": "2025-04-30T07:22:03.501508",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Razanamaly56193",
@@ -3589,7 +3589,7 @@
             "countdown_start_time": "2025-04-29T09:46:22.507580",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Odon571030",
@@ -3600,7 +3600,7 @@
             "countdown_start_time": "2025-04-29T09:39:14.875895",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Tina78103",
@@ -3611,7 +3611,7 @@
             "countdown_start_time": "2025-04-29T07:27:02.288419",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Malala68193",
@@ -3622,7 +3622,7 @@
             "countdown_start_time": "2025-04-28T17:41:21.791079",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Luca68920",
@@ -3633,7 +3633,7 @@
             "countdown_start_time": "2025-03-04T20:21:04.143121",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Martinien57192",
@@ -3644,7 +3644,7 @@
             "countdown_start_time": "2025-04-30T07:33:01.324059",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Volana68103",
@@ -3655,7 +3655,7 @@
             "countdown_start_time": "2025-04-19T19:08:25.158232",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Mika68193",
@@ -3670,7 +3670,7 @@
             "countdown_start_time": "2025-04-22T21:47:01.365089",
             "affiliation_balance": 1000,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Ainala68120",
@@ -3681,7 +3681,7 @@
             "countdown_start_time": "2025-04-10T13:42:53.221856",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "New68192",
@@ -3692,7 +3692,7 @@
             "countdown_start_time": "2025-04-25T22:54:36.774898",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Miora68120",
@@ -3703,7 +3703,7 @@
             "countdown_start_time": "2025-04-22T14:40:20.656060",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Mama6712",
@@ -3714,7 +3714,7 @@
             "countdown_start_time": "2079-04-07T20:32:38.615426",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Francois681922",
@@ -3725,7 +3725,7 @@
             "countdown_start_time": "2025-04-26T07:20:57.583970",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Tsila68130",
@@ -3745,7 +3745,7 @@
             "countdown_start_time": "2025-04-29T17:02:41.862769",
             "affiliation_balance": 1000,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Timote689901",
@@ -3756,7 +3756,7 @@
             "countdown_start_time": "2025-04-25T20:05:57.497813",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Sa\u00efd681930",
@@ -3770,7 +3770,7 @@
             "countdown_start_time": "2025-04-27T23:01:53.566327",
             "affiliation_balance": 1000,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Sarobidy68130",
@@ -3781,7 +3781,7 @@
             "countdown_start_time": "2025-04-19T20:21:47.435748",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Rakalamina6810",
@@ -3792,7 +3792,7 @@
             "countdown_start_time": "2025-04-25T13:27:52.651422",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Mbolatiana79103",
@@ -3803,7 +3803,7 @@
             "countdown_start_time": "2025-04-16T18:55:25.843703",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Miriella78102",
@@ -3816,7 +3816,7 @@
             "countdown_start_time": "2025-04-27T20:26:13.495543",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Asmah68193",
@@ -3827,7 +3827,7 @@
             "countdown_start_time": "2025-04-27T12:41:17.581039",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Harden5794",
@@ -3840,7 +3840,7 @@
             "countdown_start_time": "2025-03-16T13:03:56.485449",
             "affiliation_balance": 7000,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Nirina8810",
@@ -3851,7 +3851,7 @@
             "countdown_start_time": "2025-04-22T17:34:18.412761",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Ericka79a03",
@@ -3862,7 +3862,7 @@
             "countdown_start_time": "2025-04-27T14:05:53.459839",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Jospin67103",
@@ -3876,7 +3876,7 @@
             "countdown_start_time": "2025-04-29T01:58:48.800854",
             "affiliation_balance": 3000,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "David68102",
@@ -3887,7 +3887,7 @@
             "countdown_start_time": "2025-03-15T19:09:29.501603",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Bru57132",
@@ -3898,7 +3898,7 @@
             "countdown_start_time": "2025-04-29T10:56:20.498487",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Lina4689",
@@ -3909,7 +3909,7 @@
             "countdown_start_time": "2025-04-23T15:51:38.527559",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Japhet589300",
@@ -3925,7 +3925,7 @@
             "countdown_start_time": "2025-04-26T20:29:18.345736",
             "affiliation_balance": 5000,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "BoanaX6819z0",
@@ -3936,7 +3936,7 @@
             "countdown_start_time": "2025-04-25T20:20:46.775595",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Andrianah71991",
@@ -3947,7 +3947,7 @@
             "countdown_start_time": "2025-03-31T07:07:56.977833",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Ntsoa67192",
@@ -3963,7 +3963,7 @@
             "countdown_start_time": "2025-04-26T14:27:16.302582",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Luc37",
@@ -3974,7 +3974,7 @@
             "countdown_start_time": "2025-04-24T20:22:07.530354",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Rossia579310",
@@ -3985,7 +3985,7 @@
             "countdown_start_time": "2025-04-29T10:00:34.803515",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "MarcRaz619002",
@@ -3998,7 +3998,7 @@
             "countdown_start_time": "2025-04-26T15:16:23.770024",
             "affiliation_balance": 2000,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Andry21",
@@ -4009,7 +4009,7 @@
             "countdown_start_time": "2025-04-22T19:23:56.475881",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Tahiry581930",
@@ -4020,7 +4020,7 @@
             "countdown_start_time": "2025-04-17T17:30:01.337479",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Sedera6810303",
@@ -4031,7 +4031,7 @@
             "countdown_start_time": "2025-04-28T19:18:31.931503",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Aristide358967",
@@ -4042,7 +4042,7 @@
             "countdown_start_time": "2025-03-12T03:13:17.925980",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "L\u00f4die57899",
@@ -4053,7 +4053,7 @@
             "countdown_start_time": "2025-04-28T10:40:00.773706",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Nirikoolivier57380",
@@ -4064,7 +4064,7 @@
             "countdown_start_time": "2025-03-12T18:43:26.503238",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Tsizaraina5917103",
@@ -4075,7 +4075,7 @@
             "countdown_start_time": "2025-04-03T10:19:31.822808",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Claudio91781",
@@ -4086,7 +4086,7 @@
             "countdown_start_time": "2025-03-13T18:42:04.340418",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Namby6819202",
@@ -4101,7 +4101,7 @@
             "countdown_start_time": "2025-04-27T19:14:46.406856",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Nindograc24801030",
@@ -4112,7 +4112,7 @@
             "countdown_start_time": "2025-04-20T06:26:16.569937",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Smm781022",
@@ -4123,7 +4123,7 @@
             "countdown_start_time": "2025-04-29T16:50:33.967314",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Tody681610",
@@ -4134,7 +4134,7 @@
             "countdown_start_time": "2025-04-29T13:19:34.887619",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Fanantenana79132",
@@ -4145,7 +4145,7 @@
             "countdown_start_time": "2025-04-26T22:38:54.261389",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Tsiro8910320",
@@ -4156,7 +4156,7 @@
             "countdown_start_time": "2025-04-26T12:46:11.904998",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Lalaina6910p3",
@@ -4167,7 +4167,7 @@
             "countdown_start_time": "2025-04-18T11:58:57.129385",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Cetone479580",
@@ -4178,7 +4178,7 @@
             "countdown_start_time": "2025-04-25T12:46:24.517441",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Ronaldin217569",
@@ -4192,7 +4192,7 @@
             "countdown_start_time": "2025-07-25T00:27:18.413723",
             "affiliation_balance": 5000,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Arison791033",
@@ -4203,7 +4203,7 @@
             "countdown_start_time": "2025-04-28T19:11:20.226552",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Elmii80103004",
@@ -4216,7 +4216,7 @@
             "countdown_start_time": "2025-04-24T16:37:44.793912",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Lalaina681032",
@@ -4227,7 +4227,7 @@
             "countdown_start_time": "2025-04-23T19:13:52.048508",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Razafindrafara68132",
@@ -4238,7 +4238,7 @@
             "countdown_start_time": "2025-03-22T18:10:48.672463",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Diadema7810",
@@ -4249,7 +4249,7 @@
             "countdown_start_time": "2025-03-15T17:58:27.384438",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Sitraka691932",
@@ -4260,7 +4260,7 @@
             "countdown_start_time": "2025-04-15T17:33:38.959605",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Andrianantenaina79192",
@@ -4271,7 +4271,7 @@
             "countdown_start_time": "2025-04-29T21:16:51.832556",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Liantsoa0279103",
@@ -4282,7 +4282,7 @@
             "countdown_start_time": "2025-04-24T13:46:24.456244",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Odon6910303",
@@ -4293,7 +4293,7 @@
             "countdown_start_time": "2025-03-31T07:40:39.435351",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Tanjompamonjena681032",
@@ -4304,7 +4304,7 @@
             "countdown_start_time": "2025-03-30T21:59:43.918810",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Razay7813022",
@@ -4315,7 +4315,7 @@
             "countdown_start_time": "2025-04-26T12:55:10.814743",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Harrison691302",
@@ -4326,7 +4326,7 @@
             "countdown_start_time": "2025-03-17T01:31:41.783266",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Carlos691030",
@@ -4337,7 +4337,7 @@
             "countdown_start_time": "2025-04-24T19:30:32.862649",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Mimi691032",
@@ -4348,7 +4348,7 @@
             "countdown_start_time": "2025-04-29T15:14:50.411389",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Sorah681032",
@@ -4359,7 +4359,7 @@
             "countdown_start_time": "2025-04-28T16:11:31.411203",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Fanomezantsoa6810e0",
@@ -4370,7 +4370,7 @@
             "countdown_start_time": "2025-04-23T12:22:58.350099",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Maka78103",
@@ -4381,7 +4381,7 @@
             "countdown_start_time": "2025-04-22T16:19:46.279416",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Joyham681030",
@@ -4392,7 +4392,7 @@
             "countdown_start_time": "2025-04-22T21:43:10.992338",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Ni681200",
@@ -4405,7 +4405,7 @@
             "countdown_start_time": "2025-04-25T03:14:08.925352",
             "affiliation_balance": 1000,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Leonie6819004",
@@ -4416,7 +4416,7 @@
             "countdown_start_time": "2025-04-24T08:04:20.148701",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Augustin681030",
@@ -4427,7 +4427,7 @@
             "countdown_start_time": "2025-04-24T18:47:32.214111",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Damasc\u00e8ne6710302",
@@ -4446,7 +4446,7 @@
             "countdown_start_time": "2025-04-23T20:42:29.273103",
             "affiliation_balance": 4000,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "FaliTina6810321",
@@ -4457,7 +4457,7 @@
             "countdown_start_time": "2025-04-25T17:35:04.573216",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Maeh571930",
@@ -4468,7 +4468,7 @@
             "countdown_start_time": "2025-04-25T12:07:43.397393",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Fidelis7819z0a",
@@ -4479,7 +4479,7 @@
             "countdown_start_time": "2025-04-27T18:59:22.234065",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Pass58190",
@@ -4497,7 +4497,7 @@
             "countdown_start_time": "2025-04-25T14:12:49.915606",
             "affiliation_balance": 5000,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Tiana79030",
@@ -4510,7 +4510,7 @@
             "countdown_start_time": "2025-05-01T11:47:43.588111",
             "affiliation_balance": 3000,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Malala5919201",
@@ -4521,7 +4521,7 @@
             "countdown_start_time": "2025-04-14T08:37:07.057702",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Rajaonarivo4792180",
@@ -4536,7 +4536,7 @@
             "countdown_start_time": "2025-04-28T19:28:32.987210",
             "affiliation_balance": 4000,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Honore891681020",
@@ -4547,7 +4547,7 @@
             "countdown_start_time": "2025-04-27T21:39:36.772330",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Rija7810320",
@@ -4558,7 +4558,7 @@
             "countdown_start_time": "2025-04-28T05:10:17.130513",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Hajaniaina7967193",
@@ -4569,7 +4569,7 @@
             "countdown_start_time": "2025-03-24T00:00:15.528396",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Justin351806",
@@ -4580,7 +4580,7 @@
             "countdown_start_time": "2025-04-23T13:18:17.831260",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Milay258193",
@@ -4591,7 +4591,7 @@
             "countdown_start_time": "2025-04-28T17:58:11.300981",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Dina689301",
@@ -4602,7 +4602,7 @@
             "countdown_start_time": "2025-04-25T15:32:28.317312",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Aurnela681036910",
@@ -4613,7 +4613,7 @@
             "countdown_start_time": "2025-04-24T06:46:24.910949",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Sergio81p3697",
@@ -4624,7 +4624,7 @@
             "countdown_start_time": "2025-04-24T17:02:01.598647",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Valisoa79192y19",
@@ -4635,7 +4635,7 @@
             "countdown_start_time": "2025-04-30T10:54:39.887817",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Hasina68103691",
@@ -4646,7 +4646,7 @@
             "countdown_start_time": "2025-04-30T11:03:39.258741",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Andrianiavo19061839",
@@ -4657,7 +4657,7 @@
             "countdown_start_time": "2025-04-25T19:13:52.308402",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Iary47103519",
@@ -4668,7 +4668,7 @@
             "countdown_start_time": "2025-04-23T22:47:07.407985",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Elie69103580",
@@ -4681,7 +4681,7 @@
             "countdown_start_time": "2025-04-30T10:51:11.337038",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Nnoh6904268",
@@ -4692,7 +4692,7 @@
             "countdown_start_time": "2025-04-25T01:52:58.697491",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Julles6819369",
@@ -4703,7 +4703,7 @@
             "countdown_start_time": "2025-04-04T09:10:18.065450",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Eldo9017807",
@@ -4714,7 +4714,7 @@
             "countdown_start_time": "2025-04-24T11:24:07.360106",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Zafiafy6813791",
@@ -4725,7 +4725,7 @@
             "countdown_start_time": "2025-04-26T15:42:17.506856",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Chanks36128",
@@ -4736,7 +4736,7 @@
             "countdown_start_time": "2025-03-27T17:01:35.468273",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Da79167300",
@@ -4747,7 +4747,7 @@
             "countdown_start_time": "2025-04-03T19:10:55.746168",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "William7919361810",
@@ -4761,7 +4761,7 @@
             "countdown_start_time": "2025-04-25T20:22:23.040299",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Airtel791628962",
@@ -4777,7 +4777,7 @@
             "countdown_start_time": "2025-04-24T11:57:24.587688",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "YoMan691p321",
@@ -4788,7 +4788,7 @@
             "countdown_start_time": "2025-04-25T20:19:43.152081",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Rijason8916691",
@@ -4799,7 +4799,7 @@
             "countdown_start_time": "2025-04-25T16:27:26.833782",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Nirindray581030619",
@@ -4810,7 +4810,7 @@
             "countdown_start_time": "2025-04-25T10:15:13.711965",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Sylvana8026901",
@@ -4821,7 +4821,7 @@
             "countdown_start_time": "2025-04-25T22:50:43.046403",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Fame69103719",
@@ -4835,7 +4835,7 @@
             "countdown_start_time": "2025-04-28T17:53:23.526286",
             "affiliation_balance": 2000,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Herilanto79193610",
@@ -4846,7 +4846,7 @@
             "countdown_start_time": "2025-03-29T00:08:29.116998",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Bruitus8910369",
@@ -4857,7 +4857,7 @@
             "countdown_start_time": "2025-04-26T07:59:01.266272",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Ashley69103710",
@@ -4870,7 +4870,7 @@
             "countdown_start_time": "2025-03-29T00:21:04.779692",
             "affiliation_balance": 1000,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Navoko800719",
@@ -4881,7 +4881,7 @@
             "countdown_start_time": "2025-03-29T01:45:31.068128",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Justianah68193261",
@@ -4892,7 +4892,7 @@
             "countdown_start_time": "2025-04-24T18:40:03.022100",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Hasina6910306",
@@ -4903,7 +4903,7 @@
             "countdown_start_time": "2025-04-22T17:45:53.250440",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Andrianah618391518",
@@ -4914,7 +4914,7 @@
             "countdown_start_time": "2025-04-28T11:33:48.522654",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Razakanirina6819482",
@@ -4925,7 +4925,7 @@
             "countdown_start_time": "2025-04-12T21:03:43.262561",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "rayanzo791039271",
@@ -4936,7 +4936,7 @@
             "countdown_start_time": "2025-04-06T14:53:16.821814",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Sylvain6910317",
@@ -4947,7 +4947,7 @@
             "countdown_start_time": "2025-03-29T20:00:03.154825",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Haingo91831",
@@ -4958,7 +4958,7 @@
             "countdown_start_time": "2025-04-19T18:38:01.187921",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Amadou681036190",
@@ -4972,7 +4972,7 @@
             "countdown_start_time": "2025-04-29T21:35:43.533196",
             "affiliation_balance": 1000,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "iop",
@@ -4982,7 +4982,7 @@
             "status": "active",
             "countdown_start_time": "2025-04-05T16:03:37.516922",
             "affiliation_balance": 0,
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "MamaSitraka7819381",
@@ -4993,7 +4993,7 @@
             "countdown_start_time": "2025-04-28T11:51:10.454891",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Syllah78103269",
@@ -5004,7 +5004,7 @@
             "countdown_start_time": "2025-03-30T00:37:37.092192",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Narovana8910372",
@@ -5015,7 +5015,7 @@
             "countdown_start_time": "2025-04-27T15:07:45.647731",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Raoleina681932",
@@ -5026,7 +5026,7 @@
             "countdown_start_time": "2025-04-29T21:03:10.850298",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Tsizaraina89610302",
@@ -5040,7 +5040,7 @@
             "countdown_start_time": "2025-04-29T12:47:12.078246",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Far6810301",
@@ -5051,7 +5051,7 @@
             "countdown_start_time": "2025-04-15T18:54:30.107784",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Toandro9003810",
@@ -5062,7 +5062,7 @@
             "countdown_start_time": "2025-04-22T08:01:27.022680",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Samy570952",
@@ -5073,7 +5073,7 @@
             "countdown_start_time": "2025-03-31T00:53:29.289884",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Francklin79103701",
@@ -5084,7 +5084,7 @@
             "countdown_start_time": "2025-04-23T16:42:13.836719",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "rt",
@@ -5094,7 +5094,7 @@
             "status": "active",
             "countdown_start_time": "2025-04-06T17:41:19.844700",
             "affiliation_balance": 0,
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Vanessa791032610",
@@ -5105,7 +5105,7 @@
             "countdown_start_time": "2025-04-27T20:23:56.571249",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Rodin79103890",
@@ -5116,7 +5116,7 @@
             "countdown_start_time": "2025-04-16T08:21:24.847947",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Tsizaraina89103719",
@@ -5127,7 +5127,7 @@
             "countdown_start_time": "2025-04-28T12:27:18.395377",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Alain691090",
@@ -5138,7 +5138,7 @@
             "countdown_start_time": "2025-04-24T09:51:36.131723",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Alitera791040280",
@@ -5149,7 +5149,7 @@
             "countdown_start_time": "2025-04-30T07:12:02.232394",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "51ath6844900",
@@ -5160,7 +5160,7 @@
             "countdown_start_time": "2025-04-17T16:57:57.103058",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Narindra781032",
@@ -5171,7 +5171,7 @@
             "countdown_start_time": "2025-04-23T19:12:16.922004",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Azarya6813001",
@@ -5182,7 +5182,7 @@
             "countdown_start_time": "2025-04-24T15:53:31.002063",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Fanomezantsoa710001",
@@ -5193,7 +5193,7 @@
             "countdown_start_time": "2025-04-02T17:53:46.946584",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Rasoanarisoa6810321",
@@ -5204,7 +5204,7 @@
             "countdown_start_time": "2025-04-26T05:53:32.392703",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Miray519093i0",
@@ -5215,7 +5215,7 @@
             "countdown_start_time": "2025-04-26T09:03:44.160239",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Francine791030",
@@ -5226,7 +5226,7 @@
             "countdown_start_time": "2025-04-28T21:48:18.026979",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Jeres79320",
@@ -5237,7 +5237,7 @@
             "countdown_start_time": "2025-04-26T12:01:24.833103",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Nanah68139104",
@@ -5248,7 +5248,7 @@
             "countdown_start_time": "2025-04-18T20:07:23.770622",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Money5819921",
@@ -5259,7 +5259,7 @@
             "countdown_start_time": "2025-04-21T15:01:52.707252",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Malawi6810321",
@@ -5270,7 +5270,7 @@
             "countdown_start_time": "2025-04-28T01:55:32.630644",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Herilaea68103051040",
@@ -5281,7 +5281,7 @@
             "countdown_start_time": "2025-04-27T09:33:42.464596",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Mino78103269",
@@ -5292,7 +5292,7 @@
             "countdown_start_time": "2025-04-19T10:21:46.090309",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Velotsara681900",
@@ -5305,7 +5305,7 @@
             "countdown_start_time": "2025-04-28T07:37:07.717388",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Laurent671932004",
@@ -5316,7 +5316,7 @@
             "countdown_start_time": "2025-04-05T18:51:15.787056",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "ZokyLys4707415",
@@ -5327,7 +5327,7 @@
             "countdown_start_time": "2025-04-27T18:56:47.779827",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Maine7910392690",
@@ -5338,7 +5338,7 @@
             "countdown_start_time": "2025-04-24T14:25:56.482366",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Mama3694",
@@ -5349,7 +5349,7 @@
             "countdown_start_time": "2028-01-05T10:10:43.133518",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Stephanie6768122",
@@ -5360,7 +5360,7 @@
             "countdown_start_time": "2025-04-27T20:11:24.561668",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Nofa79131",
@@ -5371,7 +5371,7 @@
             "countdown_start_time": "2025-04-20T10:19:17.725082",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Angelo81990",
@@ -5382,7 +5382,7 @@
             "countdown_start_time": "2025-04-26T14:28:49.054097",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Augustin8913269",
@@ -5393,7 +5393,7 @@
             "countdown_start_time": "2025-04-06T18:43:43.688664",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Mamie78190",
@@ -5404,7 +5404,7 @@
             "countdown_start_time": "2025-04-29T16:07:50.038235",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Zoky791900a",
@@ -5415,7 +5415,7 @@
             "countdown_start_time": "2025-04-29T14:37:53.652830",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Nambi91090",
@@ -5426,7 +5426,7 @@
             "countdown_start_time": "2025-04-22T13:26:06.684901",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Totomora909311",
@@ -5439,7 +5439,7 @@
             "countdown_start_time": "2025-04-27T10:03:29.929414",
             "affiliation_balance": 2000,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Emilien7910200",
@@ -5450,7 +5450,7 @@
             "countdown_start_time": "2025-04-22T07:52:26.897972",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Sarobidy799201oe2",
@@ -5461,7 +5461,7 @@
             "countdown_start_time": "2025-04-28T16:19:27.200290",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Pascal90032710",
@@ -5472,7 +5472,7 @@
             "countdown_start_time": "2025-04-27T20:20:37.814397",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Claudio017812",
@@ -5483,7 +5483,7 @@
             "countdown_start_time": "2025-04-30T09:48:14.330166",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Miandrisoa90161t3",
@@ -5494,7 +5494,7 @@
             "countdown_start_time": "2025-04-24T20:51:40.056621",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Joseph791042694",
@@ -5505,7 +5505,7 @@
             "countdown_start_time": "2025-04-26T21:29:04.049069",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Tahiry7910329",
@@ -5516,7 +5516,7 @@
             "countdown_start_time": "2025-04-28T17:52:58.422918",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Miora89131",
@@ -5527,7 +5527,7 @@
             "countdown_start_time": "2025-04-29T09:12:33.643423",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Patty5831570",
@@ -5538,7 +5538,7 @@
             "countdown_start_time": "2025-04-24T16:10:01.129104",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Luciano001673901",
@@ -5549,7 +5549,7 @@
             "countdown_start_time": "2025-04-23T15:35:18.220320",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Djeeyy791040",
@@ -5562,7 +5562,7 @@
             "countdown_start_time": "2025-04-25T00:53:19.866921",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Faralahy339401",
@@ -5573,7 +5573,7 @@
             "countdown_start_time": "2025-04-15T12:45:23.482388",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Miketrky7910371",
@@ -5584,7 +5584,7 @@
             "countdown_start_time": "2025-04-29T21:00:41.545781",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Mbappe78032",
@@ -5595,7 +5595,7 @@
             "countdown_start_time": "2025-04-16T17:26:57.606629",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Anja68913240",
@@ -5606,7 +5606,7 @@
             "countdown_start_time": "2025-04-25T11:41:41.998984",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Gariste78103",
@@ -5617,7 +5617,7 @@
             "countdown_start_time": "2025-04-24T09:46:51.309266",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Mamy909138894",
@@ -5628,7 +5628,7 @@
             "countdown_start_time": "2025-04-10T01:33:28.940264",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Zandrykely791032680",
@@ -5639,7 +5639,7 @@
             "countdown_start_time": "2025-04-24T10:21:56.258481",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Sylvie891037",
@@ -5650,7 +5650,7 @@
             "countdown_start_time": "2025-04-24T19:47:37.075616",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Razafimahefa891030",
@@ -5661,7 +5661,7 @@
             "countdown_start_time": "2025-04-24T12:08:56.658367",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Tsila90032681",
@@ -5672,7 +5672,7 @@
             "countdown_start_time": "2025-04-29T11:20:06.367801",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Philemon68132",
@@ -5683,7 +5683,7 @@
             "countdown_start_time": "2025-04-25T05:02:30.348371",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Junot7910371",
@@ -5694,7 +5694,7 @@
             "countdown_start_time": "2025-04-25T10:14:59.873585",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Yvon6819200",
@@ -5705,7 +5705,7 @@
             "countdown_start_time": "2025-04-26T17:56:13.935196",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Sarobidy68921",
@@ -5716,7 +5716,7 @@
             "countdown_start_time": "2025-04-26T07:15:36.307467",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Mika891pzo1p",
@@ -5727,7 +5727,7 @@
             "countdown_start_time": "2025-04-18T20:01:01.988690",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Rova02681021",
@@ -5738,7 +5738,7 @@
             "countdown_start_time": "2025-04-19T08:01:01.096959",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Tiana79102o1",
@@ -5749,7 +5749,7 @@
             "countdown_start_time": "2025-04-26T07:03:27.483764",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Tianah68103910",
@@ -5760,7 +5760,7 @@
             "countdown_start_time": "2025-04-19T20:29:37.635005",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Tina6819201",
@@ -5771,7 +5771,7 @@
             "countdown_start_time": "2025-04-12T03:53:34.838981",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Rodin681021",
@@ -5782,7 +5782,7 @@
             "countdown_start_time": "2025-04-27T11:06:16.880189",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Harisarobidy5810301",
@@ -5793,7 +5793,7 @@
             "countdown_start_time": "2025-04-29T13:39:16.684651",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Mamedison57121",
@@ -5804,7 +5804,7 @@
             "countdown_start_time": "2025-04-27T09:20:35.210010",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Brada7912",
@@ -5815,7 +5815,7 @@
             "countdown_start_time": "2025-04-19T20:19:39.829995",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Joel681921",
@@ -5826,7 +5826,7 @@
             "countdown_start_time": "2025-04-28T22:30:56.652100",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Lovasoa367569",
@@ -5837,7 +5837,7 @@
             "countdown_start_time": "2025-04-13T00:05:31.778695",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Tina68193o2p",
@@ -5848,7 +5848,7 @@
             "countdown_start_time": "2025-04-26T17:14:30.162717",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Nico6819320",
@@ -5859,7 +5859,7 @@
             "countdown_start_time": "2025-04-29T21:12:52.284456",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Jean68192p1",
@@ -5870,7 +5870,7 @@
             "countdown_start_time": "2025-04-13T01:33:24.401186",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Sarah571932",
@@ -5881,7 +5881,7 @@
             "countdown_start_time": "2025-04-13T02:20:50.174193",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Soloniaina78193o1",
@@ -5892,7 +5892,7 @@
             "countdown_start_time": "2025-04-13T22:25:20.016603",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Fisouu68192",
@@ -5903,7 +5903,7 @@
             "countdown_start_time": "2025-04-23T15:08:26.652100",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Bekaly56189",
@@ -5914,7 +5914,7 @@
             "countdown_start_time": "2025-04-23T07:34:07.929476",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Requin58963689",
@@ -5925,7 +5925,7 @@
             "countdown_start_time": "2025-04-28T17:57:14.871205",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Lucie68132",
@@ -5936,7 +5936,7 @@
             "countdown_start_time": "2025-04-29T10:05:20.593351",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Irina681921",
@@ -5947,7 +5947,7 @@
             "countdown_start_time": "2025-04-28T09:57:54.620878",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Dival681922",
@@ -5958,7 +5958,7 @@
             "countdown_start_time": "2025-04-21T08:11:48.743682",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Mampionona571921",
@@ -5969,7 +5969,7 @@
             "countdown_start_time": "2025-04-22T17:00:01.282841",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Walter671930",
@@ -5980,7 +5980,7 @@
             "countdown_start_time": "2025-04-22T09:57:22.747962",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Miantsaniaina68191",
@@ -5991,7 +5991,7 @@
             "countdown_start_time": "2025-04-24T12:45:05.877602",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Itachi67191",
@@ -6002,7 +6002,7 @@
             "countdown_start_time": "2025-04-30T10:01:11.035954",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Jaonary561929",
@@ -6013,7 +6013,7 @@
             "countdown_start_time": "2025-04-23T13:21:14.899632",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Julien57182o1",
@@ -6024,7 +6024,7 @@
             "countdown_start_time": "2025-04-23T10:31:28.486857",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "World791922",
@@ -6035,7 +6035,7 @@
             "countdown_start_time": "2025-04-30T09:51:56.948207",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Fanomezantsoa71899",
@@ -6046,7 +6046,7 @@
             "countdown_start_time": "2025-04-23T09:04:52.051644",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Uzumaki67190",
@@ -6057,7 +6057,7 @@
             "countdown_start_time": "2025-04-16T04:13:58.912448",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Aina681o9a",
@@ -6068,7 +6068,7 @@
             "countdown_start_time": "2025-04-30T10:51:52.256841",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Rosia5719",
@@ -6079,7 +6079,7 @@
             "countdown_start_time": "2025-04-23T09:50:44.908882",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Andry5718e0",
@@ -6090,7 +6090,7 @@
             "countdown_start_time": "2025-04-23T17:39:55.103233",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Jackeline5789",
@@ -6101,7 +6101,7 @@
             "countdown_start_time": "2025-04-29T07:21:14.708287",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Fameno68130",
@@ -6112,7 +6112,7 @@
             "countdown_start_time": "2025-04-16T20:25:33.912566",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Judex671920",
@@ -6123,7 +6123,7 @@
             "countdown_start_time": "2025-04-29T07:04:43.790498",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Jenny5681519",
@@ -6134,7 +6134,7 @@
             "countdown_start_time": "2025-04-28T11:44:56.434372",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Jeremie571e99",
@@ -6145,7 +6145,7 @@
             "countdown_start_time": "2025-04-24T09:38:13.909360",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Iriko681932",
@@ -6156,7 +6156,7 @@
             "countdown_start_time": "2025-04-24T18:03:40.765811",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Fasou6799302",
@@ -6167,7 +6167,7 @@
             "countdown_start_time": "2025-04-25T11:52:07.705487",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Jeremia571922",
@@ -6178,7 +6178,7 @@
             "countdown_start_time": "2025-04-25T17:35:35.122251",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Safidy5719290",
@@ -6189,7 +6189,7 @@
             "countdown_start_time": "2025-04-25T06:15:02.712314",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Diaryson57193",
@@ -6200,7 +6200,7 @@
             "countdown_start_time": "2025-04-29T09:40:02.944277",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Emma781921",
@@ -6211,7 +6211,7 @@
             "countdown_start_time": "2025-04-26T11:56:20.659198",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Rakotozafy681902",
@@ -6222,7 +6222,7 @@
             "countdown_start_time": "2025-04-25T20:39:04.539389",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Landry671930",
@@ -6233,7 +6233,7 @@
             "countdown_start_time": "2025-04-27T19:44:16.414370",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Rayan671932",
@@ -6246,7 +6246,7 @@
             "countdown_start_time": "2025-04-26T16:47:17.518709",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Maminiaina67a9e99",
@@ -6257,7 +6257,7 @@
             "countdown_start_time": "2025-04-18T23:32:19.838631",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Lucky571932",
@@ -6268,7 +6268,7 @@
             "countdown_start_time": "2025-04-18T23:33:51.986302",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Andry57193",
@@ -6279,7 +6279,7 @@
             "countdown_start_time": "2025-04-26T07:43:45.817818",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Charone68132",
@@ -6290,7 +6290,7 @@
             "countdown_start_time": "2025-04-19T04:53:28.537438",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Rakmall6819392",
@@ -6301,7 +6301,7 @@
             "countdown_start_time": "2025-04-28T10:57:54.952740",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Edmond681993",
@@ -6312,7 +6312,7 @@
             "countdown_start_time": "2025-04-27T09:03:19.922655",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Mamitina68010301",
@@ -6323,7 +6323,7 @@
             "countdown_start_time": "2025-04-29T20:46:03.031255",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Faneva67193920",
@@ -6334,7 +6334,7 @@
             "countdown_start_time": "2025-04-27T18:03:33.046620",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Gastel5810302",
@@ -6345,7 +6345,7 @@
             "countdown_start_time": "2025-04-27T17:41:54.560303",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Marieannah68193020",
@@ -6356,7 +6356,7 @@
             "countdown_start_time": "2025-04-28T12:38:55.822420",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Hermina671902p1",
@@ -6367,7 +6367,7 @@
             "countdown_start_time": "2025-04-28T17:22:46.617580",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Mamy68193920",
@@ -6378,7 +6378,7 @@
             "countdown_start_time": "2025-04-28T21:08:29.090803",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Aliad78103020",
@@ -6389,7 +6389,7 @@
             "countdown_start_time": "2025-04-28T22:59:19.262097",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Junior68193920",
@@ -6400,7 +6400,7 @@
             "countdown_start_time": "2025-04-28T20:02:34.241064",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Itsimindrana",
@@ -6411,7 +6411,7 @@
             "countdown_start_time": "2025-04-24T10:15:49.350921",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Juliot79103601",
@@ -6422,7 +6422,7 @@
             "countdown_start_time": "2025-04-24T11:06:57.878672",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Bevtt68192920",
@@ -6433,7 +6433,7 @@
             "countdown_start_time": "2025-04-29T17:34:49.018334",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Dafa571930202",
@@ -6444,7 +6444,7 @@
             "countdown_start_time": "2025-04-29T06:58:17.553145",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Chance69680",
@@ -6455,7 +6455,7 @@
             "countdown_start_time": "2025-04-29T13:09:14.076386",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Herifenitra68103920",
@@ -6466,7 +6466,7 @@
             "countdown_start_time": "2025-04-22T06:11:39.356338",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Onjaniaina68193920",
@@ -6477,7 +6477,7 @@
             "countdown_start_time": "2025-04-22T15:12:59.056676",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Babyy68192920",
@@ -6488,7 +6488,7 @@
             "countdown_start_time": "2025-04-22T15:15:18.908738",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Doudou571939219",
@@ -6499,7 +6499,7 @@
             "countdown_start_time": "2025-04-29T17:35:29.155360",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Bambi68193020",
@@ -6510,7 +6510,7 @@
             "countdown_start_time": "2025-04-30T06:51:24.154305",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Fiderana68199301",
@@ -6521,7 +6521,7 @@
             "countdown_start_time": "2025-04-22T21:42:05.381249",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Briela79193929",
@@ -6532,7 +6532,7 @@
             "countdown_start_time": "2025-04-30T09:08:05.518966",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Mamaj58193920",
@@ -6543,7 +6543,7 @@
             "countdown_start_time": "2025-04-30T08:13:37.935401",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "L'honneur68100e02",
@@ -6554,7 +6554,7 @@
             "countdown_start_time": "2025-04-30T08:26:05.235541",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Aina5819302",
@@ -6565,7 +6565,7 @@
             "countdown_start_time": "2025-04-29T20:21:15.033034",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "J\u00f4van68193920",
@@ -6576,7 +6576,7 @@
             "countdown_start_time": "2025-04-23T15:41:41.983457",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Manou68194o02",
@@ -6587,7 +6587,7 @@
             "countdown_start_time": "2025-04-23T17:07:44.796270",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Rangilo5819302",
@@ -6598,7 +6598,7 @@
             "countdown_start_time": "2025-04-23T17:14:25.479261",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "Evah68109320",
@@ -6608,7 +6608,8 @@
             "status": "active",
             "countdown_start_time": "2025-04-23T19:49:09.209981",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "countdown_paused": true
         }
     ],
     "references": {
