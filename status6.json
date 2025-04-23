@@ -2931,7 +2931,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-04-28T19:09:19.667889",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -4678,8 +4678,8 @@
                 "Sylvana8026901"
             ],
             "status": "active",
-            "countdown_start_time": "2025-04-23T10:42:30.866728",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-04-30T10:51:11.337038",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
