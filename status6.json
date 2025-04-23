@@ -4128,7 +4128,8 @@
                 "Jaonary561929",
                 "Jackeline5789",
                 "Herifenitra68103920",
-                "Babyy68192920"
+                "Babyy68192920",
+                "J\u00f4van68193920"
             ],
             "status": "active",
             "countdown_start_time": "2025-04-23T20:42:29.273103",
@@ -6062,6 +6063,15 @@
             "countdown_start_time": "2025-04-29T20:21:15.033034",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "J\u00f4van68193920",
+            "android_id": "b62c57cddfe9642b5568f1ffc0789dbb",
+            "referred_by": "Damasc\u00e8ne6710302",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-04-30T07:34:09.665251",
+            "affiliation_balance": 0
         }
     ],
     "references": {
