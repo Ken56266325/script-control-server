@@ -3489,7 +3489,8 @@
                 "Razafimahefa891030",
                 "Itachi67191",
                 "Fameno68130",
-                "Rakotozafy681902"
+                "Rakotozafy681902",
+                "Manou68194o02"
             ],
             "status": "active",
             "countdown_start_time": "2025-04-29T17:02:41.862769",
@@ -6073,6 +6074,15 @@
             "countdown_start_time": "2025-04-23T15:41:41.983457",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Manou68194o02",
+            "android_id": "86d76e2139809e0d04fc48372b912438",
+            "referred_by": "Tsila68130",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-04-30T09:07:09.580865",
+            "affiliation_balance": 0
         }
     ],
     "references": {
