@@ -2953,7 +2953,8 @@
             "referred_to": [
                 "Francklin79103701",
                 "Fisouu68192",
-                "Rayan671932"
+                "Rayan671932",
+                "Joee79193929"
             ],
             "status": "active",
             "countdown_start_time": "2025-04-12T17:00:19.402367",
@@ -6632,6 +6633,15 @@
             "countdown_start_time": "2025-04-23T20:55:47.111700",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Joee79193929",
+            "android_id": "eccd3cb364198f10a2c53fdd74f412b6",
+            "referred_by": "Lalaina89103",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-04-30T15:12:12.370450",
+            "affiliation_balance": 0
         }
     ],
     "references": {
