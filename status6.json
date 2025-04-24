@@ -670,7 +670,8 @@
                 "Faneva67193920",
                 "Onjaniaina68193920",
                 "Aina5819302",
-                "Onja58193929"
+                "Onja58193929",
+                "Eloie68192901"
             ],
             "status": "active",
             "countdown_start_time": "2025-04-30T07:44:11.201065",
@@ -6722,6 +6723,15 @@
             "countdown_start_time": "2025-04-25T01:51:28.662364",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Eloie68192901",
+            "android_id": "869c8e21e31cffa5ea2211a7dcd4a8fa",
+            "referred_by": "Harimalala58294",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-01T17:55:29.694120",
+            "affiliation_balance": 0
         }
     ],
     "references": {
