@@ -2363,7 +2363,8 @@
                 "Lalaina6910p3",
                 "Andry5718e0",
                 "Mamy68193920",
-                "Briela79193929"
+                "Briela79193929",
+                "Fasiii6819392004"
             ],
             "status": "active",
             "countdown_start_time": "2025-04-30T08:59:36.171449",
@@ -6655,6 +6656,15 @@
             "countdown_start_time": "2025-04-24T02:23:07.230279",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Fasiii6819392004",
+            "android_id": "c06453183daa2b1b07a44766cc4b4089",
+            "referred_by": "Fasou5819302",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-01T07:17:19.164099",
+            "affiliation_balance": 0
         }
     ],
     "references": {
