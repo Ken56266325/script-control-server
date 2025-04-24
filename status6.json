@@ -2041,7 +2041,8 @@
                 "World791922",
                 "Uzumaki67190",
                 "Fasou6799302",
-                "Lucky571932"
+                "Lucky571932",
+                "Christian57199202"
             ],
             "status": "active",
             "countdown_start_time": "2025-04-13T06:03:36.905599",
@@ -6677,6 +6678,15 @@
             "countdown_start_time": "2025-04-24T19:19:26.541742",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Christian57199202",
+            "android_id": "5e4e99de5a619da8ea6ac92f02b0659e",
+            "referred_by": "Tsila5819292",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-01T11:25:09.077492",
+            "affiliation_balance": 0
         }
     ],
     "references": {
