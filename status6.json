@@ -831,7 +831,8 @@
                 "Fran\u00e7ois6819302",
                 "Lucien6810302",
                 "Niaina90103",
-                "Julien57182o1"
+                "Julien57182o1",
+                "Fan58199320"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-01T08:10:41.160716",
@@ -6879,6 +6880,15 @@
             "countdown_start_time": "2025-04-26T01:09:06.893843",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Fan58199320",
+            "android_id": "704739a1b98b994e3c705f2902cd1db4",
+            "referred_by": "Herininakely5830",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-02T17:18:01.864265",
+            "affiliation_balance": 0
         }
     ],
     "references": {
