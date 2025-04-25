@@ -4109,7 +4109,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-04-27T19:14:46.406856",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -5503,7 +5503,7 @@
             "referred_by": "Namby6819202",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-04-24T20:51:40.056621",
+            "countdown_start_time": "2025-05-02T06:25:27.953058",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
