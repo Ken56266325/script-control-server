@@ -3752,7 +3752,8 @@
                 "Itachi67191",
                 "Fameno68130",
                 "Rakotozafy681902",
-                "Manou68194o02"
+                "Manou68194o02",
+                "Niaina57199320"
             ],
             "status": "active",
             "countdown_start_time": "2025-04-29T17:02:41.862769",
@@ -6778,6 +6779,15 @@
             "countdown_start_time": "2025-04-25T17:33:08.477167",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Niaina57199320",
+            "android_id": "d69b151a54bd6ddd370151ceb522376e",
+            "referred_by": "Tsila68130",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-02T09:40:01.213040",
+            "affiliation_balance": 0
         }
     ],
     "references": {
