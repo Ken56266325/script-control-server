@@ -1235,7 +1235,8 @@
                 "Tahiry581930",
                 "Sedera6810303",
                 "Arison791033",
-                "Charone68132"
+                "Charone68132",
+                "Paris58193910"
             ],
             "status": "active",
             "countdown_start_time": "2025-04-30T16:23:07.345565",
@@ -6767,6 +6768,15 @@
             "countdown_start_time": "2025-04-25T16:56:29.093965",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Paris58193910",
+            "android_id": "9fb097de4c1cf0123fee7a27a3ebfb6c",
+            "referred_by": "Hoby5826",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-02T09:32:18.824771",
+            "affiliation_balance": 0
         }
     ],
     "references": {
