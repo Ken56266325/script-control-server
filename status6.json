@@ -2372,7 +2372,8 @@
                 "Mamy68193920",
                 "Briela79193929",
                 "Fasiii6819392004",
-                "Herizo6819o392"
+                "Herizo6819o392",
+                "Amel6819932"
             ],
             "status": "active",
             "countdown_start_time": "2025-04-30T08:59:36.171449",
@@ -6868,6 +6869,15 @@
             "countdown_start_time": "2025-04-26T01:04:17.764326",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Amel6819932",
+            "android_id": "9954863c1214fb9e2010db73d1b56f69",
+            "referred_by": "Fasou5819302",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-02T17:08:43.578005",
+            "affiliation_balance": 0
         }
     ],
     "references": {
