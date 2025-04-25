@@ -45,7 +45,7 @@
                 "2"
             ],
             "status": "active",
-            "countdown_start_time": "2025-05-02T14:04:46.534232",
+            "countdown_start_time": "2025-04-26T19:22:14.234533",
             "affiliation_balance": 420000,
             "android_id": "d099fb72fa1d28a5627ff511b88111f7",
             "plan": "Basique",
@@ -62,7 +62,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-02-19T07:33:24.556493",
-            "affiliation_balance": 10000,
+            "affiliation_balance": 11000,
             "android_id": "dc1ba5e41a314a307d179fc9b5932c33",
             "countdown_paused": false,
             "plan": "Basique"
@@ -72,7 +72,7 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-05-02T14:06:41.779582",
+            "countdown_start_time": "2025-04-23T19:09:19.201727",
             "affiliation_balance": 0,
             "countdown_paused": false,
             "plan": "Basique",
@@ -195,8 +195,8 @@
                 "Gastel5810302"
             ],
             "status": "active",
-            "countdown_start_time": "2025-04-24T05:53:21.377264",
-            "affiliation_balance": 11000,
+            "countdown_start_time": "2025-05-02T13:24:38.231735",
+            "affiliation_balance": 1000,
             "android_id": "c4665ee227bd5513d44e32d4d69a242c",
             "countdown_paused": false,
             "plan": "Basique"
@@ -318,7 +318,7 @@
                 "Njaouh79103"
             ],
             "status": "active",
-            "countdown_start_time": "2025-05-02T14:21:23.929849",
+            "countdown_start_time": "2025-04-25T11:06:11.266845",
             "affiliation_balance": 0,
             "android_id": "59b06a4026ee0cc6fdbed97e7830a4da",
             "countdown_paused": false,
@@ -964,7 +964,7 @@
             "referred_by": "Emmanuel6837",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-05-02T14:11:37.918522",
+            "countdown_start_time": "2025-04-24T09:41:41.884372",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
@@ -1206,7 +1206,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-04-25T22:50:50.655860",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -2595,7 +2595,7 @@
             "referred_by": "Emmanuel6837",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-05-02T14:21:33.088534",
+            "countdown_start_time": "2025-04-25T12:03:51.435991",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
@@ -2963,8 +2963,7 @@
                 "Francklin79103701",
                 "Fisouu68192",
                 "Rayan671932",
-                "Joee79193929",
-                "Bray57199302"
+                "Joee79193929"
             ],
             "status": "active",
             "countdown_start_time": "2025-04-12T17:00:19.402367",
@@ -4776,7 +4775,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-04-25T20:22:23.040299",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -4824,7 +4823,7 @@
             "referred_by": "William7919361810",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-05-02T14:20:23.334743",
+            "countdown_start_time": "2025-04-25T10:15:13.711965",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
@@ -5454,7 +5453,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-04-27T10:03:29.929414",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -5708,7 +5707,7 @@
             "referred_by": "Totomora909311",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-05-02T14:11:09.731863",
+            "countdown_start_time": "2025-05-02T11:51:39.591876",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
@@ -6727,7 +6726,7 @@
             "referred_by": "Hardy157204",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-04-25T01:51:28.662364",
+            "countdown_start_time": "2025-05-02T12:09:59.346078",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
@@ -6800,16 +6799,6 @@
             "countdown_start_time": "2025-04-25T17:51:53.746675",
             "affiliation_balance": 0,
             "plan": "Basique"
-        },
-        {
-            "id": "Bray57199302",
-            "android_id": "008efc698088998273c69d6b600f466a",
-            "referred_by": "Lalaina89103",
-            "referred_to": [],
-            "status": "active",
-            "countdown_start_time": "2025-04-25T22:09:19.828931",
-            "affiliation_balance": 0,
-            "plan": "Basique"
         }
     ],
     "references": {
@@ -6817,5 +6806,5 @@
             "2"
         ]
     },
-    "announcement": "17H12MIN \ud83d\ude80\ud83d\ude8022 AVRIL 2025\ud83d\ude80\ud83d\ude80MIARAHABA DAHOL,JUSTE FANAZAVANA KELY NY @MAJ,1-HOANZAY TSIKA NAKA ANLAY TASK1.BIN T@11AVRIL DE MANASA ANAREO HAKA AN'INY @BOT ALOH MBA HAHAFAHANARO TSY HIRAT\u00c9 ZAVATRA,HOAN'IZAY EF NANAO KOSA DIA REHEFA MILANCE FTSN IANAREO DE LANCEO @ ./task1.bin DIA ATAOVY METTRE A JOURS TOUS,ANTONY,RAH TOA KA NANAO ABONNEMENT NAREO NNEF ACTIV\u00c9 TSARA DE NEF NY ANY @TERMUX APRES 10MIN MBOLA EXPIR\u00c9 FONA DIA TSY VITA LE MAJ ZAY,ARY RAHA SENDRA TRATRA ANLAY MOTS DE PASSE INCORRECT IANAREO KANEFA NY MDP MARINA TSARA DIA AZA OVAINA FA TOKONY MIVERINA FONA INY APRES DEMI JOURN\u00c9E RAH TOA KA EFA NISY FOTOANA NANDEH TAO @TERMUX KA TSS NANOVA,MANARAKA,RAHA SENDRA MAHITA ANRRNY SORATRA FOTSY2 IRENY NAREO MANDRITRA NY ASA DIA TSY OLANA IRENY FA IRENY ILAY VERIFICATION ATAON'NY SCRIPT AUTOMATIQUR HOE NILAMINA VE NY COMPTENAO(AFAKA VE ILAY ETAPE SUPPLEMENTAIRE/AFAKA MANAO LIKE VE/MIREGLE ANLAY IGNORER IZY) TSY MIAFECTER NY ASA IRENY,RAH TOA KA VOAVAH ANAO NY OLANA @ ILAY ETAPE SUPPLEMENTAIRE DIA TONGA DIA AMPIDIRINY AUTOMATIQUE AO INY COMPTE INY APRES 10MIN \u00c0 15MIN EO,TORKZAY KOA NY LIKE,REHEFA HITANY FA AFAKA MANAO LIKE DIA TONGA DIA AVERINY AUTOMATIQUE AO,ANKOATRA IZAY,RAHA TOA KOSA KA HOE AUCUN MOTS DE PASSE TROUVER NO HITANAO @ILAY SORATRA FOTSY DIA MILA AJOUTENAO ILAY USERNAME SY MOTS DE PASSE IZAY AO @FIAJOUTENA COMPTE,RAHA MBOLA MISY MANANA OLANA NA MISY FANGATAHANA NY @FANATSARANA NY SCRIPT DE AZA MISALASAL MANDEF MP,HASIAKO VERSION ANY SCRIPT HAFA AO @BOT TSIKA,ILAY VERSION TALOH INY ,RAH SANATRIA KA MISY OLANA NY ANAO KY MAJ,OHATRA ANLAY ANY SASANY MANAO FEEDBACK REQUIRED(IZAY TSY CAS AKO FA NENAH MANDEH TSAR FA MISY NY AN'NY SASANY MANAO ANZAY) DIA AO @BOT MISE A JOURS ASIKO LAST VERSION,DE AO AMZAY SECTION ZAY IANAREO MANARAKA NY INSTRUCTION MAMERINA AZY @VERSION TEO ALOHA,RAH TSY MANANA OLANA KOSA IANAO DIA TSARA ALEO MIJANONA @ILAY MAJ VAO2 IHANY,DIA MBOLA MAMERINA NY FIALAN-TSINY HATRANY,TENA TSY MORA ILAY IZY,MOA MATOA ALEFAKO ILAY MAJ DIA METY TSARA NY TESTE AVY ATY AMIKO FA MISY ANY @SASANY ILAY IZY TSY MILAMINA,KA ZAY ANTONY HANAOVAKO ANZAY,KA  MISY TSY METY2 NDRAY(ZAVA-MISY IZAY),FA ENJEHAKO HARIVA IZAY DIA EO NAREO MANAO CHOIX,FHITANAREO AO IZAY AO @BOT MISE A JOURS(ILAY OLD VERSION) DIA AO NAREO MANAEAKA AZY DANS 4H EO FA HENJEHAKO ZAO,MANKASITRAKA\u001b[H\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83e\udd1d"
+    "announcement": "25 Avril 2025\ud83d\ude80\ud83e\udd1dMIARAHANA ANAREO REHETRA\ud83d\ude80\ud83e\udd1dMANKASITRAKA ANAREO HATRANY NY @FAHATOKISANA SY NY FIARAHA-MIASA ARY HIALAKO TSINY KOSA HOAN'IZAY MISEDRA OLANA SASANY\ud83d\ude2bRAH SANATRIA KA MISEDRA OLANA IANAO,OHATRA AM'IZANY,VITSY NY COMPTE MIASA NEF AO ANATY COOMPTE CONNECTER\ud83d\udd01,MANAO DISO MOTS DE PASSE,MIALA HOAZY NY COMPTE NEF TSY MAMPIASA WIFFI NA KOA TSY MANAO PARTAGE,MANAO ABONNEMENT KANEFA ACTIV\u00c9 NEF MILAZA FA ECHOUER ILAY IZY DIA ,MANASA ANAREO HIDITRA \ud83d\udc49\ud83d\udc49AO @BOT TELEGRAM FANAOVATSIKA INSTALLATION,REHEFA VITA IZAY DIA MIDIRA AO @SECTION VERSION PRECEDENT,MISY INSTRUCTION AO,DIA ARAHANA TSARA FOTSININY,REHEFA VITA IZAY DIA LANCEO AMZAY FA TOKONY HANDEHA AMZAY IO\ud83d\ude80\ud83c\udf89RAHA SANATRIA MISY OLANA DIA AZA MISALASALA MANDEFA MESSAGE AVY HATRANY,DIA REHEFA MANDEFA MESSAGE @MANARAKA DIA TONGA DIA LAZAO NY ZAVATRA HOLAZAINA AMZAY VETY2 DE VOAVAH NY OLANAOFA TSY HOE MIRAHABA DIA MIANDRY VALINY ZAY VAO LAZAINA ILAY IZY DIA AVY EO LASA ELA2 VAO VOAVALY,MBA HAMPALAKY AZYMANARAKA IZAY,HOVITAIKO ILAY PROJET NISY OLANA KELY INY HOAN'NY SASANY FA ATOKANAKO SCRIPT,IZANY HOE SI POSSIBLE DIA MIVERENA DAHOL AO @VERSION PRECEDENT,FA HAKA FOTOANA KELY AHO,HATOKAKO SCRIPT IRAY NY MANAO PUBLICATION/STORY AUTOMATIQUE ASIKO FONCTION PUBLICATION\ud83d\ude80\ud83e\udd1dMIARAKA @MANAO IGNORER AUTOMATIQUE,VERIFICATION AUTOMATIQUE ANLAY COMPTE HOE EFA AFAKA VE ILAY CHALLENGE NA MBOLA,KA MAMAHA FTSN NO ATAONAO FA IZY MIDITRA HOAZY AO RAH EF NLAM NY ANY,RAH SANATRIA TSY AFAKA MANAO LIKE DE IZY NO MANAO VERIFICATION,SY IZAY FONCTION HITAKO EO,ZAY NO OBJECTIF T@MAJ INY SAINGY MARO NO TSY COMPATIBLE TAMINY,KA HOKETREHAKO MANOKANA MITSY\ud83e\udd1d\ud83d\ude80METY HAHARITRA UNE SEMAINE MAHERY EO,ARAKARANY SATRIA TENA HOHATAOKO TESTE AU MAX MITSY IZAY VAO ALEFAKO MBA TSY HISIAN'NY OLANA INTSONY REHEFA TONGA ANY AMINAREODIA RAHA METY AZA DIA PRESSENA LOATRA AH AMINY,FA VAO VITA IO DIA MANAO ANNONCE AHO,IO NGAMBA NO METY HOFARANY MAJ TSIKA ARAKARANY DIA MILAMINA AMZAY TSIKA RAH TSS FIOVANY NY INSTAGRAM SY SMM,RAH MISY NEFA DIA TSY MAINTSY MANAO MAJ TSIKA\ud83e\udd1d\ud83d\ude80REHEFA VITA IZAY MAJ IZAY DIA ASIKO SESSION KELY HANAOVATSIKA APPEL VIDEO MBA HAHAFAHAKO MANAZAVA ANAREO NY FAMPIASANA AZY,SY MAMALY NY QUESTION ANAREO EN M\u00caME TEMPS AMIZAY IZY MILAMINA TSARA,ANDROANY TONTOLO AHO HAMALY MP SY HIGUIDE ANAREO KA TSARA VITAINA ANDROANY NY MAMERINA AZY @VERSION PRECEDENT,FA RAMPITSO AHO HANOMBOKA ANLAY PROGRAM KA METY TSY TENA HO ACTIF BE LOATRA ATO SATRIA TENA SOMARY MILA CONCENTRATION,MANKASITRAKA ANAREO HATRANY\ud83e\udd1d\ud83d\ude80"
 }
