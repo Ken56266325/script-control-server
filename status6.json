@@ -2854,7 +2854,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-04-27T19:21:45.947601",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -3948,8 +3948,8 @@
                 "Sarobidy68921"
             ],
             "status": "active",
-            "countdown_start_time": "2025-04-26T20:29:18.345736",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-05-03T19:22:20.373602",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
