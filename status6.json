@@ -192,7 +192,8 @@
                 "Julles6819369",
                 "Anja68913240",
                 "Rodin681021",
-                "Gastel5810302"
+                "Gastel5810302",
+                "Bonera67199229"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-02T13:24:38.231735",
@@ -6966,6 +6967,15 @@
             "countdown_start_time": "2025-04-27T03:32:15.144492",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Bonera67199229",
+            "android_id": "80923edcebc58a8212ec451104483c67",
+            "referred_by": "Emmanuel6837",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-03T19:37:40.015011",
+            "affiliation_balance": 0
         }
     ],
     "references": {
