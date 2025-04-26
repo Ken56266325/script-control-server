@@ -6934,6 +6934,15 @@
             "countdown_start_time": "2025-04-26T22:22:04.642588",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Olive58193020",
+            "android_id": "cb3d427fbf0cec4ee3ebac0d43f25d48",
+            "referred_by": "Damasc\u00e8ne6110302",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-03T16:46:22.119509",
+            "affiliation_balance": 0
         }
     ],
     "references": {
