@@ -6913,6 +6913,15 @@
             "countdown_start_time": "2025-04-26T01:54:54.053994",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Nasta58919402",
+            "android_id": "cdf28bb740e81c383aedc98887aecb1c",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-03T07:51:39.946600",
+            "affiliation_balance": 0
         }
     ],
     "references": {
