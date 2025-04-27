@@ -1630,7 +1630,8 @@
                 "Herilaea68103051040",
                 "Angelo81990",
                 "Lovasoa367569",
-                "Dafa571930202"
+                "Dafa571930202",
+                "Sisie68199392"
             ],
             "status": "active",
             "countdown_start_time": "2025-04-25T15:07:42.443016",
@@ -7043,6 +7044,15 @@
             "countdown_start_time": "2025-04-27T21:42:04.055550",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Sisie68199392",
+            "android_id": "dea87e1a842c0eeed0313ef0d50cd86a",
+            "referred_by": "Wayne69193",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-04T13:42:33.338387",
+            "affiliation_balance": 0
         }
     ],
     "references": {
