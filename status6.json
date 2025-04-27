@@ -675,7 +675,8 @@
                 "Aina5819302",
                 "Onja58193929",
                 "Eloie68192901",
-                "Annah5719925"
+                "Annah5719925",
+                "Faniry57199320"
             ],
             "status": "active",
             "countdown_start_time": "2025-04-30T07:44:11.201065",
@@ -6999,6 +7000,15 @@
             "countdown_start_time": "2025-04-27T15:22:22.072593",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Faniry57199320",
+            "android_id": "41416bd79547b44edbea0b9c20874a60",
+            "referred_by": "Harimalala58294",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-04T13:38:46.921606",
+            "affiliation_balance": 0
         }
     ],
     "references": {
