@@ -2683,7 +2683,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-04-29T09:46:55.650193",
-            "affiliation_balance": 8000,
+            "affiliation_balance": 9000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -2859,8 +2859,8 @@
                 "Requin58963689"
             ],
             "status": "active",
-            "countdown_start_time": "2025-04-27T19:21:45.947601",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-05-04T19:30:26.419887",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
