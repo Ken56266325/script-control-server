@@ -1631,7 +1631,8 @@
                 "Angelo81990",
                 "Lovasoa367569",
                 "Dafa571930202",
-                "Sisie68199392"
+                "Sisie68199392",
+                "Hafatriniaina581930"
             ],
             "status": "active",
             "countdown_start_time": "2025-04-25T15:07:42.443016",
@@ -7054,6 +7055,15 @@
             "countdown_start_time": "2025-04-27T21:43:01.857847",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Hafatriniaina581930",
+            "android_id": "618ad0cc89726ce2363e540218faa3b9",
+            "referred_by": "Wayne69193",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-04T13:43:21.937642",
+            "affiliation_balance": 0
         }
     ],
     "references": {
