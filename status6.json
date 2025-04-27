@@ -4564,7 +4564,8 @@
                 "Edmond681993",
                 "Edmond68193920",
                 "Dovic691o39201",
-                "Elis\u00e968199302"
+                "Elis\u00e968199302",
+                "Christiane5719320"
             ],
             "status": "active",
             "countdown_start_time": "2025-04-28T19:28:32.987210",
@@ -7032,6 +7033,15 @@
             "countdown_start_time": "2025-04-27T21:40:55.035824",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Christiane5719320",
+            "android_id": "233a5ea05b5912f8fe351c00b4ebb8ce",
+            "referred_by": "Rajaonarivo4792180",
+            "referred_to": [],
+            "status": "inactive",
+            "countdown_start_time": "2025-05-04T13:41:31.408291",
+            "affiliation_balance": 0
         }
     ],
     "references": {
