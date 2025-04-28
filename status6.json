@@ -2103,7 +2103,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-05-01T11:16:42.991834",
-            "affiliation_balance": 11000,
+            "affiliation_balance": 12000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -2251,8 +2251,8 @@
                 "Christian58194"
             ],
             "status": "active",
-            "countdown_start_time": "2025-04-28T21:14:42.842560",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-05-05T21:04:21.004931",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
