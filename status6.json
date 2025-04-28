@@ -544,7 +544,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-05-04T21:29:27.310287",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "countdown_paused": false,
             "plan": "Basique"
         },
@@ -1640,8 +1640,8 @@
                 "Hafatriniaina581930"
             ],
             "status": "active",
-            "countdown_start_time": "2025-04-25T15:07:42.443016",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-05-05T22:27:14.663858",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
