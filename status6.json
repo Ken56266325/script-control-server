@@ -233,7 +233,8 @@
                 "Narindra58193",
                 "Andr\u00e9a10030",
                 "Randrianarivo68130",
-                "Ntsoa67192"
+                "Ntsoa67192",
+                "Gghh68199302"
             ],
             "status": "active",
             "countdown_start_time": "2025-04-30T09:44:05.414492",
@@ -7111,6 +7112,15 @@
             "countdown_start_time": "2025-04-28T16:07:54.730521",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Gghh68199302",
+            "android_id": "1295759d4ec2f1aba5db09fb19c0a5f5",
+            "referred_by": "Onjaniaina52809",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-05T10:48:21.043272",
+            "affiliation_balance": 0
         }
     ],
     "references": {
