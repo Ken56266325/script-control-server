@@ -649,7 +649,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-05-04T17:16:32.619057",
-            "affiliation_balance": 3000,
+            "affiliation_balance": 4000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -4134,8 +4134,8 @@
                 "Mamy909138894"
             ],
             "status": "active",
-            "countdown_start_time": "2025-04-27T19:14:46.406856",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-05-05T13:26:33.903637",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
