@@ -6145,7 +6145,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-04-30T20:45:30.314852",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -6886,7 +6886,7 @@
             "referred_by": "Andry5718e0",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-04-26T01:00:40.430935",
+            "countdown_start_time": "2025-05-06T08:04:38.803240",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
