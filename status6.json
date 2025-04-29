@@ -6107,7 +6107,9 @@
             "id": "Uzumaki67190",
             "android_id": "fc2dd58cc3e34260a268aa83594d5273",
             "referred_by": "Tsila5819292",
-            "referred_to": [],
+            "referred_to": [
+                "Gold68193929"
+            ],
             "status": "active",
             "countdown_start_time": "2025-04-16T04:13:58.912448",
             "affiliation_balance": 0,
@@ -7199,6 +7201,15 @@
             "countdown_start_time": "2025-04-29T00:36:29.643310",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Gold68193929",
+            "android_id": "29082174794c9515cf697194921cd43b",
+            "referred_by": "Uzumaki67190",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-06T09:02:19.510564",
+            "affiliation_balance": 0
         }
     ],
     "references": {
