@@ -3319,7 +3319,8 @@
             "referred_by": "Emmanuel6837",
             "referred_to": [
                 "Joel681921",
-                "Ro58193920"
+                "Ro58193920",
+                "Joel's67193920"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-02T07:51:02.531320",
@@ -7255,6 +7256,15 @@
             "countdown_start_time": "2025-04-30T01:20:52.390953",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Joel's67193920",
+            "android_id": "3230ec310f4092b1143e13ae617f5761",
+            "referred_by": "Joel68010",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-06T17:27:05.624722",
+            "affiliation_balance": 0
         }
     ],
     "references": {
