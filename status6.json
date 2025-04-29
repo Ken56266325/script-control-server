@@ -6799,7 +6799,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-05-02T15:02:02.759394",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -7088,7 +7088,7 @@
             "referred_by": "Annah5719925",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-04-27T22:07:59.072827",
+            "countdown_start_time": "2025-05-06T12:40:28.114153",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
