@@ -195,7 +195,8 @@
                 "Gastel5810302",
                 "Bonera67199229",
                 "Tania6819392",
-                "Mialy57919302"
+                "Mialy57919302",
+                "Johannes6819302"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-02T13:24:38.231735",
@@ -7222,6 +7223,15 @@
             "countdown_start_time": "2025-04-30T00:30:05.424992",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Johannes6819302",
+            "android_id": "c8853398553c6a4dba4831b74783d7e7",
+            "referred_by": "Emmanuel6837",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-06T17:17:04.182075",
+            "affiliation_balance": 0
         }
     ],
     "references": {
