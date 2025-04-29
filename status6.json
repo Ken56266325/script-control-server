@@ -3831,7 +3831,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-05-02T18:02:05.040693",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -6866,7 +6866,7 @@
             "referred_by": "Rakalamina6810",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-04-26T23:02:38.286048",
+            "countdown_start_time": "2025-05-06T07:07:32.160921",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
