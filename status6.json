@@ -4010,7 +4010,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-05-07T09:29:21.990753",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -4505,7 +4505,7 @@
             "referred_by": "Ntsoa67192",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-04-25T17:35:04.573216",
+            "countdown_start_time": "2025-05-07T14:44:32.828304",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
