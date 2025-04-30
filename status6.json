@@ -1253,7 +1253,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-04-30T16:23:07.345565",
-            "affiliation_balance": 3000,
+            "affiliation_balance": 4000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -2670,8 +2670,8 @@
                 "Lucie68132"
             ],
             "status": "active",
-            "countdown_start_time": "2025-04-30T09:55:59.088755",
-            "affiliation_balance": 9000,
+            "countdown_start_time": "2025-05-07T09:55:37.749215",
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
