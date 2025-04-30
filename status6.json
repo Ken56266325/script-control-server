@@ -1046,7 +1046,8 @@
             "referred_to": [
                 "Laivao890202",
                 "Alex67199320",
-                "Dona68919229"
+                "Dona68919229",
+                "Francisse681993"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-06T06:36:43.711633",
@@ -7399,6 +7400,15 @@
             "countdown_start_time": "2025-04-30T23:05:07.411116",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Francisse681993",
+            "android_id": "acb72da504869c14bc1b956ad0ec30f5",
+            "referred_by": "Marcel10325",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-07T17:31:12.291766",
+            "affiliation_balance": 0
         }
     ],
     "references": {
