@@ -1964,7 +1964,8 @@
             "referred_by": "Harimalala58294",
             "referred_to": [
                 "Tsizaraina5917103",
-                "Tsizaraina89610302"
+                "Tsizaraina89610302",
+                "Razaka57919292"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-04T10:09:04.751182",
@@ -7388,6 +7389,15 @@
             "countdown_start_time": "2025-04-30T23:02:06.476074",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Razaka57919292",
+            "android_id": "2128ab24f5f518d39cfc0ab00790796d",
+            "referred_by": "Rakoto59102",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-07T15:04:45.983825",
+            "affiliation_balance": 0
         }
     ],
     "references": {
