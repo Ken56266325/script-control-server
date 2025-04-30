@@ -2004,7 +2004,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-05-06T06:47:50.349722",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -7253,7 +7253,7 @@
             "referred_by": "RanofaAuto",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-04-30T01:20:52.390953",
+            "countdown_start_time": "2025-05-07T06:59:45.142116",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
