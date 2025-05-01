@@ -2966,7 +2966,8 @@
                 "Augustin681030",
                 "Honore891681020",
                 "Elie69103580",
-                "Sarobidy68100320"
+                "Sarobidy68100320",
+                "Meryem67193939"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-05T20:43:11.814354",
@@ -7531,6 +7532,15 @@
             "countdown_start_time": "2025-05-01T22:38:57.324486",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Meryem67193939",
+            "android_id": "1538f5815b24b442b9436050f34ec5b2",
+            "referred_by": "Nantenaina90183",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-08T14:54:55.761581",
+            "affiliation_balance": 0
         }
     ],
     "references": {
