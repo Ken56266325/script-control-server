@@ -4502,7 +4502,8 @@
                 "J\u00f4van68193920",
                 "Rangilo5819302",
                 "Mirana6893010",
-                "Natchi68199302"
+                "Natchi68199302",
+                "Thomasbot781992"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-01T07:21:50.576211",
@@ -7477,6 +7478,15 @@
             "countdown_start_time": "2025-05-01T06:59:58.162146",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Thomasbot781992",
+            "android_id": "d248310bffa83adf7f97680885a86b2c",
+            "referred_by": "Damasc\u00e8ne6710302",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-08T06:39:05.048647",
+            "affiliation_balance": 0
         }
     ],
     "references": {
