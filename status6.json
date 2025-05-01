@@ -4845,8 +4845,7 @@
             "referred_to": [
                 "Alitera791040280",
                 "Rasoanarisoa6810321",
-                "Tina6819201",
-                "Tina68193o2p"
+                "Tina6819201"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-01T15:56:20.068485",
@@ -5912,17 +5911,6 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-05T17:52:20.188273",
-            "affiliation_balance": 0,
-            "plan": "Basique",
-            "countdown_paused": false
-        },
-        {
-            "id": "Tina68193o2p",
-            "android_id": "74170ec49a326cf1ec516c4425951b1c",
-            "referred_by": "Airtel791628962",
-            "referred_to": [],
-            "status": "active",
-            "countdown_start_time": "2025-05-06T14:27:57.833756",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
