@@ -3977,7 +3977,8 @@
                 "Pass58190",
                 "Hasina68103691",
                 "Narindra781032",
-                "Sarobidy68921"
+                "Sarobidy68921",
+                "Andr\u00e9as7819933"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-03T19:22:20.373602",
@@ -7509,6 +7510,15 @@
             "countdown_start_time": "2025-05-01T18:35:39.728297",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Andr\u00e9as7819933",
+            "android_id": "7aae62215a7d74bda9fb85ae73f0e82d",
+            "referred_by": "Japhet589300",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-08T13:20:29.461886",
+            "affiliation_balance": 0
         }
     ],
     "references": {
