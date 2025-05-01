@@ -2872,7 +2872,6 @@
                 "Narovana8910372",
                 "Tahiry7910329",
                 "Requin58963689",
-                "Daniel58199320",
                 "Max6819930"
             ],
             "status": "active",
@@ -7392,16 +7391,6 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-04-30T23:00:53.527658",
-            "affiliation_balance": 0,
-            "plan": "Basique"
-        },
-        {
-            "id": "Daniel58199320",
-            "android_id": "95a8afb571e24ecc1dc889fb22bd1730",
-            "referred_by": "Niaina89103",
-            "referred_to": [],
-            "status": "active",
-            "countdown_start_time": "2025-04-30T23:02:06.476074",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
