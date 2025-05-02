@@ -7282,7 +7282,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-05-07T06:59:45.142116",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -7541,7 +7541,7 @@
             "referred_by": "Flavien58193920",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-05-01T22:38:57.324486",
+            "countdown_start_time": "2025-05-09T09:21:38.952964",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
