@@ -849,7 +849,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-05-08T10:14:47.431096",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -1452,8 +1452,8 @@
                 "Rosalie6893"
             ],
             "status": "active",
-            "countdown_start_time": "2025-04-23T20:40:07.802105",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-05-09T18:44:36.116393",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
