@@ -7665,6 +7665,15 @@
             "countdown_start_time": "2025-05-02T17:44:53.968331",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Mamitiana1209",
+            "android_id": "8b8b34f48617d2a08654418937377510",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-09T10:57:18.289920",
+            "affiliation_balance": 0
         }
     ],
     "references": {
