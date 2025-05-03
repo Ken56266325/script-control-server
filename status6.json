@@ -4465,7 +4465,8 @@
             "referred_to": [
                 "Landry671930",
                 "Fitia589193",
-                "Sahala68199303"
+                "Sahala68199303",
+                "David61893930"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-02T08:13:39.321209",
@@ -7709,6 +7710,15 @@
             "countdown_start_time": "2025-05-03T15:10:49.727136",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "David61893930",
+            "android_id": "95418ba66a155be315ce3a24d4f61ef1",
+            "referred_by": "Ni681200",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-10T07:16:28.271710",
+            "affiliation_balance": 0
         }
     ],
     "references": {
