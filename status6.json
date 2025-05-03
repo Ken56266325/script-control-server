@@ -3427,7 +3427,8 @@
                 "Andrianantenaina79192",
                 "Amadou681036190",
                 "Miketrky7910371",
-                "Yvon6819200"
+                "Yvon6819200",
+                "Rosia6899391"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-10T08:06:03.093253",
@@ -7799,6 +7800,15 @@
             "countdown_start_time": "2025-05-04T01:13:45.188717",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Rosia6899391",
+            "android_id": "cc9aa3b07ea2a28d644d48fe49f3d975",
+            "referred_by": "Randrianarivo68130",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-10T17:26:20.030644",
+            "affiliation_balance": 0
         }
     ],
     "references": {
