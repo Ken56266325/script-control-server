@@ -3373,7 +3373,8 @@
             "referred_to": [
                 "Fame69103719",
                 "Claudio017812",
-                "Rkt6819942014"
+                "Rkt6819942014",
+                "Valdo68199420"
             ],
             "status": "active",
             "countdown_start_time": "2025-04-28T10:36:16.025024",
@@ -7743,6 +7744,15 @@
             "countdown_start_time": "2025-05-03T15:47:45.282968",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Valdo68199420",
+            "android_id": "a23a52f5e52513247b1472125fd9642e",
+            "referred_by": "Robinson781930",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-10T09:20:58.519906",
+            "affiliation_balance": 0
         }
     ],
     "references": {
