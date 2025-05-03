@@ -196,7 +196,8 @@
                 "Bonera67199229",
                 "Tania6819392",
                 "Mialy57919302",
-                "Johannes6819302"
+                "Johannes6819302",
+                "Parany68199430"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-09T16:55:33.009334",
@@ -763,7 +764,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-05-04T14:09:38.473438",
-            "affiliation_balance": 3000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -6134,7 +6135,7 @@
             "referred_by": "TontonAm6820",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-05-10T17:13:21.205103",
+            "countdown_start_time": "2025-05-03T17:03:12.416482",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
@@ -7788,6 +7789,15 @@
             "countdown_start_time": "2025-05-03T22:37:44.758024",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Parany68199430",
+            "android_id": "a760ece11bd0e4bfe746b9c4ca118a2c",
+            "referred_by": "Emmanuel6837",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-10T17:13:22.172217",
+            "affiliation_balance": 0
         }
     ],
     "references": {
