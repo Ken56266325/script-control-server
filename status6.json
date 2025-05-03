@@ -5931,7 +5931,8 @@
             "referred_by": "Fame69103719",
             "referred_to": [
                 "Jessica68199302",
-                "Justine57199302"
+                "Justine57199302",
+                "Loic67199320"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-06T18:46:52.311376",
@@ -7675,6 +7676,15 @@
             "countdown_start_time": "2052-10-29T19:37:49.207759",
             "affiliation_balance": 0,
             "plan": "VIP"
+        },
+        {
+            "id": "Loic67199320",
+            "android_id": "298d658f43e45b0eb7dc6d3adafdcdf1",
+            "referred_by": "Nico6819320",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-10T06:49:03.940776",
+            "affiliation_balance": 0
         }
     ],
     "references": {
