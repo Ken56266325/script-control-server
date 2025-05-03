@@ -3000,7 +3000,8 @@
                 "Joee79193929",
                 "Bray57199302",
                 "Harimamy5719932",
-                "Mahandry5618292o"
+                "Mahandry5618292o",
+                "Richard78983010"
             ],
             "status": "active",
             "countdown_start_time": "2025-04-12T17:00:19.402367",
@@ -7765,6 +7766,15 @@
             "countdown_start_time": "2025-05-03T17:23:05.634637",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Richard78983010",
+            "android_id": "f2196fc16f07f4b71bcc667dd8ec3e81",
+            "referred_by": "Lalaina89103",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-10T14:36:25.229943",
+            "affiliation_balance": 0
         }
     ],
     "references": {
