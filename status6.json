@@ -2881,7 +2881,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-05-04T19:30:26.419887",
-            "affiliation_balance": 3000,
+            "affiliation_balance": 4000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -3994,8 +3994,8 @@
                 "Andr\u00e9as7819933"
             ],
             "status": "active",
-            "countdown_start_time": "2025-05-03T19:22:20.373602",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-05-10T18:56:50.053753",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
