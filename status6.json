@@ -3721,7 +3721,8 @@
                 "Joyham681030",
                 "Mino78103269",
                 "Rakmall6819392",
-                "Julio891992"
+                "Julio891992",
+                "Adriane899932904"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-08T17:47:40.374349",
@@ -7720,6 +7721,15 @@
             "countdown_start_time": "2025-05-03T15:16:47.787429",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Adriane899932904",
+            "android_id": "7b7f9f9dd618c3cb1ed1fb3eec87c936",
+            "referred_by": "Mika68193",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-10T07:45:18.297716",
+            "affiliation_balance": 0
         }
     ],
     "references": {
