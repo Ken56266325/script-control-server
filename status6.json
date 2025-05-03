@@ -7017,7 +7017,9 @@
             "id": "Justine57199302",
             "android_id": "31f785ceee16e20e1b4f1023f073788b",
             "referred_by": "Nico6819320",
-            "referred_to": [],
+            "referred_to": [
+                "Elinah68192920"
+            ],
             "status": "active",
             "countdown_start_time": "2025-05-04T10:58:00.200732",
             "affiliation_balance": 0,
@@ -7686,6 +7688,15 @@
             "countdown_start_time": "2025-05-03T14:49:27.769200",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Elinah68192920",
+            "android_id": "205a0cacc9dc6157efb1cb5fb7c0c802",
+            "referred_by": "Justine57199302",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-10T06:52:53.106526",
+            "affiliation_balance": 0
         }
     ],
     "references": {
