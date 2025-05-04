@@ -1975,7 +1975,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-05-11T10:42:37.593613",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -7418,7 +7418,7 @@
             "referred_by": "Rakoto59102",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-04-30T23:05:07.411116",
+            "countdown_start_time": "2025-05-11T11:45:29.061259",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
