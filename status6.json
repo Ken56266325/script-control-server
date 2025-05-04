@@ -1052,7 +1052,8 @@
                 "Laivao890202",
                 "Alex67199320",
                 "Dona68919229",
-                "Francisse681993"
+                "Francisse681993",
+                "Faniry6718830"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-06T06:36:43.711633",
@@ -7897,6 +7898,15 @@
             "countdown_start_time": "2025-05-05T00:36:30.462089",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Faniry6718830",
+            "android_id": "0dbacf3642a9ca2d5156afe4262e11c2",
+            "referred_by": "Marcel10325",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-11T16:37:40.995671",
+            "affiliation_balance": 0
         }
     ],
     "references": {
