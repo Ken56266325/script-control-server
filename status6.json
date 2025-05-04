@@ -690,7 +690,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-05-07T07:52:03.865144",
-            "affiliation_balance": 3000,
+            "affiliation_balance": 4000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -1974,8 +1974,8 @@
                 "Razaka57919292"
             ],
             "status": "active",
-            "countdown_start_time": "2025-05-04T10:09:04.751182",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-05-11T10:42:37.593613",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
