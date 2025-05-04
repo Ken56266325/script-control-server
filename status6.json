@@ -5781,7 +5781,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-05-07T18:49:46.692701",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -7790,7 +7790,7 @@
             "referred_by": "Philemon68132",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-05-03T22:37:44.758024",
+            "countdown_start_time": "2025-05-11T14:03:29.946615",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
