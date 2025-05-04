@@ -7942,6 +7942,15 @@
             "countdown_start_time": "2025-05-05T02:30:11.646255",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Dafa6819392",
+            "android_id": "ffa8d6d30610c06f723c0c10fb234ad7",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-11T18:30:40.933796",
+            "affiliation_balance": 0
         }
     ],
     "references": {
