@@ -623,7 +623,8 @@
                 "Tsila90032681",
                 "Irina681921",
                 "Walter671930",
-                "Emma781921"
+                "Emma781921",
+                "Rasoa6893010"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-07T23:35:50.254901",
@@ -7821,6 +7822,15 @@
             "countdown_start_time": "2025-05-04T02:04:48.514984",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Rasoa6893010",
+            "android_id": "019585668aaaff748bcf07ee2912a87b",
+            "referred_by": "Emmanuel1",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-11T12:31:00.031101",
+            "affiliation_balance": 0
         }
     ],
     "references": {
