@@ -7953,7 +7953,9 @@
             "id": "Dafa6819392",
             "android_id": "ffa8d6d30610c06f723c0c10fb234ad7",
             "referred_by": null,
-            "referred_to": [],
+            "referred_to": [
+                "Avotra78199302"
+            ],
             "status": "active",
             "countdown_start_time": "2025-05-23T06:57:45.295401",
             "affiliation_balance": 0,
@@ -8038,6 +8040,15 @@
             "countdown_start_time": "2025-05-06T01:09:09.539833",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Avotra78199302",
+            "android_id": "3778977498d56ea8e00bdbc416dd4747",
+            "referred_by": "Dafa6819392",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-12T17:13:58.958020",
+            "affiliation_balance": 0
         }
     ],
     "references": {
