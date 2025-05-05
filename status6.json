@@ -8050,6 +8050,15 @@
             "countdown_start_time": "2025-05-06T01:14:38.395494",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Gogo57193929",
+            "android_id": "317fe6fd0dd91d5865336b8b1eda7fcf",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-12T18:23:17.637929",
+            "affiliation_balance": 0
         }
     ],
     "references": {
