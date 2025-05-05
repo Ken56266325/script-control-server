@@ -2709,7 +2709,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-05-06T10:55:52.763501",
-            "affiliation_balance": 7000,
+            "affiliation_balance": 8000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -2914,8 +2914,8 @@
                 "Hermina671902p1"
             ],
             "status": "active",
-            "countdown_start_time": "2025-05-05T07:45:53.553077",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-05-12T09:00:22.028176",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
