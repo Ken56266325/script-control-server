@@ -1874,7 +1874,8 @@
                 "JusVip58199320",
                 "Luciah571930",
                 "Aurnela681036910",
-                "Safidy5719290"
+                "Safidy5719290",
+                "Alex7819e929"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-11T07:43:57.896907",
@@ -8007,6 +8008,15 @@
             "countdown_start_time": "2025-05-05T23:17:09.169338",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Alex7819e929",
+            "android_id": "3a0b6e66bcbb4024e0ee2e35abd8f3f5",
+            "referred_by": "SNeddie58103",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-12T15:17:45.437724",
+            "affiliation_balance": 0
         }
     ],
     "references": {
