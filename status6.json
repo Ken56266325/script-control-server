@@ -5185,7 +5185,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-05-09T09:57:01.363481",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -7892,7 +7892,7 @@
             "referred_by": "Francklin79103701",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-05-05T00:34:35.725150",
+            "countdown_start_time": "2025-05-12T09:22:57.479867",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
