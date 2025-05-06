@@ -3445,7 +3445,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-05-10T08:06:03.093253",
-            "affiliation_balance": 6000,
+            "affiliation_balance": 5000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -5698,7 +5698,7 @@
             "referred_by": "Randrianarivo68130",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-05-13T15:53:35.956918",
+            "countdown_start_time": "2025-05-06T18:39:05.187540",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
@@ -8113,7 +8113,8 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-13T15:53:15.718228",
-            "affiliation_balance": 0
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
