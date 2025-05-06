@@ -5416,7 +5416,8 @@
             "android_id": "ffebb34dd2ceadebb18e36cf14afa9c8",
             "referred_by": null,
             "referred_to": [
-                "Jean68192p1"
+                "Jean68192p1",
+                "RDJ671839"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-12T14:32:55.642476",
@@ -8116,6 +8117,15 @@
             "countdown_start_time": "2025-05-06T23:53:50.845891",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "RDJ671839",
+            "android_id": "341c1d0284157b62055dbe886e2f2ac6",
+            "referred_by": "Velotsara681900",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-13T16:07:33.853649",
+            "affiliation_balance": 0
         }
     ],
     "references": {
