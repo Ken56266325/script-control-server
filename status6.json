@@ -2988,7 +2988,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-05-12T20:54:33.641229",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -3205,8 +3205,8 @@
                 "Tiana79102o1"
             ],
             "status": "active",
-            "countdown_start_time": "2025-05-06T15:32:17.453148",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-05-13T19:12:08.111078",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
