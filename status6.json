@@ -2414,7 +2414,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-04-30T08:59:36.171449",
-            "affiliation_balance": 7000,
+            "affiliation_balance": 8000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -3391,8 +3391,8 @@
                 "Valdo68199420"
             ],
             "status": "active",
-            "countdown_start_time": "2025-04-28T10:36:16.025024",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-05-13T08:05:06.901601",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
