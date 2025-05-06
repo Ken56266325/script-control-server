@@ -3857,7 +3857,9 @@
             "id": "Sarobidy68130",
             "android_id": "341bbcb803c69950e14fcacd15dd1a06",
             "referred_by": "Junior68193",
-            "referred_to": [],
+            "referred_to": [
+                "Laurent678199329"
+            ],
             "status": "active",
             "countdown_start_time": "2025-05-09T08:19:37.464119",
             "affiliation_balance": 0,
@@ -5075,7 +5077,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-05-06T21:59:09.204104",
-            "affiliation_balance": 5000,
+            "affiliation_balance": 4000,
             "plan": "VIP",
             "countdown_paused": false
         },
@@ -5357,7 +5359,7 @@
             "referred_by": "Amadou681036190",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-05-13T08:12:21.905748",
+            "countdown_start_time": "2025-05-06T16:26:22.130809",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
@@ -8071,6 +8073,15 @@
             "countdown_start_time": "2025-05-06T16:03:34.651269",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Laurent678199329",
+            "android_id": "e34057b554e2797366adb6b44ab4117a",
+            "referred_by": "Sarobidy68130",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-13T08:12:22.264816",
+            "affiliation_balance": 0
         }
     ],
     "references": {
