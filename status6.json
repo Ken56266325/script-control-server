@@ -4537,7 +4537,8 @@
                 "Thomasbot781992",
                 "Sylvie57199392",
                 "Tommy68199329",
-                "Koloina681993"
+                "Koloina681993",
+                "Michel6819930202"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-08T20:35:25.235037",
@@ -8083,6 +8084,15 @@
             "countdown_start_time": "2025-05-06T16:12:44.484917",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Michel6819930202",
+            "android_id": "eb5ae78602c3bd44fe94e3766ac69ae4",
+            "referred_by": "Damasc\u00e8ne6710302",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-13T15:44:12.784693",
+            "affiliation_balance": 0
         }
     ],
     "references": {
