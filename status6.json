@@ -7965,7 +7965,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-05-23T06:57:45.295401",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -8054,7 +8054,7 @@
             "referred_by": "Dafa6819392",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-05-06T01:14:38.395494",
+            "countdown_start_time": "2025-05-13T17:26:43.554294",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
