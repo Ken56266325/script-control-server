@@ -1265,7 +1265,8 @@
                 "Arison791033",
                 "Charone68132",
                 "Paris58193910",
-                "Tolotra68199320"
+                "Tolotra68199320",
+                "Daniel719292"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-07T17:10:48.570357",
@@ -8103,6 +8104,15 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-06T23:52:52.447893",
+            "affiliation_balance": 0
+        },
+        {
+            "id": "Daniel719292",
+            "android_id": "8219ec18e2af6de9e1d25e6e1ba83d86",
+            "referred_by": "Hoby5826",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-13T15:53:15.718228",
             "affiliation_balance": 0
         }
     ],
