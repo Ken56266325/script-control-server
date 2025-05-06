@@ -8104,7 +8104,8 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-06T23:52:52.447893",
-            "affiliation_balance": 0
+            "affiliation_balance": 0,
+            "plan": "Basique"
         },
         {
             "id": "Daniel719292",
