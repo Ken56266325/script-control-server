@@ -1659,7 +1659,8 @@
                 "Lovasoa367569",
                 "Dafa571930202",
                 "Sisie68199392",
-                "Hafatriniaina581930"
+                "Hafatriniaina581930",
+                "Louisarajo57193920"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-05T22:27:14.663858",
@@ -8288,6 +8289,15 @@
             "countdown_start_time": "2025-05-08T01:56:25.580258",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Louisarajo57193920",
+            "android_id": "ca10a4096d47bb033c5cd05f0ae74fb1",
+            "referred_by": "Wayne69193",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-14T18:00:16.049376",
+            "affiliation_balance": 0
         }
     ],
     "references": {
