@@ -8236,6 +8236,15 @@
             "countdown_start_time": "2025-05-08T01:27:10.201980",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Franck5179393",
+            "android_id": "68f3f16181dbd5f25c375f9fb4423552",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-14T17:33:24.491660",
+            "affiliation_balance": 0
         }
     ],
     "references": {
