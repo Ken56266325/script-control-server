@@ -1971,7 +1971,8 @@
             "referred_to": [
                 "Tojosoa6819e0",
                 "Jean67103",
-                "Jeres79320"
+                "Jeres79320",
+                "Nd671939"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-10T08:04:52.429632",
@@ -8333,6 +8334,15 @@
             "countdown_start_time": "2025-05-08T02:09:12.989850",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Nd671939",
+            "android_id": "c25b25a662821c87511001126a553c02",
+            "referred_by": "Donatien58193",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-14T18:11:03.815568",
+            "affiliation_balance": 0
         }
     ],
     "references": {
