@@ -8278,6 +8278,15 @@
             "countdown_start_time": "2025-05-08T01:42:45.277680",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Laurie58199021",
+            "android_id": "02500528a8b9559bea9373703879a1cb",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-14T17:55:51.976873",
+            "affiliation_balance": 0
         }
     ],
     "references": {
