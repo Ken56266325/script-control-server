@@ -2777,7 +2777,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-05-09T17:23:27.515347",
-            "affiliation_balance": 9000,
+            "affiliation_balance": 10000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -6675,7 +6675,7 @@
             "referred_by": "Floremma89102",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-05-07T14:33:06.888850",
+            "countdown_start_time": "2025-05-14T14:28:41.684016",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
