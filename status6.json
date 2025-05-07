@@ -627,7 +627,8 @@
                 "Irina681921",
                 "Walter671930",
                 "Emma781921",
-                "Rasoa6893010"
+                "Rasoa6893010",
+                "David6719393"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-07T23:35:50.254901",
@@ -8246,6 +8247,15 @@
             "countdown_start_time": "2025-05-08T01:36:02.462452",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "David6719393",
+            "android_id": "228e31c862ccbccbb5e002b6c77a650d",
+            "referred_by": "Emmanuel1",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-14T17:39:18.801489",
+            "affiliation_balance": 0
         }
     ],
     "references": {
