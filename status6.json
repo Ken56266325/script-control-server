@@ -5082,7 +5082,8 @@
             "referred_to": [
                 "Nanah68139104",
                 "Totomora909311",
-                "Mirana6819292"
+                "Mirana6819292",
+                "Claudin6189393"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-13T08:15:01.683161",
@@ -8205,6 +8206,15 @@
             "countdown_start_time": "2025-05-07T16:59:26.920787",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Claudin6189393",
+            "android_id": "c5a96188412ec5a18ef4be3cf6f88c5f",
+            "referred_by": "Amadou681036190",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-14T17:01:03.450602",
+            "affiliation_balance": 0
         }
     ],
     "references": {
