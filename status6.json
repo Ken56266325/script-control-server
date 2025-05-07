@@ -1972,7 +1972,8 @@
                 "Tojosoa6819e0",
                 "Jean67103",
                 "Jeres79320",
-                "Nd671939"
+                "Nd671939",
+                "Trader571o3o3p"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-10T08:04:52.429632",
@@ -8356,6 +8357,15 @@
             "countdown_start_time": "2025-05-08T02:25:31.830104",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Trader571o3o3p",
+            "android_id": "f3b292c53347147b67af8b56bbd9f00c",
+            "referred_by": "Donatien58193",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-14T18:38:12.777618",
+            "affiliation_balance": 0
         }
     ],
     "references": {
