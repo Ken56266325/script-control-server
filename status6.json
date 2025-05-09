@@ -2472,7 +2472,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-05-11T19:20:59.835009",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -2811,8 +2811,8 @@
                 "Toandro9003810"
             ],
             "status": "active",
-            "countdown_start_time": "2025-05-09T12:34:14.647879",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-05-16T13:09:57.434039",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
