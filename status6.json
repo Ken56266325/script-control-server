@@ -2472,7 +2472,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-05-11T19:20:59.835009",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -2749,8 +2749,8 @@
                 "Junior68193920"
             ],
             "status": "active",
-            "countdown_start_time": "2025-05-09T20:42:04.800875",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-05-16T21:03:14.087098",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
