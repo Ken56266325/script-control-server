@@ -4653,7 +4653,8 @@
                 "Elis\u00e968199302",
                 "Christiane5719320",
                 "Rasoa58199302",
-                "Chance58193920"
+                "Chance58193920",
+                "Emile5819392"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-12T19:45:48.749526",
@@ -8422,6 +8423,15 @@
             "countdown_start_time": "2025-05-09T17:04:14.286352",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Emile5819392",
+            "android_id": "b95e6103612733f72d19e7a88c82ab7e",
+            "referred_by": "Rajaonarivo4792180",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-16T09:05:51.299791",
+            "affiliation_balance": 0
         }
     ],
     "references": {
