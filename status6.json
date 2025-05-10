@@ -1981,7 +1981,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-05-17T08:11:31.909175",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -8350,7 +8350,7 @@
             "referred_by": "Donatien58193",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-05-08T02:11:32.923905",
+            "countdown_start_time": "2025-05-17T15:14:19.530409",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
