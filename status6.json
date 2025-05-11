@@ -8443,6 +8443,16 @@
             "countdown_start_time": "2025-05-11T20:47:58.032689",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "KennydVEAkWJO",
+            "android_id": "Djkzjz",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-11T20:51:27.234521",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
