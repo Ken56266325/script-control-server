@@ -4513,7 +4513,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-05-11T15:31:04.486059",
-            "affiliation_balance": 4000,
+            "affiliation_balance": 5000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -7529,7 +7529,7 @@
             "referred_by": "Ni681200",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-05-01T06:34:53.046415",
+            "countdown_start_time": "2025-05-18T18:34:13.086681",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
