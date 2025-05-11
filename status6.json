@@ -1747,7 +1747,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-05-18T11:00:55.179904",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -3268,7 +3268,7 @@
                 "Har7199392"
             ],
             "status": "active",
-            "countdown_start_time": "2025-05-11T10:15:35.367260",
+            "countdown_start_time": "2025-05-18T11:44:07.554721",
             "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
