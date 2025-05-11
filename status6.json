@@ -773,7 +773,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-05-18T15:56:40.171941",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -6185,7 +6185,7 @@
             "referred_by": "TontonAm6820",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-05-10T18:08:12.355915",
+            "countdown_start_time": "2025-05-18T16:05:15.883876",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
