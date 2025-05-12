@@ -1673,7 +1673,8 @@
                 "Hafatriniaina581930",
                 "Louisarajo57193920",
                 "Hertsiax4X4qIQD",
-                "Andryz2yUvAHh"
+                "Andryz2yUvAHh",
+                "TsiaroWTcdZ4ho"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-05T22:27:14.663858",
@@ -8868,6 +8869,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-13T00:26:37.744547",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "TsiaroWTcdZ4ho",
+            "android_id": "572d5bbafb3664c90433d64443388bf3",
+            "referred_by": "Wayne69193",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-13T00:43:16.103550",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
