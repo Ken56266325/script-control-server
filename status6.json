@@ -1675,7 +1675,8 @@
                 "Louisarajo57193920",
                 "Hertsiax4X4qIQD",
                 "Andryz2yUvAHh",
-                "TsiaroWTcdZ4ho"
+                "TsiaroWTcdZ4ho",
+                "Raman9gBNx7j1"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-05T22:27:14.663858",
@@ -8957,6 +8958,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-13T01:58:38.477741",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Raman9gBNx7j1",
+            "android_id": "87f4b44c493b361715f3471eb34b6247",
+            "referred_by": "Wayne69193",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-13T02:12:26.157178",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
