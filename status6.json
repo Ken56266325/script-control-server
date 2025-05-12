@@ -1063,7 +1063,8 @@
                 "Alex67199320",
                 "Dona68919229",
                 "Francisse681993",
-                "Faniry6718830"
+                "Faniry6718830",
+                "RaoelinaHaingoniainags77Us1D"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-13T06:45:03.456014",
@@ -8890,6 +8891,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-13T00:05:31.706676",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "RaoelinaHaingoniainags77Us1D",
+            "android_id": "bedc2194787ad9ecc6986bbe80d03cd3",
+            "referred_by": "Marcel10325",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-13T01:37:12.899956",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
