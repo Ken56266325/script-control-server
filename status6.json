@@ -1669,7 +1669,8 @@
                 "Sisie68199392",
                 "Hafatriniaina581930",
                 "Louisarajo57193920",
-                "Hertsiax4X4qIQD"
+                "Hertsiax4X4qIQD",
+                "Andryz2yUvAHh"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-05T22:27:14.663858",
@@ -8644,6 +8645,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-12T17:57:35.667550",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Andryz2yUvAHh",
+            "android_id": "1254a39008b8444ab9a17c5bf4a7523f",
+            "referred_by": "Wayne69193",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-12T17:58:45.623005",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
