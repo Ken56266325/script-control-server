@@ -632,7 +632,8 @@
                 "Emma781921",
                 "Rasoa6893010",
                 "David6719393",
-                "+261349897278TfYnYJko"
+                "+261349897278TfYnYJko",
+                "+261349897278EXhYTZum"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-15T21:05:36.214439",
@@ -8732,6 +8733,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-12T20:55:29.302313",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "+261349897278EXhYTZum",
+            "android_id": "2d35145a904b08c0597344bb6f556251",
+            "referred_by": "Emmanuel1",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-12T21:08:34.798566",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
