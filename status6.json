@@ -6308,7 +6308,8 @@
             "android_id": "1bd5d14fd939c15d036dc4d6e205698c",
             "referred_by": "Pass58190",
             "referred_to": [
-                "hasina radoher'tyanaL9WVXU0e"
+                "hasina radoher'tyanaL9WVXU0e",
+                "francinerMb7lOq7"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-16T16:09:18.716987",
@@ -8846,6 +8847,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-13T00:05:59.725009",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "francinerMb7lOq7",
+            "android_id": "f3e0fc3afb9c50adea45c73b4edcd513",
+            "referred_by": "Jeremie571e99",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-13T00:23:04.931665",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
