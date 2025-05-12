@@ -4204,7 +4204,8 @@
             "referred_to": [
                 "Samy570952",
                 "Miandrisoa90161t3",
-                "Mamy909138894"
+                "Mamy909138894",
+                "bodoa9R4sAhW"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-12T14:45:28.526399",
@@ -8566,6 +8567,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-12T16:38:56.298497",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "bodoa9R4sAhW",
+            "android_id": "4c2f62df81e88fcb3842fd189ef10f5d",
+            "referred_by": "Namby6819202",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-12T17:03:50.086095",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
