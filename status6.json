@@ -3196,7 +3196,8 @@
             "referred_by": "Germain5719\u20ac",
             "referred_to": [
                 "Gaby57192902",
-                "Didier9193902"
+                "Didier9193902",
+                "Amandine67939"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-14T10:56:51.356589",
@@ -8903,6 +8904,15 @@
             "countdown_start_time": "2025-05-13T01:37:12.899956",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Amandine67939",
+            "android_id": "3568aa7f508d06fa2a45959c16be6ffa",
+            "referred_by": "ToneJuly681030",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-19T17:38:39.505253",
+            "affiliation_balance": 0
         }
     ],
     "references": {
