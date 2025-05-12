@@ -8745,6 +8745,16 @@
             "countdown_start_time": "2025-05-12T21:08:34.798566",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "ErichX8DdZeV",
+            "android_id": "865a44675e427361bfb300fdf02652ad",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-12T21:14:29.670919",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
