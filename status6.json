@@ -8558,6 +8558,16 @@
             "countdown_start_time": "2025-05-12T16:27:32.530044",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Bruto ErnestiqjItAPu",
+            "android_id": "a15ab182443fe2e6f8451c9b9d4427ba",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-12T16:38:56.298497",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
