@@ -3188,8 +3188,7 @@
             "referred_by": "Germain5719\u20ac",
             "referred_to": [
                 "Gaby57192902",
-                "Didier9193902",
-                "Amandineg6GBi51S"
+                "Didier9193902"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-14T10:56:51.356589",
@@ -8615,7 +8614,7 @@
             "referred_by": "Claudin6189393",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-05-12T17:40:31.758634",
+            "countdown_start_time": "2025-05-19T10:01:11.881743",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
@@ -8656,16 +8655,6 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-12T17:58:45.623005",
-            "affiliation_balance": 0,
-            "plan": "Basique"
-        },
-        {
-            "id": "Amandineg6GBi51S",
-            "android_id": "3568aa7f508d06fa2a45959c16be6ffa",
-            "referred_by": "ToneJuly681030",
-            "referred_to": [],
-            "status": "active",
-            "countdown_start_time": "2025-05-12T18:00:02.923907",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
