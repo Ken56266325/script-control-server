@@ -8495,6 +8495,16 @@
             "countdown_start_time": "2025-05-12T14:56:18.225060",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Kskzskv5OUVgg",
+            "android_id": "Sbjs",
+            "referred_by": "Jsjs",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-12T15:11:20.754635",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
