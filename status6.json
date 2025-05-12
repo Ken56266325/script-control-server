@@ -8526,6 +8526,16 @@
             "countdown_start_time": "2025-05-12T15:50:19.120132",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "francine94VfV9nc",
+            "android_id": "24775367",
+            "referred_by": "Rajaonarivo 4792180",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-12T15:57:23.838979",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
