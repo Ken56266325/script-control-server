@@ -4043,7 +4043,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-05-18T01:45:03.431986",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -5318,7 +5318,7 @@
             "referred_by": "Japhet589300",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-05-08T09:44:14.996277",
+            "countdown_start_time": "2025-05-19T16:23:14.482134",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
