@@ -3040,7 +3040,8 @@
                 "Bray57199302",
                 "Harimamy5719932",
                 "Mahandry5618292o",
-                "Richard78983010"
+                "Richard78983010",
+                "TahinaeVi4RHM8"
             ],
             "status": "active",
             "countdown_start_time": "2025-04-12T17:00:19.402367",
@@ -8857,6 +8858,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-13T00:23:04.931665",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "TahinaeVi4RHM8",
+            "android_id": "680ba3e0c29c9506a225ef390b455dc4",
+            "referred_by": "Lalaina89103",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-13T00:26:37.744547",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
