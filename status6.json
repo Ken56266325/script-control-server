@@ -4664,7 +4664,8 @@
                 "Chance58193920",
                 "Emile5819392",
                 "Rasambatra telybsUgijZQ",
-                "TelyHI5TotWC"
+                "TelyHI5TotWC",
+                "dafaraPoEgO1MS"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-12T19:45:48.749526",
@@ -8655,6 +8656,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-12T17:58:45.623005",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "dafaraPoEgO1MS",
+            "android_id": "b43ac7413ef3e92822e4546e5266fcbc",
+            "referred_by": "Rajaonarivo4792180",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-12T18:16:18.985425",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
