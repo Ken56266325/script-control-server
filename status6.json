@@ -3840,7 +3840,8 @@
                 "Niaina57199320",
                 "Paul578193929",
                 "Sylvain5193920",
-                "Sylvain6819e920"
+                "Sylvain6819e920",
+                "Finoana Herilazar5nwSMAf"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-17T12:24:28.406199",
@@ -8588,6 +8589,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-12T17:30:24.000220",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Finoana Herilazar5nwSMAf",
+            "android_id": "23198729",
+            "referred_by": "Tsila68130",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-12T17:35:02.585394",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
