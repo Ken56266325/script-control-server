@@ -8505,6 +8505,16 @@
             "countdown_start_time": "2025-05-12T15:11:20.754635",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "JulienZ9UPlrxK",
+            "android_id": "92eb18367351857d9283e961aabac083",
+            "referred_by": "RanofAuto",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-12T15:12:42.050615",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
