@@ -633,7 +633,8 @@
                 "Rasoa6893010",
                 "David6719393",
                 "+261349897278TfYnYJko",
-                "+261349897278EXhYTZum"
+                "+261349897278EXhYTZum",
+                "MbolatianaEdqFd3kM"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-15T21:05:36.214439",
@@ -8978,6 +8979,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-13T02:21:24.761574",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "MbolatianaEdqFd3kM",
+            "android_id": "ad3faabbcb2d9727029b700961d83e70",
+            "referred_by": "Emmanuel1",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-13T02:46:27.871140",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
