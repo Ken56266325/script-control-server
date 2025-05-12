@@ -4565,7 +4565,8 @@
                 "Sylvie57199392",
                 "Tommy68199329",
                 "Koloina681993",
-                "Michel6819930202"
+                "Michel6819930202",
+                "SylviadnvqJM5g"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-15T20:27:50.245127",
@@ -8721,6 +8722,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-12T18:49:37.224030",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "SylviadnvqJM5g",
+            "android_id": "69bc674bbd005c881e602f035d76ed2c",
+            "referred_by": "Damasc\u00e8ne6710302",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-12T18:51:58.277925",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
