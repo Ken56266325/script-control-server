@@ -4087,7 +4087,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-05-07T09:29:21.990753",
-            "affiliation_balance": 4000,
+            "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -5804,7 +5804,7 @@
                 "Fita5199320"
             ],
             "status": "active",
-            "countdown_start_time": "2025-05-19T19:12:51.477815",
+            "countdown_start_time": "2025-05-12T17:52:48.872380",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
@@ -8091,7 +8091,7 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-05-13T08:47:07.273147",
+            "countdown_start_time": "2025-05-20T08:47:23.848822",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
