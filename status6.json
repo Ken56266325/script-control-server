@@ -4665,7 +4665,8 @@
                 "Emile5819392",
                 "Rasambatra telybsUgijZQ",
                 "TelyHI5TotWC",
-                "dafaraPoEgO1MS"
+                "dafaraPoEgO1MS",
+                "dafara7h3mtD24"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-12T19:45:48.749526",
@@ -8698,6 +8699,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-12T18:41:55.181519",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "dafara7h3mtD24",
+            "android_id": "28770173",
+            "referred_by": "Rajaonarivo4792180",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-12T18:45:24.556908",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
