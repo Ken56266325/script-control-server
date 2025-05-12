@@ -1155,7 +1155,8 @@
                 "Tianah68103910",
                 "Mamedison57121",
                 "Rickman519390204",
-                "Gae7819392"
+                "Gae7819392",
+                "DoniciayFeOX56Z"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-16T15:23:56.908707",
@@ -8688,6 +8689,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-12T18:35:48.036192",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "DoniciayFeOX56Z",
+            "android_id": "877bb78d1c0755474c09d4bdd37be858",
+            "referred_by": "Gaelode10361",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-12T19:08:11.112968",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
