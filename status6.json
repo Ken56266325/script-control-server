@@ -4681,7 +4681,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-05-19T19:44:35.623291",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -8558,7 +8558,7 @@
             "referred_by": "Rajaonarivo4792180",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-05-12T15:50:19.120132",
+            "countdown_start_time": "2025-05-19T20:46:31.134729",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
