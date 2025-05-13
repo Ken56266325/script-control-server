@@ -1728,7 +1728,8 @@
             "referred_by": null,
             "referred_to": [
                 "Grav69130",
-                "Marianoh59103"
+                "Marianoh59103",
+                "Stonek2i7ZGfa"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-14T15:28:38.925923",
@@ -9160,6 +9161,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-21T01:09:50.110993",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Stonek2i7ZGfa",
+            "android_id": "0cb0f275e6c381fa02f45c9754ee876f",
+            "referred_by": "Juckelly58103",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-14T01:27:34.202735",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
