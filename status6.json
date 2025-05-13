@@ -1861,7 +1861,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-04-25T20:39:10.081107",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -5895,7 +5895,7 @@
             "referred_by": "Fabio59103",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-05-13T10:54:59.264379",
+            "countdown_start_time": "2025-05-20T15:40:22.462176",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
