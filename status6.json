@@ -9085,6 +9085,16 @@
             "countdown_start_time": "2025-05-13T17:18:47.515307",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Vital923i6cN5",
+            "android_id": "1970daad4ab8a80b6d1ee702c686abae",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-13T17:20:09.601381",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
