@@ -553,7 +553,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-05-19T07:51:38.987813",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "countdown_paused": false,
             "plan": "Basique"
         },
@@ -1680,8 +1680,8 @@
                 "Raman9gBNx7j1"
             ],
             "status": "active",
-            "countdown_start_time": "2025-05-05T22:27:14.663858",
-            "affiliation_balance": 9000,
+            "countdown_start_time": "2025-05-20T07:42:31.678818",
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
