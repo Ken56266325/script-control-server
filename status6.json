@@ -760,7 +760,8 @@
                 "Mimi691032",
                 "Leonie6819004",
                 "rayanzo791039271",
-                "Zoky791900a"
+                "Zoky791900a",
+                "MihajacSUmsdB5"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-14T22:53:45.270305",
@@ -9116,6 +9117,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-13T20:09:29.020901",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "MihajacSUmsdB5",
+            "android_id": "a441cd610577efe69f5e2b905ddd8b01",
+            "referred_by": "Miki5739",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-13T21:30:53.325400",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
