@@ -6018,7 +6018,8 @@
             "referred_to": [
                 "Jessica68199302",
                 "Justine57199302",
-                "Loic67199320"
+                "Loic67199320",
+                "joerfaX5OHgRdn"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-13T18:06:44.124466",
@@ -9072,6 +9073,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-13T15:56:33.637655",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "joerfaX5OHgRdn",
+            "android_id": "7418c7b1c492cbfb4fe93945eb9a7bfa",
+            "referred_by": "Nico6819320",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-13T17:18:47.515307",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
