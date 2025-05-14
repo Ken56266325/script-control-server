@@ -6780,7 +6780,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-05-19T17:39:09.705158",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -9115,7 +9115,7 @@
             "referred_by": "Manou68194o02",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-05-13T18:52:04.023847",
+            "countdown_start_time": "2025-05-21T11:55:26.436672",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
