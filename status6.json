@@ -8627,7 +8627,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-05-19T16:24:27.568260",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -9126,7 +9126,7 @@
             "referred_by": "bodoa9R4sAhW",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-05-13T20:09:29.020901",
+            "countdown_start_time": "2025-05-21T12:48:02.745079",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
