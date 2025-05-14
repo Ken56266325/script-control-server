@@ -1729,7 +1729,8 @@
             "referred_to": [
                 "Grav69130",
                 "Marianoh59103",
-                "Stonek2i7ZGfa"
+                "Stonek2i7ZGfa",
+                "fran\u00e7isGNzYf9fM"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-14T15:28:38.925923",
@@ -9225,6 +9226,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-14T18:53:12.633427",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "fran\u00e7isGNzYf9fM",
+            "android_id": "9181a62fd184912e5b6fa5885b9d0b9a",
+            "referred_by": "Juckelly58103",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-14T18:53:29.682417",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
