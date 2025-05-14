@@ -1248,7 +1248,8 @@
             "referred_to": [
                 "Rova02681021",
                 "Tsila58193929",
-                "Kalam58193930"
+                "Kalam58193930",
+                "SantatraalLs7yxh"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-16T22:15:10.122880",
@@ -9256,6 +9257,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-14T21:13:15.307324",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "SantatraalLs7yxh",
+            "android_id": "c8bcbdd828a129a4664a53df563aa77a",
+            "referred_by": "Hardy157204",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-14T21:23:35.727413",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
