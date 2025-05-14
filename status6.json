@@ -9248,6 +9248,16 @@
             "status": "active",
             "countdown_start_time": "2025-05-21T12:43:41.011103",
             "affiliation_balance": 0
+        },
+        {
+            "id": "218042111Imxunhu",
+            "android_id": "e64c88f011e5c9785af04cdaf0d986b7",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-14T21:13:15.307324",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
