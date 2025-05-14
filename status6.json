@@ -3023,7 +3023,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-05-19T22:00:49.053975",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -4836,8 +4836,8 @@
                 "Lionel56199302"
             ],
             "status": "active",
-            "countdown_start_time": "2025-05-14T12:10:01.457710",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-05-21T12:30:34.899924",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
