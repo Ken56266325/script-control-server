@@ -2807,7 +2807,8 @@
                 "Mamie78190",
                 "Marieannah68193020",
                 "Mamaj58193920",
-                "Olivia68199330"
+                "Olivia68199330",
+                "Emmatinah1AjzF8Ra"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-16T17:51:42.915852",
@@ -9418,6 +9419,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-16T00:51:26.660788",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Emmatinah1AjzF8Ra",
+            "android_id": "ce9581e3324ca1224f288df924be5bfa",
+            "referred_by": "Floremma89102",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-16T01:03:58.342277",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
