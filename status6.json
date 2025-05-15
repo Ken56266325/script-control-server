@@ -8492,7 +8492,9 @@
             "id": "Emile5819392",
             "android_id": "b95e6103612733f72d19e7a88c82ab7e",
             "referred_by": "Rajaonarivo4792180",
-            "referred_to": [],
+            "referred_to": [
+                "MananjaraJZkiFVk6"
+            ],
             "status": "active",
             "countdown_start_time": "2025-05-19T13:09:56.881658",
             "affiliation_balance": 0,
@@ -9429,6 +9431,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-16T01:03:58.342277",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "MananjaraJZkiFVk6",
+            "android_id": "fa9089f8e7655a12773ab04f1aef853f",
+            "referred_by": "Emile5819392",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-16T01:57:16.321041",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
