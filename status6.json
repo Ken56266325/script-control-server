@@ -2953,7 +2953,8 @@
             "referred_to": [
                 "Miriella78102",
                 "Smm781022",
-                "Hermina671902p1"
+                "Hermina671902p1",
+                "FANDRESENAAaDuo7C1"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-19T13:25:39.549476",
@@ -9340,6 +9341,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-15T17:24:18.848487",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "FANDRESENAAaDuo7C1",
+            "android_id": "f1e8b5ae8f7598645a07cdfe96eb7ee7",
+            "referred_by": "Rakotomandimby78104",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-15T19:30:01.242766",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
