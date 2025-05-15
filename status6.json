@@ -669,7 +669,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-05-20T14:31:53.227202",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -4597,8 +4597,8 @@
                 "Sylvianh2JxRpE"
             ],
             "status": "active",
-            "countdown_start_time": "2025-05-15T20:27:50.245127",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-05-22T20:43:53.528968",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
