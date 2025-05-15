@@ -9358,9 +9358,21 @@
             "id": "@JoneswrNxMIMBTu",
             "android_id": "858b722e7474fda841ad972f1fc48b6f",
             "referred_by": null,
-            "referred_to": [],
+            "referred_to": [
+                "@Tanjona21mGTyqONo"
+            ],
             "status": "active",
             "countdown_start_time": "2025-05-15T19:50:49.538566",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "@Tanjona21mGTyqONo",
+            "android_id": "db6a8ac36244271b3b70ff5c1808ff32",
+            "referred_by": "@JoneswrNxMIMBTu",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-15T20:54:22.756482",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
