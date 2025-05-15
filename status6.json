@@ -637,7 +637,8 @@
                 "+261349897278TfYnYJko",
                 "+261349897278EXhYTZum",
                 "MbolatianaEdqFd3kM",
-                "Tsila6u591njv"
+                "Tsila6u591njv",
+                "damasceneoWmTChMB"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-15T21:05:36.214439",
@@ -9396,6 +9397,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-15T22:08:28.335988",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "damasceneoWmTChMB",
+            "android_id": "d5dfef54aaa907763785235656a9595c",
+            "referred_by": "Emmanuel1",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-15T23:19:37.241621",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
