@@ -9353,6 +9353,16 @@
             "countdown_start_time": "2025-05-15T19:30:01.242766",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "@JoneswrNxMIMBTu",
+            "android_id": "858b722e7474fda841ad972f1fc48b6f",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-15T19:50:49.538566",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
