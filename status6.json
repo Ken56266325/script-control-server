@@ -1408,7 +1408,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-05-19T10:27:49.410082",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -8237,7 +8237,7 @@
             "referred_by": "Patty2751932",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-05-14T20:00:41.156948",
+            "countdown_start_time": "2025-05-22T19:25:07.169780",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
