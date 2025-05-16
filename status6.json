@@ -9485,6 +9485,16 @@
             "countdown_start_time": "2025-05-16T13:23:14.996051",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "@Bolida12Z5x3TYKu",
+            "android_id": "Bolida",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-16T16:23:14.148541",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
