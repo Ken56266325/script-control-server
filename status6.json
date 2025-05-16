@@ -5142,7 +5142,8 @@
                 "Nanah68139104",
                 "Totomora909311",
                 "Mirana6819292",
-                "Claudin6189393"
+                "Claudin6189393",
+                "MiantsaVB2f2FEF"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-19T10:57:23.292309",
@@ -9559,6 +9560,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-16T21:18:34.982961",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "MiantsaVB2f2FEF",
+            "android_id": "54fe44dac98b430cbaf7c4f4e7bf0787",
+            "referred_by": "Amadou681036190",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-16T21:52:49.649321",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
