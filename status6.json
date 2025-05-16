@@ -9572,6 +9572,16 @@
             "countdown_start_time": "2025-05-16T21:52:49.649321",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "AvotratBZ8p2gH",
+            "android_id": "fcfbe990c815a4d692ff928173568b12",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-16T22:41:12.892450",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
