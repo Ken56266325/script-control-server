@@ -3874,7 +3874,8 @@
                 "Paul578193929",
                 "Sylvain5193920",
                 "Sylvain6819e920",
-                "Finoana Herilazar5nwSMAf"
+                "Finoana Herilazar5nwSMAf",
+                "JudicaelIsajVjXK"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-17T12:24:28.406199",
@@ -9504,6 +9505,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-16T16:56:36.576543",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "JudicaelIsajVjXK",
+            "android_id": "bb30d9f2e147c4bc5681e3d1a5bec6bc",
+            "referred_by": "Tsila68130",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-16T18:12:40.583775",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
