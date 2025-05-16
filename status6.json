@@ -3252,7 +3252,8 @@
                 "Valisoa79192y19",
                 "MamaSitraka7819381",
                 "Syllah78103269",
-                "Tiana79102o1"
+                "Tiana79102o1",
+                "TheopneustosszouCMM7"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-22T11:53:52.964396",
@@ -9526,6 +9527,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-16T18:59:31.113207",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "TheopneustosszouCMM7",
+            "android_id": "88054f148b742786a6cc7783c4c04661",
+            "referred_by": "Rjc68103",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-16T19:51:53.513648",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
