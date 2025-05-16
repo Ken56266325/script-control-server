@@ -3215,7 +3215,8 @@
                 "Gaby57192902",
                 "Didier9193902",
                 "Amandine67939",
-                "Tenciah4nTfdRpM"
+                "Tenciah4nTfdRpM",
+                "FerovS8Rk2Yh"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-21T12:16:54.212278",
@@ -9493,6 +9494,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-16T16:23:14.148541",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "FerovS8Rk2Yh",
+            "android_id": "288d5cb9ff93e0a67080294f9932fa15",
+            "referred_by": "ToneJuly681030",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-16T16:56:36.576543",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
