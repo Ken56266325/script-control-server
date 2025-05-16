@@ -8665,7 +8665,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-05-19T17:55:57.008232",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -9555,7 +9555,7 @@
             "referred_by": "Amir19pG7Imv",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-05-16T21:03:31.131553",
+            "countdown_start_time": "2025-05-23T20:49:21.488549",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
