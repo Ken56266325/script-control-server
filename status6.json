@@ -9782,7 +9782,8 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-24T18:24:11.636950",
-            "affiliation_balance": 0
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
