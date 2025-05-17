@@ -3217,7 +3217,8 @@
                 "Didier9193902",
                 "Amandine67939",
                 "Tenciah4nTfdRpM",
-                "FerovS8Rk2Yh"
+                "FerovS8Rk2Yh",
+                "ClaudinkTyvsGfE"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-21T12:16:54.212278",
@@ -9670,6 +9671,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-17T17:43:26.187738",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "ClaudinkTyvsGfE",
+            "android_id": "d2468d74712259441df60745b250db80",
+            "referred_by": "ToneJuly681030",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-17T17:51:12.405589",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
