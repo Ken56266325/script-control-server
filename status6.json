@@ -83,7 +83,8 @@
             "referred_by": null,
             "referred_to": [
                 "Fidelis4728",
-                "Pascal67193"
+                "Pascal67193",
+                "RaissaAlexandrineJlmUEVNe"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-21T07:07:57.499503",
@@ -9735,6 +9736,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-17T19:46:53.153494",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "RaissaAlexandrineJlmUEVNe",
+            "android_id": "b3630e87543a50ae5661269f189ac12f",
+            "referred_by": "Fidelson890",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-17T20:04:00.983551",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
