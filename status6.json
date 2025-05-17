@@ -2737,7 +2737,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-05-21T10:11:33.525230",
-            "affiliation_balance": 3000,
+            "affiliation_balance": 4000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -3619,8 +3619,8 @@
                 "Tahina5719o302"
             ],
             "status": "active",
-            "countdown_start_time": "2025-05-17T21:30:26.952007",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-05-24T21:42:35.577957",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
