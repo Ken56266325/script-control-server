@@ -2454,7 +2454,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-04-30T08:59:36.171449",
-            "affiliation_balance": 6000,
+            "affiliation_balance": 7000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -6287,8 +6287,8 @@
                 "Francia681939"
             ],
             "status": "active",
-            "countdown_start_time": "2025-05-17T08:12:17.499135",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-05-24T08:29:34.021279",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
