@@ -3222,7 +3222,8 @@
                 "Tenciah4nTfdRpM",
                 "FerovS8Rk2Yh",
                 "ClaudinkTyvsGfE",
-                "JeanBLgdbut6"
+                "JeanBLgdbut6",
+                "RolloucxwONRo"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-21T12:16:54.212278",
@@ -9817,6 +9818,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-18T14:32:44.815541",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "RolloucxwONRo",
+            "android_id": "5ee2adff1d2f8569ae02b78f5ea8fb3c",
+            "referred_by": "ToneJuly681030",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-18T19:16:44.512655",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
