@@ -1503,7 +1503,8 @@
             "referred_to": [
                 "Nambi91090",
                 "Miantsaniaina68191",
-                "Herisoa79193030"
+                "Herisoa79193030",
+                "Nandrij3citBoB"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-19T20:38:54.371794",
@@ -9907,6 +9908,15 @@
             "countdown_start_time": "2025-05-19T02:57:08.097290",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Nandrij3citBoB",
+            "android_id": "b97c8866627a0ef6ef9bb7b7776614cb",
+            "referred_by": "Claudia501\u20ac2",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-25T19:44:00.295480",
+            "affiliation_balance": 0
         }
     ],
     "references": {
