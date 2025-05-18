@@ -486,7 +486,8 @@
                 "Fran\u00e7ois57193",
                 "Paiso681992",
                 "Fanomezantsoa571992",
-                "Toky5819392"
+                "Toky5819392",
+                "harenasoaa21h1JcxW"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-20T05:29:40.486060",
@@ -9916,6 +9917,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-19T03:45:43.238641",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "harenasoaa21h1JcxW",
+            "android_id": "7cb0c30dd3716ed98044cfe88e9f0059",
+            "referred_by": "Richard294024",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-19T03:47:37.283140",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
