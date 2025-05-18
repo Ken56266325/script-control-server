@@ -8515,7 +8515,8 @@
                 "Andry681930",
                 "Oivia6819302",
                 "Nambinintsoa681930",
-                "eliazaraB9R6ISqJ"
+                "eliazaraB9R6ISqJ",
+                "Narindra0jD28yDG"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-19T08:41:00.848366",
@@ -9828,6 +9829,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-18T19:16:44.512655",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Narindra0jD28yDG",
+            "android_id": "2ccd10bc566c48d6760df06fda6f1d8d",
+            "referred_by": "Harivola6719932",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-18T19:37:45.215818",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
