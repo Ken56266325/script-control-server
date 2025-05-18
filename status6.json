@@ -3602,7 +3602,9 @@
             "id": "Andii69103",
             "android_id": "9834cf0e2adad842460af3749bb5c44f",
             "referred_by": "Harris681971",
-            "referred_to": [],
+            "referred_to": [
+                "EmmatCA8WJNv"
+            ],
             "status": "active",
             "countdown_start_time": "2025-05-18T19:50:34.851979",
             "affiliation_balance": 0,
@@ -9861,6 +9863,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-19T00:04:30.213643",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "EmmatCA8WJNv",
+            "android_id": "7e2ca2cd467578ef5a460e795524514f",
+            "referred_by": "Andii69103",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-19T00:16:20.153452",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
