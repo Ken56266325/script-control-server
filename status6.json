@@ -9295,7 +9295,8 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-18T15:05:55.948435",
-            "affiliation_balance": 0
+            "affiliation_balance": 0,
+            "plan": "Basique"
         },
         {
             "id": "SantatraalLs7yxh",
