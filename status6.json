@@ -2969,7 +2969,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-05-26T14:54:04.833081",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -3976,7 +3976,7 @@
                 "Lucky819392"
             ],
             "status": "active",
-            "countdown_start_time": "2025-05-19T18:34:26.007638",
+            "countdown_start_time": "2025-05-26T19:04:46.484420",
             "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
