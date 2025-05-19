@@ -1198,7 +1198,8 @@
             "referred_to": [
                 "Niaina68199320",
                 "Mika\u00eb79199303",
-                "Jeremy58193920"
+                "Jeremy58193920",
+                "Tina41IC1DEy"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-16T07:03:09.953456",
@@ -9950,6 +9951,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-19T15:02:56.829851",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Tina41IC1DEy",
+            "android_id": "7f025fc6008067dec9073189fea28bde",
+            "referred_by": "Tahina59132",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-19T16:38:23.592289",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
