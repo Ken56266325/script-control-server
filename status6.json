@@ -7342,7 +7342,9 @@
             "id": "Paiso681992",
             "android_id": "7b1a7c6d608f4ddc55e98b6d7321c1fc",
             "referred_by": "Richard294024",
-            "referred_to": [],
+            "referred_to": [
+                "CelesPLcx3E5s"
+            ],
             "status": "active",
             "countdown_start_time": "2025-05-21T15:42:54.302115",
             "affiliation_balance": 0,
@@ -10015,6 +10017,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-20T00:02:54.184026",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "CelesPLcx3E5s",
+            "android_id": "02177b2608d7e65411e8dadd1ce7aa25",
+            "referred_by": "Paiso681992",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-20T01:18:57.410984",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
