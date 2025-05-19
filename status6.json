@@ -9974,6 +9974,16 @@
             "countdown_start_time": "2025-05-19T17:58:37.582212",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "RayaVdn1etvk",
+            "android_id": "205a800571d24487206c2e7e27014260",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-19T18:35:14.583869",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
