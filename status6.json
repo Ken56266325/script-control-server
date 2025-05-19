@@ -8787,7 +8787,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-05-21T12:25:54.966181",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -9998,7 +9998,7 @@
             "referred_by": "Thierry R'andriiUSHsTvmS",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-05-19T20:14:08.512249",
+            "countdown_start_time": "2025-05-26T20:29:01.021073",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
