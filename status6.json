@@ -1353,7 +1353,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-05-23T18:35:54.993962",
-            "affiliation_balance": 6000,
+            "affiliation_balance": 5000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -1414,7 +1414,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-05-19T10:27:49.410082",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -1919,7 +1919,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-05-25T08:53:39.401051",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -4523,7 +4523,7 @@
             "referred_by": "Germain5719\u20ac",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-05-26T14:13:18.954165",
+            "countdown_start_time": "2025-05-19T15:26:26.111705",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
@@ -8154,8 +8154,8 @@
                 "Nar's2aLqxWxOR"
             ],
             "status": "active",
-            "countdown_start_time": "2025-05-26T14:13:16.341297",
-            "affiliation_balance": 0,
+            "countdown_start_time": "2025-05-19T18:09:16.235398",
+            "affiliation_balance": 2000,
             "plan": "Basique"
         },
         {
