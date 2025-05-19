@@ -8777,7 +8777,9 @@
             "id": "Thierry R'andriiUSHsTvmS",
             "android_id": "af56d88a0b60e833a2ab2841df6f637e",
             "referred_by": "David61893930",
-            "referred_to": [],
+            "referred_to": [
+                "Nandrianinaz9NosaKY"
+            ],
             "status": "active",
             "countdown_start_time": "2025-05-21T12:25:54.966181",
             "affiliation_balance": 0,
@@ -9982,6 +9984,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-19T18:35:14.583869",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Nandrianinaz9NosaKY",
+            "android_id": "Haka ID unique tompoko",
+            "referred_by": "Thierry R'andriiUSHsTvmS",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-19T20:14:08.512249",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
