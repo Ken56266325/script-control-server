@@ -1919,7 +1919,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-05-25T08:53:39.401051",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -8154,8 +8154,8 @@
                 "Nar's2aLqxWxOR"
             ],
             "status": "active",
-            "countdown_start_time": "2025-05-19T18:09:16.235398",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-05-26T14:13:16.341297",
+            "affiliation_balance": 0,
             "plan": "Basique"
         },
         {
