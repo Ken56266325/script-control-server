@@ -2777,7 +2777,8 @@
                 "Airtel791628962",
                 "Haingo91831",
                 "Raoleina681932",
-                "Junior68193920"
+                "Junior68193920",
+                "https://t.me/ANDRIANJAFIMITANATM9zX1cc"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-23T21:43:03.968189",
@@ -10004,6 +10005,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-19T20:14:27.834291",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "https://t.me/ANDRIANJAFIMITANATM9zX1cc",
+            "android_id": "03c7a5c5a7dc9701a4988425853b95c4",
+            "referred_by": "Junior68193",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-20T00:02:54.184026",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
