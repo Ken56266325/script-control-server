@@ -4971,7 +4971,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-05-22T18:19:57.595203",
-            "affiliation_balance": 9000,
+            "affiliation_balance": 10000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -8582,7 +8582,7 @@
             "referred_by": "Airtel791628962",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-05-12T00:31:14.170386",
+            "countdown_start_time": "2025-05-27T12:55:50.938913",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
