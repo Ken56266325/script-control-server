@@ -1171,7 +1171,8 @@
                 "Rickman519390204",
                 "Gae7819392",
                 "DoniciayFeOX56Z",
-                "YonnetteTDJ5A5qN"
+                "YonnetteTDJ5A5qN",
+                "Gaelle0k6aDWFF"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-23T17:26:09.231455",
@@ -10179,6 +10180,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-21T03:15:41.811924",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Gaelle0k6aDWFF",
+            "android_id": "927a7d7ba99ac1aea677654f03ad0e89",
+            "referred_by": "Gaelode10361",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-21T03:51:30.734511",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
