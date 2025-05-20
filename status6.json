@@ -6564,7 +6564,8 @@
                 "FyhVEXK4CdJ",
                 "RivaldinorBzOIxpE",
                 "SharonFqxqzkPZ",
-                "ChinpakesMOiwssw"
+                "ChinpakesMOiwssw",
+                "DiamondrauVeugsHd"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-21T07:28:56.384588",
@@ -10124,6 +10125,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-20T23:14:12.396289",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "DiamondrauVeugsHd",
+            "android_id": "faf006eaebf50219008f8a574e4e18ce",
+            "referred_by": "Mamitina68010301",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-20T23:31:08.485636",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
