@@ -200,7 +200,8 @@
                 "Johannes6819302",
                 "Parany68199430",
                 "Nikko581949",
-                "Jean681932"
+                "Jean681932",
+                "GasyZSjGZUsk"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-25T05:42:58.953415",
@@ -10072,6 +10073,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-20T19:33:55.947093",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "GasyZSjGZUsk",
+            "android_id": "3e82f59fe176881c7b87634d9a67c5ec",
+            "referred_by": "Emmanuel6837",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-20T21:35:56.461304",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
