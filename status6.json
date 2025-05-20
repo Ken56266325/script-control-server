@@ -2063,7 +2063,8 @@
             "referred_to": [
                 "Nofa79131",
                 "Soloniaina78193o1",
-                "Flavien58193920"
+                "Flavien58193920",
+                "JoelJzg2wrod"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-27T08:21:29.262164",
@@ -10157,6 +10158,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-21T02:35:19.092761",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "JoelJzg2wrod",
+            "android_id": "4479191c779befed95e414bddae96012",
+            "referred_by": "RanofaAuto",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-21T02:52:31.333500",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
