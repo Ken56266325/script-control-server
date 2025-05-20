@@ -673,7 +673,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-05-20T14:31:53.227202",
-            "affiliation_balance": 3000,
+            "affiliation_balance": 4000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -6703,8 +6703,8 @@
                 "Bienvenu61894030"
             ],
             "status": "active",
-            "countdown_start_time": "2025-05-21T20:38:21.291912",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-05-27T09:03:52.198997",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
