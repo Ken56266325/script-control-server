@@ -3230,7 +3230,8 @@
                 "FerovS8Rk2Yh",
                 "ClaudinkTyvsGfE",
                 "JeanBLgdbut6",
-                "RolloucxwONRo"
+                "RolloucxwONRo",
+                "EricaKC0kVe14"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-21T12:16:54.212278",
@@ -10146,6 +10147,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-20T23:49:34.890569",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "EricaKC0kVe14",
+            "android_id": "978391675b08886a9e63ff66339ef980",
+            "referred_by": "ToneJuly681030",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-21T02:35:19.092761",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
