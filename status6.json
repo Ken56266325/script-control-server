@@ -10379,6 +10379,16 @@
             "countdown_start_time": "2025-05-22T04:13:21.734013",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "StephanThti5FP9",
+            "android_id": "Tsy haiko ny mijery azy",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-22T04:22:37.627643",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
