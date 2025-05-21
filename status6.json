@@ -2782,7 +2782,7 @@
             "referred_by": "dennery12",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-05-25T17:46:44.382647",
+            "countdown_start_time": "2025-06-08T18:03:41.781964",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
@@ -4079,7 +4079,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-05-24T18:15:05.929122",
-            "affiliation_balance": 7000,
+            "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
         },
