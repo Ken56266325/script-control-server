@@ -6558,7 +6558,8 @@
                 "ChinpakesMOiwssw",
                 "DiamondrauVeugsHd",
                 "Sarah8F9wd9QC",
-                "SedraOPOFvfGA"
+                "SedraOPOFvfGA",
+                "Mijoro9J78pvae"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-21T07:28:56.384588",
@@ -10286,6 +10287,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-21T21:21:46.114801",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Mijoro9J78pvae",
+            "android_id": "8506bac06834712682697623f826848e",
+            "referred_by": "Mamitina68010301",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-21T22:00:05.001233",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
