@@ -53,21 +53,6 @@
             "countdown_paused": false
         },
         {
-            "id": "viviane2367",
-            "referred_by": null,
-            "referred_to": [
-                "Ramiandrisoa4538",
-                "Emmanuel6837",
-                "Nadia26649"
-            ],
-            "status": "active",
-            "countdown_start_time": "2025-02-19T07:33:24.556493",
-            "affiliation_balance": 18000,
-            "android_id": "dc1ba5e41a314a307d179fc9b5932c33",
-            "countdown_paused": false,
-            "plan": "Basique"
-        },
-        {
             "id": "Andry5130",
             "referred_by": null,
             "referred_to": [],
