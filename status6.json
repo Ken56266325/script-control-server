@@ -10219,7 +10219,9 @@
             "id": "NiainabotDsL65sLK",
             "android_id": "dd6c5f5b342cb665bf02c2550c95f40c",
             "referred_by": "TokibotbKKzJ978",
-            "referred_to": [],
+            "referred_to": [
+                "NantenainaBotKBUeeXVw"
+            ],
             "status": "active",
             "countdown_start_time": "2025-05-21T17:44:09.034254",
             "affiliation_balance": 0,
@@ -10252,6 +10254,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-21T19:06:43.876141",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "NantenainaBotKBUeeXVw",
+            "android_id": "658ea23c928af53cc3485fe975714636",
+            "referred_by": "NiainabotDsL65sLK",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-21T19:07:55.903681",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
