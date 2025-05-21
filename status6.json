@@ -9595,7 +9595,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-05-23T20:49:21.488549",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -10326,7 +10326,7 @@
             "referred_by": "Jonliemi80ZldT6",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-05-22T00:43:10.225277",
+            "countdown_start_time": "2025-05-29T02:18:46.672901",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
