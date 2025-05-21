@@ -8559,7 +8559,8 @@
             "android_id": "b95e6103612733f72d19e7a88c82ab7e",
             "referred_by": "Rajaonarivo4792180",
             "referred_to": [
-                "MananjaraJZkiFVk6"
+                "MananjaraJZkiFVk6",
+                "VoninahitraBoeEiLmp"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-26T16:34:47.476369",
@@ -10236,6 +10237,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-21T17:44:09.034254",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "VoninahitraBoeEiLmp",
+            "android_id": "f92d5e67fa0a8d5410a448521c35edbd",
+            "referred_by": "Emile5819392",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-21T18:24:41.790866",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
