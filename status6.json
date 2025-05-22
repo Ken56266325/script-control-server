@@ -187,7 +187,8 @@
                 "Nikko581949",
                 "Jean681932",
                 "GasyZSjGZUsk",
-                "NICOGxUEIQ9X"
+                "NICOGxUEIQ9X",
+                "Patrick7EQb92Hy"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-25T05:42:58.953415",
@@ -10433,6 +10434,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-22T19:18:20.419055",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Patrick7EQb92Hy",
+            "android_id": "0eb8d917d640f048bb3de2ddea68e187",
+            "referred_by": "Emmanuel6837",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-22T19:34:44.125754",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
