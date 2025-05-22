@@ -4335,7 +4335,8 @@
             "referred_by": "Tina681922",
             "referred_to": [
                 "Cetonex0KOIUWl",
-                "Angelowy5ZrVY6"
+                "Angelowy5ZrVY6",
+                "Lova5nQdOmum"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-22T14:51:30.320526",
@@ -10398,6 +10399,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-22T14:31:02.614320",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Lova5nQdOmum",
+            "android_id": "61a1f41c4c6be9d91f584b36a9d73234",
+            "referred_by": "Cetone479580",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-22T16:03:29.064886",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
