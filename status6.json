@@ -2737,7 +2737,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-05-28T10:13:21.577663",
-            "affiliation_balance": 3000,
+            "affiliation_balance": 4000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -4344,8 +4344,8 @@
                 "Lova5nQdOmum"
             ],
             "status": "active",
-            "countdown_start_time": "2025-05-22T14:51:30.320526",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-05-29T21:33:28.978932",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
