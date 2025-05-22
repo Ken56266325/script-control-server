@@ -10428,7 +10428,9 @@
             "id": "valeryGVlimiteWPiXJalT",
             "android_id": "8ffaa09002d3cb453e0cf8036d722eb5",
             "referred_by": "Dona68919229",
-            "referred_to": [],
+            "referred_to": [
+                "@lefitraAniotYlguxuVW"
+            ],
             "status": "active",
             "countdown_start_time": "2025-05-22T18:55:13.642034",
             "affiliation_balance": 0,
@@ -10511,6 +10513,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-22T23:41:45.971872",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "@lefitraAniotYlguxuVW",
+            "android_id": "c8a71efb4dd561356bc687bb33778ae0",
+            "referred_by": "valeryGVlimiteWPiXJalT",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-23T00:02:51.024722",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
