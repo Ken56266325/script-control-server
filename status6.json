@@ -478,7 +478,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-05-27T08:15:28.226080",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "countdown_paused": false,
             "plan": "Basique"
         },
@@ -7355,7 +7355,7 @@
                 "AndryJBrUVFo0"
             ],
             "status": "active",
-            "countdown_start_time": "2025-05-21T15:42:54.302115",
+            "countdown_start_time": "2025-05-29T03:33:30.725866",
             "affiliation_balance": 1000,
             "plan": "Basique"
         },
