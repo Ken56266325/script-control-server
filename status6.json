@@ -7356,7 +7356,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-05-21T15:42:54.302115",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -10336,7 +10336,7 @@
             "referred_by": "Paiso681992",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-05-22T01:49:57.026657",
+            "countdown_start_time": "2025-05-29T03:11:28.093584",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
