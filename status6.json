@@ -4620,7 +4620,8 @@
                 "Tommy68199329",
                 "Koloina681993",
                 "Michel6819930202",
-                "Sylvianh2JxRpE"
+                "Sylvianh2JxRpE",
+                "FlorentineIxfnmfOV"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-22T20:43:53.528968",
@@ -10533,6 +10534,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-23T04:12:12.389206",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "FlorentineIxfnmfOV",
+            "android_id": "f79cc13699c63f04a4edc7940bed2d2f",
+            "referred_by": "Damasc\u00e8ne6710302",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-23T04:17:41.212165",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
