@@ -634,7 +634,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-05-24T20:27:40.757092",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "countdown_paused": false,
             "plan": "Basique"
         },
@@ -5834,7 +5834,7 @@
                 "Babix4fVX0Mm"
             ],
             "status": "active",
-            "countdown_start_time": "2025-05-22T13:37:22.678245",
+            "countdown_start_time": "2025-05-29T14:03:27.502873",
             "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
