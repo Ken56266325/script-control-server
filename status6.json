@@ -6570,7 +6570,8 @@
                 "DiamondrauVeugsHd",
                 "Sarah8F9wd9QC",
                 "SedraOPOFvfGA",
-                "Mijoro9J78pvae"
+                "Mijoro9J78pvae",
+                "MithertmmvFAhO"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-28T14:12:07.274372",
@@ -10489,6 +10490,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-22T23:15:47.908985",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "MithertmmvFAhO",
+            "android_id": "1edfe6aece3afc98867287e6ab774fb3",
+            "referred_by": "Mamitina68010301",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-22T23:30:06.218737",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
