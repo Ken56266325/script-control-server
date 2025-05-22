@@ -3885,7 +3885,8 @@
                 "Sylvain6819e920",
                 "Finoana Herilazar5nwSMAf",
                 "JudicaelIsajVjXK",
-                "RedmifitoT1Dxfv4f"
+                "RedmifitoT1Dxfv4f",
+                "Richardq7yGIA0S"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-17T12:24:28.406199",
@@ -10387,6 +10388,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-22T04:22:37.627643",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Richardq7yGIA0S",
+            "android_id": "a630fe8320f6ae8379044f791d86c796",
+            "referred_by": "Tsila68130",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-22T14:31:02.614320",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
