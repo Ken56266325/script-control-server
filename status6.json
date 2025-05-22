@@ -1285,7 +1285,8 @@
                 "Charone68132",
                 "Paris58193910",
                 "Tolotra68199320",
-                "Daniel719292"
+                "Daniel719292",
+                "FaustaDl1RwW4d"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-28T17:26:20.627075",
@@ -10466,6 +10467,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-22T22:56:20.360704",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "FaustaDl1RwW4d",
+            "android_id": "23a17eb03d48bdea9970eea541b52926",
+            "referred_by": "Hoby5826",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-22T22:58:01.561164",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
