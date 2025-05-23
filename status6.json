@@ -4722,7 +4722,8 @@
                 "Rasambatra telybsUgijZQ",
                 "TelyHI5TotWC",
                 "dafaraPoEgO1MS",
-                "GinaNoyah3QAwugoa"
+                "GinaNoyah3QAwugoa",
+                "PertinotlrajveKh"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-26T19:41:44.921004",
@@ -10565,6 +10566,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-23T16:44:52.403565",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "PertinotlrajveKh",
+            "android_id": "eda8706310d5a3fd6b416a93075318f8",
+            "referred_by": "Rajaonarivo4792180",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-23T19:56:59.678637",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
