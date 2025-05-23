@@ -1220,7 +1220,8 @@
                 "RanofaAuto",
                 "Andry21",
                 "Carlos691030",
-                "Oliv227o6M7Kcx"
+                "Oliv227o6M7Kcx",
+                "MatelozahoMR1bvAlX"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-29T18:46:16.211029",
@@ -10652,6 +10653,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-24T00:56:32.462806",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "MatelozahoMR1bvAlX",
+            "android_id": "ee56b7ce1a2f580546a88d62e1533e3d",
+            "referred_by": "Mandresy241632",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-24T02:23:50.214919",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
