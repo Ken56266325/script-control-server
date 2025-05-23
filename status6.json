@@ -281,7 +281,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-05-29T09:55:14.371263",
-            "affiliation_balance": 9000,
+            "affiliation_balance": 10000,
             "android_id": "24e6c12d88d27aba84a80b1d0c821285",
             "countdown_paused": false,
             "plan": "Basique"
@@ -660,8 +660,8 @@
                 "Chance69680"
             ],
             "status": "active",
-            "countdown_start_time": "2025-05-20T14:31:53.227202",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-05-30T22:47:51.801548",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
