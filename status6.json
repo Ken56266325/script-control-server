@@ -5907,7 +5907,8 @@
             "referred_by": "Rajaonarivo 4792180",
             "referred_to": [
                 "Bandykely61894030",
-                "philemonpcstTf82s6Wq"
+                "philemonpcstTf82s6Wq",
+                "GinahiNGnK8Qy"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-29T07:31:24.850336",
@@ -10630,6 +10631,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-24T00:17:57.274460",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "GinahiNGnK8Qy",
+            "android_id": "a9cdb16354a4fc233820cc8e4547d643",
+            "referred_by": "Philemon68132",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-24T00:23:07.926132",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
