@@ -2459,7 +2459,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-04-30T08:59:36.171449",
-            "affiliation_balance": 11000,
+            "affiliation_balance": 12000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -3685,8 +3685,8 @@
                 "Harisoa8919ez0"
             ],
             "status": "active",
-            "countdown_start_time": "2025-05-23T12:30:34.930769",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-05-30T17:51:31.893530",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
