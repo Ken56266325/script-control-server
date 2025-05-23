@@ -277,7 +277,8 @@
                 "Itsimindrana",
                 "Fasou5819302",
                 "Noely561920",
-                "Mbolatiana79103"
+                "Mbolatiana79103",
+                "RiijarakotowMsiNjio"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-29T09:55:14.371263",
@@ -10565,6 +10566,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-23T16:44:52.403565",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "RiijarakotowMsiNjio",
+            "android_id": "00e83b0f56e8cb82841379afa7e04200",
+            "referred_by": "Compte35183",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-23T17:41:43.404554",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
