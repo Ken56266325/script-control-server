@@ -2021,7 +2021,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-05-25T11:01:18.960569",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -5246,8 +5246,8 @@
                 "Augustin8913269"
             ],
             "status": "active",
-            "countdown_start_time": "2025-05-22T07:34:31.468693",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-05-30T09:52:25.511413",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
