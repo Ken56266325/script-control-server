@@ -8582,7 +8582,8 @@
             "referred_by": "Rajaonarivo4792180",
             "referred_to": [
                 "MananjaraJZkiFVk6",
-                "VoninahitraBoeEiLmp"
+                "VoninahitraBoeEiLmp",
+                "Roland9cLj94nb"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-26T16:34:47.476369",
@@ -10744,6 +10745,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-24T20:28:54.726418",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Roland9cLj94nb",
+            "android_id": "6cc94a4d5471f32cd912c3dc0c3aaf96",
+            "referred_by": "Emile5819392",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-24T22:59:50.159409",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
