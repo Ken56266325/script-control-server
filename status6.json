@@ -233,7 +233,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-05-28T17:21:36.084346",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "android_id": "e74af1c33b0fd4e7b3ecef900c118751",
             "countdown_paused": false,
             "plan": "Basique"
@@ -3513,7 +3513,7 @@
                 "Rosia6899391"
             ],
             "status": "active",
-            "countdown_start_time": "2025-05-31T11:57:01.147767",
+            "countdown_start_time": "2025-05-31T11:57:59.636350",
             "affiliation_balance": 6000,
             "plan": "Basique",
             "countdown_paused": false
