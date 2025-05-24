@@ -1924,7 +1924,9 @@
             "id": "Mampionona58103",
             "android_id": "6a436204fc91f83b4cf102c29a4058ec",
             "referred_by": "Tsiresy71932",
-            "referred_to": [],
+            "referred_to": [
+                "Kris.Noelisoakcv5YQah"
+            ],
             "status": "active",
             "countdown_start_time": "2025-05-29T12:00:27.501842",
             "affiliation_balance": 0,
@@ -10721,6 +10723,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-24T09:36:38.282251",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Kris.Noelisoakcv5YQah",
+            "android_id": "36d07124dde7064a6019ff71f87f540f",
+            "referred_by": "Mampionona58103",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-24T18:28:12.458617",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
