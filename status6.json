@@ -9141,7 +9141,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-05-27T19:22:40.990079",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -10586,7 +10586,7 @@
             "referred_by": "ArotiattbE7t1E",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-05-23T16:44:52.403565",
+            "countdown_start_time": "2025-05-31T17:54:20.448080",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
