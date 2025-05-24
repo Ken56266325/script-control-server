@@ -2051,7 +2051,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-05-31T17:32:43.046435",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -4872,7 +4872,7 @@
             "referred_by": "Tsilavina68192",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-05-24T17:21:03.881676",
+            "countdown_start_time": "2025-05-31T18:11:48.272268",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
