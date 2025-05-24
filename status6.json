@@ -1225,7 +1225,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-05-29T18:46:16.211029",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -2048,8 +2048,8 @@
                 "Iary47103519"
             ],
             "status": "active",
-            "countdown_start_time": "2025-05-24T16:59:18.993357",
-            "affiliation_balance": 8000,
+            "countdown_start_time": "2025-05-31T17:32:43.046435",
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
