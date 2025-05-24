@@ -8207,7 +8207,9 @@
             "id": "Eludiot8919493",
             "android_id": "b513927cc86c0f3d286cd4a1e8aaac46",
             "referred_by": null,
-            "referred_to": [],
+            "referred_to": [
+                "Rasolonjatovo8QTCoguF"
+            ],
             "status": "active",
             "countdown_start_time": "2025-05-30T14:56:31.774518",
             "affiliation_balance": 0,
@@ -10811,6 +10813,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-25T02:16:25.776020",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Rasolonjatovo8QTCoguF",
+            "android_id": "4b29294fc7e013551633268863f94eb3",
+            "referred_by": "Eludiot8919493",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-25T02:47:10.231877",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
