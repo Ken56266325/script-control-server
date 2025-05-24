@@ -10451,7 +10451,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-05-29T19:07:58.781832",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -10610,7 +10610,7 @@
             "referred_by": "valeryGVlimiteWPiXJalT",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-05-23T20:38:51.607027",
+            "countdown_start_time": "2025-05-31T08:33:46.410031",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
