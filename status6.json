@@ -6729,7 +6729,8 @@
             "referred_by": "Tahiry6393",
             "referred_to": [
                 "Bienvenu61894030",
-                "CyprienHERIVALISOAUqzNud3o"
+                "CyprienHERIVALISOAUqzNud3o",
+                "Karinienit9tb1QJ"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-27T09:03:52.198997",
@@ -10823,6 +10824,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-25T02:47:10.231877",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Karinienit9tb1QJ",
+            "android_id": "9daf01d292bbfc0fcdcdc6f48a1ea4dc",
+            "referred_by": "Chance69680",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-25T03:25:11.220150",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
