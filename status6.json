@@ -6344,7 +6344,8 @@
             "referred_by": "Fasou5819302",
             "referred_to": [
                 "Andy6819392904",
-                "Francia681939"
+                "Francia681939",
+                "MandaGuoFkMQD"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-24T08:29:34.021279",
@@ -10965,6 +10966,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-25T22:58:46.575053",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "MandaGuoFkMQD",
+            "android_id": "adfa33c2badae2f213aecd0f085c1893",
+            "referred_by": "Andry5718e0",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-25T23:06:32.175273",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
