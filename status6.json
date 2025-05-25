@@ -8603,7 +8603,8 @@
                 "MananjaraJZkiFVk6",
                 "VoninahitraBoeEiLmp",
                 "Roland9cLj94nb",
-                "CristoradSIbzVsv"
+                "CristoradSIbzVsv",
+                "Honor\u00e9GAf1d2Kv"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-26T16:34:47.476369",
@@ -10976,6 +10977,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-25T23:06:32.175273",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Honor\u00e9GAf1d2Kv",
+            "android_id": "7baa7ac341735885344cd51f83ade84d",
+            "referred_by": "Emile5819392",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-26T01:15:58.090600",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
