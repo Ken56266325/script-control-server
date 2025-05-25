@@ -1224,7 +1224,8 @@
                 "Andry21",
                 "Carlos691030",
                 "Oliv227o6M7Kcx",
-                "MatelozahoMR1bvAlX"
+                "MatelozahoMR1bvAlX",
+                "Mandresy21Daz0wA6X"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-29T18:46:16.211029",
@@ -10921,6 +10922,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-25T21:21:58.873596",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Mandresy21Daz0wA6X",
+            "android_id": "e4f8d57ad2f4fb0e625523ee25368d72",
+            "referred_by": "Mandresy241632",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-25T21:48:29.291096",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
