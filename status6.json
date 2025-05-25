@@ -8613,7 +8613,8 @@
                 "CristoradSIbzVsv",
                 "Honor\u00e9GAf1d2Kv",
                 "FiononanaSvHhr64Y",
-                "IfalianaOxYiBSiF"
+                "IfalianaOxYiBSiF",
+                "JustinNKfPbDxW"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-26T16:34:47.476369",
@@ -11097,6 +11098,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-26T07:35:52.470474",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "JustinNKfPbDxW",
+            "android_id": "ea189a3ff8aba5389155ecbbba7286fa",
+            "referred_by": "Emile5819392",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-26T07:49:16.608723",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
