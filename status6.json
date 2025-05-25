@@ -10293,7 +10293,8 @@
             "android_id": "dd6c5f5b342cb665bf02c2550c95f40c",
             "referred_by": "TokibotbKKzJ978",
             "referred_to": [
-                "NantenainaBotKBUeeXVw"
+                "NantenainaBotKBUeeXVw",
+                "FetrabotCWpGuQFK"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-21T17:44:09.034254",
@@ -11010,6 +11011,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-26T02:28:13.055397",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "FetrabotCWpGuQFK",
+            "android_id": "70911eb8cfb4004ac8039793c9c06286",
+            "referred_by": "NiainabotDsL65sLK",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-26T03:10:04.911880",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
