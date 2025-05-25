@@ -3946,7 +3946,8 @@
             "referred_by": "Junior68193",
             "referred_to": [
                 "Laurent678199329",
-                "tsiferanaaimeYFPaRbh2"
+                "tsiferanaaimeYFPaRbh2",
+                "fideranafidelineBl1Ec7ES"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-26T16:17:01.269300",
@@ -10888,6 +10889,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-25T18:38:27.647909",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "fideranafidelineBl1Ec7ES",
+            "android_id": "6101725e256f0f34d1a3e3bab5fc86fc",
+            "referred_by": "Sarobidy68130",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-25T19:25:05.116720",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
