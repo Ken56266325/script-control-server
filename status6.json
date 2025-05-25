@@ -8606,7 +8606,8 @@
                 "VoninahitraBoeEiLmp",
                 "Roland9cLj94nb",
                 "CristoradSIbzVsv",
-                "Honor\u00e9GAf1d2Kv"
+                "Honor\u00e9GAf1d2Kv",
+                "FiononanaSvHhr64Y"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-26T16:34:47.476369",
@@ -10999,6 +11000,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-26T01:58:40.534062",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "FiononanaSvHhr64Y",
+            "android_id": "6a9db3e3a748e1b09f3cd576f02d8e52",
+            "referred_by": "Emile5819392",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-26T02:28:13.055397",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
