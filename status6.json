@@ -631,7 +631,8 @@
                 "damasceneoWmTChMB",
                 "HanitraqW5ZCL9C",
                 "JeanVHAhDVsG",
-                "ratahnAfmIfvf"
+                "ratahnAfmIfvf",
+                "RandriacHiiInG1"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-01T01:23:55.424331",
@@ -10954,6 +10955,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-25T22:10:10.242797",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "RandriacHiiInG1",
+            "android_id": "861161fb18209a9f78f61a54193fb99d",
+            "referred_by": "Emmanuel1",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-25T22:58:46.575053",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
