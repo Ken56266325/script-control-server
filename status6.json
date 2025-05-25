@@ -630,7 +630,8 @@
                 "Tsila6u591njv",
                 "damasceneoWmTChMB",
                 "HanitraqW5ZCL9C",
-                "JeanVHAhDVsG"
+                "JeanVHAhDVsG",
+                "ratahnAfmIfvf"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-01T01:23:55.424331",
@@ -10855,6 +10856,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-25T04:54:30.064910",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "ratahnAfmIfvf",
+            "android_id": "3e65456ab84b4af55822c60935de0c4a",
+            "referred_by": "Emmanuel1",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-25T16:00:43.547371",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
