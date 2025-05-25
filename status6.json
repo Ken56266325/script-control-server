@@ -2069,7 +2069,8 @@
                 "Soloniaina78193o1",
                 "Flavien58193920",
                 "JoelJzg2wrod",
-                "Justine58TEzX3S"
+                "Justine58TEzX3S",
+                "RabeYDM7i6a6"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-27T08:21:29.262164",
@@ -10943,6 +10944,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-25T22:02:41.853371",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "RabeYDM7i6a6",
+            "android_id": "498ed97f2779906377efe4639733d130",
+            "referred_by": "RanofaAuto",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-25T22:10:10.242797",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
