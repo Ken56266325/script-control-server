@@ -1296,7 +1296,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-05-28T17:26:20.627075",
-            "affiliation_balance": 9000,
+            "affiliation_balance": 10000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -1638,8 +1638,8 @@
                 "EricfcywHC3y"
             ],
             "status": "active",
-            "countdown_start_time": "2025-05-25T18:28:45.451622",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-06-01T18:44:13.030878",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
