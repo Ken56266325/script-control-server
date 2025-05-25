@@ -3807,7 +3807,9 @@
             "id": "Volana68103",
             "android_id": "b14d359d5a9f505d2776fb9205d3b44a",
             "referred_by": "Junior68193",
-            "referred_to": [],
+            "referred_to": [
+                "ANDRYR279kv8T"
+            ],
             "status": "active",
             "countdown_start_time": "2025-05-27T18:58:15.696211",
             "affiliation_balance": 0,
@@ -10987,6 +10989,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-26T01:15:58.090600",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "ANDRYR279kv8T",
+            "android_id": "1b118e3a890fd557986c8e4db56e86a9",
+            "referred_by": "Volana68103",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-26T01:58:40.534062",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
