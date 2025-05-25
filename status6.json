@@ -5379,7 +5379,9 @@
             "id": "Alitera791040280",
             "android_id": "6a3dfb9ef72328063feffbbcc1e1b45d",
             "referred_by": "Airtel791628962",
-            "referred_to": [],
+            "referred_to": [
+                "RANDRIANASOLOLucianolloDyP6Z"
+            ],
             "status": "active",
             "countdown_start_time": "2025-05-28T14:10:36.904534",
             "affiliation_balance": 0,
@@ -11085,6 +11087,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-26T06:16:51.016108",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "RANDRIANASOLOLucianolloDyP6Z",
+            "android_id": "33bedc0fad4f558e78ad42dfe0277185",
+            "referred_by": "Alitera791040280",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-26T07:35:52.470474",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
