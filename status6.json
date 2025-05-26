@@ -451,7 +451,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-02T06:41:53.712187",
-            "affiliation_balance": 4000,
+            "affiliation_balance": 5000,
             "countdown_paused": false,
             "plan": "Basique"
         },
@@ -6328,7 +6328,7 @@
             "referred_by": "Nirinasoa57384",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-05-25T20:11:35.626717",
+            "countdown_start_time": "2025-06-02T06:44:34.152239",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
