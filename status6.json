@@ -10643,7 +10643,8 @@
             "referred_by": "Philemon68132",
             "referred_to": [
                 "EmmahnVcw3Hn8",
-                "LalainaIRXr3lez"
+                "LalainaIRXr3lez",
+                "EmilsonSkBVgvr4"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-30T20:45:59.321124",
@@ -11197,6 +11198,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-26T22:20:20.969288",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "EmilsonSkBVgvr4",
+            "android_id": "81e3559fc2b07b1657694acdda1538f2",
+            "referred_by": "philemonpcstTf82s6Wq",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-26T23:23:52.068498",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
