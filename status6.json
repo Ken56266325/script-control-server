@@ -5055,7 +5055,8 @@
             "referred_by": "Robinson781930",
             "referred_to": [
                 "Nico6819320",
-                "Jeremia571922"
+                "Jeremia571922",
+                "JncfiiNBArlGpq"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-27T19:58:27.250437",
@@ -11130,6 +11131,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-26T17:42:46.792926",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "JncfiiNBArlGpq",
+            "android_id": "a83e21fe27a819c3b0b1e9de7907d2df",
+            "referred_by": "Fame69103719",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-26T18:09:10.712623",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
