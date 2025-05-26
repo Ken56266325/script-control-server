@@ -7527,7 +7527,9 @@
             "id": "Rim691902",
             "android_id": "95ed249a0e0451e5cc161065ac5768e4",
             "referred_by": null,
-            "referred_to": [],
+            "referred_to": [
+                "PiralNJADuSlc"
+            ],
             "status": "active",
             "countdown_start_time": "2025-05-28T12:44:54.839886",
             "affiliation_balance": 0,
@@ -11208,6 +11210,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-26T23:23:52.068498",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "PiralNJADuSlc",
+            "android_id": "f6e4a237c2b220638cda59a54dd36adb",
+            "referred_by": "Rim691902",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-27T04:14:27.868249",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
