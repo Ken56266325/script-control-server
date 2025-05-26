@@ -11166,6 +11166,16 @@
             "countdown_start_time": "2025-05-26T19:59:14.519808",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "https://t.me/AdolinakaMKgqjCp8",
+            "android_id": "53cbafd4ba56acb1620b3dbac2f11f32",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-26T20:19:43.759405",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
