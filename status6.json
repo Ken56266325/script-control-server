@@ -5936,7 +5936,8 @@
                 "Bandykely61894030",
                 "philemonpcstTf82s6Wq",
                 "GinahiNGnK8Qy",
-                "TodisoaGhu69cEk"
+                "TodisoaGhu69cEk",
+                "Val\u00e9ryIa0k20nF"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-29T07:31:24.850336",
@@ -11174,6 +11175,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-26T20:19:43.759405",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Val\u00e9ryIa0k20nF",
+            "android_id": "4c658787f46a68278690799de00a8527",
+            "referred_by": "Philemon68132",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-26T21:28:30.833690",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
