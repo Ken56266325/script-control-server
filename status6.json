@@ -6747,7 +6747,8 @@
             "referred_to": [
                 "Bienvenu61894030",
                 "CyprienHERIVALISOAUqzNud3o",
-                "Karinienit9tb1QJ"
+                "Karinienit9tb1QJ",
+                "DezmariusXguP8bXJ"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-27T09:03:52.198997",
@@ -11119,6 +11120,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-26T15:45:44.328887",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "DezmariusXguP8bXJ",
+            "android_id": "79004ea3e0161e5e55f49473705f9c89",
+            "referred_by": "Chance69680",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-26T17:42:46.792926",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
