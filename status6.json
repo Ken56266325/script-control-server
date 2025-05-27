@@ -1517,7 +1517,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-02T21:09:34.387913",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -5681,7 +5681,7 @@
             "referred_by": "Claudia501\u20ac2",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-05-27T21:32:06.250786",
+            "countdown_start_time": "2025-06-03T21:24:39.611037",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
