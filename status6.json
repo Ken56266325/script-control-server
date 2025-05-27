@@ -7415,7 +7415,8 @@
                 "RijamamyKfCgoo4Q",
                 "LeaEXSs3quJ",
                 "FANORENAMIHARYhKvQOOKo",
-                "sahobyQGl5NGhM"
+                "sahobyQGl5NGhM",
+                "JohnLYuCiEN1"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-27T22:19:28.389771",
@@ -11352,6 +11353,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-28T03:38:49.882933",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "JohnLYuCiEN1",
+            "android_id": "fca8c3eaf05fae621ebcdb383194e940",
+            "referred_by": "Paiso681992",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-28T05:25:57.295430",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
