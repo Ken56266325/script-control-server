@@ -5552,7 +5552,8 @@
             "referred_by": null,
             "referred_to": [
                 "Jean68192p1",
-                "RDJ671839"
+                "RDJ671839",
+                "FaniryElVRklB0NY"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-02T17:20:28.310194",
@@ -11276,6 +11277,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-27T23:37:47.258176",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "FaniryElVRklB0NY",
+            "android_id": "4b578d85d0fe800c8378a5c4a0ab18f8",
+            "referred_by": "Velotsara681900",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-27T23:58:05.258437",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
