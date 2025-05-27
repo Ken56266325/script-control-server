@@ -7408,7 +7408,8 @@
                 "CelesPLcx3E5s",
                 "AndryJBrUVFo0",
                 "RijamamyKfCgoo4Q",
-                "LeaEXSs3quJ"
+                "LeaEXSs3quJ",
+                "FANORENAMIHARYhKvQOOKo"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-29T03:33:30.725866",
@@ -11267,6 +11268,15 @@
             "countdown_start_time": "2025-05-27T21:13:36.335594",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "FANORENAMIHARYhKvQOOKo",
+            "android_id": "3d9f002d0310394daeca1fccd203fed6",
+            "referred_by": "Paiso681992",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-03T14:18:51.650140",
+            "affiliation_balance": 0
         }
     ],
     "references": {
