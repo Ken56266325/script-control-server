@@ -10493,7 +10493,8 @@
             "referred_to": [
                 "@lefitraAniotYlguxuVW",
                 "derasoaommjkfwM",
-                "NestorAlvisysUfWPrPk"
+                "NestorAlvisysUfWPrPk",
+                "mickaGVlimite4HxB3MqZ"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-29T19:07:58.781832",
@@ -11231,6 +11232,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-27T18:29:55.784495",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "mickaGVlimite4HxB3MqZ",
+            "android_id": "93d1beeea68a243b779b6d2888192841",
+            "referred_by": "valeryGVlimiteWPiXJalT",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-27T19:18:19.658846",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
