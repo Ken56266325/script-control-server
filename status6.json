@@ -5556,7 +5556,8 @@
                 "RDJ671839",
                 "FaniryElVRklB0NY",
                 "AritafitaLeonoXFCGCgQp",
-                "FaniloYi2OEazt"
+                "FaniloYi2OEazt",
+                "F.J.Aim\u00e9T9nwmxLH"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-02T17:20:28.310194",
@@ -11330,6 +11331,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-28T02:29:40.038991",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "F.J.Aim\u00e9T9nwmxLH",
+            "android_id": "ccdb85fa2d06a983adba02880447e78b",
+            "referred_by": "Velotsara681900",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-28T02:45:16.684156",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
