@@ -2775,7 +2775,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-05-20T18:03:23.699503",
-            "affiliation_balance": 7000,
+            "affiliation_balance": 8000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -2985,8 +2985,8 @@
                 "FANDRESENAAaDuo7C1"
             ],
             "status": "active",
-            "countdown_start_time": "2025-05-26T14:54:04.833081",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-06-03T12:51:08.262203",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
