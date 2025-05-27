@@ -2513,7 +2513,8 @@
                 "Tahina79103",
                 "Todisoa80103",
                 "Ravakiniaina90103",
-                "narindra nanteCcNiy5kF"
+                "narindra nanteCcNiy5kF",
+                "TafitasoafWIujM6Q"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-01T20:11:44.567086",
@@ -11363,6 +11364,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-28T05:25:57.295430",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "TafitasoafWIujM6Q",
+            "android_id": "a72df1ff24e93f3a5436cdd7c264da3f",
+            "referred_by": "Nantenaina6810301",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-28T07:27:32.147035",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
