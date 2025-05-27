@@ -7414,7 +7414,8 @@
                 "AndryJBrUVFo0",
                 "RijamamyKfCgoo4Q",
                 "LeaEXSs3quJ",
-                "FANORENAMIHARYhKvQOOKo"
+                "FANORENAMIHARYhKvQOOKo",
+                "sahobyQGl5NGhM"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-27T22:19:28.389771",
@@ -11341,6 +11342,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-28T02:45:16.684156",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "sahobyQGl5NGhM",
+            "android_id": "2d4516f234cdac1a0c6ad0af008a0653",
+            "referred_by": "Paiso681992",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-28T03:38:49.882933",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
