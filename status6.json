@@ -1040,8 +1040,8 @@
             "referred_to": [
                 "1"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-06-04T17:01:38.444627",
+            "status": "active",
+            "countdown_start_time": "2025-06-04T18:25:03.672129",
             "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
