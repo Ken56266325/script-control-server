@@ -2862,7 +2862,8 @@
             "referred_by": "Nantenaina6810301",
             "referred_to": [
                 "Toandro9003810",
-                "Narindra1IzmwEjr"
+                "Narindra1IzmwEjr",
+                "hanintriainaErtuUECH"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-30T19:10:27.406723",
@@ -11418,6 +11419,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-28T21:09:40.364958",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "hanintriainaErtuUECH",
+            "android_id": "39f6c4b650a0c843c6e248a12e38c543",
+            "referred_by": "Christian189103",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-28T21:10:11.030129",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
