@@ -3255,7 +3255,8 @@
                 "JeanBLgdbut6",
                 "RolloucxwONRo",
                 "EricaKC0kVe14",
-                "GabyEo7IiIIt"
+                "GabyEo7IiIIt",
+                "VaninyY11zjR4T"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-04T17:27:23.547424",
@@ -11505,6 +11506,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-04T20:38:35.361810",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "VaninyY11zjR4T",
+            "android_id": "d02462eda6c1adcb2c51cf73783f261d",
+            "referred_by": "ToneJuly681030",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-29T05:17:02.028912",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
