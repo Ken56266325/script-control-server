@@ -9531,7 +9531,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-01T15:00:58.860652",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -10550,7 +10550,7 @@
             "referred_by": "@Tanjona21mGTyqONo",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-05-22T22:10:12.373898",
+            "countdown_start_time": "2025-06-04T20:18:15.523350",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
