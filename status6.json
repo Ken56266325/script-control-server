@@ -1366,7 +1366,8 @@
             "referred_by": "Germain5719\u20ac",
             "referred_to": [
                 "MEXerfa5e5QEY",
-                "DrArnf2HnCOcgM"
+                "DrArnf2HnCOcgM",
+                "EtiennedomVtFfK"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-01T22:15:22.009758",
@@ -11494,6 +11495,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-29T02:17:37.558522",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "EtiennedomVtFfK",
+            "android_id": "33fea706130be5b8e2b2ee555f972c3e",
+            "referred_by": "Shogun581930",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-29T03:45:43.622103",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
