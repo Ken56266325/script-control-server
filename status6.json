@@ -3929,7 +3929,8 @@
             "referred_by": "Germain5719\u20ac",
             "referred_to": [
                 "Timoute8ZoDZyqk",
-                "BatisseurdehY018d"
+                "BatisseurdehY018d",
+                "BaltasaraAI9ARFq1"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-28T09:24:31.651417",
@@ -11374,6 +11375,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-28T07:27:32.147035",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "BaltasaraAI9ARFq1",
+            "android_id": "157a0c6cbcd4c9bbf0d209e123d7c656",
+            "referred_by": "Timote689901",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-28T16:57:18.267936",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
