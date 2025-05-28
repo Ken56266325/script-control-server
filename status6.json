@@ -229,7 +229,8 @@
                 "Randrianarivo68130",
                 "Ntsoa67192",
                 "Gghh68199302",
-                "Sarindra68193920"
+                "Sarindra68193920",
+                "MiranaRasolofoarivonyPr45I7NI"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-28T17:21:36.084346",
@@ -11451,6 +11452,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-28T22:56:55.275228",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "MiranaRasolofoarivonyPr45I7NI",
+            "android_id": "2ba6eebc030e4be4928bc70673dfeee6",
+            "referred_by": "Onjaniaina52809",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-28T23:40:58.085320",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
