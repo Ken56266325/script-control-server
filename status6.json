@@ -8639,7 +8639,8 @@
                 "FiononanaSvHhr64Y",
                 "IfalianaOxYiBSiF",
                 "JustinNKfPbDxW",
-                "RovaZM27pyLd"
+                "RovaZM27pyLd",
+                "St\u00e9phanieKjMAy53G"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-02T15:45:18.675461",
@@ -11429,6 +11430,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-28T21:10:11.030129",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "St\u00e9phanieKjMAy53G",
+            "android_id": "090cd4c3734c2325fe7f554505e4571c",
+            "referred_by": "Emile5819392",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-28T22:35:39.059886",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
