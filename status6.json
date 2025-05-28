@@ -110,7 +110,8 @@
             "id": "Fasil6763",
             "referred_by": null,
             "referred_to": [
-                "@Dylangh"
+                "@Dylangh",
+                "LaurencetbY9afA3"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-30T12:36:02.465277",
@@ -11462,6 +11463,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-28T23:40:58.085320",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "LaurencetbY9afA3",
+            "android_id": "c4e793849fd914f74c136f2d03ed82d0",
+            "referred_by": "Fasil6763",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-29T00:26:51.099792",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
