@@ -1198,7 +1198,8 @@
                 "Mika\u00eb79199303",
                 "Jeremy58193920",
                 "Tina41IC1DEy",
-                "RicharddMk42NjI"
+                "RicharddMk42NjI",
+                "Fabiend8f8RIM2"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-16T07:03:09.953456",
@@ -11668,6 +11669,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-29T22:50:24.469439",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Fabiend8f8RIM2",
+            "android_id": "0cd68367cc4defb28cb9d306871bc511",
+            "referred_by": "Tahina59132",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-30T00:57:53.108869",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
