@@ -3540,7 +3540,8 @@
                 "Amadou681036190",
                 "Miketrky7910371",
                 "Yvon6819200",
-                "Rosia6899391"
+                "Rosia6899391",
+                "Ondripha2HNLmR29"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-31T11:57:59.636350",
@@ -11712,6 +11713,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-30T02:42:32.037981",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Ondripha2HNLmR29",
+            "android_id": "e97a2a1b97c134056df4b7879c92688f",
+            "referred_by": "Randrianarivo68130",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-30T04:20:13.631672",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
