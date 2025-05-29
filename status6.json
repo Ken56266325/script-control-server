@@ -667,7 +667,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-05-30T22:47:51.801548",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -6785,8 +6785,8 @@
                 "DezmariusXguP8bXJ"
             ],
             "status": "active",
-            "countdown_start_time": "2025-05-29T09:28:44.726731",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-06-05T18:20:07.133342",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
