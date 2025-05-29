@@ -11518,6 +11518,16 @@
             "countdown_start_time": "2025-05-29T05:17:02.028912",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Lydioy1LI2xQW",
+            "android_id": "7364706d2d082101d3a626b3600f1847",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-29T14:25:50.067643",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
