@@ -1068,7 +1068,8 @@
                 "Francisse681993",
                 "Faniry6718830",
                 "RaoelinaHaingoniainags77Us1D",
-                "Juniorp0xPy7LY"
+                "Juniorp0xPy7LY",
+                "HerzoyGyvAUXl"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-03T07:42:31.227604",
@@ -11647,6 +11648,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-29T22:17:04.477839",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "HerzoyGyvAUXl",
+            "android_id": "4b2a0174edd412b37b71410b30ccbae0",
+            "referred_by": "Marcel10325",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-29T22:21:35.056986",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
