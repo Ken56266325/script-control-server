@@ -283,7 +283,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-05-29T09:55:14.371263",
-            "affiliation_balance": 18000,
+            "affiliation_balance": 19000,
             "android_id": "24e6c12d88d27aba84a80b1d0c821285",
             "countdown_paused": false,
             "plan": "Basique"
@@ -915,8 +915,8 @@
                 "Aliad78103020"
             ],
             "status": "active",
-            "countdown_start_time": "2025-05-24T14:01:01.673745",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-06-05T19:12:21.175250",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
