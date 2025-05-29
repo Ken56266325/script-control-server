@@ -11607,6 +11607,16 @@
             "countdown_start_time": "2025-05-29T19:10:37.958786",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Christian28026207xpnDojx9",
+            "android_id": "0668f6acc0a370cf21eb9bcfa55e5de3",
+            "referred_by": "28026207",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-29T19:22:27.911098",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
