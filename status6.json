@@ -7638,7 +7638,8 @@
             "android_id": "02541ec8a4e0dde5a46427ed1de7d813",
             "referred_by": "Marcel10325",
             "referred_to": [
-                "valeryGVlimiteWPiXJalT"
+                "valeryGVlimiteWPiXJalT",
+                "Nasam64S41bQ5"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-04T22:09:37.397793",
@@ -11625,6 +11626,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-29T19:42:48.750779",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Nasam64S41bQ5",
+            "android_id": "d35f06151bd10c9e3a394c3736a21091",
+            "referred_by": "Dona68919229",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-29T20:46:20.548337",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
