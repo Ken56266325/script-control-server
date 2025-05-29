@@ -11192,7 +11192,8 @@
             "status": "active",
             "countdown_start_time": "2025-05-26T19:59:14.519808",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "countdown_paused": true
         },
         {
             "id": "https://t.me/AdolinakaMKgqjCp8",
