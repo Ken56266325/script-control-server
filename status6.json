@@ -4763,7 +4763,8 @@
                 "TelyHI5TotWC",
                 "dafaraPoEgO1MS",
                 "GinaNoyah3QAwugoa",
-                "PertinotlrajveKh"
+                "PertinotlrajveKh",
+                "RayannQL0Y1XB"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-02T19:49:35.207619",
@@ -11548,6 +11549,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-29T16:46:28.062147",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "RayannQL0Y1XB",
+            "android_id": "2c87a0b1491fca7ea7f98684bf8863ee",
+            "referred_by": "Rajaonarivo4792180",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-29T16:46:52.666905",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
