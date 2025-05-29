@@ -4131,7 +4131,9 @@
             "id": "BoanaX6819z0",
             "android_id": "bc4481a97699facd87a0540d31ab33e3",
             "referred_by": "Mamitina791402",
-            "referred_to": [],
+            "referred_to": [
+                "NarovanaACCK0JA6"
+            ],
             "status": "active",
             "countdown_start_time": "2025-05-26T12:54:07.499260",
             "affiliation_balance": 0,
@@ -11559,6 +11561,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-29T16:46:52.666905",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "NarovanaACCK0JA6",
+            "android_id": "24bdef48dcfaf3e6dac55fa6bf22c625",
+            "referred_by": "BoanaX6819z0",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-29T17:10:33.491720",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
