@@ -5335,7 +5335,8 @@
             "referred_by": "Lalaina89103",
             "referred_to": [
                 "Francois619392",
-                "NivoC2p6obvE"
+                "NivoC2p6obvE",
+                "Nivohu5hKo8c"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-30T15:44:33.695776",
@@ -11636,6 +11637,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-29T20:46:20.548337",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Nivohu5hKo8c",
+            "android_id": "3f5ad8d1c0f601f5edc799413ae1c8f1",
+            "referred_by": "Francklin79103701",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-29T22:17:04.477839",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
