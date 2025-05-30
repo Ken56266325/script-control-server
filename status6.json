@@ -8196,7 +8196,8 @@
             "referred_by": null,
             "referred_to": [
                 "Avotra78199302",
-                "TitinareeVC5Ag"
+                "TitinareeVC5Ag",
+                "Gg1vdF158v"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-30T12:46:45.437889",
@@ -11745,6 +11746,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-06T09:33:11.880786",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Gg1vdF158v",
+            "android_id": "e18d8f6b41e8615303595428ad0e3ec9",
+            "referred_by": "Dafa6819392",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-30T18:04:31.061747",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
