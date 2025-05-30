@@ -478,7 +478,8 @@
                 "Fanomezantsoa571992",
                 "Toky5819392",
                 "harenasoaa21h1JcxW",
-                "tahiryfitiavanaBA0QF0RE"
+                "tahiryfitiavanaBA0QF0RE",
+                "NadiapisoyHrIsVoa"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-03T09:38:17.966440",
@@ -11799,6 +11800,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-30T19:47:09.082411",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "NadiapisoyHrIsVoa",
+            "android_id": "88743044944d39554e1355234fd08aaa",
+            "referred_by": "Richard294024",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-30T21:18:43.851856",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
