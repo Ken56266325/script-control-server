@@ -2849,7 +2849,8 @@
                 "Mamaj58193920",
                 "Olivia68199330",
                 "Emmatinah1AjzF8Ra",
-                "OlinenaN8ujXi"
+                "OlinenaN8ujXi",
+                "NanahkHTx0qbq"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-06T16:33:45.658155",
@@ -11888,6 +11889,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-31T03:18:09.114069",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "NanahkHTx0qbq",
+            "android_id": "950d0e9fcbaec61c3f035d1270a6cf59",
+            "referred_by": "Floremma89102",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-31T04:46:45.745950",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
