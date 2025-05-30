@@ -11812,6 +11812,16 @@
             "countdown_start_time": "2025-05-30T21:18:43.851856",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "JeanclaudehQwA2rSk",
+            "android_id": "6c16bfd2fa0fadd0ef1501b17d5d84d4",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-30T21:20:07.146187",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
