@@ -480,7 +480,8 @@
                 "Toky5819392",
                 "harenasoaa21h1JcxW",
                 "tahiryfitiavanaBA0QF0RE",
-                "NadiapisoyHrIsVoa"
+                "NadiapisoyHrIsVoa",
+                "TafitasoaYtU9mPt6"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-03T09:38:17.966440",
@@ -11866,6 +11867,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-31T00:17:24.370653",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "TafitasoaYtU9mPt6",
+            "android_id": "616b414514951ad0631f8d91caeaf8c9",
+            "referred_by": "Richard294024",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-31T01:31:57.745511",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
