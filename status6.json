@@ -284,7 +284,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-05-29T09:55:14.371263",
-            "affiliation_balance": 20000,
+            "affiliation_balance": 21000,
             "android_id": "24e6c12d88d27aba84a80b1d0c821285",
             "countdown_paused": false,
             "plan": "Basique"
@@ -500,8 +500,8 @@
                 "Ursila57193"
             ],
             "status": "active",
-            "countdown_start_time": "2025-05-30T20:48:43.128731",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-06-06T21:13:37.702801",
+            "affiliation_balance": 0,
             "countdown_paused": false,
             "plan": "Basique"
         },
