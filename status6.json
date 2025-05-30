@@ -637,7 +637,8 @@
                 "ratahnAfmIfvf",
                 "RandriacHiiInG1",
                 "SitrakaE8TGXnDg",
-                "RijahJJ3jtQgb"
+                "RijahJJ3jtQgb",
+                "Todisoaz2YZXI0I"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-01T01:23:55.424331",
@@ -11788,6 +11789,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-30T18:59:58.838503",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Todisoaz2YZXI0I",
+            "android_id": "2ec8ef896e3861ed0ab720f4b8a954a8",
+            "referred_by": "Emmanuel1",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-30T19:47:09.082411",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
