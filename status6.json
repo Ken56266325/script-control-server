@@ -5398,7 +5398,8 @@
             "android_id": "0c21fd098679618054eda82901d25ff7",
             "referred_by": "Tsizaraina89610302",
             "referred_to": [
-                "zarasoaSsPg2scx"
+                "zarasoaSsPg2scx",
+                "Gidackagam7Zmb9"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-07T08:41:57.829544",
@@ -11966,6 +11967,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-31T23:04:11.385494",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Gidackagam7Zmb9",
+            "android_id": "5989dfc325ac556565e11f71e23ede8f",
+            "referred_by": "Tsizaraina89103719",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-31T23:41:31.572418",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
