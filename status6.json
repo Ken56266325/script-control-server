@@ -2774,7 +2774,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-04T10:14:55.994276",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -3673,8 +3673,8 @@
                 "NooneFFu6D5PW"
             ],
             "status": "active",
-            "countdown_start_time": "2025-05-31T21:52:34.698560",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-06-07T22:03:42.436624",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
