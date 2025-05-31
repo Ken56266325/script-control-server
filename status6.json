@@ -11947,6 +11947,16 @@
             "countdown_start_time": "2025-05-31T20:11:26.820340",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "AliceR2sb7XOR",
+            "android_id": "15f4df66aa953e9e5139e163cb801afe",
+            "referred_by": "valdo68199420",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-31T20:25:02.097291",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
