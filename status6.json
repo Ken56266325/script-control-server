@@ -641,7 +641,8 @@
                 "RandriacHiiInG1",
                 "SitrakaE8TGXnDg",
                 "RijahJJ3jtQgb",
-                "Todisoaz2YZXI0I"
+                "Todisoaz2YZXI0I",
+                "DagoSoDjKY3R"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-01T01:23:55.424331",
@@ -11910,6 +11911,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-31T04:58:14.099752",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "DagoSoDjKY3R",
+            "android_id": "6737e91760e3da20f958c8483cb80cb1",
+            "referred_by": "Emmanuel1",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-31T17:03:14.562112",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
