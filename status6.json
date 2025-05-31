@@ -190,7 +190,8 @@
                 "Jean681932",
                 "GasyZSjGZUsk",
                 "NICOGxUEIQ9X",
-                "Patrick7EQb92Hy"
+                "Patrick7EQb92Hy",
+                "TafitaMhOPblEN"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-01T06:17:31.830300",
@@ -11989,6 +11990,16 @@
             "status": "active",
             "countdown_start_time": "2025-06-07T16:32:24.461810",
             "affiliation_balance": 0
+        },
+        {
+            "id": "TafitaMhOPblEN",
+            "android_id": "d0a95dadc26eb6b70c09822ba7269b64",
+            "referred_by": "Emmanuel6837",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-01T00:56:12.100055",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
