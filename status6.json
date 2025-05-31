@@ -5593,7 +5593,8 @@
                 "AritafitaLeonoXFCGCgQp",
                 "FaniloYi2OEazt",
                 "F.J.Aim\u00e9T9nwmxLH",
-                "MamyArhildegj0ieCVA"
+                "MamyArhildegj0ieCVA",
+                "MamyArhildePWWMkr12"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-02T17:20:28.310194",
@@ -11979,6 +11980,15 @@
             "countdown_start_time": "2025-05-31T23:41:31.572418",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "MamyArhildePWWMkr12",
+            "android_id": "d5380e98fcd0794f96120f1061641be5",
+            "referred_by": "Velotsara681900",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-07T16:32:24.461810",
+            "affiliation_balance": 0
         }
     ],
     "references": {
