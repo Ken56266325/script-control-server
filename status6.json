@@ -12022,6 +12022,16 @@
             "countdown_start_time": "2025-06-01T03:00:52.091907",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "HerizoPMlpf1Vv",
+            "android_id": "59dd5530c6f8aff2439c776b575b449f",
+            "referred_by": "59dd5530c6f8aff2439c776b575b449f",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-01T03:05:10.286531",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
