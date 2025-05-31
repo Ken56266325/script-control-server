@@ -12032,6 +12032,16 @@
             "countdown_start_time": "2025-06-01T03:05:10.286531",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Judicael1voTQX6T",
+            "android_id": "f26f3d374a5073abac3b3652f9a9a8b5",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-01T03:12:03.702786",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
