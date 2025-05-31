@@ -5402,7 +5402,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-07T08:41:57.829544",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -11874,7 +11874,7 @@
             "referred_by": "Tsizaraina89103719",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-05-31T00:17:24.370653",
+            "countdown_start_time": "2025-06-07T14:56:57.187256",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
