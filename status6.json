@@ -1682,7 +1682,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-02T18:49:16.344115",
-            "affiliation_balance": 3000,
+            "affiliation_balance": 4000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -4150,8 +4150,8 @@
                 "NarovanaACCK0JA6"
             ],
             "status": "active",
-            "countdown_start_time": "2025-05-26T12:54:07.499260",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-06-07T16:49:00.555032",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
