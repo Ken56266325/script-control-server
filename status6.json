@@ -5019,7 +5019,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-06T20:53:05.663107",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -5070,7 +5070,7 @@
             "referred_by": "William7919361810",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-05-31T08:57:23.451111",
+            "countdown_start_time": "2025-06-07T10:46:39.928938",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
