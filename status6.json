@@ -5591,7 +5591,8 @@
                 "FaniryElVRklB0NY",
                 "AritafitaLeonoXFCGCgQp",
                 "FaniloYi2OEazt",
-                "F.J.Aim\u00e9T9nwmxLH"
+                "F.J.Aim\u00e9T9nwmxLH",
+                "MamyArhildegj0ieCVA"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-02T17:20:28.310194",
@@ -11955,6 +11956,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-05-31T20:25:02.097291",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "MamyArhildegj0ieCVA",
+            "android_id": "d5380e98fcd0794t96120f1061641be5",
+            "referred_by": "Velotsara681900",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-31T23:04:11.385494",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
