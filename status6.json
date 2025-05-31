@@ -3551,7 +3551,8 @@
                 "Rosia6899391",
                 "Ondripha2HNLmR29",
                 "JuscovvfF44pD",
-                "RivaldoGyLF3HMP"
+                "RivaldoGyLF3HMP",
+                "Rima7Gz4qeVs"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-07T12:43:17.757517",
@@ -12062,6 +12063,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-01T04:44:03.461889",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Rima7Gz4qeVs",
+            "android_id": "16ed1d29ed6427eeec009606f334a9c4",
+            "referred_by": "Randrianarivo68130",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-01T05:51:56.551962",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
