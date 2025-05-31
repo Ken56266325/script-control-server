@@ -773,7 +773,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-02T07:39:51.930803",
-            "affiliation_balance": 8000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -2957,7 +2957,7 @@
             "referred_by": "Miki5739",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-05-15T17:09:29.090880",
+            "countdown_start_time": "2025-06-07T14:16:21.562070",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
