@@ -11979,6 +11979,16 @@
             "countdown_start_time": "2025-05-31T23:41:31.572418",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "MamyArhildePWWMkr12",
+            "android_id": "d5380e98fcd0794f96120f1061641be5",
+            "referred_by": "Velotsar681900",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-05-31T23:49:10.218858",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
