@@ -9584,7 +9584,8 @@
                 "@Patienta13BeUOTtM6",
                 "@nancio24vu1rIG1W",
                 "@Tiako666IETnr3pL",
-                "@Safidy122ywQMv0TN"
+                "@Safidy122ywQMv0TN",
+                "@James1112123F3XbrIgm"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-01T15:00:58.860652",
@@ -12196,6 +12197,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-01T23:24:10.247461",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "@James1112123F3XbrIgm",
+            "android_id": "0e269d7f5ad83538eec84d059a7dc466",
+            "referred_by": "@Tanjona21mGTyqONo",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-02T01:03:55.068265",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
