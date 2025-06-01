@@ -1177,7 +1177,8 @@
                 "YonnetteTDJ5A5qN",
                 "Gaelle0k6aDWFF",
                 "VivianedqCAGnzd",
-                "PercelinLW9Ilap7"
+                "PercelinLW9Ilap7",
+                "Menarson0WJyLw35"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-06T18:20:48.875513",
@@ -12130,6 +12131,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-01T19:19:57.061991",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Menarson0WJyLw35",
+            "android_id": "6ce93a4c0d119653e61a98045aa298ea",
+            "referred_by": "Gaelode10361",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-01T19:47:47.646350",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
