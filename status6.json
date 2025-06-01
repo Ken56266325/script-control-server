@@ -1941,7 +1941,8 @@
                 "Luciah571930",
                 "Aurnela681036910",
                 "Safidy5719290",
-                "Alex7819e929"
+                "Alex7819e929",
+                "MarieE4ryj7Wb"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-08T11:17:06.063420",
@@ -12141,6 +12142,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-01T19:47:47.646350",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "MarieE4ryj7Wb",
+            "android_id": "328dd3e4c7af8cccd1ad8d22531f23cf",
+            "referred_by": "SNeddie58103",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-01T20:24:59.150560",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
