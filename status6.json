@@ -12220,6 +12220,16 @@
             "countdown_start_time": "2025-06-02T01:13:46.600837",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "ErnestelleTZftToEn",
+            "android_id": "7c97a9ee5b0dabffe381d45a44affd68",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-02T08:10:15.283560",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
