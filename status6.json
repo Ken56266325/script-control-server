@@ -1960,7 +1960,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-05-29T12:00:27.501842",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -10864,7 +10864,7 @@
             "referred_by": "Mampionona58103",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-05-24T18:28:12.458617",
+            "countdown_start_time": "2025-06-08T20:09:30.019322",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
