@@ -5197,7 +5197,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-05-30T17:06:04.546960",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -9943,7 +9943,7 @@
             "referred_by": "Razakanirina6819482",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-06-01T09:37:49.082167",
+            "countdown_start_time": "2025-06-08T11:21:53.768935",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
