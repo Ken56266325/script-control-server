@@ -5919,7 +5919,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-05T14:10:35.483953",
-            "affiliation_balance": 3000,
+            "affiliation_balance": 4000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -9949,9 +9949,9 @@
             "referred_by": "Gariste78103",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-06-01T09:13:37.399552",
+            "countdown_start_time": "2025-06-08T09:21:10.758735",
             "affiliation_balance": 0,
-            "plan": "VIP"
+            "plan": "Basique"
         },
         {
             "id": "218042111Imxunhu",
