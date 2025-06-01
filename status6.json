@@ -5558,7 +5558,9 @@
             "id": "Malawi6810321",
             "android_id": "1c62fe446cc0cd5df683a3f5ad2ee98f",
             "referred_by": "Germain5719\u20ac",
-            "referred_to": [],
+            "referred_to": [
+                "MamywxWOh3y9"
+            ],
             "status": "active",
             "countdown_start_time": "2025-06-03T16:37:22.334612",
             "affiliation_balance": 0,
@@ -12107,6 +12109,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-01T18:17:44.548360",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "MamywxWOh3y9",
+            "android_id": "68d923e11b64ba4c67fbe42941cefc2e",
+            "referred_by": "Malawi6810321",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-01T19:13:47.855145",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
