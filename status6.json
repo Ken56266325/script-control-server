@@ -1972,7 +1972,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-03-22T12:53:56.427296",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -3765,7 +3765,7 @@
             "referred_by": "Styve4709",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-05-31T09:10:09.403506",
+            "countdown_start_time": "2025-06-08T10:19:18.548242",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
