@@ -1433,7 +1433,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-02T15:28:56.828395",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
