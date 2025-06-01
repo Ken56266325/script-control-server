@@ -8233,7 +8233,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-04T10:10:43.721400",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -11955,7 +11955,7 @@
             "referred_by": "Tolotra68199320",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-05-31T20:11:26.820340",
+            "countdown_start_time": "2025-06-08T09:28:25.551861",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
