@@ -5570,7 +5570,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-03T16:37:22.334612",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -12127,7 +12127,7 @@
             "referred_by": "Malawi6810321",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-06-01T19:13:47.855145",
+            "countdown_start_time": "2025-06-08T19:19:59.302324",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
