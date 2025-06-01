@@ -4141,7 +4141,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-07T16:33:13.148383",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -4733,8 +4733,8 @@
                 "Bambi68193020"
             ],
             "status": "active",
-            "countdown_start_time": "2025-05-31T13:58:12.748353",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-06-08T08:25:18.750184",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
