@@ -6509,7 +6509,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-08T20:25:22.431559",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -12242,7 +12242,7 @@
             "referred_by": "Fasou6799302",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-06-02T17:00:20.399659",
+            "countdown_start_time": "2025-06-09T16:06:01.808115",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
