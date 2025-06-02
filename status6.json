@@ -2500,7 +2500,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-04-30T08:59:36.171449",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -6431,8 +6431,8 @@
                 "MandaGuoFkMQD"
             ],
             "status": "active",
-            "countdown_start_time": "2025-06-02T21:06:34.442790",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-06-09T21:33:35.917696",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
