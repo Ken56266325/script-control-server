@@ -871,7 +871,8 @@
                 "Niaina90103",
                 "Julien57182o1",
                 "Fan58199320",
-                "Fano68MHTB9t"
+                "Fano68MHTB9t",
+                "562663261106RqySWzNS"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-06T16:47:54.617515",
@@ -12303,6 +12304,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-02T23:39:25.121581",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "562663261106RqySWzNS",
+            "android_id": "435acbb50116ea8c637a097ad19dbe0c",
+            "referred_by": "Herininakely5830",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-03T00:06:45.143816",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
