@@ -4755,7 +4755,8 @@
             "referred_to": [
                 "Alain691090",
                 "RikydN9pwyAAK",
-                "moneyaBjdRMFT"
+                "moneyaBjdRMFT",
+                "DanielFxkuIkL3Cy"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-06T15:48:45.697403",
@@ -12271,6 +12272,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-02T19:11:17.949228",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "DanielFxkuIkL3Cy",
+            "android_id": "THGNxeZNJkwd1EJyRke9JrX34pyxUe5Mnh",
+            "referred_by": "Tiana79030",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-02T22:40:49.243331",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
