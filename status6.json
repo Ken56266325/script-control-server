@@ -4166,7 +4166,8 @@
             "referred_by": "Mamitina791402",
             "referred_to": [
                 "NarovanaACCK0JA6",
-                "MikaelawFZL92hG"
+                "MikaelawFZL92hG",
+                "Diary72mMoGg7"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-07T16:49:00.555032",
@@ -12370,6 +12371,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-03T01:49:48.204794",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Diary72mMoGg7",
+            "android_id": "6d2da6ee231b77c9bbcf11a0f31ba649",
+            "referred_by": "BoanaX6819z0",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-03T02:35:56.325636",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
