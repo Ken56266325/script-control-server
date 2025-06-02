@@ -4803,7 +4803,7 @@
                 "ClaraS96kcPgj"
             ],
             "status": "active",
-            "countdown_start_time": "2025-06-02T19:49:35.207619",
+            "countdown_start_time": "2025-06-08T17:12:04.029559",
             "affiliation_balance": 6000,
             "plan": "Basique",
             "countdown_paused": false
@@ -10540,9 +10540,7 @@
             "id": "Stephan8qC8pOPG",
             "android_id": "4c1299ad1ddfc897cf23c28cf053f869",
             "referred_by": "Paris58193910",
-            "referred_to": [
-                "SedinahjJj5GQ7P"
-            ],
+            "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-09T09:20:54.145615",
             "affiliation_balance": 0,
@@ -12348,16 +12346,6 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-03T00:33:59.122387",
-            "affiliation_balance": 0,
-            "plan": "Basique"
-        },
-        {
-            "id": "SedinahjJj5GQ7P",
-            "android_id": "b7f6ef4c5f9815450df12638358c9448",
-            "referred_by": "Stephan8qC8pOPG",
-            "referred_to": [],
-            "status": "active",
-            "countdown_start_time": "2025-06-03T01:11:03.109601",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
