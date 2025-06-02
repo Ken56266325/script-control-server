@@ -3963,7 +3963,8 @@
                 "Timoute8ZoDZyqk",
                 "BatisseurdehY018d",
                 "BaltasaraAI9ARFq1",
-                "Mamywvx7gU25"
+                "Mamywvx7gU25",
+                "MamyYCdiTm7w"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-04T10:03:25.394844",
@@ -12250,6 +12251,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-02T17:54:05.886369",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "MamyYCdiTm7w",
+            "android_id": "8d28a0aaf62c40dc95b02f08e87247b8",
+            "referred_by": "Timote689901",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-02T18:06:21.210614",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
