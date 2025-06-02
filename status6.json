@@ -12295,6 +12295,16 @@
             "countdown_start_time": "2025-06-02T22:48:31.159685",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Bert\u00f4JZVeYjXp",
+            "android_id": "40471b934fa8c8c9e82d681c883bdfc0",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-02T23:39:25.121581",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
