@@ -3978,7 +3978,8 @@
             "referred_to": [
                 "ZokyLys4707415",
                 "Emilien7910200",
-                "Jackelin5719e930"
+                "Jackelin5719e930",
+                "Douglastg31YHhP"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-08T21:59:58.220491",
@@ -12239,6 +12240,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-02T17:00:20.399659",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Douglastg31YHhP",
+            "android_id": "2647b194119896b1014f87d3456d1a99",
+            "referred_by": "Sa\u00efd681930",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-02T17:30:25.572939",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
