@@ -1686,7 +1686,8 @@
                 "Mamitina68010301",
                 "ReinebPwVz1Ss",
                 "SitrakaX2ktvrvY",
-                "Tojonirina17T6auJn"
+                "Tojonirina17T6auJn",
+                "Fran\u00e7ois575Vlrsw"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-09T19:43:26.595835",
@@ -12470,6 +12471,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-04T00:11:31.617949",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Fran\u00e7ois575Vlrsw",
+            "android_id": "a2d981a11e4643d3623fda385fd0c8de",
+            "referred_by": "Mamitina791402",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-04T00:11:55.960676",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
