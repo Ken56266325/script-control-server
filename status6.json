@@ -5450,7 +5450,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-04T18:30:24.269541",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -11200,7 +11200,7 @@
             "referred_by": "Alitera791040280",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-06-02T16:49:52.763440",
+            "countdown_start_time": "2025-06-10T09:04:15.002948",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
