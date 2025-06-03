@@ -5968,7 +5968,8 @@
             "referred_by": "Ntsoa67192",
             "referred_to": [
                 "Brigitte68193929",
-                "Fita5199320"
+                "Fita5199320",
+                "sylvainPj8arEy9"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-10T21:22:46.282238",
@@ -12534,6 +12535,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-04T04:05:05.443022",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "sylvainPj8arEy9",
+            "android_id": "1049f763787f641e770461706937d946",
+            "referred_by": "Zandrykely791032680",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-04T06:03:45.180280",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
