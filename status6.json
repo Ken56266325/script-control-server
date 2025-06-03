@@ -7615,7 +7615,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-04T13:10:21.446067",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -11311,7 +11311,7 @@
             "referred_by": "Rim691902",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-06-03T07:10:50.735139",
+            "countdown_start_time": "2025-06-10T07:23:01.532518",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
