@@ -1183,7 +1183,8 @@
                 "VivianedqCAGnzd",
                 "PercelinLW9Ilap7",
                 "Menarson0WJyLw35",
-                "MarcelinwSfCvAVc"
+                "MarcelinwSfCvAVc",
+                "TinahNCUnXcGm"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-06T18:20:48.875513",
@@ -12425,6 +12426,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-03T18:26:08.667926",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "TinahNCUnXcGm",
+            "android_id": "c85b01c5ac26baa2f1dc7318c35ea3e2",
+            "referred_by": "Gaelode10361",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-03T18:53:35.514996",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
