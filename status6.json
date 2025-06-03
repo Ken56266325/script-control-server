@@ -5267,7 +5267,7 @@
                 "MiantsaVB2f2FEF"
             ],
             "status": "active",
-            "countdown_start_time": "2025-06-04T07:56:32.592842",
+            "countdown_start_time": "2025-06-10T17:59:40.806325",
             "affiliation_balance": 1000,
             "plan": "VIP",
             "countdown_paused": false
@@ -5971,7 +5971,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-03T20:35:42.433731",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -9165,7 +9165,7 @@
             "referred_by": "Zandrykely791032680",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-06-10T17:59:32.609119",
+            "countdown_start_time": "2025-06-03T18:10:42.724521",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
