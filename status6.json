@@ -672,7 +672,8 @@
                 "Namby6819202",
                 "Damasc\u00e8ne6710302",
                 "Tiana79030",
-                "Chance69680"
+                "Chance69680",
+                "herman3425dh6R82Kk"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-09T22:25:42.400974",
@@ -12393,6 +12394,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-03T06:01:22.368734",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "herman3425dh6R82Kk",
+            "android_id": "3d0e638e460550c751b0fbc430d61022",
+            "referred_by": "Tahiry6393",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-03T15:13:53.875320",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
