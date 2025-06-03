@@ -2008,7 +2008,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-07T20:58:46.425169",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -6882,8 +6882,8 @@
             "referred_by": "YvanoChri581030",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-06-03T19:36:08.377266",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-06-10T19:38:56.836215",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
