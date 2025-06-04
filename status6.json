@@ -7501,7 +7501,8 @@
                 "FANORENAMIHARYhKvQOOKo",
                 "sahobyQGl5NGhM",
                 "JohnLYuCiEN1",
-                "JohnorangezSXLSpe6"
+                "JohnorangezSXLSpe6",
+                "HeryI0U4FRvJ"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-11T11:19:16.638474",
@@ -12655,6 +12656,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-05T00:09:02.185487",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "HeryI0U4FRvJ",
+            "android_id": "83e64c9cda808edfa5b142fe1c710b60",
+            "referred_by": "Paiso681992",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-05T00:13:27.539391",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
