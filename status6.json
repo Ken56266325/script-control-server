@@ -192,7 +192,8 @@
                 "NICOGxUEIQ9X",
                 "Patrick7EQb92Hy",
                 "TafitaMhOPblEN",
-                "EulalieU5QJzT08"
+                "EulalieU5QJzT08",
+                "REmmaneXGwjOZqO"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-08T18:03:09.797127",
@@ -12776,6 +12777,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-05T05:29:29.376200",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "REmmaneXGwjOZqO",
+            "android_id": "488d6db87c5f08b6b881934553997192",
+            "referred_by": "Emmanuel6837",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-05T10:48:49.870932",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
