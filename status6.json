@@ -5635,7 +5635,8 @@
                 "FaniloYi2OEazt",
                 "F.J.Aim\u00e9T9nwmxLH",
                 "MamyArhildegj0ieCVA",
-                "MamyArhildePWWMkr12"
+                "MamyArhildePWWMkr12",
+                "AlaneYSbo21Ju"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-09T17:24:16.399424",
@@ -12731,6 +12732,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-05T02:16:34.299884",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "AlaneYSbo21Ju",
+            "android_id": "5beb47ffa10b0028bd840ab9c2cca0ba",
+            "referred_by": "Velotsara681900",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-05T04:21:35.644433",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
