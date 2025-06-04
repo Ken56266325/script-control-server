@@ -6030,7 +6030,8 @@
                 "philemonpcstTf82s6Wq",
                 "GinahiNGnK8Qy",
                 "TodisoaGhu69cEk",
-                "Val\u00e9ryIa0k20nF"
+                "Val\u00e9ryIa0k20nF",
+                "Sedy0I1GNRck"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-05T08:31:25.556182",
@@ -12720,6 +12721,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-05T01:16:31.245423",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Sedy0I1GNRck",
+            "android_id": "53de9b0c626b404097570f508d1a6ef8",
+            "referred_by": "Philemon68132",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-05T02:16:34.299884",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
