@@ -6437,7 +6437,8 @@
             "referred_to": [
                 "Andy6819392904",
                 "Francia681939",
-                "MandaGuoFkMQD"
+                "MandaGuoFkMQD",
+                "Th\u00e9r\u00e8setSSo2J8g"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-09T21:33:35.917696",
@@ -12578,6 +12579,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-04T19:21:42.072954",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Th\u00e9r\u00e8setSSo2J8g",
+            "android_id": "ad005d48831186637eed8f389876425f",
+            "referred_by": "Andry5718e0",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-04T19:32:34.157113",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
