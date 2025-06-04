@@ -7863,7 +7863,8 @@
             "referred_by": "Flavien58193920",
             "referred_to": [
                 "LogiquecnhXX06I",
-                "ZandrymPvjTa7H"
+                "ZandrymPvjTa7H",
+                "TahinaZuy85MWQ"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-06T19:39:15.851634",
@@ -12545,6 +12546,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-04T06:03:45.180280",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "TahinaZuy85MWQ",
+            "android_id": "57657fbbdfddad42119b502eafbb3fb2",
+            "referred_by": "Ora6819932",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-04T15:56:45.784201",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
