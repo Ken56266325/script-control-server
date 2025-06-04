@@ -2501,7 +2501,8 @@
                 "Herizo6819o392",
                 "Amel6819932",
                 "Mamyq6819392",
-                "Anja571o3o2"
+                "Anja571o3o2",
+                "Mendrika1g87jkml"
             ],
             "status": "active",
             "countdown_start_time": "2025-04-30T08:59:36.171449",
@@ -12567,6 +12568,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-04T16:28:07.828526",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Mendrika1g87jkml",
+            "android_id": "af5b6c828e1d6df4bc824f8c9ea70eaf",
+            "referred_by": "Fasou5819302",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-04T19:21:42.072954",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
