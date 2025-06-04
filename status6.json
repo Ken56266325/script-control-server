@@ -1535,7 +1535,8 @@
                 "Nambi91090",
                 "Miantsaniaina68191",
                 "Herisoa79193030",
-                "Nandrij3citBoB"
+                "Nandrij3citBoB",
+                "HyacintheRv9YXTYQ"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-09T21:32:00.017448",
@@ -12633,6 +12634,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-04T21:31:46.364501",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "HyacintheRv9YXTYQ",
+            "android_id": "fc9b259221711ed2a3fd820f9532d6d4",
+            "referred_by": "Claudia501\u20ac2",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-04T21:52:04.065477",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
