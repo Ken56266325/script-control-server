@@ -4164,7 +4164,8 @@
                 "Narindra781032",
                 "Sarobidy68921",
                 "Andr\u00e9as7819933",
-                "Niaina78193o02"
+                "Niaina78193o02",
+                "MialytOIc7das"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-07T16:33:13.148383",
@@ -12698,6 +12699,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-05T00:43:23.022278",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "MialytOIc7das",
+            "android_id": "c92e90a40d1be211e1a552b1fa12c982",
+            "referred_by": "Japhet589300",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-05T00:47:34.429132",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
