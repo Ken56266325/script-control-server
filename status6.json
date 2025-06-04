@@ -4012,7 +4012,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-10T15:04:00.780225",
-            "affiliation_balance": 4000,
+            "affiliation_balance": 5000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -8384,7 +8384,7 @@
             "referred_by": "Sarobidy68130",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-06-03T21:00:59.104323",
+            "countdown_start_time": "2025-06-11T06:02:50.901708",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
