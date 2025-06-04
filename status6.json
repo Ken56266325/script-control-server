@@ -2997,7 +2997,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-08T18:50:18.483011",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -8243,7 +8243,7 @@
             "referred_by": "Niaina89103",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-06-04T17:15:45.389674",
+            "countdown_start_time": "2025-06-11T17:19:07.281414",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
