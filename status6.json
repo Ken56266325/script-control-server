@@ -5975,7 +5975,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-10T21:22:46.282238",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -12548,7 +12548,7 @@
             "referred_by": "Zandrykely791032680",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-06-04T06:03:45.180280",
+            "countdown_start_time": "2025-06-11T11:33:07.522068",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
