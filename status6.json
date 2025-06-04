@@ -2552,7 +2552,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-08T20:45:31.399890",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -3172,7 +3172,7 @@
                 "VOLATINAhTQFJRUk"
             ],
             "status": "active",
-            "countdown_start_time": "2025-06-04T08:39:48.348413",
+            "countdown_start_time": "2025-06-11T17:35:35.738465",
             "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
