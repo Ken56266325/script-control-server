@@ -1220,7 +1220,8 @@
                 "Jeremy58193920",
                 "Tina41IC1DEy",
                 "RicharddMk42NjI",
-                "Fabiend8f8RIM2"
+                "Fabiend8f8RIM2",
+                "JeremysReVgL8s"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-16T07:03:09.953456",
@@ -13026,6 +13027,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-06T03:26:29.821130",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "JeremysReVgL8s",
+            "android_id": "e4bf0e3c7d59d03954a4684692c0a529",
+            "referred_by": "Tahina59132",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-06T03:29:11.044374",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
