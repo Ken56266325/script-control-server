@@ -6139,7 +6139,8 @@
             "android_id": "74170ec49a326cf1ec516c4425951b1c",
             "referred_by": "Airtel791628962",
             "referred_to": [
-                "Samirah57199330"
+                "Samirah57199330",
+                "CastelqF8QFqoA"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-12T09:43:17.983740",
@@ -13037,6 +13038,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-06T03:29:11.044374",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "CastelqF8QFqoA",
+            "android_id": "0fd2498f5eb34a0b4115099c951772fe",
+            "referred_by": "Tina6819201",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-06T04:29:50.628388",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
