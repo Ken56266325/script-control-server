@@ -8349,7 +8349,8 @@
             "referred_to": [
                 "Vaane\u00ffkZ12gsid",
                 "Nar's2aLqxWxOR",
-                "Phillipes6n60Z4u"
+                "Phillipes6n60Z4u",
+                "FetisonRoIqA36k"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-09T19:56:08.661040",
@@ -12982,6 +12983,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-06T02:02:24.735933",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "FetisonRoIqA36k",
+            "android_id": "297fd9bb70a129d49f0364ebd059ae68",
+            "referred_by": "Alex7819e929",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-06T02:06:07.241137",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
