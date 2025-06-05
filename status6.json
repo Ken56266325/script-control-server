@@ -6046,7 +6046,8 @@
                 "GinahiNGnK8Qy",
                 "TodisoaGhu69cEk",
                 "Val\u00e9ryIa0k20nF",
-                "Sedy0I1GNRck"
+                "Sedy0I1GNRck",
+                "NambininahPlKsRt4"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-09T06:38:26.103056",
@@ -12971,6 +12972,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-06T01:52:58.787507",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "NambininahPlKsRt4",
+            "android_id": "dfac82616e77e745fdc8348dedd786cd",
+            "referred_by": "Philemon68132",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-06T02:02:24.735933",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
