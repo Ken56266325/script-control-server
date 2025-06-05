@@ -8757,7 +8757,8 @@
                 "JustinNKfPbDxW",
                 "RovaZM27pyLd",
                 "St\u00e9phanieKjMAy53G",
-                "NatachawYi8GkgM"
+                "NatachawYi8GkgM",
+                "SolofoICyjFjny"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-09T16:13:18.866802",
@@ -13004,6 +13005,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-06T02:17:45.518150",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "SolofoICyjFjny",
+            "android_id": "4baf273028f464c16db0e67313348ba0",
+            "referred_by": "Emile5819392",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-06T03:15:43.638758",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
