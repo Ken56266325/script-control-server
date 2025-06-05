@@ -6866,7 +6866,8 @@
                 "Bienvenu61894030",
                 "CyprienHERIVALISOAUqzNud3o",
                 "Karinienit9tb1QJ",
-                "DezmariusXguP8bXJ"
+                "DezmariusXguP8bXJ",
+                "TanjonazaEMsKKujF"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-05T18:20:07.133342",
@@ -12993,6 +12994,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-06T02:06:07.241137",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "TanjonazaEMsKKujF",
+            "android_id": "7899c375684e24b7e37c49731ce7d7b6",
+            "referred_by": "Chance69680",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-06T02:17:45.518150",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
