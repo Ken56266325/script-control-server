@@ -5644,7 +5644,8 @@
                 "MamyArhildePWWMkr12",
                 "AlaneYSbo21Ju",
                 "VelotsaraqYiweOSG",
-                "Motiv\u00e9BfgzlkQc"
+                "Motiv\u00e9BfgzlkQc",
+                "JeanJohnsongHESgbZE"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-09T17:24:16.399424",
@@ -12874,6 +12875,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-05T19:02:51.765533",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "JeanJohnsongHESgbZE",
+            "android_id": "cfb45935d9dad26ce5fb3b7f2605524d",
+            "referred_by": "Velotsara681900",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-05T19:20:37.203733",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
