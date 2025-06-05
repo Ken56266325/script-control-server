@@ -1188,7 +1188,8 @@
                 "Menarson0WJyLw35",
                 "MarcelinwSfCvAVc",
                 "TinahNCUnXcGm",
-                "Elysah3zEUHw7e"
+                "Elysah3zEUHw7e",
+                "DoreFuulFspt"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-06T18:20:48.875513",
@@ -12960,6 +12961,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-06T00:51:13.565311",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "DoreFuulFspt",
+            "android_id": "4ecda53807bab3d88244fbd47c5e8232",
+            "referred_by": "Gaelode10361",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-06T01:52:58.787507",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
