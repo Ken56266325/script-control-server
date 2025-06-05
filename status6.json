@@ -680,7 +680,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-09T22:25:42.400974",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -6873,8 +6873,8 @@
                 "TanjonazaEMsKKujF"
             ],
             "status": "active",
-            "countdown_start_time": "2025-06-05T18:20:07.133342",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-06-12T20:46:24.960174",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
