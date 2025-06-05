@@ -12590,7 +12590,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-12T06:17:32.275723",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -12819,7 +12819,7 @@
             "referred_by": "TahinaZuy85MWQ",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-06-05T15:04:03.552937",
+            "countdown_start_time": "2025-06-12T17:04:08.677211",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
