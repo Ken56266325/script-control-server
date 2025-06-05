@@ -5642,7 +5642,8 @@
                 "MamyArhildegj0ieCVA",
                 "MamyArhildePWWMkr12",
                 "AlaneYSbo21Ju",
-                "VelotsaraqYiweOSG"
+                "VelotsaraqYiweOSG",
+                "Motiv\u00e9BfgzlkQc"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-09T17:24:16.399424",
@@ -12852,6 +12853,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-05T17:35:24.526886",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Motiv\u00e9BfgzlkQc",
+            "android_id": "98b9a27fe145f65df5032ea11342a7e5",
+            "referred_by": "Velotsara681900",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-05T18:07:10.193123",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
