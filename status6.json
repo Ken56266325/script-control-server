@@ -193,7 +193,8 @@
                 "Patrick7EQb92Hy",
                 "TafitaMhOPblEN",
                 "EulalieU5QJzT08",
-                "REmmaneXGwjOZqO"
+                "REmmaneXGwjOZqO",
+                "LydiaGTGMMf0E"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-08T18:03:09.797127",
@@ -12949,6 +12950,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-06T00:35:07.170004",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "LydiaGTGMMf0E",
+            "android_id": "42f893a57307b99e525745bdc22236ae",
+            "referred_by": "Emmanuel6837",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-06T00:51:13.565311",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
