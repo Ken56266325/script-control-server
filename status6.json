@@ -487,7 +487,8 @@
                 "tahiryfitiavanaBA0QF0RE",
                 "NadiapisoyHrIsVoa",
                 "TafitasoaYtU9mPt6",
-                "Rasoanantenaina22RAepUh"
+                "Rasoanantenaina22RAepUh",
+                "FaniryRgAT2Jdw"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-10T11:19:23.150150",
@@ -13170,6 +13171,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-06T23:37:02.664523",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "FaniryRgAT2Jdw",
+            "android_id": "a1a9923f9d9360313f6d26fad60ddbc6",
+            "referred_by": "Richard294024",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-06T23:40:36.451792",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
