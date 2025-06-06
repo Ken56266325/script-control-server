@@ -4200,7 +4200,8 @@
                 "Diary72mMoGg7",
                 "FitahiantsoajboX0SnS",
                 "NantenainaozKSMisD",
-                "MaraUYEf0cmY"
+                "MaraUYEf0cmY",
+                "EzraxoKlRrS1"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-07T16:49:00.555032",
@@ -13191,6 +13192,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-07T00:33:05.376390",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "EzraxoKlRrS1",
+            "android_id": "1ae4f20dbac8fb6ed15c6e9fdaeebf21",
+            "referred_by": "BoanaX6819z0",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-07T00:43:58.340981",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
