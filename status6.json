@@ -2912,7 +2912,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-06T20:26:30.360170",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -10736,7 +10736,7 @@
             "referred_by": "Christian189103",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-06-06T10:20:38.009022",
+            "countdown_start_time": "2025-06-13T16:26:14.210359",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
