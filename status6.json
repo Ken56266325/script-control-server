@@ -8767,7 +8767,8 @@
                 "RovaZM27pyLd",
                 "St\u00e9phanieKjMAy53G",
                 "NatachawYi8GkgM",
-                "SolofoICyjFjny"
+                "SolofoICyjFjny",
+                "NivosonDdqFeHeF"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-09T16:13:18.866802",
@@ -13159,6 +13160,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-06T22:47:23.374113",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "NivosonDdqFeHeF",
+            "android_id": "ba148cb5f2994f2772f0b30a1aaa9617",
+            "referred_by": "Emile5819392",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-06T23:37:02.664523",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
