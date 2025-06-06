@@ -5451,7 +5451,8 @@
             "referred_by": "Tsizaraina89610302",
             "referred_to": [
                 "zarasoaSsPg2scx",
-                "Gidackagam7Zmb9"
+                "Gidackagam7Zmb9",
+                "ZarasI9yx2WRD"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-07T08:41:57.829544",
@@ -13104,6 +13105,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-06T17:40:09.975275",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "ZarasI9yx2WRD",
+            "android_id": "c228e38a9dcadbe0be5a144bd123e011",
+            "referred_by": "Tsizaraina89103719",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-06T17:58:20.391465",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
