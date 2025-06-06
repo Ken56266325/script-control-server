@@ -3494,7 +3494,8 @@
                 "Kevin57zLRlRL",
                 "Hasina80bTZM6N",
                 "Franck4ZvjMiV4",
-                "AndryaROHDcqI"
+                "AndryaROHDcqI",
+                "JoelQMYBuzGo"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-08T22:02:10.960120",
@@ -13235,6 +13236,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-07T01:57:54.643501",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "JoelQMYBuzGo",
+            "android_id": "bc3038112a5c4d61caaaa1721c29aafe",
+            "referred_by": "Joel68010",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-07T02:23:24.766883",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
