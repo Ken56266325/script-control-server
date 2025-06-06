@@ -1489,7 +1489,8 @@
             "android_id": "ab6b4fcfdabad70128e086018439f328",
             "referred_by": "Emmanuel6837",
             "referred_to": [
-                "AvonianavPgPLxAc"
+                "AvonianavPgPLxAc",
+                "Fran\u00e7oisHNCX3vQk"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-06T09:35:05.575077",
@@ -13093,6 +13094,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-06T17:28:37.180679",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Fran\u00e7oisHNCX3vQk",
+            "android_id": "fa5a21b12c3e31e71296d7d8224fd631",
+            "referred_by": "Bolida50172",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-06T17:40:09.975275",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
