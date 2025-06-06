@@ -5658,7 +5658,8 @@
                 "AlaneYSbo21Ju",
                 "VelotsaraqYiweOSG",
                 "Motiv\u00e9BfgzlkQc",
-                "JeanJohnsongHESgbZE"
+                "JeanJohnsongHESgbZE",
+                "MarianohobV7O4hw"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-09T17:24:16.399424",
@@ -13224,6 +13225,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-07T01:27:26.253312",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "MarianohobV7O4hw",
+            "android_id": "d28bbd00e3280c6c5927b2c667cd396f",
+            "referred_by": "Velotsara681900",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-07T01:57:54.643501",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
