@@ -715,7 +715,8 @@
                 "Didi57199202",
                 "Beste6819e830",
                 "Andry57189329",
-                "Harivola6719932"
+                "Harivola6719932",
+                "MevasoafoYOdjdx"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-28T20:41:44.460542",
@@ -13148,6 +13149,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-06T21:23:10.865411",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "MevasoafoYOdjdx",
+            "android_id": "ce2852a61323488088f4e1cdc1ffd637",
+            "referred_by": "Harimalala58294",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-06T22:47:23.374113",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
