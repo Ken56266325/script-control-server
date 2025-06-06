@@ -199,7 +199,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-08T18:03:09.797127",
-            "affiliation_balance": 59000,
+            "affiliation_balance": 60000,
             "android_id": "c4665ee227bd5513d44e32d4d69a242c",
             "countdown_paused": false,
             "plan": "Basique"
@@ -1195,7 +1195,7 @@
                 "DoreFuulFspt"
             ],
             "status": "active",
-            "countdown_start_time": "2025-06-06T18:20:48.875513",
+            "countdown_start_time": "2025-06-13T19:10:06.916231",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
