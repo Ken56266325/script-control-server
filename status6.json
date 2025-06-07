@@ -1793,7 +1793,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-11T17:59:53.335560",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -1899,7 +1899,7 @@
             "referred_by": "Juckelly58103",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-04-12T20:38:35.832796",
+            "countdown_start_time": "2025-06-14T07:37:27.661870",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
