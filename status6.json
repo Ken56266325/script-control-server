@@ -4374,7 +4374,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-09T20:20:42.420159",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -8925,7 +8925,7 @@
                 "TokibotbKKzJ978"
             ],
             "status": "active",
-            "countdown_start_time": "2025-06-06T19:28:44.324243",
+            "countdown_start_time": "2025-06-14T11:45:07.018589",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
