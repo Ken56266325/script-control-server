@@ -1192,7 +1192,8 @@
                 "MarcelinwSfCvAVc",
                 "TinahNCUnXcGm",
                 "Elysah3zEUHw7e",
-                "DoreFuulFspt"
+                "DoreFuulFspt",
+                "MarsolaZqHBsgQO"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-13T19:10:06.916231",
@@ -13289,6 +13290,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-07T21:53:18.628338",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "MarsolaZqHBsgQO",
+            "android_id": "038c925fa1e1709d3ad51e6debedf909",
+            "referred_by": "Gaelode10361",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-08T00:41:42.464700",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
