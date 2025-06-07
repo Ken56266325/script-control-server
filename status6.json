@@ -3185,7 +3185,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-11T17:35:35.738465",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -9748,7 +9748,7 @@
             "referred_by": "Ravakiniaina90103",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-05-26T16:01:26.143352",
+            "countdown_start_time": "2025-06-14T09:15:26.249663",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
