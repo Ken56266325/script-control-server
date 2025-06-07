@@ -2845,7 +2845,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-14T04:46:09.071166",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -3794,7 +3794,7 @@
                 "TANTELYckOL2NPE"
             ],
             "status": "active",
-            "countdown_start_time": "2025-06-07T18:46:08.933689",
+            "countdown_start_time": "2025-06-14T19:19:32.229287",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
