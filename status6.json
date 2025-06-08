@@ -8758,7 +8758,8 @@
                 "Nambinintsoa681930",
                 "eliazaraB9R6ISqJ",
                 "Narindra0jD28yDG",
-                "zoharivolapuchP1hz"
+                "zoharivolapuchP1hz",
+                "AndriharyWzh0FVvt"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-11T05:02:37.563893",
@@ -13412,6 +13413,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-08T23:56:18.721393",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "AndriharyWzh0FVvt",
+            "android_id": "b6681df67a5db3b545d51c541f35e6e4",
+            "referred_by": "Harivola6719932",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-09T00:21:41.421992",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
