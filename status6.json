@@ -2225,7 +2225,8 @@
                 "New68192",
                 "Dina689301",
                 "Chanks36128",
-                "YoMan691p321"
+                "YoMan691p321",
+                "MAHEFA2j3H6rpni"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-12T18:04:38.059176",
@@ -13423,6 +13424,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-09T00:21:41.421992",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "MAHEFA2j3H6rpni",
+            "android_id": "f97bfbf734a8a6f681795dda68de3c6e",
+            "referred_by": "Andriamahefa58103",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-09T00:33:42.282317",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
