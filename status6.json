@@ -2808,7 +2808,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-11T10:06:38.300375",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -4850,8 +4850,8 @@
                 "TolotraiVaB1Axb"
             ],
             "status": "active",
-            "countdown_start_time": "2025-06-08T17:12:04.029559",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-06-15T17:20:31.077464",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
