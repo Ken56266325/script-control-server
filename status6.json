@@ -6714,7 +6714,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-11T07:41:08.691691",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -12476,8 +12476,8 @@
             "referred_by": "Rakmall6819392",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-06-03T06:01:22.368734",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-06-15T15:38:12.419056",
+            "affiliation_balance": 0,
             "plan": "Basique"
         },
         {
