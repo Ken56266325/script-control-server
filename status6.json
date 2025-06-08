@@ -3345,7 +3345,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-12T12:49:40.164947",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -4259,7 +4259,7 @@
             "referred_by": "Rjc68103",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-05-13T14:10:08.835426",
+            "countdown_start_time": "2025-06-15T12:55:55.512431",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
