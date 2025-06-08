@@ -4204,7 +4204,8 @@
                 "FitahiantsoajboX0SnS",
                 "NantenainaozKSMisD",
                 "MaraUYEf0cmY",
-                "EzraxoKlRrS1"
+                "EzraxoKlRrS1",
+                "JeremieQZIuCtaW"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-07T16:49:00.555032",
@@ -13334,6 +13335,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-08T16:52:33.462043",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "JeremieQZIuCtaW",
+            "android_id": "907a246aa60503d95e8ddd39cda2c912",
+            "referred_by": "BoanaX6819z0",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-08T18:10:53.169729",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
