@@ -289,7 +289,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-05-29T09:55:14.371263",
-            "affiliation_balance": 3000,
+            "affiliation_balance": 4000,
             "android_id": "24e6c12d88d27aba84a80b1d0c821285",
             "countdown_paused": false,
             "plan": "Basique"
@@ -374,8 +374,8 @@
                 "No\u00ebl571930"
             ],
             "status": "active",
-            "countdown_start_time": "2025-06-08T06:49:51.858559",
-            "affiliation_balance": 14000,
+            "countdown_start_time": "2025-06-15T06:59:03.782792",
+            "affiliation_balance": 0,
             "android_id": "701cae64f05e1d4683d2972cefe41cab",
             "countdown_paused": false,
             "plan": "VIP"
