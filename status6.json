@@ -885,7 +885,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-13T17:37:29.968011",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -2009,7 +2009,7 @@
                 "niirinaUXc7Qepl"
             ],
             "status": "active",
-            "countdown_start_time": "2025-06-07T19:46:10.462349",
+            "countdown_start_time": "2025-06-15T07:16:58.767763",
             "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
