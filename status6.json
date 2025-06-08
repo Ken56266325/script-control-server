@@ -650,7 +650,8 @@
                 "RijahJJ3jtQgb",
                 "Todisoaz2YZXI0I",
                 "DagoSoDjKY3R",
-                "Charles3G9Ixbdo"
+                "Charles3G9Ixbdo",
+                "Aureliebnoh52FO"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-08T07:28:51.815276",
@@ -13311,6 +13312,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-08T01:09:55.202070",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Aureliebnoh52FO",
+            "android_id": "a41e3993048ff4ddeb16c066fd913b1b",
+            "referred_by": "Emmanuel1",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-08T16:49:51.338179",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
