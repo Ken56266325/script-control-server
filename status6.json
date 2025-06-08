@@ -11881,7 +11881,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-13T19:13:48.008411",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -13344,7 +13344,7 @@
             "referred_by": "SitrakakwCgBFc7",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-06-08T16:52:33.462043",
+            "countdown_start_time": "2025-06-15T17:19:47.259177",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
