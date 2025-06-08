@@ -2122,7 +2122,8 @@
                 "Justine58TEzX3S",
                 "RabeYDM7i6a6",
                 "AlfredlMlhhC2S",
-                "NofaNdP0Uqxm"
+                "NofaNdP0Uqxm",
+                "Ronaldo1pCCOq7Y"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-10T10:21:10.793928",
@@ -13509,6 +13510,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-09T04:56:54.789261",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Ronaldo1pCCOq7Y",
+            "android_id": "052d32453ed43198c732d2b65a787308",
+            "referred_by": "RanofaAuto",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-09T05:28:08.726925",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
