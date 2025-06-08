@@ -2845,7 +2845,8 @@
                 "Haingo91831",
                 "Raoleina681932",
                 "Junior68193920",
-                "https://t.me/ANDRIANJAFIMITANATM9zX1cc"
+                "https://t.me/ANDRIANJAFIMITANATM9zX1cc",
+                "Puce4URodejcP"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-14T04:46:09.071166",
@@ -13465,6 +13466,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-09T01:27:51.992961",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Puce4URodejcP",
+            "android_id": "902b6c28934cb2953982498319f15b46",
+            "referred_by": "Junior68193",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-09T01:55:24.112028",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
