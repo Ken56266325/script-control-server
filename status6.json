@@ -1827,7 +1827,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-08T14:22:14.633651",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -1970,8 +1970,8 @@
                 "MarieE4ryj7Wb"
             ],
             "status": "active",
-            "countdown_start_time": "2025-06-08T11:17:06.063420",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-06-15T13:02:22.225869",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
