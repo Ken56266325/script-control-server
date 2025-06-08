@@ -1389,7 +1389,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-14T13:51:29.191551",
-            "affiliation_balance": 16000,
+            "affiliation_balance": 17000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -4029,8 +4029,8 @@
                 "HoulderfYpospd9"
             ],
             "status": "active",
-            "countdown_start_time": "2025-06-08T21:59:58.220491",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-06-15T22:12:05.617892",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
