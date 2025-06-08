@@ -13436,6 +13436,16 @@
             "countdown_start_time": "2025-06-09T00:33:42.282317",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "JeanLucao2OKTxsx",
+            "android_id": "86a54bce537c55d3f4dd6ff87bbd1aeb",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-09T00:44:08.837945",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
