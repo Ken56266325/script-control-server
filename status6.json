@@ -3507,7 +3507,8 @@
                 "Hasina80bTZM6N",
                 "Franck4ZvjMiV4",
                 "AndryaROHDcqI",
-                "JoelQMYBuzGo"
+                "JoelQMYBuzGo",
+                "JoelSTggINSJ"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-15T23:03:22.986604",
@@ -13662,6 +13663,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-10T04:36:45.344265",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "JoelSTggINSJ",
+            "android_id": "85887ada8d2443b183adcc379031dda7",
+            "referred_by": "Joel68010",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-10T06:35:43.048652",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
