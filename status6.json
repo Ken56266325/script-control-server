@@ -13631,6 +13631,16 @@
             "countdown_start_time": "2025-06-10T00:16:06.480752",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "MadaraRJDv2oZw",
+            "android_id": "26855164",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-10T01:19:38.596013",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
