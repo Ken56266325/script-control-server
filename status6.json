@@ -197,7 +197,8 @@
                 "LydiaGTGMMf0E",
                 "Tolotrad0oJPoGZ",
                 "CarlosT8mjT7nI",
-                "TojorougtjY0Lb"
+                "TojorougtjY0Lb",
+                "Bazasx21CVU1"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-16T05:17:21.553703",
@@ -13574,6 +13575,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-09T18:13:08.792427",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Bazasx21CVU1",
+            "android_id": "415a22a73cb5155e530786a18e987f11",
+            "referred_by": "Emmanuel6837",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-09T19:21:50.108229",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
