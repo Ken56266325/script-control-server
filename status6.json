@@ -8768,7 +8768,8 @@
                 "eliazaraB9R6ISqJ",
                 "Narindra0jD28yDG",
                 "zoharivolapuchP1hz",
-                "AndriharyWzh0FVvt"
+                "AndriharyWzh0FVvt",
+                "LalainahzWyT0HL"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-11T05:02:37.563893",
@@ -13542,6 +13543,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-09T17:22:39.648930",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "LalainahzWyT0HL",
+            "android_id": "d1145e0ab8a1d9a4144eb7040e251644",
+            "referred_by": "Harivola6719932",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-09T17:41:38.644954",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
