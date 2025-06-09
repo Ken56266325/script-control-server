@@ -3716,7 +3716,8 @@
                 "Iriko681932",
                 "Maminiaina67a9e99",
                 "Tahina5719o302",
-                "NooneFFu6D5PW"
+                "NooneFFu6D5PW",
+                "CMTjzJN0ovR"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-15T07:02:11.485082",
@@ -13531,6 +13532,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-09T16:46:15.537622",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "CMTjzJN0ovR",
+            "android_id": "03bc6fabeaaac5f3893332bea44cf875",
+            "referred_by": "Robert77193",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-09T17:22:39.648930",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
