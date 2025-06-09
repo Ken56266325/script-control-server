@@ -2531,7 +2531,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-04-30T08:59:36.171449",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -3117,8 +3117,8 @@
                 "Meryem67193939"
             ],
             "status": "active",
-            "countdown_start_time": "2025-06-09T21:14:53.367547",
-            "affiliation_balance": 8000,
+            "countdown_start_time": "2025-06-16T21:19:47.067272",
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
