@@ -6554,7 +6554,8 @@
             "referred_by": "Pass58190",
             "referred_to": [
                 "hasina radoher'tyanaL9WVXU0e",
-                "francinerMb7lOq7"
+                "francinerMb7lOq7",
+                "JEANMARCELINCILuACsT"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-09T17:02:16.878302",
@@ -13596,6 +13597,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-09T20:23:42.430625",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "JEANMARCELINCILuACsT",
+            "android_id": "4c255770c3468b3b2d5dd447f1b66fa4",
+            "referred_by": "Jeremie571e99",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-09T21:23:26.742008",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
