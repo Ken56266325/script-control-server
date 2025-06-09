@@ -6754,7 +6754,8 @@
                 "Sarah8F9wd9QC",
                 "SedraOPOFvfGA",
                 "Mijoro9J78pvae",
-                "MithertmmvFAhO"
+                "MithertmmvFAhO",
+                "JulesnNAXNalA"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-11T19:37:55.981194",
@@ -13553,6 +13554,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-09T17:41:38.644954",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "JulesnNAXNalA",
+            "android_id": "c0c05178f92ffb6a6c56318c2f2c5aa3",
+            "referred_by": "Mamitina68010301",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-09T17:55:13.319349",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
