@@ -936,7 +936,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-05T19:12:21.175250",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -1007,8 +1007,8 @@
                 "Rosia5719"
             ],
             "status": "active",
-            "countdown_start_time": "2025-06-09T11:45:33.979110",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-06-16T16:47:34.183666",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
