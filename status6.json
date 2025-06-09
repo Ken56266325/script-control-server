@@ -4858,7 +4858,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-15T17:20:31.077464",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -8803,7 +8803,7 @@
                 "VelonasyKJw4wAUJ"
             ],
             "status": "active",
-            "countdown_start_time": "2025-06-09T16:13:18.866802",
+            "countdown_start_time": "2025-06-16T17:50:56.568595",
             "affiliation_balance": 2000,
             "plan": "Basique"
         },
