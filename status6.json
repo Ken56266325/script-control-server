@@ -3606,7 +3606,8 @@
                 "Ondripha2HNLmR29",
                 "JuscovvfF44pD",
                 "RivaldoGyLF3HMP",
-                "Rima7Gz4qeVs"
+                "Rima7Gz4qeVs",
+                "AndricevZztlrB8"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-14T13:59:34.759175",
@@ -13727,6 +13728,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-10T19:37:10.038605",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "AndricevZztlrB8",
+            "android_id": "72214641074b84a5e0baab2d5f073822",
+            "referred_by": "Randrianarivo68130",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-10T20:01:18.654492",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
