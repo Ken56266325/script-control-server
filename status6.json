@@ -491,7 +491,8 @@
                 "NadiapisoyHrIsVoa",
                 "TafitasoaYtU9mPt6",
                 "Rasoanantenaina22RAepUh",
-                "FaniryRgAT2Jdw"
+                "FaniryRgAT2Jdw",
+                "Narovankery65mDF2zd"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-10T11:19:23.150150",
@@ -13716,6 +13717,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-10T19:10:45.422243",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Narovankery65mDF2zd",
+            "android_id": "785acd35c6e5efd6fc0be580ef73f1b8",
+            "referred_by": "Richard294024",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-10T19:37:10.038605",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
