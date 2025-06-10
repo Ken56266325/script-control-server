@@ -5018,7 +5018,8 @@
                 "Sylvana8026901",
                 "Lionel56199302",
                 "FerdievpDS956l",
-                "Rovaqyif5q4H"
+                "Rovaqyif5q4H",
+                "RovaZ5sPAv6A"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-11T17:18:26.106003",
@@ -13825,6 +13826,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-11T03:14:53.509272",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "RovaZ5sPAv6A",
+            "android_id": "e369910a87543db8f4724cfc14c31ec1",
+            "referred_by": "Elie69103580",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-11T03:30:36.753273",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
