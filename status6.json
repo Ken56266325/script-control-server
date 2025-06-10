@@ -1094,7 +1094,8 @@
                 "RaoelinaHaingoniainags77Us1D",
                 "Juniorp0xPy7LY",
                 "HerzoyGyvAUXl",
-                "Danielah5ktzJ6vm"
+                "Danielah5ktzJ6vm",
+                "BriandwGIrDkEG"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-17T10:44:35.316183",
@@ -13781,6 +13782,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-11T01:00:01.388479",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "BriandwGIrDkEG",
+            "android_id": "02dae5f7f2056de8bfeb33b17a3ff062",
+            "referred_by": "Marcel10325",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-11T01:12:23.831169",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
