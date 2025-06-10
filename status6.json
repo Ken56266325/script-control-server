@@ -1234,7 +1234,8 @@
                 "RicharddMk42NjI",
                 "Fabiend8f8RIM2",
                 "JeremysReVgL8s",
-                "VonylmAR74SM"
+                "VonylmAR74SM",
+                "JahjaxF2AyQQX"
             ],
             "status": "active",
             "countdown_start_time": "2025-05-16T07:03:09.953456",
@@ -13748,6 +13749,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-10T20:53:59.738423",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "JahjaxF2AyQQX",
+            "android_id": "4a32cf3eca4cf1ad815a6924eb9887a2",
+            "referred_by": "Tahina59132",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-10T22:50:46.290325",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
