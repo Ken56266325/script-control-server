@@ -3022,7 +3022,8 @@
                 "Requin58963689",
                 "Max6819930",
                 "Sandra78199320",
-                "RayandRBymORM"
+                "RayandRBymORM",
+                "JaphetdWXyU2xu"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-17T17:18:50.062714",
@@ -13792,6 +13793,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-11T01:12:23.831169",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "JaphetdWXyU2xu",
+            "android_id": "eb8c9533391452a302cf988c1a10692b",
+            "referred_by": "Niaina89103",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-11T02:25:43.082561",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
