@@ -5019,7 +5019,8 @@
                 "Lionel56199302",
                 "FerdievpDS956l",
                 "Rovaqyif5q4H",
-                "RovaZ5sPAv6A"
+                "RovaZ5sPAv6A",
+                "DominiquemFngsnTo"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-11T17:18:26.106003",
@@ -13836,6 +13837,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-11T03:30:36.753273",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "DominiquemFngsnTo",
+            "android_id": "d5f5331cfe806dd4b8945a4c95c8c423",
+            "referred_by": "Elie69103580",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-11T03:32:53.462974",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
