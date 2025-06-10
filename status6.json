@@ -784,7 +784,8 @@
                 "Leonie6819004",
                 "rayanzo791039271",
                 "Zoky791900a",
-                "MihajacSUmsdB5"
+                "MihajacSUmsdB5",
+                "BymfdTWpw4"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-02T07:39:51.930803",
@@ -13803,6 +13804,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-11T02:25:43.082561",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "BymfdTWpw4",
+            "android_id": "f531f981e244492b4efc52acb637017c",
+            "referred_by": "Miki5739",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-11T02:49:10.536978",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
