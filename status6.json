@@ -1204,7 +1204,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-13T19:10:06.916231",
-            "affiliation_balance": 7000,
+            "affiliation_balance": 8000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -13652,7 +13652,7 @@
             "referred_by": "Gaelode10361",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-06-10T02:55:31.440416",
+            "countdown_start_time": "2025-06-17T08:14:20.392696",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
