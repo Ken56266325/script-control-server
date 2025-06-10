@@ -3809,7 +3809,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-14T19:19:32.229287",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -12479,7 +12479,7 @@
             "referred_by": "Tsimbina68192",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-06-10T07:07:06.914985",
+            "countdown_start_time": "2025-06-17T10:08:45.842536",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
