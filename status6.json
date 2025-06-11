@@ -5692,7 +5692,8 @@
                 "VelotsaraqYiweOSG",
                 "Motiv\u00e9BfgzlkQc",
                 "JeanJohnsongHESgbZE",
-                "MarianohobV7O4hw"
+                "MarianohobV7O4hw",
+                "Marianohjean1fIfDCFD"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-16T17:14:39.611595",
@@ -13847,6 +13848,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-18T04:49:26.961391",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Marianohjean1fIfDCFD",
+            "android_id": "811b9ff2def441ba9f3c3bc71f5bb71f",
+            "referred_by": "Velotsara681900",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-11T15:43:06.176756",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
