@@ -6513,7 +6513,8 @@
                 "Francia681939",
                 "MandaGuoFkMQD",
                 "Th\u00e9r\u00e8setSSo2J8g",
-                "ChristianiyJvCP73"
+                "ChristianiyJvCP73",
+                "VictorhCpcHV5e"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-16T18:02:45.698446",
@@ -13923,6 +13924,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-11T18:41:53.000251",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "VictorhCpcHV5e",
+            "android_id": "a3fa38f9a4b54b127824315fdbd968ea",
+            "referred_by": "Andry5718e0",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-11T19:06:47.238590",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
