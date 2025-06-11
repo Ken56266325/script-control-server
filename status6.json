@@ -1342,7 +1342,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-05T13:03:09.202449",
-            "affiliation_balance": 3000,
+            "affiliation_balance": 4000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -2819,8 +2819,8 @@
                 "Tahiry681i282"
             ],
             "status": "active",
-            "countdown_start_time": "2025-06-11T10:06:38.300375",
-            "affiliation_balance": 8000,
+            "countdown_start_time": "2025-06-18T10:39:45.529678",
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
