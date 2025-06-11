@@ -2074,7 +2074,8 @@
                 "Nd671939",
                 "Trader571o3o3p",
                 "alexandrinotVnKavhsB",
-                "TojosoaOAhqCizP"
+                "TojosoaOAhqCizP",
+                "Antoine25mMiTqX"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-12T18:36:24.718386",
@@ -14034,6 +14035,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-12T02:10:33.919265",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Antoine25mMiTqX",
+            "android_id": "5b021735510456d6d08ff44214092d86",
+            "referred_by": "Donatien58193",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-12T02:36:56.354845",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
