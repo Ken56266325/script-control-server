@@ -2902,7 +2902,8 @@
                 "Emmatinah1AjzF8Ra",
                 "OlinenaN8ujXi",
                 "NanahkHTx0qbq",
-                "SimonetteQzgj1l2c"
+                "SimonetteQzgj1l2c",
+                "MiranahF2B2ITZM"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-13T16:38:12.092550",
@@ -14023,6 +14024,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-12T00:32:34.935641",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "MiranahF2B2ITZM",
+            "android_id": "718c72596d6834bdd1cd1a272ad68fc7",
+            "referred_by": "Floremma89102",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-12T02:10:33.919265",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
