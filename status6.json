@@ -2072,7 +2072,8 @@
                 "Jeres79320",
                 "Nd671939",
                 "Trader571o3o3p",
-                "alexandrinotVnKavhsB"
+                "alexandrinotVnKavhsB",
+                "TojosoaOAhqCizP"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-12T18:36:24.718386",
@@ -13957,6 +13958,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-11T20:13:45.461127",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "TojosoaOAhqCizP",
+            "android_id": "7bd37d9d98c846f019c75cb59ab7f36c",
+            "referred_by": "Donatien58193",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-11T21:14:06.965509",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
