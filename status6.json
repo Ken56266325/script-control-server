@@ -6684,7 +6684,8 @@
             "referred_to": [
                 "Evah68109320",
                 "Evah51993020",
-                "RinanyuisA4myM"
+                "RinanyuisA4myM",
+                "Handy1WuVWCPh"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-17T09:49:44.409765",
@@ -13869,6 +13870,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-11T17:00:02.779454",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Handy1WuVWCPh",
+            "android_id": "51985c93bcd10533f30380c071094764",
+            "referred_by": "Rayan671932",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-11T17:29:38.790541",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
