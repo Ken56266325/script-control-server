@@ -112,7 +112,8 @@
             "referred_to": [
                 "@Dylangh",
                 "LaurencetbY9afA3",
-                "JuleR8ZIVou4"
+                "JuleR8ZIVou4",
+                "FridovinBhfK8Hxk"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-15T20:19:10.890001",
@@ -14045,6 +14046,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-12T02:36:56.354845",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "FridovinBhfK8Hxk",
+            "android_id": "4f5b71832c22c7339f1ca21a40d1f530",
+            "referred_by": "Fasil6763",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-12T02:46:21.926762",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
