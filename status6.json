@@ -6779,7 +6779,8 @@
                 "SedraOPOFvfGA",
                 "Mijoro9J78pvae",
                 "MithertmmvFAhO",
-                "JulesnNAXNalA"
+                "JulesnNAXNalA",
+                "PriscaWmQzA3Vo"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-11T19:37:55.981194",
@@ -13912,6 +13913,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-11T18:29:25.561312",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "PriscaWmQzA3Vo",
+            "android_id": "6940e15b2eacfd315c30a791de12da96",
+            "referred_by": "Mamitina68010301",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-11T18:41:53.000251",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
