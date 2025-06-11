@@ -11606,7 +11606,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-18T16:20:08.691109",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -13965,7 +13965,7 @@
             "referred_by": "BaltasaraAI9ARFq1",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-06-11T20:13:45.461127",
+            "countdown_start_time": "2025-06-18T19:09:51.534022",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
