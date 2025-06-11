@@ -4025,7 +4025,8 @@
                 "Mamywvx7gU25",
                 "MamyYCdiTm7w",
                 "BoscoIoZd19E9",
-                "D\u00e9nnicioO0WijQwF"
+                "D\u00e9nnicioO0WijQwF",
+                "Timote689901atK0VVDX"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-16T12:52:36.814263",
@@ -13934,6 +13935,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-11T19:06:47.238590",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Timote689901atK0VVDX",
+            "android_id": "b89ebaea625057877ee142b87dc65651",
+            "referred_by": "Timote689901",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-11T20:11:03.908505",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
