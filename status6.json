@@ -5276,7 +5276,8 @@
             "referred_to": [
                 "@TojoRianalaHQudbZQh",
                 "SitrakakwCgBFc7",
-                "AndriatsiferanaXGkZgWj4"
+                "AndriatsiferanaXGkZgWj4",
+                "JeanRollandUJ5fmZP7"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-16T18:24:56.108231",
@@ -13901,6 +13902,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-11T18:11:02.757889",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "JeanRollandUJ5fmZP7",
+            "android_id": "31435ff6d9519de52504f1d48ef514c3",
+            "referred_by": "Razakanirina6819482",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-11T18:29:25.561312",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
