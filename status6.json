@@ -7598,7 +7598,8 @@
                 "JohnLYuCiEN1",
                 "JohnorangezSXLSpe6",
                 "HeryI0U4FRvJ",
-                "RaholyroYkflgH"
+                "RaholyroYkflgH",
+                "RijaZTEFjLYGS4P"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-17T15:32:16.439506",
@@ -14242,6 +14243,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-13T00:55:20.300855",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "RijaZTEFjLYGS4P",
+            "android_id": "00c30aec12d2f31334437d1a7d25a31f",
+            "referred_by": "Paiso681992",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-13T01:34:39.098152",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
