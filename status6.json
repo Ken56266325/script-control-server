@@ -14313,6 +14313,16 @@
             "countdown_start_time": "2025-06-13T04:49:41.259544",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "@Hajaina1ckOzLyGa",
+            "android_id": "2202",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-13T05:05:12.142502",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
