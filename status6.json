@@ -4242,7 +4242,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-16T13:13:04.261913",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -12733,7 +12733,7 @@
             "referred_by": "BoanaX6819z0",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-06-11T19:54:47.883466",
+            "countdown_start_time": "2025-06-19T12:31:33.348912",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
