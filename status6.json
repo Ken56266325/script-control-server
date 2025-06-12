@@ -8427,7 +8427,8 @@
                 "Nar's2aLqxWxOR",
                 "Phillipes6n60Z4u",
                 "FetisonRoIqA36k",
-                "FrudoBVgmJJzJ"
+                "FrudoBVgmJJzJ",
+                "TonyL0x36PtN"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-17T07:12:45.963907",
@@ -14209,6 +14210,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-12T23:14:03.810985",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "TonyL0x36PtN",
+            "android_id": "e0cdd1e0810a24b84a1f56baec14c5c6",
+            "referred_by": "Alex7819e929",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-13T00:36:32.218569",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
