@@ -3132,7 +3132,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-16T21:19:47.067272",
-            "affiliation_balance": 5000,
+            "affiliation_balance": 4000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -4742,7 +4742,7 @@
             "referred_by": "Nantenaina90183",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-06-19T10:56:39.802644",
+            "countdown_start_time": "2025-06-12T10:23:47.707997",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
@@ -14131,7 +14131,8 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-19T10:56:22.781991",
-            "affiliation_balance": 0
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
