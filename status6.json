@@ -4410,7 +4410,8 @@
                 "Samy570952",
                 "Miandrisoa90161t3",
                 "Mamy909138894",
-                "bodoa9R4sAhW"
+                "bodoa9R4sAhW",
+                "MinoArisoav7bTI2iE"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-16T21:28:22.779201",
@@ -14300,6 +14301,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-13T03:47:39.898869",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "MinoArisoav7bTI2iE",
+            "android_id": "f9b56533a8c2cc47622486f24501521b",
+            "referred_by": "Namby6819202",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-13T04:49:41.259544",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
