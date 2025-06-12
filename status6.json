@@ -14123,6 +14123,15 @@
             "countdown_start_time": "2025-06-12T18:41:58.417479",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "26880726",
+            "android_id": "trader356266",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-19T10:54:57.177378",
+            "affiliation_balance": 0
         }
     ],
     "references": {
