@@ -6934,7 +6934,8 @@
                 "CyprienHERIVALISOAUqzNud3o",
                 "Karinienit9tb1QJ",
                 "DezmariusXguP8bXJ",
-                "TanjonazaEMsKKujF"
+                "TanjonazaEMsKKujF",
+                "Voloparasy1DJgdWVfc"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-12T20:46:24.960174",
@@ -14100,6 +14101,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-12T17:53:29.422943",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Voloparasy1DJgdWVfc",
+            "android_id": "34e1cb11e15572fc0fe007255a57b746",
+            "referred_by": "Chance69680",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-12T17:58:58.637963",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
