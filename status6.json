@@ -1633,7 +1633,9 @@
             "id": "Escag\u00e9s591732",
             "android_id": "e81eecfca579a19e64f4ab77959831e4",
             "referred_by": "Germain5719\u20ac",
-            "referred_to": [],
+            "referred_to": [
+                "Hasina5BMRhxVJ"
+            ],
             "status": "active",
             "countdown_start_time": "2025-06-13T19:24:07.906625",
             "affiliation_balance": 0,
@@ -14321,6 +14323,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-13T05:05:12.142502",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Hasina5BMRhxVJ",
+            "android_id": "070778b3b3353b037d799476b202031d",
+            "referred_by": "Escag\u00e9s591732",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-13T05:45:13.113321",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
