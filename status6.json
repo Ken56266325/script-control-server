@@ -10575,7 +10575,9 @@
             "id": "NantenainaBotKBUeeXVw",
             "android_id": "658ea23c928af53cc3485fe975714636",
             "referred_by": "NiainabotDsL65sLK",
-            "referred_to": [],
+            "referred_to": [
+                "WilliceBotol5Qe10W"
+            ],
             "status": "active",
             "countdown_start_time": "2025-06-11T08:48:58.773510",
             "affiliation_balance": 0,
@@ -14142,6 +14144,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-12T18:58:19.043080",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "WilliceBotol5Qe10W",
+            "android_id": "46743f54cc12deeb32bb3bfe5ef1411a",
+            "referred_by": "NantenainaBotKBUeeXVw",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-12T19:14:25.448995",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
