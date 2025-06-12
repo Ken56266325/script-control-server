@@ -14113,6 +14113,15 @@
             "countdown_start_time": "2025-06-12T17:58:58.637963",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "money157538",
+            "android_id": "ed8d02c70a525eccf424010e5c6aa72a",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-19T10:41:38.910055",
+            "affiliation_balance": 0
         }
     ],
     "references": {
