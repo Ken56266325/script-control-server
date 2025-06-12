@@ -8429,7 +8429,8 @@
                 "FetisonRoIqA36k",
                 "FrudoBVgmJJzJ",
                 "TonyL0x36PtN",
-                "BryanNHf6PcKP"
+                "BryanNHf6PcKP",
+                "Andria4EQ394h9"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-17T07:12:45.963907",
@@ -14231,6 +14232,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-13T00:38:16.032697",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Andria4EQ394h9",
+            "android_id": "497524aa50806fdedb6cd43b66c4d3b5",
+            "referred_by": "Alex7819e929",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-13T00:55:20.300855",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
