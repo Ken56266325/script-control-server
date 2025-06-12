@@ -2869,7 +2869,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-14T04:46:09.071166",
-            "affiliation_balance": 4000,
+            "affiliation_balance": 5000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -5135,9 +5135,9 @@
                 "Lauristeunoi0nET"
             ],
             "status": "active",
-            "countdown_start_time": "2025-06-12T18:58:53.629714",
+            "countdown_start_time": "2025-06-19T19:39:04.606335",
             "affiliation_balance": 4000,
-            "plan": "Basique",
+            "plan": "VIP",
             "countdown_paused": false
         },
         {
