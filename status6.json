@@ -4016,7 +4016,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-08T16:48:26.352351",
-            "affiliation_balance": 3000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -5932,7 +5932,7 @@
             "referred_by": "Tsila68130",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-06-19T10:55:41.900834",
+            "countdown_start_time": "2025-06-10T17:32:01.025076",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
@@ -14123,15 +14123,6 @@
             "countdown_start_time": "2025-06-12T18:41:58.417479",
             "affiliation_balance": 0,
             "plan": "Basique"
-        },
-        {
-            "id": "26880726",
-            "android_id": "trader356266",
-            "referred_by": null,
-            "referred_to": [],
-            "status": "active",
-            "countdown_start_time": "2025-06-19T10:54:57.177378",
-            "affiliation_balance": 0
         }
     ],
     "references": {
