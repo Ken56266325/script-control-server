@@ -4240,7 +4240,8 @@
                 "NantenainaozKSMisD",
                 "MaraUYEf0cmY",
                 "EzraxoKlRrS1",
-                "JeremieQZIuCtaW"
+                "JeremieQZIuCtaW",
+                "NomenjanaharyJDNtnzH8"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-16T13:13:04.261913",
@@ -14176,6 +14177,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-12T21:47:53.557988",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "NomenjanaharyJDNtnzH8",
+            "android_id": "db2df38ffa55909121b3c2299e1722dc",
+            "referred_by": "BoanaX6819z0",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-12T22:36:44.347027",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
