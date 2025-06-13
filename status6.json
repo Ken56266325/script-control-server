@@ -7611,7 +7611,8 @@
                 "JohnorangezSXLSpe6",
                 "HeryI0U4FRvJ",
                 "RaholyroYkflgH",
-                "RijaZTEFjLYGS4P"
+                "RijaZTEFjLYGS4P",
+                "MamyZme6ENOS"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-17T15:32:16.439506",
@@ -14508,6 +14509,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-14T00:17:02.090450",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "MamyZme6ENOS",
+            "android_id": "8d95c9d0178b05c0843feda95b6eefee",
+            "referred_by": "Paiso681992",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-14T01:04:51.412524",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
