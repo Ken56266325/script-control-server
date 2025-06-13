@@ -14566,6 +14566,16 @@
             "countdown_start_time": "2025-06-14T03:32:07.469086",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "BoussakelyW0AK83N0",
+            "android_id": "c5d288163d1462885407d8c82c89d11e",
+            "referred_by": "28010538",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-14T04:39:12.098590",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
