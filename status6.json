@@ -1639,7 +1639,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-13T19:24:07.906625",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -14336,7 +14336,7 @@
             "referred_by": "Escag\u00e9s591732",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-06-13T05:45:13.113321",
+            "countdown_start_time": "2025-06-20T07:30:59.450010",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
