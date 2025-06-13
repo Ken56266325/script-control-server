@@ -14213,7 +14213,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-20T07:41:15.366372",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -14302,7 +14302,7 @@
             "referred_by": "NomenjanaharyJDNtnzH8",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-06-13T03:45:18.445012",
+            "countdown_start_time": "2025-06-20T12:04:39.673350",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
