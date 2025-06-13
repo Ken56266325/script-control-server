@@ -4249,7 +4249,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-16T13:13:04.261913",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -6805,7 +6805,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-18T19:37:13.373472",
-            "affiliation_balance": 7000,
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -14206,7 +14206,7 @@
                 "FanjaEVK8jItP"
             ],
             "status": "active",
-            "countdown_start_time": "2025-06-12T22:36:44.347027",
+            "countdown_start_time": "2025-06-20T07:41:15.366372",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
