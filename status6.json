@@ -5981,7 +5981,8 @@
             "referred_to": [
                 "Mampionona571921",
                 "KoloinaParkerO7dPfg8e",
-                "218042111Imxunhu"
+                "218042111Imxunhu",
+                "Miorao9SixGWB"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-17T10:23:26.468638",
@@ -14464,6 +14465,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-13T20:16:16.961918",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Miorao9SixGWB",
+            "android_id": "c3c23363212997e6b8d4f51bdc41ded1",
+            "referred_by": "Djeeyy791040",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-13T23:00:53.700448",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
