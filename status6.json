@@ -5714,7 +5714,8 @@
                 "JeanJohnsongHESgbZE",
                 "MarianohobV7O4hw",
                 "Marianohjean1fIfDCFD",
-                "MamyRamarosonT9plnPg1"
+                "MamyRamarosonT9plnPg1",
+                "NirinajwSTt5IZ"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-16T17:14:39.611595",
@@ -14409,6 +14410,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-13T18:05:41.858608",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "NirinajwSTt5IZ",
+            "android_id": "d43acacd0934dce0beff8d663165920f",
+            "referred_by": "Velotsara681900",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-13T18:31:31.191144",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
