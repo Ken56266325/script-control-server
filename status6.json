@@ -3625,7 +3625,8 @@
                 "JuscovvfF44pD",
                 "RivaldoGyLF3HMP",
                 "Rima7Gz4qeVs",
-                "AndricevZztlrB8"
+                "AndricevZztlrB8",
+                "AndryU71m9Evi"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-14T13:59:34.759175",
@@ -14442,6 +14443,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-13T19:09:29.568113",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "AndryU71m9Evi",
+            "android_id": "1b993e2f4ae8ea54f84e3f4c4d3c3973",
+            "referred_by": "Randrianarivo68130",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-13T19:20:06.957558",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
