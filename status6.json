@@ -2146,7 +2146,8 @@
                 "RabeYDM7i6a6",
                 "AlfredlMlhhC2S",
                 "NofaNdP0Uqxm",
-                "Ronaldo1pCCOq7Y"
+                "Ronaldo1pCCOq7Y",
+                "MbolaOe95txjV"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-17T11:34:25.336019",
@@ -14542,6 +14543,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-14T02:44:27.327904",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "MbolaOe95txjV",
+            "android_id": "c7abce15f23b4a1bca0922e4eacf4273",
+            "referred_by": "RanofaAuto",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-14T02:54:15.706101",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
