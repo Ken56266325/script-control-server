@@ -10565,7 +10565,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-19T07:19:47.502384",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -14276,7 +14276,7 @@
             "referred_by": "VoninahitraBoeEiLmp",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-06-13T06:22:35.474770",
+            "countdown_start_time": "2025-06-20T06:43:40.959409",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
