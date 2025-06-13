@@ -14390,6 +14390,16 @@
             "countdown_start_time": "2025-06-13T16:58:46.332080",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Chatrian123456d5wmiC2F",
+            "android_id": "2ded8abbd7d57777da383d160ef3c2d0",
+            "referred_by": "James1112123",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-13T18:04:13.822023",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
