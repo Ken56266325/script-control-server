@@ -5736,7 +5736,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-16T17:14:39.611595",
-            "affiliation_balance": 4000,
+            "affiliation_balance": 5000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -12217,8 +12217,8 @@
             "referred_by": "Velotsara681900",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-06-14T16:24:24.075220",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-06-21T16:37:43.842870",
+            "affiliation_balance": 0,
             "plan": "Basique"
         },
         {
