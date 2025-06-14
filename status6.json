@@ -10917,7 +10917,8 @@
             "referred_by": "Rajaonarivo4792180",
             "referred_to": [
                 "NandrianinarandDLhlYKjO",
-                "nirinaangelinednorKi94"
+                "nirinaangelinednorKi94",
+                "perytinotT9XVKpAY"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-21T18:04:06.319304",
@@ -14817,6 +14818,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-15T02:11:34.690513",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "perytinotT9XVKpAY",
+            "android_id": "24021136",
+            "referred_by": "PertinotlrajveKh",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-15T02:15:48.604490",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
