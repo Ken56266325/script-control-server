@@ -14235,7 +14235,8 @@
             "referred_to": [
                 "MarielleNcg8dRVr",
                 "FanjaEVK8jItP",
-                "PatrickckwsWjqL"
+                "PatrickckwsWjqL",
+                "Mparany7Pj313Xn"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-20T07:41:15.366372",
@@ -14719,6 +14720,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-14T23:20:05.738907",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Mparany7Pj313Xn",
+            "android_id": "7996f8fe6dd70ad29c372c8cb413d693",
+            "referred_by": "NomenjanaharyJDNtnzH8",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-14T23:55:24.546466",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
