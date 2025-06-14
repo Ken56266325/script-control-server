@@ -5368,7 +5368,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-18T10:09:06.865344",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "VIP",
             "countdown_paused": false
         },
@@ -8657,7 +8657,7 @@
                 "+261331443017LHuEGatj"
             ],
             "status": "active",
-            "countdown_start_time": "2025-06-14T14:14:51.518468",
+            "countdown_start_time": "2025-06-21T22:33:46.183101",
             "affiliation_balance": 2000,
             "plan": "Basique"
         },
