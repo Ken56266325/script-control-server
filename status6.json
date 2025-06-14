@@ -4088,7 +4088,8 @@
                 "Laurent678199329",
                 "tsiferanaaimeYFPaRbh2",
                 "fideranafidelineBl1Ec7ES",
-                "fenosoalaurentaYFf1gUM"
+                "fenosoalaurentaYFf1gUM",
+                "edmondnambininaaWWsthXb"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-17T18:41:03.521486",
@@ -14730,6 +14731,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-14T23:55:24.546466",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "edmondnambininaaWWsthXb",
+            "android_id": "d74232ed402a3e34d2dc0bcd51eb8074",
+            "referred_by": "Sarobidy68130",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-15T00:29:03.436014",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
