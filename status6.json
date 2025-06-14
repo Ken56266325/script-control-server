@@ -495,7 +495,8 @@
                 "TafitasoaYtU9mPt6",
                 "Rasoanantenaina22RAepUh",
                 "FaniryRgAT2Jdw",
-                "Narovankery65mDF2zd"
+                "Narovankery65mDF2zd",
+                "ClaverUCtoFhSO"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-17T11:46:44.624691",
@@ -14619,6 +14620,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-14T17:05:36.624887",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "ClaverUCtoFhSO",
+            "android_id": "b16a946b6b7fb713325540dd9e2b6ec5",
+            "referred_by": "Richard294024",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-14T19:09:51.113464",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
