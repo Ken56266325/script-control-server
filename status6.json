@@ -1213,7 +1213,8 @@
                 "BrillantIArxovmA",
                 "Haingo8SnH8cBj",
                 "FaniryEW7yEEgJ",
-                "MamedisonlWMnqEUq"
+                "MamedisonlWMnqEUq",
+                "ErickzbWDZlJw"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-20T19:10:43.167336",
@@ -14663,6 +14664,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-14T21:02:23.523957",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "ErickzbWDZlJw",
+            "android_id": "c3eff7854a53b5ac5de4a050ccd4a8d7",
+            "referred_by": "Gaelode10361",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-14T22:10:01.966309",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
