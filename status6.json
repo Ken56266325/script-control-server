@@ -1348,7 +1348,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-05T13:03:09.202449",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -1454,8 +1454,8 @@
                 "Manun7pigSsT"
             ],
             "status": "active",
-            "countdown_start_time": "2025-06-14T08:42:31.526704",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-06-21T09:04:18.022077",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
