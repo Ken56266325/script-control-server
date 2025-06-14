@@ -4028,7 +4028,8 @@
                 "JudicaelIsajVjXK",
                 "RedmifitoT1Dxfv4f",
                 "Richardq7yGIA0S",
-                "arinalaqOZq3d90"
+                "arinalaqOZq3d90",
+                "SitrakaxIgE76Oa"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-08T16:48:26.352351",
@@ -14641,6 +14642,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-14T19:54:36.525772",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "SitrakaxIgE76Oa",
+            "android_id": "dd401e6bd2d98a7192a7c37dfb95b05e",
+            "referred_by": "Tsila68130",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-14T20:15:36.594082",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
