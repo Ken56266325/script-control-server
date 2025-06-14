@@ -5427,7 +5427,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-13T13:56:13.398132",
-            "affiliation_balance": 3000,
+            "affiliation_balance": 4000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -5521,8 +5521,8 @@
                 "ZarasI9yx2WRD"
             ],
             "status": "active",
-            "countdown_start_time": "2025-06-14T09:05:55.721738",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-06-21T10:36:21.106119",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
