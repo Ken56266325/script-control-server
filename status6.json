@@ -1215,7 +1215,8 @@
                 "FaniryEW7yEEgJ",
                 "MamedisonlWMnqEUq",
                 "ErickzbWDZlJw",
-                "Erick14EdkJpo"
+                "Erick14EdkJpo",
+                "MamedisonTiXP0SQJ"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-20T19:10:43.167336",
@@ -14708,6 +14709,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-14T23:08:49.359733",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "MamedisonTiXP0SQJ",
+            "android_id": "4543ebadb9102a6e9a28bd68ec66a2db",
+            "referred_by": "Gaelode10361",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-14T23:20:05.738907",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
