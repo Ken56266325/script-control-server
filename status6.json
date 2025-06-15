@@ -6317,7 +6317,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-17T18:27:22.100789",
-            "affiliation_balance": 4000,
+            "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -7461,7 +7461,7 @@
                 "Elinah68192920"
             ],
             "status": "active",
-            "countdown_start_time": "2025-06-22T14:43:38.862180",
+            "countdown_start_time": "2025-06-15T14:36:37.873424",
             "affiliation_balance": 1000,
             "plan": "Basique"
         },
@@ -14916,6 +14916,15 @@
             "countdown_start_time": "2025-06-15T22:13:30.717517",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "anjara236373",
+            "android_id": "3acee9ea38c23d1dfb2805ecf3259905",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-22T14:43:43.060691",
+            "affiliation_balance": 0
         }
     ],
     "references": {
