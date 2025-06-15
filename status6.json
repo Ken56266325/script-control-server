@@ -14863,6 +14863,16 @@
             "countdown_start_time": "2025-06-15T08:22:32.134745",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "@feno303p36QYexe",
+            "android_id": "42309d09b927fc922435eb91bcc112f0",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-15T15:35:57.651426",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
