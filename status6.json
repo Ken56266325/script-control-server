@@ -6227,7 +6227,8 @@
             "referred_by": "Airtel791628962",
             "referred_to": [
                 "Samirah57199330",
-                "CastelqF8QFqoA"
+                "CastelqF8QFqoA",
+                "SafidySafidy7zad2wZy"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-19T09:46:49.454610",
@@ -14892,6 +14893,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-15T18:49:28.513179",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "SafidySafidy7zad2wZy",
+            "android_id": "3f05adb42f9b31727143cc87ac47b0c6",
+            "referred_by": "Tina6819201",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-15T22:10:26.271356",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
