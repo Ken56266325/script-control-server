@@ -14873,6 +14873,16 @@
             "countdown_start_time": "2025-06-15T15:35:57.651426",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "CopolbhX8ytYK",
+            "android_id": "322fde1aad89f3e3b0abda9c09143735",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-15T17:50:07.149219",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
