@@ -5317,7 +5317,8 @@
                 "AndriatsiferanaXGkZgWj4",
                 "JeanRollandUJ5fmZP7",
                 "Eric8UqkCHxg",
-                "FalitianaRaza1VNQQEpF"
+                "FalitianaRaza1VNQQEpF",
+                "jamesKLd0h2iF"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-16T18:24:56.108231",
@@ -14968,6 +14969,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-16T01:54:52.098062",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "jamesKLd0h2iF",
+            "android_id": "7bdcdf670202926ac18824bfa497d807",
+            "referred_by": "Razakanirina6819482",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-16T02:17:38.998429",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
