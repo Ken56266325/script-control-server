@@ -15024,6 +15024,16 @@
             "countdown_start_time": "2025-06-16T04:13:20.991311",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "LantoAcH6u8R5",
+            "android_id": "bcbe1dc40baf39a56ff0ed9e59e558e4",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-16T05:13:41.364373",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
