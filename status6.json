@@ -8129,7 +8129,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-22T19:53:54.246017",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -14359,7 +14359,7 @@
             "referred_by": "Tafaray57183929",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-06-13T03:47:39.898869",
+            "countdown_start_time": "2025-06-22T20:03:57.110408",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
