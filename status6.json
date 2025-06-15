@@ -6970,7 +6970,8 @@
                 "Karinienit9tb1QJ",
                 "DezmariusXguP8bXJ",
                 "TanjonazaEMsKKujF",
-                "Voloparasy1DJgdWVfc"
+                "Voloparasy1DJgdWVfc",
+                "hanitriniainamarieYQyDO7XA"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-20T11:28:41.806323",
@@ -14924,6 +14925,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-22T15:25:55.549444",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "hanitriniainamarieYQyDO7XA",
+            "android_id": "11479147",
+            "referred_by": "Chance69680",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-16T00:14:42.099287",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
