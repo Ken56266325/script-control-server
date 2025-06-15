@@ -14249,7 +14249,8 @@
                 "FanjaEVK8jItP",
                 "PatrickckwsWjqL",
                 "Mparany7Pj313Xn",
-                "AlexZcnYngQV"
+                "AlexZcnYngQV",
+                "Juliendu9qUvsz"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-20T07:41:15.366372",
@@ -14903,6 +14904,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-15T22:10:26.271356",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Juliendu9qUvsz",
+            "android_id": "5f96233221821c26d6875ff57f61e140",
+            "referred_by": "NomenjanaharyJDNtnzH8",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-15T22:13:30.717517",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
