@@ -6980,7 +6980,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-20T11:28:41.806323",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -14956,7 +14956,7 @@
             "referred_by": "Chance69680",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-06-16T01:34:24.190629",
+            "countdown_start_time": "2025-06-23T11:57:14.397540",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
