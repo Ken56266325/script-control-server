@@ -7767,7 +7767,8 @@
             "referred_by": null,
             "referred_to": [
                 "PiralNJADuSlc",
-                "Looose2BeEsAnY"
+                "Looose2BeEsAnY",
+                "MexuyWHGxd0"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-18T14:55:58.968040",
@@ -15155,6 +15156,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-17T03:30:35.893287",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "MexuyWHGxd0",
+            "android_id": "125a44f21a37ebfd7b5604595b9af637",
+            "referred_by": "Rim691902",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-17T04:24:00.455234",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
