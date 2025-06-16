@@ -2566,7 +2566,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-04-30T08:59:36.171449",
-            "affiliation_balance": 5000,
+            "affiliation_balance": 6000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -6567,8 +6567,8 @@
                 "PierretteO1KU5acN"
             ],
             "status": "active",
-            "countdown_start_time": "2025-06-16T18:02:45.698446",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-06-23T18:02:35.304366",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
