@@ -6318,7 +6318,8 @@
                 "Justine57199302",
                 "Loic67199320",
                 "joerfaX5OHgRdn",
-                "Mariellary33xWEy"
+                "Mariellary33xWEy",
+                "tokyyHzU0cMz"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-17T18:27:22.100789",
@@ -15098,6 +15099,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-16T19:58:10.498423",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "tokyyHzU0cMz",
+            "android_id": "b1cfebef78fffa74b4a4527a7aa26f43",
+            "referred_by": "Nico6819320",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-16T20:14:23.636992",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
