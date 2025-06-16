@@ -15168,6 +15168,16 @@
             "countdown_start_time": "2025-06-17T04:24:00.455234",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "canonNrv9kjRB",
+            "android_id": "ec3d3f68b176ef5279d994f23318913b",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-17T07:39:13.430448",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
