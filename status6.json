@@ -2539,7 +2539,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-08T14:50:13.941435",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -12418,7 +12418,7 @@
             "referred_by": "NelRakoto681930",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-06-16T11:49:21.115843",
+            "countdown_start_time": "2025-06-23T21:20:06.105682",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
