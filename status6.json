@@ -4910,7 +4910,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-19T17:17:02.209286",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -7537,7 +7537,7 @@
             "referred_by": "Rajaonarivo4792180",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-06-15T19:42:54.380018",
+            "countdown_start_time": "2025-06-23T09:20:57.627535",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
