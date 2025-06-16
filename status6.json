@@ -2230,7 +2230,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-04-13T06:03:36.905599",
-            "affiliation_balance": 9000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -6525,7 +6525,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-04-16T04:13:58.912448",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -7703,7 +7703,7 @@
             "referred_by": "Uzumaki67190",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-04-29T17:03:01.548077",
+            "countdown_start_time": "2025-06-23T11:49:40.148622",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
