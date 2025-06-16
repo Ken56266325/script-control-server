@@ -88,7 +88,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-22T21:03:36.135239",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "android_id": "69d1cd8860c9981fe73891d313c8088d",
             "countdown_paused": false,
             "plan": "Basique"
@@ -2606,8 +2606,8 @@
                 "TafitasoafWIujM6Q"
             ],
             "status": "active",
-            "countdown_start_time": "2025-06-16T07:28:08.495714",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-06-23T09:20:48.903865",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
