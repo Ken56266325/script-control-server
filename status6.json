@@ -5744,7 +5744,8 @@
                 "Marianohjean1fIfDCFD",
                 "MamyRamarosonT9plnPg1",
                 "NirinajwSTt5IZ",
-                "AricejQmidaCt"
+                "AricejQmidaCt",
+                "AriceFtTBxSeA"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-23T17:12:08.778591",
@@ -15230,6 +15231,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-17T23:31:42.801081",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "AriceFtTBxSeA",
+            "android_id": "e39aa16bcba92295e897ffc2cac30d2f",
+            "referred_by": "Velotsara681900",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-18T00:12:32.828172",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
