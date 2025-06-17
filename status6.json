@@ -693,7 +693,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-19T18:54:47.153014",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -4444,8 +4444,8 @@
                 "MinoArisoav7bTI2iE"
             ],
             "status": "active",
-            "countdown_start_time": "2025-06-16T21:28:22.779201",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-06-24T17:12:04.427304",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
