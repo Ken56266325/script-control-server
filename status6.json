@@ -1220,7 +1220,8 @@
                 "MamedisonlWMnqEUq",
                 "ErickzbWDZlJw",
                 "Erick14EdkJpo",
-                "MamedisonTiXP0SQJ"
+                "MamedisonTiXP0SQJ",
+                "Hasina4Kp4AMiT"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-20T19:10:43.167336",
@@ -15209,6 +15210,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-17T22:28:49.076932",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Hasina4Kp4AMiT",
+            "android_id": "81b9a34cee0ae53d71fc4717bede5021",
+            "referred_by": "Gaelode10361",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-17T22:50:01.309275",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
