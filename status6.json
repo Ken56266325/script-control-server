@@ -1735,7 +1735,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-23T21:17:36.175931",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -4272,8 +4272,8 @@
                 "NomenjanaharyJDNtnzH8"
             ],
             "status": "active",
-            "countdown_start_time": "2025-06-16T13:13:04.261913",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-06-24T07:47:23.219461",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
