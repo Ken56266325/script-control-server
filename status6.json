@@ -4857,7 +4857,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-24T17:35:26.173168",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -6634,7 +6634,7 @@
                 "JEANMARCELINCILuACsT"
             ],
             "status": "active",
-            "countdown_start_time": "2025-06-17T18:28:13.600628",
+            "countdown_start_time": "2025-06-24T18:51:26.417884",
             "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
