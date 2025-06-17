@@ -2890,7 +2890,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-21T07:11:25.389397",
-            "affiliation_balance": 7000,
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -3852,7 +3852,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-21T20:27:37.143235",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -12600,7 +12600,7 @@
             "referred_by": "Tsimbina68192",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-06-17T10:08:45.842536",
+            "countdown_start_time": "2025-06-24T13:56:15.276637",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
