@@ -5440,7 +5440,8 @@
                 "Tsizaraina89103719",
                 "Augustin8913269",
                 "vonjyZ39FyEXa",
-                "TafitaCi0kdDwY"
+                "TafitaCi0kdDwY",
+                "FetraniainaQvyRDgx6"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-13T13:56:13.398132",
@@ -15187,6 +15188,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-17T17:54:17.151590",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "FetraniainaQvyRDgx6",
+            "android_id": "e28cd3487e7cf5b83ea0be1a19e485be",
+            "referred_by": "Tsizaraina89610302",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-17T21:04:46.089732",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
