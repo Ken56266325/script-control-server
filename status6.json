@@ -15222,6 +15222,16 @@
             "countdown_start_time": "2025-06-17T22:50:01.309275",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "RatondrainyFDAwIkib0Fb",
+            "android_id": "68b4a34c1f5e5e86406df86dbdd5c7de",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-17T23:31:42.801081",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
