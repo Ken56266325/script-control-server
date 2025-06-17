@@ -3351,7 +3351,8 @@
                 "EricaKC0kVe14",
                 "GabyEo7IiIIt",
                 "VaninyY11zjR4T",
-                "DhorickKaiqA7jJ"
+                "DhorickKaiqA7jJ",
+                "AnthonieJMe3Z2lR"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-19T17:42:38.562922",
@@ -15241,6 +15242,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-18T00:12:32.828172",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "AnthonieJMe3Z2lR",
+            "android_id": "d5d48f3aeb97f3413ec065224cbcf2af",
+            "referred_by": "ToneJuly681030",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-18T00:39:04.340610",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
