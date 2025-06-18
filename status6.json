@@ -12105,7 +12105,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-13T19:36:14.105823",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -15136,7 +15136,7 @@
             "referred_by": "JeanclaudehQwA2rSk",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-06-17T00:15:40.513727",
+            "countdown_start_time": "2025-06-25T09:37:21.840882",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
