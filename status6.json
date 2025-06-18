@@ -2105,7 +2105,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-19T19:03:57.320872",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -12764,8 +12764,8 @@
             "referred_by": "Donatien58193",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-06-18T10:16:20.351298",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-06-25T10:26:18.899411",
+            "affiliation_balance": 0,
             "plan": "Basique"
         },
         {
