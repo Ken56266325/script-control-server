@@ -3163,7 +3163,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-23T21:21:07.818650",
-            "affiliation_balance": 3000,
+            "affiliation_balance": 4000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -3433,8 +3433,8 @@
                 "AntonioL3Rir8Nc"
             ],
             "status": "active",
-            "countdown_start_time": "2025-06-18T19:41:26.449342",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-06-25T21:19:10.797148",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
