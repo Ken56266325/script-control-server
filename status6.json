@@ -15332,6 +15332,16 @@
             "countdown_start_time": "2025-06-18T18:59:10.735460",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "wolfym52It6Ni",
+            "android_id": "5f3e2a8ade470ec3e8e4c4f20e9a147b",
+            "referred_by": "5f3e2a8ade470ec3e8e4c4f20e9a147b",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-18T19:05:33.296440",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
