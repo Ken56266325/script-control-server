@@ -10964,7 +10964,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-21T18:04:06.319304",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -13809,7 +13809,7 @@
             "referred_by": "PertinotlrajveKh",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-06-18T18:48:21.629304",
+            "countdown_start_time": "2025-06-25T19:44:08.055219",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
