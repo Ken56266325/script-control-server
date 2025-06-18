@@ -15310,6 +15310,16 @@
             "countdown_start_time": "2025-06-18T17:39:41.594581",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "LouisvBYS1eI4",
+            "android_id": "6a6b6ef39e39d0c92f2555af24cfa8c8",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-18T18:23:18.926312",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
