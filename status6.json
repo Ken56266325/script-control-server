@@ -4109,7 +4109,8 @@
                 "tsiferanaaimeYFPaRbh2",
                 "fideranafidelineBl1Ec7ES",
                 "fenosoalaurentaYFf1gUM",
-                "edmondnambininaaWWsthXb"
+                "edmondnambininaaWWsthXb",
+                "aimesarobidydLXfZd92"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-25T07:48:27.711917",
@@ -15417,6 +15418,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-19T01:40:36.822193",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "aimesarobidydLXfZd92",
+            "android_id": "6deb9aa1b1d1187c2fce9bebccb59c49",
+            "referred_by": "Sarobidy68130",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-19T02:18:02.992257",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
