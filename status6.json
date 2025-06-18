@@ -5234,7 +5234,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-25T09:36:22.408857",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -6680,7 +6680,7 @@
             "referred_by": "Fame69103719",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-05-15T18:03:37.978411",
+            "countdown_start_time": "2025-06-25T14:27:23.577476",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
