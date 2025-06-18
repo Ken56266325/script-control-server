@@ -3594,7 +3594,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-05-13T08:05:06.901601",
-            "affiliation_balance": 7000,
+            "affiliation_balance": 6000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -5228,8 +5228,8 @@
                 "JncfiiNBArlGpq"
             ],
             "status": "active",
-            "countdown_start_time": "2025-06-25T09:17:44.279755",
-            "affiliation_balance": 0,
+            "countdown_start_time": "2025-06-18T01:19:29.227939",
+            "affiliation_balance": 7000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -9343,7 +9343,7 @@
             "referred_by": "Wayne69193",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-06-17T21:55:08.296335",
+            "countdown_start_time": "2025-06-25T09:18:44.950087",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
