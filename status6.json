@@ -3552,7 +3552,8 @@
                 "JoelSTggINSJ",
                 "RamsesbfMMthgH",
                 "MoxcAb4zzBK",
-                "Mbolatb2sNpo9"
+                "Mbolatb2sNpo9",
+                "Fabyri4KpyBE"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-23T20:56:15.885153",
@@ -15297,6 +15298,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-25T07:49:37.976925",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Fabyri4KpyBE",
+            "android_id": "4a2cd3ee00e148b46a48a05175fb2d49",
+            "referred_by": "Joel68010",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-18T17:39:41.594581",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
