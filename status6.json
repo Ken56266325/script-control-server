@@ -2240,7 +2240,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-04-13T06:03:36.905599",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -6675,8 +6675,8 @@
                 "Mbola94unyLMK"
             ],
             "status": "active",
-            "countdown_start_time": "2025-06-18T17:20:04.100771",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-06-26T10:30:27.080851",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
