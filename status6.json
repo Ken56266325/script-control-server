@@ -667,7 +667,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-06-08T07:28:51.815276",
-            "affiliation_balance": 8000,
+            "affiliation_balance": 9000,
             "countdown_paused": false,
             "plan": "Basique"
         },
@@ -6087,8 +6087,8 @@
                 "PierreRaonDxarGYjd"
             ],
             "status": "inactive",
-            "countdown_start_time": "2025-06-19T16:49:52.658508",
-            "affiliation_balance": 8000,
+            "countdown_start_time": "2025-06-26T17:45:20.125577",
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
