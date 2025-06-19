@@ -800,7 +800,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-26T18:37:08.924886",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -4576,7 +4576,7 @@
                 "Laurent671932004"
             ],
             "status": "active",
-            "countdown_start_time": "2025-06-19T21:13:07.915125",
+            "countdown_start_time": "2025-06-26T21:18:00.936583",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
