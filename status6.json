@@ -566,7 +566,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-23T20:19:08.299675",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "countdown_paused": false,
             "plan": "Basique"
         },
@@ -1786,8 +1786,8 @@
                 "ErvedvYwvUOy"
             ],
             "status": "active",
-            "countdown_start_time": "2025-06-02T14:21:11.692602",
-            "affiliation_balance": 9000,
+            "countdown_start_time": "2025-06-26T08:36:43.292541",
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
