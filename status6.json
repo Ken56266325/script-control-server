@@ -8920,7 +8920,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-23T18:59:28.894199",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -10636,7 +10636,7 @@
                 "LANTSOZYtv4bzhj6"
             ],
             "status": "active",
-            "countdown_start_time": "2025-06-19T07:19:47.502384",
+            "countdown_start_time": "2025-06-26T07:39:01.419433",
             "affiliation_balance": 3000,
             "plan": "Basique"
         },
