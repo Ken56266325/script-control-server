@@ -45,7 +45,7 @@
                 "2"
             ],
             "status": "active",
-            "countdown_start_time": "2052-09-22T14:44:38.666118",
+            "countdown_start_time": "2025-06-19T17:19:00.878176",
             "affiliation_balance": 413000,
             "android_id": "d099fb72fa1d28a5627ff511b88111f7",
             "plan": "VIP",
@@ -150,7 +150,7 @@
                 "Victorine4876",
                 "Lanja2847",
                 "Gaelode10361",
-                "Vakilaaa10€7",
+                "Vakilaaa10\u20ac7",
                 "Tahina59132",
                 "Luc51942",
                 "Luc581032",
@@ -239,7 +239,7 @@
             "referred_to": [
                 "Andredi1032",
                 "Narindra58193",
-                "Andréa10030",
+                "Andr\u00e9a10030",
                 "Randrianarivo68130",
                 "Ntsoa67192",
                 "Gghh68199302",
@@ -344,7 +344,7 @@
                 "Joseph2",
                 "Claire62873",
                 "Noeline5754880",
-                "Théodore46433",
+                "Th\u00e9odore46433",
                 "Madara6939",
                 "Rojoniaina5813",
                 "Rop91022",
@@ -378,7 +378,7 @@
                 "Stanislas39942",
                 "David69132",
                 "Liakakely57180",
-                "Noël571930"
+                "No\u00ebl571930"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-22T10:17:56.606264",
@@ -413,7 +413,7 @@
             "id": "CompteN2973681",
             "referred_by": "Compte35183",
             "referred_to": [
-                "Thonny FrédéricvlxwVzWk"
+                "Thonny Fr\u00e9d\u00e9ricvlxwVzWk"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-22T20:43:26.699127",
@@ -486,7 +486,7 @@
             "android_id": "26da50e6b44cd9a723622a3aaaa83a1a",
             "referred_by": "Emmanuel6837",
             "referred_to": [
-                "François57193",
+                "Fran\u00e7ois57193",
                 "Paiso681992",
                 "Fanomezantsoa571992",
                 "Toky5819392",
@@ -511,7 +511,7 @@
             "referred_by": "Compte35183",
             "referred_to": [
                 "Renot73910",
-                "Irène5720",
+                "Ir\u00e8ne5720",
                 "juvet5913",
                 "Ursila57193"
             ],
@@ -533,7 +533,7 @@
             "plan": "Basique"
         },
         {
-            "id": "Théodore46433",
+            "id": "Th\u00e9odore46433",
             "android_id": "20bfe717315466433a2b82754fdf3bb8",
             "referred_by": "Fideline3689",
             "referred_to": [
@@ -688,7 +688,7 @@
             "referred_by": "Compte35183",
             "referred_to": [
                 "Namby6819202",
-                "Damascène6710302",
+                "Damasc\u00e8ne6710302",
                 "Tiana79030",
                 "Chance69680",
                 "herman3425dh6R82Kk"
@@ -847,7 +847,7 @@
             "countdown_paused": false
         },
         {
-            "id": "Irène5720",
+            "id": "Ir\u00e8ne5720",
             "android_id": "c1c87f7cc9da8faca7db255f8d4b310f",
             "referred_by": "Ursilla28492",
             "referred_to": [],
@@ -892,7 +892,7 @@
                 "Nanouh6819303",
                 "Emillie68103",
                 "Ravaly68193",
-                "François6819302",
+                "Fran\u00e7ois6819302",
                 "Lucien6810302",
                 "Niaina90103",
                 "Julien57182o1",
@@ -1233,7 +1233,7 @@
             "countdown_paused": false
         },
         {
-            "id": "Vakilaaa10€7",
+            "id": "Vakilaaa10\u20ac7",
             "android_id": "4adc9e53eed129e584ee0d0ffc0f2706",
             "referred_by": "Emmanuel6837",
             "referred_to": [
@@ -1251,7 +1251,7 @@
             "referred_by": "Emmanuel6837",
             "referred_to": [
                 "Niaina68199320",
-                "Mikaë79199303",
+                "Mika\u00eb79199303",
                 "Jeremy58193920",
                 "Tina41IC1DEy",
                 "RicharddMk42NjI",
@@ -1345,7 +1345,7 @@
             "android_id": "8c9699d4c0152199f62a4bfb2e553ab7",
             "referred_by": "1",
             "referred_to": [
-                "Claudia501€2",
+                "Claudia501\u20ac2",
                 "Rivomanana69142",
                 "Tanjona5738",
                 "Tsiresy71932",
@@ -1378,12 +1378,12 @@
             "countdown_paused": true
         },
         {
-            "id": "Germain5719€",
+            "id": "Germain5719\u20ac",
             "android_id": "773c6dd47d9aef3f1e2089414b5596e0",
             "referred_by": null,
             "referred_to": [
                 "Shogun581930",
-                "Escagés591732",
+                "Escag\u00e9s591732",
                 "Faneva69103",
                 "Styve4709",
                 "Maminirina68103",
@@ -1400,7 +1400,7 @@
                 "Gilles671930",
                 "Jaona67193",
                 "Timote689901",
-                "Saïd681930",
+                "Sa\u00efd681930",
                 "Asmah68193",
                 "David68102",
                 "Lalaina681032",
@@ -1424,7 +1424,7 @@
         {
             "id": "Shogun581930",
             "android_id": "652393ce8f5824d889fe691e67d4e146",
-            "referred_by": "Germain5719€",
+            "referred_by": "Germain5719\u20ac",
             "referred_to": [
                 "MEXerfa5e5QEY",
                 "DrArnf2HnCOcgM",
@@ -1449,7 +1449,7 @@
             "countdown_paused": false
         },
         {
-            "id": "Da6518€92",
+            "id": "Da6518\u20ac92",
             "android_id": "c3c9f2c1c31c595fa338525907775ea8",
             "referred_by": null,
             "referred_to": [],
@@ -1528,7 +1528,7 @@
             "referred_by": "Emmanuel6837",
             "referred_to": [
                 "AvonianavPgPLxAc",
-                "FrançoisHNCX3vQk"
+                "Fran\u00e7oisHNCX3vQk"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-20T11:49:18.260489",
@@ -1573,7 +1573,7 @@
             "countdown_paused": false
         },
         {
-            "id": "Claudia501€2",
+            "id": "Claudia501\u20ac2",
             "android_id": "18623b966b4211aebaf5ad1220cc82dc",
             "referred_by": "Hoby5826",
             "referred_to": [
@@ -1647,9 +1647,9 @@
             "countdown_paused": false
         },
         {
-            "id": "Escagés591732",
+            "id": "Escag\u00e9s591732",
             "android_id": "e81eecfca579a19e64f4ab77959831e4",
-            "referred_by": "Germain5719€",
+            "referred_by": "Germain5719\u20ac",
             "referred_to": [
                 "Hasina5BMRhxVJ",
                 "FIDSONCFwJzXWB"
@@ -1674,7 +1674,7 @@
         {
             "id": "Faneva69103",
             "android_id": "0b5b76b21bba39c6da9e2d588e08df09",
-            "referred_by": "Germain5719€",
+            "referred_by": "Germain5719\u20ac",
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-24T19:53:39.126499",
@@ -1737,7 +1737,7 @@
                 "ReinebPwVz1Ss",
                 "SitrakaX2ktvrvY",
                 "Tojonirina17T6auJn",
-                "François575Vlrsw"
+                "Fran\u00e7ois575Vlrsw"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-23T21:17:36.175931",
@@ -1833,7 +1833,7 @@
                 "Grav69130",
                 "Marianoh59103",
                 "Stonek2i7ZGfa",
-                "françisGNzYf9fM"
+                "fran\u00e7isGNzYf9fM"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-25T18:16:24.765149",
@@ -2034,7 +2034,7 @@
         {
             "id": "Styve4709",
             "android_id": "7e70716e5c2cb797157a4051879271b1",
-            "referred_by": "Germain5719€",
+            "referred_by": "Germain5719\u20ac",
             "referred_to": [
                 "My5794",
                 "Heritina6893",
@@ -2229,7 +2229,7 @@
             "referred_by": null,
             "referred_to": [
                 "Tsila68130",
-                "Lôdie57899",
+                "L\u00f4die57899",
                 "World791922",
                 "Uzumaki67190",
                 "Fasou6799302",
@@ -2308,7 +2308,7 @@
         {
             "id": "Bakolimalala681910",
             "android_id": "8c1057b5306ad36ce8084425b7d19b31",
-            "referred_by": "Germain5719€",
+            "referred_by": "Germain5719\u20ac",
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2025-06-17T18:31:13.723913",
@@ -2319,7 +2319,7 @@
         {
             "id": "Tsilavina7913",
             "android_id": "786664d03ed4d6f47fad0718d6c4cdf1",
-            "referred_by": "Germain5719€",
+            "referred_by": "Germain5719\u20ac",
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-25T11:01:15.892441",
@@ -2474,7 +2474,7 @@
             "countdown_paused": false
         },
         {
-            "id": "François57193",
+            "id": "Fran\u00e7ois57193",
             "android_id": "2d892f0a202b7853d327977540bcbfbc",
             "referred_by": "Richard294024",
             "referred_to": [],
@@ -2557,7 +2557,7 @@
             "android_id": "611f980f0b59b00532c681ff0e484c67",
             "referred_by": "Compte35183",
             "referred_to": [
-                "Françia57193",
+                "Fran\u00e7ia57193",
                 "Nantenaina90183",
                 "Lalaina89103",
                 "Robinson781930",
@@ -2593,7 +2593,7 @@
         {
             "id": "Smiley571902e",
             "android_id": "895745d085421c488f039d46037bbb69",
-            "referred_by": "Germain5719€",
+            "referred_by": "Germain5719\u20ac",
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2025-04-16T08:16:46.975283",
@@ -2622,7 +2622,7 @@
             "countdown_paused": false
         },
         {
-            "id": "François6819302",
+            "id": "Fran\u00e7ois6819302",
             "android_id": "9cffe1a744b5ea0d3f0b0b223d2c2628",
             "referred_by": "Herininakely5830",
             "referred_to": [],
@@ -2635,7 +2635,7 @@
         {
             "id": "Bru6819302",
             "android_id": "b1dd96dbdbd8a70e06ac0e7fc5a71784",
-            "referred_by": "Germain5719€  ",
+            "referred_by": "Germain5719\u20ac\u00a0\u00a0",
             "referred_to": [
                 "Mahomed6719302",
                 "Clement571930",
@@ -2652,7 +2652,7 @@
         {
             "id": "Eriande5819302",
             "android_id": "dea51fcf5d0e5f19da2a993a07b86808",
-            "referred_by": "Germain5719€",
+            "referred_by": "Germain5719\u20ac",
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2025-04-20T05:56:12.599520",
@@ -2694,7 +2694,7 @@
             "countdown_paused": false
         },
         {
-            "id": "Françia57193",
+            "id": "Fran\u00e7ia57193",
             "android_id": "9023dfc1c42d50049b44c66ab5680034",
             "referred_by": "Fasou5819302",
             "referred_to": [],
@@ -2740,7 +2740,7 @@
         {
             "id": "Marina671922",
             "android_id": "1a8ec235614d36af1fe96a5cd942b350",
-            "referred_by": "Vakilaaa10€7",
+            "referred_by": "Vakilaaa10\u20ac7",
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2025-05-15T16:21:11.400041",
@@ -3032,7 +3032,7 @@
         {
             "id": "Daniel89203",
             "android_id": "10a5dfadf45832acf70240fc99f1bfcd",
-            "referred_by": "Germain5719€",
+            "referred_by": "Germain5719\u20ac",
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2025-03-02T07:05:31.029452",
@@ -3171,7 +3171,7 @@
             "countdown_paused": false
         },
         {
-            "id": "Andréa10030",
+            "id": "Andr\u00e9a10030",
             "android_id": "45cb95973bd86587114bdbf884c51ba3",
             "referred_by": "Onjaniaina52809",
             "referred_to": [],
@@ -3300,7 +3300,7 @@
         {
             "id": "LovaL819030",
             "android_id": "a70c382fe76a69509cf65e0fc547c45e",
-            "referred_by": "Germain5719€",
+            "referred_by": "Germain5719\u20ac",
             "referred_to": [
                 "Luciano001673901",
                 "AndryyljIgCLp"
@@ -3347,7 +3347,7 @@
         {
             "id": "ToneJuly681030",
             "android_id": "fd278ada6c8b274c81323298cced0cb5",
-            "referred_by": "Germain5719€",
+            "referred_by": "Germain5719\u20ac",
             "referred_to": [
                 "Gaby57192902",
                 "Didier9193902",
@@ -3420,7 +3420,7 @@
         {
             "id": "Roddy57193",
             "android_id": "d5bd84395ba2e54069f1deac4511dbee",
-            "referred_by": "Germain5719€",
+            "referred_by": "Germain5719\u20ac",
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-20T08:14:02.448208",
@@ -3513,7 +3513,7 @@
         {
             "id": "Tommy671930",
             "android_id": "5534f3defe130d4c118f8c45eeffdbf2",
-            "referred_by": "Germain5719€",
+            "referred_by": "Germain5719\u20ac",
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-23T16:34:28.386258",
@@ -3524,7 +3524,7 @@
         {
             "id": "Gilles671930",
             "android_id": "9e39972f2109a9fb574ff78cb0e06d5b",
-            "referred_by": "Germain5719€",
+            "referred_by": "Germain5719\u20ac",
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-22T08:09:32.879318",
@@ -3535,7 +3535,7 @@
         {
             "id": "Jaona67193",
             "android_id": "884217a8a7bd7d0a7d7147c83ffc88a7",
-            "referred_by": "Germain5719€",
+            "referred_by": "Germain5719\u20ac",
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2025-06-19T16:22:47.164598",
@@ -3796,7 +3796,7 @@
             "countdown_paused": false
         },
         {
-            "id": "Noël571930",
+            "id": "No\u00ebl571930",
             "android_id": "e30d8c0f34a2d02b84722ef712a5a3f9",
             "referred_by": "George45335",
             "referred_to": [],
@@ -4067,7 +4067,7 @@
         {
             "id": "Timote689901",
             "android_id": "53e3d73825de74c0b6a1559e41fa15dd",
-            "referred_by": "Germain5719€",
+            "referred_by": "Germain5719\u20ac",
             "referred_to": [
                 "Timoute8ZoDZyqk",
                 "BatisseurdehY018d",
@@ -4075,7 +4075,7 @@
                 "Mamywvx7gU25",
                 "MamyYCdiTm7w",
                 "BoscoIoZd19E9",
-                "DénnicioO0WijQwF",
+                "D\u00e9nnicioO0WijQwF",
                 "Timote689901atK0VVDX",
                 "EvaheIfTkbeA"
             ],
@@ -4086,9 +4086,9 @@
             "countdown_paused": false
         },
         {
-            "id": "Saïd681930",
+            "id": "Sa\u00efd681930",
             "android_id": "e6f4a6aa0f755f663a8e635b891aa573",
-            "referred_by": "Germain5719€",
+            "referred_by": "Germain5719\u20ac",
             "referred_to": [
                 "ZokyLys4707415",
                 "Emilien7910200",
@@ -4163,7 +4163,7 @@
         {
             "id": "Asmah68193",
             "android_id": "1e44ba427b204291dbe34c46d271660e",
-            "referred_by": "Germain5719€",
+            "referred_by": "Germain5719\u20ac",
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-25T14:27:15.601155",
@@ -4223,7 +4223,7 @@
         {
             "id": "David68102",
             "android_id": "3b72db8408f78a617700f0b90fc9ae37",
-            "referred_by": "Germain5719€",
+            "referred_by": "Germain5719\u20ac",
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2025-03-15T19:09:29.501603",
@@ -4262,7 +4262,7 @@
                 "Hasina68103691",
                 "Narindra781032",
                 "Sarobidy68921",
-                "Andréas7819933",
+                "Andr\u00e9as7819933",
                 "Niaina78193o02",
                 "MialytOIc7das"
             ],
@@ -4402,7 +4402,7 @@
             "countdown_paused": false
         },
         {
-            "id": "Lôdie57899",
+            "id": "L\u00f4die57899",
             "android_id": "56cff51b45a50dfb5d26c315d8b756fa",
             "referred_by": "Tsila5819292",
             "referred_to": [],
@@ -4584,7 +4584,7 @@
         {
             "id": "Lalaina681032",
             "android_id": "5ca972c1323d82793e6ce8dbc0bcf912",
-            "referred_by": "Germain5719€",
+            "referred_by": "Germain5719\u20ac",
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-19T19:44:45.231664",
@@ -4595,7 +4595,7 @@
         {
             "id": "Razafindrafara68132",
             "android_id": "04ce979c5e52a960f6f0262362800b0f",
-            "referred_by": "Germain5719€",
+            "referred_by": "Germain5719\u20ac",
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2025-03-22T18:10:48.672463",
@@ -4683,7 +4683,7 @@
         {
             "id": "Harrison691302",
             "android_id": "e74900893a6383035a9d3c75f9d2dceb",
-            "referred_by": "Germain5719€",
+            "referred_by": "Germain5719\u20ac",
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2025-03-17T01:31:41.783266",
@@ -4716,7 +4716,7 @@
         {
             "id": "Sorah681032",
             "android_id": "a550c1b8820af25c6cdaebae6d3876f6",
-            "referred_by": "Germain5719€",
+            "referred_by": "Germain5719\u20ac",
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2025-06-09T13:31:41.996123",
@@ -4727,7 +4727,7 @@
         {
             "id": "Fanomezantsoa6810e0",
             "android_id": "78c969aedf600385d96cee80e1762802",
-            "referred_by": "Germain5719€",
+            "referred_by": "Germain5719\u20ac",
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-26T14:39:51.306848",
@@ -4738,7 +4738,7 @@
         {
             "id": "Maka78103",
             "android_id": "1b7589469d179c6e77e55e410f693899",
-            "referred_by": "Germain5719€",
+            "referred_by": "Germain5719\u20ac",
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2025-04-22T16:19:46.279416",
@@ -4796,7 +4796,7 @@
             "countdown_paused": false
         },
         {
-            "id": "Damascène6710302",
+            "id": "Damasc\u00e8ne6710302",
             "android_id": "4ae970c4c57db4c733aff2ee30cfa739",
             "referred_by": "Tahiry6393",
             "referred_to": [
@@ -4805,7 +4805,7 @@
                 "Jackeline5789",
                 "Herifenitra68103920",
                 "Babyy68192920",
-                "Jôvan68193920",
+                "J\u00f4van68193920",
                 "Rangilo5819302",
                 "Mirana6893010",
                 "Natchi68199302",
@@ -4911,7 +4911,7 @@
                 "Edmond681993",
                 "Edmond68193920",
                 "Dovic691o39201",
-                "Elisé68199302",
+                "Elis\u00e968199302",
                 "Christiane5719320",
                 "Rasoa58199302",
                 "Chance58193920",
@@ -4946,7 +4946,7 @@
         {
             "id": "Rija7810320",
             "android_id": "ba3c8898d4e5382353275a883b3c88f8",
-            "referred_by": "Germain5719€",
+            "referred_by": "Germain5719\u20ac",
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-23T22:42:43.767660",
@@ -4979,7 +4979,7 @@
         {
             "id": "Milay258193",
             "android_id": "78b2be59168a30963974a6796adacdd3",
-            "referred_by": "Damascène6710302",
+            "referred_by": "Damasc\u00e8ne6710302",
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-24T16:48:41.078065",
@@ -5644,7 +5644,7 @@
         {
             "id": "Miray519093i0",
             "android_id": "f38374ad2880b7cd035f512261d97063",
-            "referred_by": "Germain5719€",
+            "referred_by": "Germain5719\u20ac",
             "referred_to": [
                 "Limra5819930",
                 "Romil67188",
@@ -5707,7 +5707,7 @@
         {
             "id": "Malawi6810321",
             "android_id": "1c62fe446cc0cd5df683a3f5ad2ee98f",
-            "referred_by": "Germain5719€",
+            "referred_by": "Germain5719\u20ac",
             "referred_to": [
                 "MamywxWOh3y9"
             ],
@@ -5749,12 +5749,12 @@
                 "FaniryElVRklB0NY",
                 "AritafitaLeonoXFCGCgQp",
                 "FaniloYi2OEazt",
-                "F.J.AiméT9nwmxLH",
+                "F.J.Aim\u00e9T9nwmxLH",
                 "MamyArhildegj0ieCVA",
                 "MamyArhildePWWMkr12",
                 "AlaneYSbo21Ju",
                 "VelotsaraqYiweOSG",
-                "MotivéBfgzlkQc",
+                "Motiv\u00e9BfgzlkQc",
                 "JeanJohnsongHESgbZE",
                 "MarianohobV7O4hw",
                 "Marianohjean1fIfDCFD",
@@ -5785,7 +5785,7 @@
         {
             "id": "ZokyLys4707415",
             "android_id": "4668fe002e0a89e57f9cb2c42e23b9c0",
-            "referred_by": "Saïd681930",
+            "referred_by": "Sa\u00efd681930",
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-22T20:13:08.880745",
@@ -5884,7 +5884,7 @@
         {
             "id": "Nambi91090",
             "android_id": "9495023a97ae2accda44e0a29aed1ac6",
-            "referred_by": "Claudia501€2",
+            "referred_by": "Claudia501\u20ac2",
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-25T07:20:24.524982",
@@ -5908,7 +5908,7 @@
         {
             "id": "Emilien7910200",
             "android_id": "d45ac0cc2ac76b027e002951f7eac8d2",
-            "referred_by": "Saïd681930",
+            "referred_by": "Sa\u00efd681930",
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2025-04-22T07:52:26.897972",
@@ -6121,7 +6121,7 @@
         {
             "id": "Sylvie891037",
             "android_id": "42f847473a84428f273616789fec3096",
-            "referred_by": "Damascène6110302",
+            "referred_by": "Damasc\u00e8ne6110302",
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-21T19:28:39.340545",
@@ -6160,7 +6160,7 @@
                 "philemonpcstTf82s6Wq",
                 "GinahiNGnK8Qy",
                 "TodisoaGhu69cEk",
-                "ValéryIa0k20nF",
+                "Val\u00e9ryIa0k20nF",
                 "Sedy0I1GNRck",
                 "NambininahPlKsRt4",
                 "JOELYRqizVaQ"
@@ -6277,7 +6277,7 @@
         {
             "id": "Harisarobidy5810301",
             "android_id": "4cb3ea7681861b2936bed38b1e2635c9",
-            "referred_by": "Damascène6110302",
+            "referred_by": "Damasc\u00e8ne6110302",
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-25T09:42:21.534158",
@@ -6301,7 +6301,7 @@
         {
             "id": "Brada7912",
             "android_id": "347feaad999a462f0e1dca7b7c32ec58",
-            "referred_by": "Germain5719€",
+            "referred_by": "Germain5719\u20ac",
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2025-06-14T17:17:28.526747",
@@ -6478,7 +6478,7 @@
         {
             "id": "Miantsaniaina68191",
             "android_id": "a82c62e347e633dc1d194c9ed7a5ffb1",
-            "referred_by": "Claudia501€2",
+            "referred_by": "Claudia501\u20ac2",
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2025-05-14T14:14:40.074553",
@@ -6500,7 +6500,7 @@
         {
             "id": "Jaonary561929",
             "android_id": "664db22634092112955dcdbb033d5630",
-            "referred_by": "Damascène6710302",
+            "referred_by": "Damasc\u00e8ne6710302",
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2025-05-14T14:56:45.009622",
@@ -6585,7 +6585,7 @@
                 "Andy6819392904",
                 "Francia681939",
                 "MandaGuoFkMQD",
-                "ThérèsetSSo2J8g",
+                "Th\u00e9r\u00e8setSSo2J8g",
                 "ChristianiyJvCP73",
                 "VictorhCpcHV5e",
                 "PierretteO1KU5acN"
@@ -6599,7 +6599,7 @@
         {
             "id": "Jackeline5789",
             "android_id": "fbf0b9a30fc1b2ab879becd89b78aa9e",
-            "referred_by": "Damascène6710302",
+            "referred_by": "Damasc\u00e8ne6710302",
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-25T07:38:16.341792",
@@ -6957,7 +6957,7 @@
         {
             "id": "Juliot79103601",
             "android_id": "6d36859effbb726a7d7eb7a7db5a695f",
-            "referred_by": "Germain5719€",
+            "referred_by": "Germain5719\u20ac",
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-23T16:38:09.630743",
@@ -7013,7 +7013,7 @@
         {
             "id": "Herifenitra68103920",
             "android_id": "1551584a14c8b9fe91a892bae5c13fec",
-            "referred_by": "Damascène6710302",
+            "referred_by": "Damasc\u00e8ne6710302",
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2025-04-22T06:11:39.356338",
@@ -7035,7 +7035,7 @@
         {
             "id": "Babyy68192920",
             "android_id": "35714acfa13ca19546ef54938bacd9d0",
-            "referred_by": "Damascène6710302",
+            "referred_by": "Damasc\u00e8ne6710302",
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2025-06-13T06:49:16.321004",
@@ -7121,9 +7121,9 @@
             "countdown_paused": false
         },
         {
-            "id": "Jôvan68193920",
+            "id": "J\u00f4van68193920",
             "android_id": "b62c57cddfe9642b5568f1ffc0789dbb",
-            "referred_by": "Damascène6710302",
+            "referred_by": "Damasc\u00e8ne6710302",
             "referred_to": [
                 "MichellotSCmI04wq"
             ],
@@ -7149,7 +7149,7 @@
         {
             "id": "Rangilo5819302",
             "android_id": "993fbaddba44db6cbd50bec08cfe8652",
-            "referred_by": "Damascène6710302",
+            "referred_by": "Damasc\u00e8ne6710302",
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2025-05-20T09:58:55.033480",
@@ -7159,7 +7159,7 @@
         },
         {
             "id": "Evah68109320",
-            "android_id": "64févr1ab74823f8430ffb6d1c13f76e1",
+            "android_id": "64f\u00e9vr1ab74823f8430ffb6d1c13f76e1",
             "referred_by": "Rayan671932",
             "referred_to": [],
             "status": "inactive",
@@ -7468,7 +7468,7 @@
         {
             "id": "Olive58193020",
             "android_id": "cb3d427fbf0cec4ee3ebac0d43f25d48",
-            "referred_by": "Damascène6110302",
+            "referred_by": "Damasc\u00e8ne6110302",
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2025-04-27T00:46:54.086160",
@@ -7508,7 +7508,7 @@
             "plan": "Basique"
         },
         {
-            "id": "Elisé68199302",
+            "id": "Elis\u00e968199302",
             "android_id": "406898f4247087dbd9161575e59bd13b",
             "referred_by": "Rajaonarivo4792180",
             "referred_to": [],
@@ -7540,7 +7540,7 @@
         {
             "id": "Mirana6893010",
             "android_id": "8845ed12bf8de84a4b73d1360902fe85",
-            "referred_by": "Damascène6710302",
+            "referred_by": "Damasc\u00e8ne6710302",
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2025-04-27T21:39:52.687799",
@@ -7802,7 +7802,7 @@
         {
             "id": "Natchi68199302",
             "android_id": "7a006a5c851c1f1d2d4dc46fd2c8f2d9",
-            "referred_by": "Damascène6710302",
+            "referred_by": "Damasc\u00e8ne6710302",
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2025-05-14T17:59:18.322135",
@@ -7976,7 +7976,7 @@
         {
             "id": "Thomasbot781992",
             "android_id": "d248310bffa83adf7f97680885a86b2c",
-            "referred_by": "Damascène6710302",
+            "referred_by": "Damasc\u00e8ne6710302",
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2025-05-01T14:39:37.430369",
@@ -8004,7 +8004,7 @@
             "plan": "Basique"
         },
         {
-            "id": "Andréas7819933",
+            "id": "Andr\u00e9as7819933",
             "android_id": "7aae62215a7d74bda9fb85ae73f0e82d",
             "referred_by": "Japhet589300",
             "referred_to": [],
@@ -8080,7 +8080,7 @@
         {
             "id": "Sylvie57199392",
             "android_id": "cb3d427fbf0cec4ee3ebac0d43f25d48",
-            "referred_by": "Damascène6710302",
+            "referred_by": "Damasc\u00e8ne6710302",
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-20T16:24:50.706741",
@@ -8110,7 +8110,7 @@
         {
             "id": "Tommy68199329",
             "android_id": "a5689ffb01c2af7a5f981ae8fd619331",
-            "referred_by": "Damascène6710302",
+            "referred_by": "Damasc\u00e8ne6710302",
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2025-05-14T12:18:12.314740",
@@ -8162,7 +8162,7 @@
         {
             "id": "Koloina681993",
             "android_id": "1551584a14c8b9fe91a892bae5c13fec",
-            "referred_by": "Damascène6710302",
+            "referred_by": "Damasc\u00e8ne6710302",
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-25T20:23:44.113958",
@@ -8412,7 +8412,7 @@
             "plan": "Basique"
         },
         {
-            "id": "Mikaë79199303",
+            "id": "Mika\u00eb79199303",
             "android_id": "2c6719d1bb505bd8e9df5db99405bd96",
             "referred_by": "Tahina59132",
             "referred_to": [],
@@ -8495,7 +8495,7 @@
             "android_id": "3a0b6e66bcbb4024e0ee2e35abd8f3f5",
             "referred_by": "SNeddie58103",
             "referred_to": [
-                "VaaneÿkZ12gsid",
+                "Vaane\u00ffkZ12gsid",
                 "Nar's2aLqxWxOR",
                 "Phillipes6n60Z4u",
                 "FetisonRoIqA36k",
@@ -8577,7 +8577,7 @@
         {
             "id": "Michel6819930202",
             "android_id": "eb5ae78602c3bd44fe94e3766ac69ae4",
-            "referred_by": "Damascène6710302",
+            "referred_by": "Damasc\u00e8ne6710302",
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-23T19:29:10.850851",
@@ -8781,7 +8781,7 @@
         {
             "id": "Herisoa79193030",
             "android_id": "4e51106acdf0525b21f0405e8b07015a",
-            "referred_by": "Claudia501€2",
+            "referred_by": "Claudia501\u20ac2",
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2025-05-19T10:26:31.388434",
@@ -8851,7 +8851,7 @@
         {
             "id": "Jackelin5719e930",
             "android_id": "e66fb092f8c990529a51814b1b77f5ba",
-            "referred_by": "Saïd681930",
+            "referred_by": "Sa\u00efd681930",
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2025-05-08T19:18:56.706732",
@@ -8907,12 +8907,12 @@
                 "VoninahitraBoeEiLmp",
                 "Roland9cLj94nb",
                 "CristoradSIbzVsv",
-                "HonoréGAf1d2Kv",
+                "Honor\u00e9GAf1d2Kv",
                 "FiononanaSvHhr64Y",
                 "IfalianaOxYiBSiF",
                 "JustinNKfPbDxW",
                 "RovaZM27pyLd",
-                "StéphanieKjMAy53G",
+                "St\u00e9phanieKjMAy53G",
                 "NatachawYi8GkgM",
                 "SolofoICyjFjny",
                 "NivosonDdqFeHeF",
@@ -9131,7 +9131,7 @@
             "plan": "Basique"
         },
         {
-            "id": "Thonny FrédéricvlxwVzWk",
+            "id": "Thonny Fr\u00e9d\u00e9ricvlxwVzWk",
             "android_id": "78e85d7de85a2f6034ed85cfc66a763f",
             "referred_by": "CompteN2973681",
             "referred_to": [],
@@ -9243,7 +9243,7 @@
             "plan": "Basique"
         },
         {
-            "id": "🏝️Nadia 🌿✨🌹NirinaG8iogcJ0",
+            "id": "\ud83c\udfdd\ufe0fNadia \ud83c\udf3f\u2728\ud83c\udf39NirinaG8iogcJ0",
             "android_id": "26d644e3351ab38fea9648f65ee18056",
             "referred_by": null,
             "referred_to": [],
@@ -9613,7 +9613,7 @@
         {
             "id": "OcheneGhzYU4CF",
             "android_id": "08d9d556745b06037d57a0aa041c8413",
-            "referred_by": "Théodore46433",
+            "referred_by": "Th\u00e9odore46433",
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2025-05-21T01:09:50.110993",
@@ -9632,7 +9632,7 @@
         },
         {
             "id": "RayaNi2bn31KxD",
-            "android_id": "Comment ça?",
+            "android_id": "Comment \u00e7a?",
             "referred_by": null,
             "referred_to": [],
             "status": "inactive",
@@ -9681,7 +9681,7 @@
             "plan": "Basique"
         },
         {
-            "id": "françisGNzYf9fM",
+            "id": "fran\u00e7isGNzYf9fM",
             "android_id": "9181a62fd184912e5b6fa5885b9d0b9a",
             "referred_by": "Juckelly58103",
             "referred_to": [],
@@ -9778,7 +9778,7 @@
         {
             "id": "Sylvianh2JxRpE",
             "android_id": "69bc674bbd005c881e602f035d76ed2c",
-            "referred_by": "Damascène6710302",
+            "referred_by": "Damasc\u00e8ne6710302",
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2025-06-05T15:42:30.968535",
@@ -10050,7 +10050,7 @@
             "plan": "Basique"
         },
         {
-            "id": "VaaneÿkZ12gsid",
+            "id": "Vaane\u00ffkZ12gsid",
             "android_id": "fd584b90a23d5db7e907e579bee94fda",
             "referred_by": "Alex7819e929",
             "referred_to": [],
@@ -10332,7 +10332,7 @@
         {
             "id": "Nandrij3citBoB",
             "android_id": "b97c8866627a0ef6ef9bb7b7776614cb",
-            "referred_by": "Claudia501€2",
+            "referred_by": "Claudia501\u20ac2",
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-24T20:26:24.648608",
@@ -10412,7 +10412,7 @@
         {
             "id": "AndrianarivovRxmM9Y0",
             "android_id": "fc952bedf32f4fe95ac02f6a87e3629d",
-            "referred_by": "id référence : Tsila68130\nApi id : 22614373",
+            "referred_by": "id r\u00e9f\u00e9rence : Tsila68130\nApi id : 22614373",
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-19T22:08:39.504601",
@@ -10637,7 +10637,7 @@
             "android_id": "f92d5e67fa0a8d5410a448521c35edbd",
             "referred_by": "Emile5819392",
             "referred_to": [
-                "Auréliaiq8G30YX",
+                "Aur\u00e9liaiq8G30YX",
                 "RotsiniainapkWiDrht",
                 "LANTSOZYtv4bzhj6"
             ],
@@ -10932,7 +10932,7 @@
         {
             "id": "FlorentineIxfnmfOV",
             "android_id": "f79cc13699c63f04a4edc7940bed2d2f",
-            "referred_by": "Damascène6710302",
+            "referred_by": "Damasc\u00e8ne6710302",
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-19T21:32:12.345415",
@@ -11347,7 +11347,7 @@
             "plan": "Basique"
         },
         {
-            "id": "HonoréGAf1d2Kv",
+            "id": "Honor\u00e9GAf1d2Kv",
             "android_id": "7baa7ac341735885344cd51f83ade84d",
             "referred_by": "Emile5819392",
             "referred_to": [],
@@ -11520,7 +11520,7 @@
             "plan": "Basique"
         },
         {
-            "id": "ValéryIa0k20nF",
+            "id": "Val\u00e9ryIa0k20nF",
             "android_id": "4c658787f46a68278690799de00a8527",
             "referred_by": "Philemon68132",
             "referred_to": [
@@ -11672,7 +11672,7 @@
             "plan": "Basique"
         },
         {
-            "id": "F.J.AiméT9nwmxLH",
+            "id": "F.J.Aim\u00e9T9nwmxLH",
             "android_id": "ccdb85fa2d06a983adba02880447e78b",
             "referred_by": "Velotsara681900",
             "referred_to": [],
@@ -11764,7 +11764,7 @@
             "plan": "Basique"
         },
         {
-            "id": "StéphanieKjMAy53G",
+            "id": "St\u00e9phanieKjMAy53G",
             "android_id": "090cd4c3734c2325fe7f554505e4571c",
             "referred_by": "Emile5819392",
             "referred_to": [
@@ -12154,7 +12154,7 @@
         {
             "id": "ValimbavakaLhZUQ8GL",
             "android_id": "c2dd5e1db3f5fa5aa9794392111418b8",
-            "referred_by": "StéphanieKjMAy53G",
+            "referred_by": "St\u00e9phanieKjMAy53G",
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2025-05-30T23:19:25.787488",
@@ -12519,7 +12519,7 @@
         {
             "id": "DouglasQ6w5gJQU",
             "android_id": "2647b194119896b1014f87d3456d1a99",
-            "referred_by": "Saïd681930",
+            "referred_by": "Sa\u00efd681930",
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-20T18:33:32.003948",
@@ -12567,7 +12567,7 @@
             "plan": "Basique"
         },
         {
-            "id": "BertôJZVeYjXp",
+            "id": "Bert\u00f4JZVeYjXp",
             "android_id": "40471b934fa8c8c9e82d681c883bdfc0",
             "referred_by": null,
             "referred_to": [],
@@ -12730,7 +12730,7 @@
             "plan": "Basique"
         },
         {
-            "id": "François575Vlrsw",
+            "id": "Fran\u00e7ois575Vlrsw",
             "android_id": "a2d981a11e4643d3623fda385fd0c8de",
             "referred_by": "Mamitina791402",
             "referred_to": [],
@@ -12834,7 +12834,7 @@
             "plan": "Basique"
         },
         {
-            "id": "ThérèsetSSo2J8g",
+            "id": "Th\u00e9r\u00e8setSSo2J8g",
             "android_id": "ad005d48831186637eed8f389876425f",
             "referred_by": "Andry5718e0",
             "referred_to": [],
@@ -12886,7 +12886,7 @@
         {
             "id": "HyacintheRv9YXTYQ",
             "android_id": "fc9b259221711ed2a3fd820f9532d6d4",
-            "referred_by": "Claudia501€2",
+            "referred_by": "Claudia501\u20ac2",
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2025-06-12T08:11:53.861389",
@@ -13084,7 +13084,7 @@
             "plan": "Basique"
         },
         {
-            "id": "MotivéBfgzlkQc",
+            "id": "Motiv\u00e9BfgzlkQc",
             "android_id": "98b9a27fe145f65df5032ea11342a7e5",
             "referred_by": "Velotsara681900",
             "referred_to": [],
@@ -13304,7 +13304,7 @@
             "plan": "Basique"
         },
         {
-            "id": "FrançoisHNCX3vQk",
+            "id": "Fran\u00e7oisHNCX3vQk",
             "android_id": "fa5a21b12c3e31e71296d7d8224fd631",
             "referred_by": "Bolida50172",
             "referred_to": [],
@@ -13588,7 +13588,7 @@
         {
             "id": "JeanPierritutTlwLlD",
             "android_id": "18e5526be0f4702d64d814cee1fd01aa",
-            "referred_by": "Saïd681930",
+            "referred_by": "Sa\u00efd681930",
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-25T07:58:20.534291",
@@ -13627,8 +13627,8 @@
         },
         {
             "id": "HoulderfYpospd9",
-            "android_id": "février82983a585db7e0480c8b641283f9d",
-            "referred_by": "Saïd681930",
+            "android_id": "f\u00e9vrier82983a585db7e0480c8b641283f9d",
+            "referred_by": "Sa\u00efd681930",
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2025-06-09T00:52:45.766535",
@@ -13736,7 +13736,7 @@
             "plan": "Basique"
         },
         {
-            "id": "LoïcJQjZn7iN",
+            "id": "Lo\u00efcJQjZn7iN",
             "android_id": "1c2b08d39bfbccf75b755b87e7b37bbf",
             "referred_by": null,
             "referred_to": [],
@@ -13926,7 +13926,7 @@
             "plan": "Basique"
         },
         {
-            "id": "DénnicioO0WijQwF",
+            "id": "D\u00e9nnicioO0WijQwF",
             "android_id": "e10644c09ab60e0ae2496383b207613f",
             "referred_by": "Timote689901",
             "referred_to": [],
@@ -14373,7 +14373,7 @@
             "plan": "Basique"
         },
         {
-            "id": "Auréliaiq8G30YX",
+            "id": "Aur\u00e9liaiq8G30YX",
             "android_id": "53cfd0264352c964e10b52870dde1091",
             "referred_by": "VoninahitraBoeEiLmp",
             "referred_to": [],
@@ -14435,7 +14435,7 @@
         {
             "id": "Hasina5BMRhxVJ",
             "android_id": "070778b3b3353b037d799476b202031d",
-            "referred_by": "Escagés591732",
+            "referred_by": "Escag\u00e9s591732",
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-20T07:30:59.450010",
@@ -14445,7 +14445,7 @@
         {
             "id": "FIDSONCFwJzXWB",
             "android_id": "5285dcf4c729e046523c35177c62ec6c",
-            "referred_by": "Escagés591732",
+            "referred_by": "Escag\u00e9s591732",
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-20T06:49:16.719054",
@@ -14775,7 +14775,7 @@
         {
             "id": "MichellotSCmI04wq",
             "android_id": "f2259a4e3c9727a393e77a14702e3f12",
-            "referred_by": "Jôvan68193920",
+            "referred_by": "J\u00f4van68193920",
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-22T15:36:55.685389",
@@ -15045,7 +15045,7 @@
             "plan": "Basique"
         },
         {
-            "id": "FrédériclrYQTjHN",
+            "id": "Fr\u00e9d\u00e9riclrYQTjHN",
             "android_id": "1c92df0f2901f5672bb7a1ce502ef35f",
             "referred_by": null,
             "referred_to": [],
@@ -15467,7 +15467,7 @@
         {
             "id": "TsihoranaGXubGI2h",
             "android_id": "bc7cc80626718bd43b76ea9bc90b9780",
-            "referred_by": "ValéryIa0k20nF",
+            "referred_by": "Val\u00e9ryIa0k20nF",
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2025-06-19T15:27:24.527814",
@@ -15580,5 +15580,5 @@
             "2"
         ]
     },
-    "announcement": "19 Mai 2025✍🔥🔥SMM TIKTOK,HOAVY TSY HOELA🧐👌 MANAO ANNONCE IHANY AHO,ARY IHANY KOA RAHA TRATRAKO HISY VERSION INSTAGRAM IHANY KOA,IZAY HIALANA @RESAKA DETECTION ANY INSTAGRAM REHETRA,TENA HOE OHATRA ENAO MAMPIASA TANANA MIHITSY,TS MISY ANIRENY CHALLENGE IRENY KOA,NA RAH SANATRIA MISY TENA HOE PAR HASARD,FA EZAHAKO ENJEHANA EO HOAN'IZAY MBOLA ACTIF....ARY MISY REGLE HIOVA KEKY APRES EO🧐👌RAHA MISY ASA ANY HO ANY TINAREO AUTOMATISENA KA METY LOGIQUE HOTRATRA DIA ALEFAO AMIKO DE HITA EO🧐👌ZAY TSY DE MAHA HITA AH LOTRA,FA MITADY NY MAHASOA ANTSIKA🧐👌SY NY FANATSARANA HAMAIVANA NY ASATSIKA🧐👌MMANKASITRAKA ANAREO SAHADY @FAHARETANA,MIARAHABA ANAREO REHETRA,MANASA ANAREO HANARAKA HATR@ FARANY CONSEIL ITY👌🔥🔥NAHAZO VAHANA ILAY BOOSTBOST ZAY TATO2,KANEFA DIA TADIDIO FA TSY DE TSARA IO,RAHA SANATRIA COMPTE TSOTRA NY ANAO KA DESACTIVÉ DIA TSY AVY AMINAY IZAY TOMPOKO😔HIALANA @RESAKA COMPTE TSOTRA DESACTIVÉ MARO DIA IRETO CONSEIL MADINIDINIKA🧠🧠VOALOHANY,MILA MISY PDP ILAY COMPTE,FAHAROA TSY MAINTSY MISY FOLLOWER 10 OU 50 MITSY AZA VAO MAIKA TSARA,MILA MISY PUBLICATION MARO2,RAH OHATRA MAHAFENO ANIREO FEPETRA IREO IANAO DIA TENA KELY NY RISQUE HAHADESACTIVÉ NY COMPTENAO IZANY,KELY HOY AHO FA TSY HOE MANOME GARENTIE A 100% AHO👌🔥🔥MANARAKA IZAY DIA FADIO KOA NY MAMPIASA SARY GENERÉ AVY @IAHOAN'NY VIP INDRAY,NY MAHA BAN NY VIP MATETIKA DIA NOHO ILAY IZY NIVADIKA PUBLIC KA HITAN'NY TOMPON'NY SARY NA NY NAMANY OHATRA DIA SIGNALENY,OHATRA RAHA NY SARINAO IO OHATRA PUBLIEQKO KA HITANAO DIA MINO AH FA TSY MAINTSY HOSIGNALENAO INY RAHA TOA KA HITANAO,NY COMPTE SIGNALENA @INSTAGRAM DIA TENA MORA MATY,DONC MITERAKA DESACTIVATION,MISY FOTOANA IZY MITAKY CIN MANAMARINA FA ENAO MARINA NO EO,DIA RAHA TSIA DIA ZAY VAO DESACTIVÉ,MISY KOSA TONGA DIA DESACTIVÉ,DONC ILAY VIP IZANY TSY HITA HATAO LOATRA,😔😔ANKOATRA IZAY,RAHA MISY OLANA IANAREO @TERMUX DIA AZA MISALASALA MITSY MANDEFA MESSAGE AMINAY FA VAHANAY ARAKA IZAY VITANAY RAH MBOLA MIKASIKA NY SERVUCE AVY AMINAY,OHATRA NY COMPTE MIALA DAHOL MISY SOLUTION INYWNY COMPTE CONNECTER MARO NEF TSY MIASA,SY NY OLANA MATETIKA MANDALO,REHEFA MICONTACT ANAY DIA TSY @COMPTE PERSO AKO SATRIA AHO TSY DIA ACTIF AMNINY LOATRA KOA,FA REHEFA HICONTACT ANAY DIA ATO @TY BOT TELEGRAM ITY👉@taskersupport_bot COPIEO IO DE COLLEO AO @TELEGRAM,AVY EO HIDURO DIA MITAKY CODE IZY DIA ITY NY CODE:562663261106 RAHA SANATRIA TSY MISY OPTION BOUTON ZAY AO NEF TSY MAMALY IZY DIA TY ALEFA AO @BOT👉/start DIA TOKONY MLAM IO,REHEFA HICONTAC ANAY DIA MIDITRA AO @ SECTION  ✉️ CONTACTER LE SERVICE client,DIA ALEFANAO NY MESSAGENAO DIA VOARAINAY IKY,MISY ROA IZAHAY NO AO KA RAHA TSY EO AHO NA TSY AFAKA DIA MBA MISY MAMALY IANAREO HIALANA @ILAY MP ELA VAO VOAVALY,MBA HANATSARANA NY SERVICE,RAHA OHATRA INDRAY IANAREO TE HANAO RECHERCHE,HIANATRA,SNS...DIA INTEGRÉ IA IO BOT IO,MIDIRA NDRAY AO @SECRION IA DIA AFAKA MANONTANY AO IANAREO,NY MESSAGE ALEFANAREO TSY AO @CONTACTER LE SUPPORT DIA TS HISY HOTONGA AMINAY MITSY,NOHO IZAY RAH HICONTACT ANAY DIA MILA MIDITRA AO @SECTION CONTACTER LE SERVICZ CLIENT FOANA,MANKASUTRAKA ANAREO @FIARAHAMIASA🔥🔥🙏🙏🙏✅✅"
+    "announcement": "19 Mai 2025\u270d\ud83d\udd25\ud83d\udd25SMM TIKTOK,HOAVY TSY HOELA\ud83e\uddd0\ud83d\udc4c MANAO ANNONCE IHANY AHO,ARY IHANY KOA RAHA TRATRAKO HISY VERSION INSTAGRAM IHANY KOA,IZAY HIALANA @RESAKA DETECTION ANY INSTAGRAM REHETRA,TENA HOE OHATRA ENAO MAMPIASA TANANA MIHITSY,TS MISY ANIRENY CHALLENGE IRENY KOA,NA RAH SANATRIA MISY TENA HOE PAR HASARD,FA EZAHAKO ENJEHANA EO HOAN'IZAY MBOLA ACTIF....ARY MISY REGLE HIOVA KEKY APRES EO\ud83e\uddd0\ud83d\udc4cRAHA MISY ASA ANY HO ANY TINAREO AUTOMATISENA KA METY LOGIQUE HOTRATRA DIA ALEFAO AMIKO DE HITA EO\ud83e\uddd0\ud83d\udc4cZAY TSY DE MAHA HITA AH LOTRA,FA MITADY NY MAHASOA ANTSIKA\ud83e\uddd0\ud83d\udc4cSY NY FANATSARANA HAMAIVANA NY ASATSIKA\ud83e\uddd0\ud83d\udc4cMMANKASITRAKA ANAREO SAHADY @FAHARETANA,MIARAHABA ANAREO REHETRA,MANASA ANAREO HANARAKA HATR@ FARANY CONSEIL ITY\ud83d\udc4c\ud83d\udd25\ud83d\udd25NAHAZO VAHANA ILAY BOOSTBOST ZAY TATO2,KANEFA DIA TADIDIO FA TSY DE TSARA IO,RAHA SANATRIA COMPTE TSOTRA NY ANAO KA DESACTIV\u00c9 DIA TSY AVY AMINAY IZAY TOMPOKO\ud83d\ude14HIALANA @RESAKA COMPTE TSOTRA DESACTIV\u00c9 MARO DIA IRETO CONSEIL MADINIDINIKA\ud83e\udde0\ud83e\udde0VOALOHANY,MILA MISY PDP ILAY COMPTE,FAHAROA TSY MAINTSY MISY FOLLOWER 10 OU 50 MITSY AZA VAO MAIKA TSARA,MILA MISY PUBLICATION MARO2,RAH OHATRA MAHAFENO ANIREO FEPETRA IREO IANAO DIA TENA KELY NY RISQUE HAHADESACTIV\u00c9 NY COMPTENAO IZANY,KELY HOY AHO FA TSY HOE MANOME GARENTIE A 100% AHO\ud83d\udc4c\ud83d\udd25\ud83d\udd25MANARAKA IZAY DIA FADIO KOA NY MAMPIASA SARY GENER\u00c9 AVY @IAHOAN'NY VIP INDRAY,NY MAHA BAN NY VIP MATETIKA DIA NOHO ILAY IZY NIVADIKA PUBLIC KA HITAN'NY TOMPON'NY SARY NA NY NAMANY OHATRA DIA SIGNALENY,OHATRA RAHA NY SARINAO IO OHATRA PUBLIEQKO KA HITANAO DIA MINO AH FA TSY MAINTSY HOSIGNALENAO INY RAHA TOA KA HITANAO,NY COMPTE SIGNALENA @INSTAGRAM DIA TENA MORA MATY,DONC MITERAKA DESACTIVATION,MISY FOTOANA IZY MITAKY CIN MANAMARINA FA ENAO MARINA NO EO,DIA RAHA TSIA DIA ZAY VAO DESACTIV\u00c9,MISY KOSA TONGA DIA DESACTIV\u00c9,DONC ILAY VIP IZANY TSY HITA HATAO LOATRA,\ud83d\ude14\ud83d\ude14ANKOATRA IZAY,RAHA MISY OLANA IANAREO @TERMUX DIA AZA MISALASALA MITSY MANDEFA MESSAGE AMINAY FA VAHANAY ARAKA IZAY VITANAY RAH MBOLA MIKASIKA NY SERVUCE AVY AMINAY,OHATRA NY COMPTE MIALA DAHOL MISY SOLUTION INYWNY COMPTE CONNECTER MARO NEF TSY MIASA,SY NY OLANA MATETIKA MANDALO,REHEFA MICONTACT ANAY DIA TSY @COMPTE PERSO AKO SATRIA AHO TSY DIA ACTIF AMNINY LOATRA KOA,FA REHEFA HICONTACT ANAY DIA ATO @TY BOT TELEGRAM ITY\ud83d\udc49@taskersupport_bot COPIEO IO DE COLLEO AO @TELEGRAM,AVY EO HIDURO DIA MITAKY CODE IZY DIA ITY NY CODE:562663261106 RAHA SANATRIA TSY MISY OPTION BOUTON ZAY AO NEF TSY MAMALY IZY DIA TY ALEFA AO @BOT\ud83d\udc49/start DIA TOKONY MLAM IO,REHEFA HICONTAC ANAY DIA MIDITRA AO @ SECTION  \u2709\ufe0f CONTACTER LE SERVICE client,DIA ALEFANAO NY MESSAGENAO DIA VOARAINAY IKY,MISY ROA IZAHAY NO AO KA RAHA TSY EO AHO NA TSY AFAKA DIA MBA MISY MAMALY IANAREO HIALANA @ILAY MP ELA VAO VOAVALY,MBA HANATSARANA NY SERVICE,RAHA OHATRA INDRAY IANAREO TE HANAO RECHERCHE,HIANATRA,SNS...DIA INTEGR\u00c9 IA IO BOT IO,MIDIRA NDRAY AO @SECRION IA DIA AFAKA MANONTANY AO IANAREO,NY MESSAGE ALEFANAREO TSY AO @CONTACTER LE SUPPORT DIA TS HISY HOTONGA AMINAY MITSY,NOHO IZAY RAH HICONTACT ANAY DIA MILA MIDITRA AO @SECTION CONTACTER LE SERVICZ CLIENT FOANA,MANKASUTRAKA ANAREO @FIARAHAMIASA\ud83d\udd25\ud83d\udd25\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\u2705\u2705"
 }
