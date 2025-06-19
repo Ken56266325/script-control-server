@@ -44,11 +44,11 @@
             "referred_to": [
                 "2"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-06-19T17:19:00.878176",
+            "status": "active",
+            "countdown_start_time": "2025-06-26T18:08:47.212994",
             "affiliation_balance": 413000,
             "android_id": "d099fb72fa1d28a5627ff511b88111f7",
-            "plan": "VIP",
+            "plan": "Basique",
             "paused_at": null,
             "countdown_paused": false
         },
