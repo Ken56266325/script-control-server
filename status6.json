@@ -15563,6 +15563,16 @@
             "countdown_start_time": "2025-06-20T00:28:32.892349",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Joelson5DEK2g6iu",
+            "android_id": "5bc1a403a86c37ccfd9efb192efbccc6",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-20T01:13:24.878051",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
