@@ -1019,7 +1019,8 @@
                 "Robelina69173",
                 "Randria571932",
                 "Fiderana82930",
-                "Rosia5719"
+                "Rosia5719",
+                "RavalomandaMAwP86LZ"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-27T08:44:40.717716",
@@ -15747,6 +15748,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-21T02:54:03.382954",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "RavalomandaMAwP86LZ",
+            "android_id": "3c33878907d48966f0a5b859803fbde1",
+            "referred_by": "Lantsaniaina57204",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-21T03:18:52.451922",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
