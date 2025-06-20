@@ -12330,7 +12330,9 @@
             "id": "HerizoPMlpf1Vv",
             "android_id": "59dd5530c6f8aff2439c776b575b449f",
             "referred_by": "59dd5530c6f8aff2439c776b575b449f",
-            "referred_to": [],
+            "referred_to": [
+                "NomenaqoXeLU84"
+            ],
             "status": "active",
             "countdown_start_time": "2025-06-25T16:52:41.562753",
             "affiliation_balance": 0,
@@ -15702,6 +15704,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-27T20:02:33.426260",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "NomenaqoXeLU84",
+            "android_id": "6bc66f7c356730eee34bbf523e552208",
+            "referred_by": "HerizoPMlpf1Vv",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-20T22:43:03.747063",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
