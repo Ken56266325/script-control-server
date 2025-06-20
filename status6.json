@@ -8923,7 +8923,8 @@
                 "MireilleRj5exCsK",
                 "562663261106tRLt0cU3",
                 "BruthoBLqCnnh5",
-                "Aristide3HbeQe42"
+                "Aristide3HbeQe42",
+                "NicolasefnA4gym"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-23T18:59:28.894199",
@@ -15635,6 +15636,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-20T16:18:24.672240",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "NicolasefnA4gym",
+            "android_id": "cc72ea6e37ee5d4f0e69d4cb3799d4c8",
+            "referred_by": "Emile5819392",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-20T16:45:18.674603",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
