@@ -296,7 +296,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-25T08:46:48.977453",
-            "affiliation_balance": 5000,
+            "affiliation_balance": 6000,
             "android_id": "24e6c12d88d27aba84a80b1d0c821285",
             "countdown_paused": false,
             "plan": "Basique"
@@ -665,9 +665,9 @@
                 "RamPfYbSXsj",
                 "RakmalalaQ1z152Vy"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-06-08T07:28:51.815276",
-            "affiliation_balance": 10000,
+            "status": "active",
+            "countdown_start_time": "2025-06-27T06:20:03.869941",
+            "affiliation_balance": 3000,
             "countdown_paused": false,
             "plan": "Basique"
         },
