@@ -4081,7 +4081,8 @@
                 "BoscoIoZd19E9",
                 "D\u00e9nnicioO0WijQwF",
                 "Timote689901atK0VVDX",
-                "EvaheIfTkbeA"
+                "EvaheIfTkbeA",
+                "ValisoagdkkzbMv"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-23T14:16:35.525607",
@@ -15714,6 +15715,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-20T22:43:03.747063",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "ValisoagdkkzbMv",
+            "android_id": "1e0a50618b91eb31a6319e6e21ac0c38",
+            "referred_by": "Timote689901",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-20T22:58:50.965554",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
