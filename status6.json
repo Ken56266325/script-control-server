@@ -5517,7 +5517,7 @@
                 "NivoC2p6obvE",
                 "Nivohu5hKo8c"
             ],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-06-20T19:46:10.180951",
             "affiliation_balance": 6000,
             "plan": "Basique",
@@ -10916,7 +10916,7 @@
             "android_id": "fa0519ff2f0ad96c747fe85a04d40a48",
             "referred_by": "Christian189103",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-06-20T19:47:49.352922",
             "affiliation_balance": 0,
             "plan": "Basique"
