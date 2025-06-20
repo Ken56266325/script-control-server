@@ -3864,7 +3864,8 @@
             "referred_to": [
                 "TANTELYckOL2NPE",
                 "TANTELYNIAINAQSfD3w8z",
-                "FITIAVANAbotsmmICNsdi3n"
+                "FITIAVANAbotsmmICNsdi3n",
+                "dicte24xHLA6Jjo"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-21T20:27:37.143235",
@@ -15691,6 +15692,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-20T19:39:26.914601",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "dicte24xHLA6Jjo",
+            "android_id": "2a4ce72e0eb5e3d5085e8f8ef889bbaa",
+            "referred_by": "Tsimbina68192",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-20T20:02:33.426260",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
