@@ -3308,7 +3308,8 @@
             "referred_by": "Germain5719\u20ac",
             "referred_to": [
                 "Luciano001673901",
-                "AndryyljIgCLp"
+                "AndryyljIgCLp",
+                "FenoupnNariz"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-22T13:28:27.212884",
@@ -15758,6 +15759,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-21T03:18:52.451922",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "FenoupnNariz",
+            "android_id": "868b644aa7f2f6e002ee55f521382576",
+            "referred_by": "LovaL819030",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-21T04:38:51.001812",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
