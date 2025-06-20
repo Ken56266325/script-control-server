@@ -1227,7 +1227,8 @@
                 "Erick14EdkJpo",
                 "MamedisonTiXP0SQJ",
                 "Hasina4Kp4AMiT",
-                "NatenasuO9lwyl"
+                "NatenasuO9lwyl",
+                "SeriniabiCHvXSn"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-20T19:10:43.167336",
@@ -15736,6 +15737,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-20T22:59:02.149208",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "SeriniabiCHvXSn",
+            "android_id": "9ed1fc2a5836792d418718fa10541be8",
+            "referred_by": "Gaelode10361",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-21T02:54:03.382954",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
