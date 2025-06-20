@@ -1296,7 +1296,8 @@
                 "Carlos691030",
                 "Oliv227o6M7Kcx",
                 "MatelozahoMR1bvAlX",
-                "Mandresy21Daz0wA6X"
+                "Mandresy21Daz0wA6X",
+                "Kandra11fVgH3A2G"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-27T20:26:39.518617",
@@ -15780,6 +15781,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-21T04:39:57.166571",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Kandra11fVgH3A2G",
+            "android_id": "d9c2e2449c60472d698cb2f94f12b7de",
+            "referred_by": "Mandresy241632",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-21T06:14:07.871500",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
