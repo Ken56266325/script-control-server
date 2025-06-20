@@ -15793,6 +15793,16 @@
             "countdown_start_time": "2025-06-21T06:14:07.871500",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Christora8SlObbfQ",
+            "android_id": "9bf1331568f5dff5a28404bc7d01d184",
+            "referred_by": "Cristora28096802",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-21T06:22:24.145372",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
