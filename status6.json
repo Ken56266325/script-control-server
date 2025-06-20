@@ -696,7 +696,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-06-19T18:54:47.153014",
-            "affiliation_balance": 4000,
+            "affiliation_balance": 5000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -4820,9 +4820,9 @@
                 "Sylvianh2JxRpE",
                 "FlorentineIxfnmfOV"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-06-20T07:13:04.619636",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-06-27T10:02:29.098140",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
