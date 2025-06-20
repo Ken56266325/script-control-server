@@ -1110,7 +1110,8 @@
                 "HerzoyGyvAUXl",
                 "Danielah5ktzJ6vm",
                 "BriandwGIrDkEG",
-                "Annah9tGqipeC"
+                "Annah9tGqipeC",
+                "Mandimby7199392"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-24T11:00:12.937814",
@@ -15648,6 +15649,15 @@
             "countdown_start_time": "2025-06-20T16:45:18.674603",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Mandimby7199392",
+            "android_id": "4b2a0174edd412b37b71410b30ccbae0",
+            "referred_by": "Marcel10325",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-27T09:06:01.397439",
+            "affiliation_balance": 0
         }
     ],
     "references": {
