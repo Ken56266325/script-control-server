@@ -951,7 +951,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-27T07:46:15.357415",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -1021,9 +1021,9 @@
                 "Fiderana82930",
                 "Rosia5719"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-06-16T16:47:34.183666",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-06-27T08:44:40.717716",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
