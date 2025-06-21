@@ -3372,7 +3372,8 @@
                 "GabyEo7IiIIt",
                 "VaninyY11zjR4T",
                 "DhorickKaiqA7jJ",
-                "AnthonieJMe3Z2lR"
+                "AnthonieJMe3Z2lR",
+                "Maharongatry1ysCar4h"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-26T18:05:18.156913",
@@ -15919,6 +15920,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-22T03:57:36.495609",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Maharongatry1ysCar4h",
+            "android_id": "0300f76e86260ac52b7cedf381127f3e",
+            "referred_by": "ToneJuly681030",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-22T04:39:04.088399",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
