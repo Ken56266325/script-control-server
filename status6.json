@@ -2180,7 +2180,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-26T18:03:38.009343",
-            "affiliation_balance": 5000,
+            "affiliation_balance": 6000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -12981,8 +12981,8 @@
             "android_id": "51b87c5ac03908ca3b6e5c1efe5aab1a",
             "referred_by": "RanofaAuto",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2025-06-19T13:56:13.975421",
+            "status": "active",
+            "countdown_start_time": "2025-06-28T17:57:34.393917",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
