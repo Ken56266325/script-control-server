@@ -15813,6 +15813,16 @@
             "countdown_start_time": "2025-06-21T21:15:12.096284",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "ramangaTxa1dVLb",
+            "android_id": "6ff24917f70c085e4d47a53a56882bcb",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-21T21:51:50.204182",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
