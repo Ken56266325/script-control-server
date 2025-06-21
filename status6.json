@@ -1368,7 +1368,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-06-05T13:03:09.202449",
-            "affiliation_balance": 3000,
+            "affiliation_balance": 4000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -7334,8 +7334,8 @@
             "referred_to": [
                 "Stephan8qC8pOPG"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-06-21T10:52:18.854488",
+            "status": "active",
+            "countdown_start_time": "2025-06-28T16:06:06.530435",
             "affiliation_balance": 3000,
             "plan": "Basique"
         },
