@@ -15867,6 +15867,16 @@
             "countdown_start_time": "2025-06-22T01:18:07.996217",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "dami.soa006l58a2uF",
+            "android_id": "22510501",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-22T01:23:59.753449",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
