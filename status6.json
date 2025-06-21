@@ -2624,7 +2624,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-23T09:20:48.903865",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -2974,8 +2974,8 @@
                 "hanintriainaErtuUECH"
             ],
             "status": "active",
-            "countdown_start_time": "2025-06-21T09:59:32.829486",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-06-28T10:42:56.331515",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
