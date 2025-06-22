@@ -1233,7 +1233,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-27T19:12:27.808802",
-            "affiliation_balance": 4000,
+            "affiliation_balance": 5000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -6313,8 +6313,8 @@
                 "MamedisonelO5Qj9t",
                 "MamedisonyXTISOGO"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-06-22T12:44:37.733785",
+            "status": "active",
+            "countdown_start_time": "2025-06-29T13:07:12.264970",
             "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
