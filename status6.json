@@ -5676,7 +5676,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-22T20:16:27.443401",
-            "affiliation_balance": 22000,
+            "affiliation_balance": 23000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -8177,8 +8177,8 @@
             "referred_to": [
                 "Fleurnm07ltMR"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-06-22T19:53:54.246017",
+            "status": "active",
+            "countdown_start_time": "2025-06-29T20:33:33.503383",
             "affiliation_balance": 1000,
             "plan": "Basique"
         },
