@@ -16062,6 +16062,16 @@
             "countdown_start_time": "2025-06-23T01:05:00.037571",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "woldinoplAGAl4P",
+            "android_id": "e23e6b7674eba484fad8054c5e2f856e",
+            "referred_by": "cristora28096802",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-23T01:40:08.904465",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
