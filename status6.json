@@ -9133,7 +9133,8 @@
             "referred_by": "Claudin6189393",
             "referred_to": [
                 "@BolodosyI4Mu24jO",
-                "@JahroodsuVIujocw"
+                "@JahroodsuVIujocw",
+                "@Balefaj06qAYqT"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-23T15:40:57.141641",
@@ -16070,6 +16071,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-23T01:40:08.904465",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "@Balefaj06qAYqT",
+            "android_id": "a24ec519acc6ac9783c41b305988f872",
+            "referred_by": "+261331443017LHuEGatj",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-23T03:01:28.990251",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
