@@ -1877,7 +1877,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-29T13:00:09.974023",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -2023,9 +2023,9 @@
                 "Alex7819e929",
                 "MarieE4ryj7Wb"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-06-22T14:06:19.073619",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-06-29T14:20:44.532971",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
