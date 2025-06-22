@@ -1297,7 +1297,8 @@
                 "Oliv227o6M7Kcx",
                 "MatelozahoMR1bvAlX",
                 "Mandresy21Daz0wA6X",
-                "Kandra11fVgH3A2G"
+                "Kandra11fVgH3A2G",
+                "Dixerud76imSRwc"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-27T20:26:39.518617",
@@ -15930,6 +15931,16 @@
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2025-06-22T04:39:04.088399",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Dixerud76imSRwc",
+            "android_id": "57748d6081194ee95bb231109f9151b4",
+            "referred_by": "Mandresy241632",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-22T16:21:08.359016",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
