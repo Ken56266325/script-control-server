@@ -1298,7 +1298,8 @@
                 "MatelozahoMR1bvAlX",
                 "Mandresy21Daz0wA6X",
                 "Kandra11fVgH3A2G",
-                "Dixerud76imSRwc"
+                "Dixerud76imSRwc",
+                "Kandra6YxrqDEWh"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-27T20:26:39.518617",
@@ -15975,6 +15976,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-22T19:12:58.421392",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Kandra6YxrqDEWh",
+            "android_id": "bd2b7d1f26d8ce9bdf3a5959e3491170",
+            "referred_by": "Mandresy241632",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-22T19:34:56.147754",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
