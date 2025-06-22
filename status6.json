@@ -16009,6 +16009,16 @@
             "countdown_start_time": "2025-06-22T20:53:53.691792",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "NadjaL3dUS6AX",
+            "android_id": "5cd00284cc78c7d15f517ce02703fe47",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-22T21:19:06.875762",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
