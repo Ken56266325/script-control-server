@@ -2909,7 +2909,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-28T08:30:21.836763",
-            "affiliation_balance": 7000,
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -3878,7 +3878,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-29T07:09:33.563474",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -14706,8 +14706,8 @@
             "android_id": "7af03a8a3d9729a100063b81cfd5954b",
             "referred_by": "Tsimbina68192",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2025-06-21T17:21:33.493580",
+            "status": "active",
+            "countdown_start_time": "2025-06-29T07:13:05.482828",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
