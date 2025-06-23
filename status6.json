@@ -16125,6 +16125,16 @@
             "countdown_start_time": "2025-06-23T22:52:14.235282",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "SafidyniainDOCRjXsr",
+            "android_id": "651979a62b71dd158e28778e863d2cec",
+            "referred_by": "28990283",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-24T01:03:30.187786",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
