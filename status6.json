@@ -7024,7 +7024,8 @@
                 "Voloparasy1DJgdWVfc",
                 "hanitriniainamarieYQyDO7XA",
                 "JustinemarieqlLXNMTT8",
-                "Gerardherivalisoarp4mSL5L"
+                "Gerardherivalisoarp4mSL5L",
+                "MariusheriTqxBfSzp"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-27T19:21:33.278736",
@@ -16091,6 +16092,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-23T10:14:57.339319",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "MariusheriTqxBfSzp",
+            "android_id": "de753ae09405170bb60e2f6ecca2337b",
+            "referred_by": "Chance69680",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-23T17:20:53.800195",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
