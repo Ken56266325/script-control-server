@@ -1426,7 +1426,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-28T16:33:48.945129",
-            "affiliation_balance": 17000,
+            "affiliation_balance": 18000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -4097,8 +4097,8 @@
                 "ValisoagdkkzbMv",
                 "TovoLeietqim"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-06-23T14:16:35.525607",
+            "status": "active",
+            "countdown_start_time": "2025-06-30T14:40:29.368870",
             "affiliation_balance": 27000,
             "plan": "Basique",
             "countdown_paused": false
