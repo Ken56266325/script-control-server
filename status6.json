@@ -664,7 +664,8 @@
                 "Aureliebnoh52FO",
                 "SamPtd9QDJc",
                 "RamPfYbSXsj",
-                "RakmalalaQ1z152Vy"
+                "RakmalalaQ1z152Vy",
+                "Feno5mcoVqmq"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-27T06:20:03.869941",
@@ -16102,6 +16103,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-23T17:20:53.800195",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Feno5mcoVqmq",
+            "android_id": "6dee823588a71e0082c8f0e036a7153a",
+            "referred_by": "Emmanuel1",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-23T22:45:29.201984",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
