@@ -16135,6 +16135,16 @@
             "countdown_start_time": "2025-06-24T01:03:30.187786",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "25266570zNyiHY7U",
+            "android_id": "f28acc8067f0714fb5cdda62dffd0323",
+            "referred_by": "Mila ID inunique",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-24T01:20:11.306493",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
