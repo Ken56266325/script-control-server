@@ -6611,7 +6611,8 @@
                 "Th\u00e9r\u00e8setSSo2J8g",
                 "ChristianiyJvCP73",
                 "VictorhCpcHV5e",
-                "PierretteO1KU5acN"
+                "PierretteO1KU5acN",
+                "Sedrar8opLuxd"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-30T19:23:38.406140",
@@ -16176,6 +16177,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-24T22:02:03.829219",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Sedrar8opLuxd",
+            "android_id": "0f0d3e0e477578d13c8ad885a881a6ab",
+            "referred_by": "Andry5718e0",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-25T00:54:37.661692",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
