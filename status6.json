@@ -4096,7 +4096,8 @@
                 "Timote689901atK0VVDX",
                 "EvaheIfTkbeA",
                 "ValisoagdkkzbMv",
-                "TovoLeietqim"
+                "TovoLeietqim",
+                "Odonzr1EjMVZ"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-30T14:40:29.368870",
@@ -16143,6 +16144,16 @@
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2025-06-24T01:20:11.306493",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Odonzr1EjMVZ",
+            "android_id": "976ec6b20df998d100518a68e51d002e",
+            "referred_by": "Timote689901",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-24T18:48:13.146263",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
