@@ -22,7 +22,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-07-04T11:30:19.433059",
-            "affiliation_balance": 8000,
+            "affiliation_balance": 9000,
             "android_id": "87911a1e24cfa271928d2c86e29188c5",
             "countdown_paused": false,
             "plan": "VIP"
@@ -86,9 +86,9 @@
                 "Nantenaina6810301",
                 "Faneva178302"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-06-22T21:03:36.135239",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-07-01T19:15:04.265452",
+            "affiliation_balance": 0,
             "android_id": "69d1cd8860c9981fe73891d313c8088d",
             "countdown_paused": false,
             "plan": "Basique"
