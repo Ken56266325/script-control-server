@@ -736,7 +736,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-26T20:36:15.100879",
-            "affiliation_balance": 9000,
+            "affiliation_balance": 10000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -7323,8 +7323,8 @@
                 "Dyh5719929",
                 "DiannakKwbz7VB"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-06-12T07:53:40.831820",
+            "status": "active",
+            "countdown_start_time": "2025-07-01T14:58:02.902052",
             "affiliation_balance": 1000,
             "plan": "Basique"
         },
