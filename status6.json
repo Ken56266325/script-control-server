@@ -207,7 +207,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-07-01T08:06:33.811034",
-            "affiliation_balance": 25000,
+            "affiliation_balance": 26000,
             "android_id": "c4665ee227bd5513d44e32d4d69a242c",
             "countdown_paused": false,
             "plan": "Basique"
@@ -501,8 +501,8 @@
                 "ClaverUCtoFhSO"
             ],
             "status": "active",
-            "countdown_start_time": "2025-06-24T12:09:22.582242",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-07-01T12:10:31.962803",
+            "affiliation_balance": 0,
             "countdown_paused": false,
             "plan": "Basique"
         },
