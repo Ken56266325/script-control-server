@@ -1427,7 +1427,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-28T16:33:48.945129",
-            "affiliation_balance": 22000,
+            "affiliation_balance": 23000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -5676,9 +5676,9 @@
                 "Emil681903",
                 "Amir19pG7Imv"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-06-22T20:16:27.443401",
-            "affiliation_balance": 23000,
+            "status": "active",
+            "countdown_start_time": "2025-07-01T19:01:28.446165",
+            "affiliation_balance": 16000,
             "plan": "Basique",
             "countdown_paused": false
         },
