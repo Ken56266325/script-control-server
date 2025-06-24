@@ -297,7 +297,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-25T08:46:48.977453",
-            "affiliation_balance": 5000,
+            "affiliation_balance": 6000,
             "android_id": "24e6c12d88d27aba84a80b1d0c821285",
             "countdown_paused": false,
             "plan": "Basique"
@@ -1749,9 +1749,9 @@
                 "Tojonirina17T6auJn",
                 "Fran\u00e7ois575Vlrsw"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-06-23T21:17:36.175931",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-07-01T04:31:34.413424",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
