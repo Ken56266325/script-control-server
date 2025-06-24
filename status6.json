@@ -356,7 +356,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-24T18:35:47.527048",
-            "affiliation_balance": 6200,
+            "affiliation_balance": 7200,
             "android_id": "56f274f07f0875f8f4c28f68451427e0",
             "countdown_paused": false,
             "plan": "Basique"
@@ -1116,9 +1116,9 @@
                 "Mandimby7199392",
                 "Sylves1jVLJB98"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-06-24T11:00:12.937814",
-            "affiliation_balance": 8000,
+            "status": "active",
+            "countdown_start_time": "2025-07-01T11:47:30.475645",
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
