@@ -5942,7 +5942,7 @@
             "android_id": "4b0cdf57459f4fca0fc1e070062799db",
             "referred_by": "Pass58190",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-06-24T03:38:19.662777",
             "affiliation_balance": 0,
             "plan": "Basique",
@@ -8490,7 +8490,7 @@
             "android_id": "72dc4b2468cd86e2527cb7803d158adb",
             "referred_by": "Emmanuel6837",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-06-24T03:52:06.649326",
             "affiliation_balance": 0,
             "plan": "Basique"
