@@ -2953,7 +2953,8 @@
                 "OlinenaN8ujXi",
                 "NanahkHTx0qbq",
                 "SimonetteQzgj1l2c",
-                "MiranahF2B2ITZM"
+                "MiranahF2B2ITZM",
+                "MalalanirikostRolF9E"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-27T16:04:09.400341",
@@ -16210,6 +16211,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-25T18:01:18.677995",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "MalalanirikostRolF9E",
+            "android_id": "0d2ab267a13d783e30f95c64822c35aa",
+            "referred_by": "Floremma89102",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-25T22:03:57.525089",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
