@@ -6771,7 +6771,8 @@
             "referred_to": [
                 "RyanOdj8JdWF",
                 "Lail5iF5k4vc",
-                "tiavinaX5KGV9Cv"
+                "tiavinaX5KGV9Cv",
+                "niqqxTNmt5"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-29T17:56:52.284401",
@@ -16221,6 +16222,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-25T22:50:50.138782",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "niqqxTNmt5",
+            "android_id": "d52d7d8d737cb7216a5107e7a6d3f1d9",
+            "referred_by": "Landry671930",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-26T03:49:42.660899",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
