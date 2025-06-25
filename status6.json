@@ -2914,7 +2914,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-28T08:30:21.836763",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -3975,7 +3975,7 @@
                 "Volanai7C5biRD"
             ],
             "status": "active",
-            "countdown_start_time": "2025-06-25T10:44:38.714025",
+            "countdown_start_time": "2025-07-02T11:21:21.653262",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
