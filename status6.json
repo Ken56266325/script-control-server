@@ -1444,7 +1444,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-29T23:14:35.072822",
-            "affiliation_balance": 9000,
+            "affiliation_balance": 10000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -11871,7 +11871,7 @@
             "referred_by": "Shogun581930",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-06-25T18:30:25.589709",
+            "countdown_start_time": "2025-07-02T18:33:00.696259",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
