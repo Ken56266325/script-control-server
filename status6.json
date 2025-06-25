@@ -1428,7 +1428,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-28T16:33:48.945129",
-            "affiliation_balance": 25000,
+            "affiliation_balance": 26000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -5679,8 +5679,8 @@
                 "Amir19pG7Imv"
             ],
             "status": "active",
-            "countdown_start_time": "2025-07-01T19:01:28.446165",
-            "affiliation_balance": 10000,
+            "countdown_start_time": "2025-07-08T19:01:28.446165",
+            "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
         },
