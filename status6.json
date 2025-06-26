@@ -904,7 +904,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-27T07:48:29.828642",
-            "affiliation_balance": 4000,
+            "affiliation_balance": 5000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -1984,8 +1984,8 @@
                 "Mika891pzo1p"
             ],
             "status": "inactive",
-            "countdown_start_time": "2025-04-25T20:39:10.081107",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-07-03T20:54:58.468820",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
