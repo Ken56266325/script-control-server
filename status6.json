@@ -1305,7 +1305,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-27T20:26:39.518617",
-            "affiliation_balance": 3000,
+            "affiliation_balance": 4000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -2187,8 +2187,8 @@
                 "LetinatVzS0yNer"
             ],
             "status": "inactive",
-            "countdown_start_time": "2025-06-26T18:03:38.009343",
-            "affiliation_balance": 8000,
+            "countdown_start_time": "2025-07-03T19:45:48.245136",
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
