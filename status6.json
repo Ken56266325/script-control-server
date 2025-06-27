@@ -2893,7 +2893,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-06-26T16:29:01.440006",
-            "affiliation_balance": 4000,
+            "affiliation_balance": 5000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -3114,8 +3114,8 @@
                 "rovisabatier8J84XBM7"
             ],
             "status": "inactive",
-            "countdown_start_time": "2025-06-26T06:48:18.658549",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-07-04T23:02:20.572884",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
