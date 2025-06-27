@@ -498,7 +498,8 @@
                 "Rasoanantenaina22RAepUh",
                 "FaniryRgAT2Jdw",
                 "Narovankery65mDF2zd",
-                "ClaverUCtoFhSO"
+                "ClaverUCtoFhSO",
+                "JeanmarchelsPCdd6km"
             ],
             "status": "active",
             "countdown_start_time": "2025-07-01T12:10:31.962803",
@@ -16287,6 +16288,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-27T21:05:59.014399",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "JeanmarchelsPCdd6km",
+            "android_id": "9c728d9f993410130f09ae601af12e7a",
+            "referred_by": "Richard294024",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-28T01:09:38.904589",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
