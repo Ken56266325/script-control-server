@@ -498,8 +498,7 @@
                 "Rasoanantenaina22RAepUh",
                 "FaniryRgAT2Jdw",
                 "Narovankery65mDF2zd",
-                "ClaverUCtoFhSO",
-                "JeanmarcelCHFPXDZ2"
+                "ClaverUCtoFhSO"
             ],
             "status": "active",
             "countdown_start_time": "2025-07-01T12:10:31.962803",
@@ -698,7 +697,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-28T21:48:02.683032",
-            "affiliation_balance": 3000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -4842,8 +4841,8 @@
                 "FlorentineIxfnmfOV"
             ],
             "status": "active",
-            "countdown_start_time": "2025-07-04T10:01:22.179647",
-            "affiliation_balance": 0,
+            "countdown_start_time": "2025-06-27T10:02:29.098140",
+            "affiliation_balance": 7000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -14361,8 +14360,8 @@
                 "Juliendu9qUvsz",
                 "MiranaA38oKK4Q"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-07-04T09:39:13.898748",
+            "status": "active",
+            "countdown_start_time": "2025-07-04T10:15:29.630654",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
@@ -16265,16 +16264,6 @@
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2025-06-27T04:07:21.705545",
-            "affiliation_balance": 0,
-            "plan": "Basique"
-        },
-        {
-            "id": "JeanmarcelCHFPXDZ2",
-            "android_id": "9c728d9f993410130f09ae601af12e7a",
-            "referred_by": "Richard294024",
-            "referred_to": [],
-            "status": "active",
-            "countdown_start_time": "2025-06-27T18:00:59.356210",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
