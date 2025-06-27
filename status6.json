@@ -698,7 +698,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-28T21:48:02.683032",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -7038,8 +7038,8 @@
                 "MariusheriTqxBfSzp"
             ],
             "status": "inactive",
-            "countdown_start_time": "2025-06-27T19:21:33.278736",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-07-04T20:47:25.834798",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
