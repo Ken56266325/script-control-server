@@ -7906,7 +7906,8 @@
             "referred_to": [
                 "valeryGVlimiteWPiXJalT",
                 "Nasam64S41bQ5",
-                "DonatienrakotonirinaW1tKWvaT"
+                "DonatienrakotonirinaW1tKWvaT",
+                "@manountsosNkSduvt3"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-29T09:36:02.518480",
@@ -16264,6 +16265,16 @@
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2025-06-27T04:07:21.705545",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "@manountsosNkSduvt3",
+            "android_id": "d9f3ada0fe82ea8ed9227bf34cc5db9a",
+            "referred_by": "Dona68919229",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-27T19:03:18.316282",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
