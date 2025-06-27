@@ -3114,7 +3114,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-06-26T06:48:18.658549",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -4177,8 +4177,8 @@
                 "Rovinesco58103",
                 "Lucky819392"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-06-27T07:48:20.483528",
+            "status": "active",
+            "countdown_start_time": "2025-07-04T08:38:11.215586",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
