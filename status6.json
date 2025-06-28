@@ -297,7 +297,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-06-25T08:46:48.977453",
-            "affiliation_balance": 7000,
+            "affiliation_balance": 8000,
             "android_id": "24e6c12d88d27aba84a80b1d0c821285",
             "countdown_paused": false,
             "plan": "Basique"
@@ -735,8 +735,8 @@
                 "Harivola6719932",
                 "MevasoafoYOdjdx"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-06-26T20:36:15.100879",
+            "status": "active",
+            "countdown_start_time": "2025-07-05T22:22:45.844135",
             "affiliation_balance": 6000,
             "plan": "Basique",
             "countdown_paused": false
