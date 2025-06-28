@@ -12773,7 +12773,8 @@
             "referred_by": "Tsila6u591njv",
             "referred_to": [
                 "SandraVyMbmzFB",
-                "PrinciaefEEJMKW"
+                "PrinciaefEEJMKW",
+                "DanielKCUBEs0Z"
             ],
             "status": "active",
             "countdown_start_time": "2025-07-01T21:51:59.319041",
@@ -16396,6 +16397,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-29T06:17:15.080244",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "DanielKCUBEs0Z",
+            "android_id": "5f9e101dcbb4ba9ac5fa43856da0d167",
+            "referred_by": "MahefatinahajarivoaeJNpfdN",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-29T06:44:15.955020",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
