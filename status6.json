@@ -9148,7 +9148,8 @@
                 "@BolodosyI4Mu24jO",
                 "@JahroodsuVIujocw",
                 "@Balefaj06qAYqT",
-                "MICHAELSERGIOHV2wT26Y"
+                "MICHAELSERGIOHV2wT26Y",
+                "@TsiveryshowGEZKzKgu"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-30T17:05:34.230019",
@@ -16364,6 +16365,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-28T20:41:21.889774",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "@TsiveryshowGEZKzKgu",
+            "android_id": "dace28223759edc80b29560a6152fe9a",
+            "referred_by": "+261331443017LHuEGatj",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-28T20:42:03.111886",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
