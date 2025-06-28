@@ -2634,7 +2634,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-06-30T13:52:09.046030",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -2915,8 +2915,8 @@
                 "Puce4URodejcP"
             ],
             "status": "inactive",
-            "countdown_start_time": "2025-06-28T08:30:21.836763",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-07-05T09:57:00.615649",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
