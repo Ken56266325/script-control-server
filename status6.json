@@ -1119,7 +1119,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-07-01T11:47:30.475645",
-            "affiliation_balance": 4000,
+            "affiliation_balance": 5000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -7915,7 +7915,7 @@
                 "@manountsosNkSduvt3"
             ],
             "status": "active",
-            "countdown_start_time": "2025-06-29T09:36:02.518480",
+            "countdown_start_time": "2025-07-06T09:36:02.518480",
             "affiliation_balance": 6000,
             "plan": "Basique"
         },
