@@ -2916,7 +2916,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-07-05T09:57:00.615649",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -3888,8 +3888,8 @@
                 "FITIAVANAbotsmmICNsdi3n",
                 "dicte24xHLA6Jjo"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-06-29T07:09:33.563474",
+            "status": "active",
+            "countdown_start_time": "2025-07-06T09:04:10.208710",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
