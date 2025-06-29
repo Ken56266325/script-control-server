@@ -6710,7 +6710,8 @@
             "referred_to": [
                 "stevesawyer39uHwXx0",
                 "Alfredo3SpmS0nB",
-                "Mbola94unyLMK"
+                "Mbola94unyLMK",
+                "LalainasFwoexGl"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-06-26T10:30:27.080851",
@@ -16462,6 +16463,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-29T20:38:24.817947",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "LalainasFwoexGl",
+            "android_id": "b4afe9a620d88f71a706942c7515b405",
+            "referred_by": "Fasou6799302",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-29T20:46:49.921027",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
