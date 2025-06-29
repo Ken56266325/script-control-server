@@ -11015,7 +11015,8 @@
             "referred_to": [
                 "NandrianinarandDLhlYKjO",
                 "nirinaangelinednorKi94",
-                "perytinotT9XVKpAY"
+                "perytinotT9XVKpAY",
+                "gastrientsila47j7frwG"
             ],
             "status": "active",
             "countdown_start_time": "2025-07-05T18:30:40.969170",
@@ -16407,6 +16408,16 @@
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2025-06-29T06:44:15.955020",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "gastrientsila47j7frwG",
+            "android_id": "20912220",
+            "referred_by": "PertinotlrajveKh",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-29T15:18:33.935455",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
