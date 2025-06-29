@@ -5082,7 +5082,7 @@
             "referred_to": [
                 "Junior67193902"
             ],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-06-30T01:18:45.087905",
             "affiliation_balance": 1000,
             "plan": "Basique",
@@ -16094,7 +16094,7 @@
             "android_id": "54cecae4f4cb38706acba22c702a6a68",
             "referred_by": "+261331443017LHuEGatj",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-06-30T01:05:00.037571",
             "affiliation_balance": 0,
             "plan": "Basique"
