@@ -2024,7 +2024,8 @@
                 "Aurnela681036910",
                 "Safidy5719290",
                 "Alex7819e929",
-                "MarieE4ryj7Wb"
+                "MarieE4ryj7Wb",
+                "Fenoasy0KedYaBJ"
             ],
             "status": "active",
             "countdown_start_time": "2025-06-29T14:20:44.532971",
@@ -16429,6 +16430,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-29T17:34:47.998352",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Fenoasy0KedYaBJ",
+            "android_id": "077a9cd0b6823906a833f27c7ec42644",
+            "referred_by": "SNeddie58103",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-29T17:46:02.740842",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
