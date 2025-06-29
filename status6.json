@@ -1882,7 +1882,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-07-06T13:00:09.974023",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -2029,9 +2029,9 @@
                 "MarieE4ryj7Wb",
                 "Fenoasy0KedYaBJ"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-06-29T14:20:44.532971",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-07-06T15:59:06.469256",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
