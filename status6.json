@@ -11805,7 +11805,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-06-27T09:16:01.539889",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -16328,8 +16328,8 @@
             "android_id": "e3cc142f15057c616b786f5be9e3f1d1",
             "referred_by": "RovaZM27pyLd",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2025-06-28T06:24:07.613639",
+            "status": "active",
+            "countdown_start_time": "2025-07-06T09:59:13.370630",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
