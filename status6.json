@@ -5425,7 +5425,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-07-03T13:39:00.840263",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -8738,9 +8738,9 @@
                 "@BaokolitraK5LdHVLp",
                 "violetteRegineugm7gmmJ"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-06-29T13:06:47.742672",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-07-06T17:48:49.783580",
+            "affiliation_balance": 0,
             "plan": "Basique"
         },
         {
