@@ -799,7 +799,8 @@
                 "Zoky791900a",
                 "MihajacSUmsdB5",
                 "BymfdTWpw4",
-                "NyMrkRsUJ2"
+                "NyMrkRsUJ2",
+                "FlancyvZlC5gFA"
             ],
             "status": "active",
             "countdown_start_time": "2025-07-03T21:24:49.189695",
@@ -16484,6 +16485,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-06-29T21:09:46.624110",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "FlancyvZlC5gFA",
+            "android_id": "761a6e10ecce4c96d716f47513c03e64",
+            "referred_by": "Miki5739",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-06-29T22:33:00.501759",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
