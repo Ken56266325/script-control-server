@@ -1431,7 +1431,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-07-05T16:39:30.829353",
-            "affiliation_balance": 29000,
+            "affiliation_balance": 30000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -3542,8 +3542,8 @@
             "referred_to": [
                 "anita29vgIU59"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-06-30T17:09:06.010220",
+            "status": "active",
+            "countdown_start_time": "2025-07-07T20:01:00.683923",
             "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
