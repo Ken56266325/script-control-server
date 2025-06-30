@@ -8551,7 +8551,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-07-03T10:49:28.266872",
-            "affiliation_balance": 3000,
+            "affiliation_balance": 4000,
             "plan": "Basique"
         },
         {
@@ -11449,9 +11449,9 @@
             "referred_to": [
                 "Juliardo8te72Qaa"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-06-30T08:50:43.485347",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-07-07T12:39:16.546500",
+            "affiliation_balance": 0,
             "plan": "Basique"
         },
         {
