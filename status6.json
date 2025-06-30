@@ -906,7 +906,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-07-06T20:06:02.774448",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -12650,7 +12650,7 @@
             "referred_by": "Herininakely5830",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-06-30T09:52:57.083641",
+            "countdown_start_time": "2025-07-07T09:55:33.407040",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
