@@ -1756,7 +1756,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-07-08T04:31:34.413424",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -5375,8 +5375,8 @@
                 "jamesKLd0h2iF",
                 "AndoniainaUkIi3Hjp"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-07-01T08:48:20.625386",
+            "status": "active",
+            "countdown_start_time": "2025-07-08T19:10:13.202569",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
