@@ -5423,7 +5423,8 @@
                 "Totomora909311",
                 "Mirana6819292",
                 "Claudin6189393",
-                "MiantsaVB2f2FEF"
+                "MiantsaVB2f2FEF",
+                "PabloHklLTqUM"
             ],
             "status": "active",
             "countdown_start_time": "2025-07-03T13:39:00.840263",
@@ -16550,6 +16551,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-07-08T08:39:49.067048",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "PabloHklLTqUM",
+            "android_id": "832c143389de7eb4400de856f986e867",
+            "referred_by": "Amadou681036190",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-07-02T00:04:58.529423",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
