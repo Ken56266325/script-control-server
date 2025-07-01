@@ -1377,7 +1377,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-06-05T13:03:09.202449",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -8491,7 +8491,7 @@
                 "YveslsVRUoz5"
             ],
             "status": "active",
-            "countdown_start_time": "2025-07-03T20:04:57.711921",
+            "countdown_start_time": "2025-07-10T20:04:57.711921",
             "affiliation_balance": 5000,
             "plan": "Basique"
         },
