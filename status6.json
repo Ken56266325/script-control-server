@@ -3593,7 +3593,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-07-07T22:42:45.470861",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -6354,8 +6354,8 @@
                 "HerijJMrd7iQ"
             ],
             "status": "active",
-            "countdown_start_time": "2025-07-01T13:05:03.807562",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-07-08T13:14:54.719991",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
