@@ -1377,7 +1377,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-06-05T13:03:09.202449",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -1598,8 +1598,8 @@
                 "Nandrij3citBoB",
                 "HyacintheRv9YXTYQ"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-07-01T11:25:03.326416",
+            "status": "active",
+            "countdown_start_time": "2025-07-08T12:26:15.852889",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
