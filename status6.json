@@ -16673,6 +16673,16 @@
             "countdown_start_time": "2025-07-03T02:49:29.152496",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "AngeloZ2tUyPoG",
+            "android_id": "65155545cb3334cce87b3aef35f9dba0",
+            "referred_by": "13098280",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-07-03T03:22:24.678233",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
