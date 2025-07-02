@@ -1377,9 +1377,9 @@
                 "Daniel719292",
                 "FaustaDl1RwW4d"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-06-05T13:03:09.202449",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-07-09T15:48:51.435599",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -2243,7 +2243,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-03-24T17:57:30.901276",
-            "affiliation_balance": 19000,
+            "affiliation_balance": 20000,
             "plan": "Basique",
             "countdown_paused": false
         },
