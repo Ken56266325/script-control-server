@@ -503,7 +503,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-07-08T13:12:05.749603",
-            "affiliation_balance": 6000,
+            "affiliation_balance": 7000,
             "countdown_paused": false,
             "plan": "Basique"
         },
@@ -7719,8 +7719,8 @@
                 "MamyZme6ENOS",
                 "RijafeliciaR5stJlFM"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-07-02T23:18:10.013826",
+            "status": "active",
+            "countdown_start_time": "2025-07-10T16:48:35.253867",
             "affiliation_balance": 6000,
             "plan": "Basique"
         },
