@@ -2197,7 +2197,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-07-10T20:00:31.820835",
-            "affiliation_balance": 8000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -5876,8 +5876,8 @@
             "android_id": "0eaa31575c588fade15f34ffe4018dee",
             "referred_by": "RanofaAuto",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2025-07-03T20:05:24.457060",
+            "status": "active",
+            "countdown_start_time": "2025-07-10T20:29:58.756922",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
