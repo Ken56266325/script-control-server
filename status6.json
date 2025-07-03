@@ -14318,7 +14318,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-07-04T09:33:39.647493",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -16641,8 +16641,8 @@
             "android_id": "8f285acdd5e1fb20358f9737ec7f0df6",
             "referred_by": "Voloparasy1DJgdWVfc",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2025-07-02T18:26:18.370367",
+            "status": "active",
+            "countdown_start_time": "2025-07-10T08:19:37.693553",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
