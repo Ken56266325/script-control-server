@@ -1803,7 +1803,8 @@
                 "Sylvainqr6CLHh3",
                 "ErvedvYwvUOy",
                 "RaheryYyxy1eDH",
-                "Compte40y4Bcv14K"
+                "Compte40y4Bcv14K",
+                "ClovianneXhpYq0k7"
             ],
             "status": "active",
             "countdown_start_time": "2025-07-08T00:21:29.884037",
@@ -16793,6 +16794,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-07-04T19:52:05.317641",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "ClovianneXhpYq0k7",
+            "android_id": "1c5280a2de0544b386a2285884ce8a48",
+            "referred_by": "Wayne69193",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-07-04T20:15:27.037719",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
