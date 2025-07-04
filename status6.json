@@ -1502,7 +1502,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-07-07T10:57:34.562862",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -15409,8 +15409,8 @@
             "referred_to": [
                 "faralahy6oXN0ZGd"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-07-04T17:11:18.760383",
+            "status": "active",
+            "countdown_start_time": "2025-07-11T19:02:48.669521",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
