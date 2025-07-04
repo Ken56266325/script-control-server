@@ -3331,7 +3331,8 @@
             "referred_to": [
                 "Luciano001673901",
                 "AndryyljIgCLp",
-                "FenoupnNariz"
+                "FenoupnNariz",
+                "Archin'ahPO2JitcO"
             ],
             "status": "active",
             "countdown_start_time": "2025-07-06T14:22:17.549065",
@@ -16782,6 +16783,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-07-04T19:26:49.350579",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Archin'ahPO2JitcO",
+            "android_id": "462a55033ef393f96c0f6ab52766a79d",
+            "referred_by": "LovaL819030",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-07-04T19:52:05.317641",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
