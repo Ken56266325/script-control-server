@@ -15351,7 +15351,9 @@
             "id": "RatondrainyFDAwIkib0Fb",
             "android_id": "68b4a34c1f5e5e86406df86dbdd5c7de",
             "referred_by": null,
-            "referred_to": [],
+            "referred_to": [
+                "HeriniainalHqSatRk"
+            ],
             "status": "active",
             "countdown_start_time": "2025-07-09T11:58:59.035187",
             "affiliation_balance": 0,
@@ -16782,6 +16784,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-07-04T19:26:49.350579",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "HeriniainalHqSatRk",
+            "android_id": "c488681c29be9c06330c6ee000e8c48f",
+            "referred_by": "RatondrainyFDAwIkib0Fb",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-07-04T19:34:11.174046",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
