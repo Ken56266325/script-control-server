@@ -2645,7 +2645,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-07-07T14:28:54.942231",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -2925,9 +2925,9 @@
                 "https://t.me/ANDRIANJAFIMITANATM9zX1cc",
                 "Puce4URodejcP"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-07-05T09:57:00.615649",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-07-12T15:01:33.835688",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
