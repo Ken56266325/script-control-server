@@ -7457,7 +7457,9 @@
             "id": "Smmboss58194920",
             "android_id": "1f3a83f1ea8910ffa4b06b8d77e7224a",
             "referred_by": "Tsila5819292",
-            "referred_to": [],
+            "referred_to": [
+                "https://t.me/popbro4ma33SS6"
+            ],
             "status": "active",
             "countdown_start_time": "2025-07-10T22:03:40.953708",
             "affiliation_balance": 0,
@@ -16848,6 +16850,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-07-12T08:21:54.776087",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "https://t.me/popbro4ma33SS6",
+            "android_id": "156566f0471a4a0bc0effa1ca2a1c135",
+            "referred_by": "Smmboss58194920",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-07-05T19:10:20.289320",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
