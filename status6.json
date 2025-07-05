@@ -5209,7 +5209,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-07-12T17:09:52.667073",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -5262,7 +5262,7 @@
             "referred_by": "William7919361810",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-07-05T20:00:34.304984",
+            "countdown_start_time": "2025-07-12T20:19:25.205023",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
