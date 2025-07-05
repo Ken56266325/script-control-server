@@ -5220,7 +5220,8 @@
                 "Rasoanarisoa6810321",
                 "Tina6819201",
                 "Basted'sBPdXrotk",
-                "Lauristeunoi0nET"
+                "Lauristeunoi0nET",
+                "Claudioh3JUwuOP"
             ],
             "status": "active",
             "countdown_start_time": "2025-07-11T07:46:24.360327",
@@ -16860,6 +16861,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-07-05T19:10:20.289320",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Claudioh3JUwuOP",
+            "android_id": "bdc129cf0833d0f91d535214830f082c",
+            "referred_by": "Airtel791628962",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-07-05T19:22:46.894454",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
