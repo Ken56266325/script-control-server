@@ -2646,7 +2646,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-07-07T14:28:54.942231",
-            "affiliation_balance": 3000,
+            "affiliation_balance": 4000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -2996,9 +2996,9 @@
                 "Narindra1IzmwEjr",
                 "hanintriainaErtuUECH"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-07-05T14:32:06.724711",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-07-12T18:27:06.216413",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
