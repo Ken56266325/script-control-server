@@ -1311,7 +1311,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-07-12T14:02:12.610606",
-            "affiliation_balance": 7000,
+            "affiliation_balance": 8000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -10173,7 +10173,7 @@
             "referred_by": "Mandresy241632",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-07-05T19:48:27.949118",
+            "countdown_start_time": "2025-07-12T19:48:27.949118",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
