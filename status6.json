@@ -10049,7 +10049,7 @@
             "android_id": "a4c54030d81c06a5a5c34272f31a9f3f",
             "referred_by": "Joel68010",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-07-06T22:48:08.328363",
             "affiliation_balance": 0,
             "plan": "Basique"
@@ -17049,7 +17049,7 @@
             "android_id": "/",
             "referred_by": null,
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-07-06T22:25:38.127063",
             "affiliation_balance": 0,
             "plan": "Basique"
