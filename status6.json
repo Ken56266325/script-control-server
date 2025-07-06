@@ -16928,7 +16928,8 @@
             "android_id": "00c69b476b73d2e378a24ce6a205d0d3",
             "referred_by": null,
             "referred_to": [
-                "MiestheraC8rPDw7P"
+                "MiestheraC8rPDw7P",
+                "NagiUminotrlwtbbl"
             ],
             "status": "active",
             "countdown_start_time": "2025-07-13T08:46:29.647739",
@@ -16982,6 +16983,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-07-06T19:18:01.115784",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "NagiUminotrlwtbbl",
+            "android_id": "124c87378f6b1cd56d19f3b9ad8b881e",
+            "referred_by": "CLEDONIEPaPjjI",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-07-06T20:21:36.696607",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
