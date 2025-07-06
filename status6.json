@@ -14411,7 +14411,8 @@
                 "AlexZcnYngQV",
                 "Juliendu9qUvsz",
                 "MiranaA38oKK4Q",
-                "Stephanion79oro8Y"
+                "Stephanion79oro8Y",
+                "Eric4tYrTeZc"
             ],
             "status": "active",
             "countdown_start_time": "2025-07-11T11:53:38.755479",
@@ -16937,6 +16938,16 @@
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2025-07-06T08:11:16.475960",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Eric4tYrTeZc",
+            "android_id": "7214061579a127aa6d65b6ae05e96073",
+            "referred_by": "NomenjanaharyJDNtnzH8",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-07-06T18:34:06.087197",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
