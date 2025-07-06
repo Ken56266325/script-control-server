@@ -15393,7 +15393,8 @@
             "android_id": "d5d48f3aeb97f3413ec065224cbcf2af",
             "referred_by": "ToneJuly681030",
             "referred_to": [
-                "JhoSlhmy6nK"
+                "JhoSlhmy6nK",
+                "Pogba5fr2uD5r"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-07-02T16:17:19.404927",
@@ -17038,6 +17039,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-07-06T22:25:38.127063",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Pogba5fr2uD5r",
+            "android_id": "6d85da6cf15f30cb28ce72967f82e298",
+            "referred_by": "AnthonieJMe3Z2lR",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-07-06T23:28:20.072287",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
