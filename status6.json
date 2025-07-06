@@ -1437,7 +1437,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-07-12T18:20:43.243904",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -3341,7 +3341,7 @@
                 "Archin'ahPO2JitcO"
             ],
             "status": "active",
-            "countdown_start_time": "2025-07-06T14:22:17.549065",
+            "countdown_start_time": "2025-07-13T14:44:41.318683",
             "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
