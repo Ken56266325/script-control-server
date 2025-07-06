@@ -739,7 +739,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-07-12T23:29:09.770825",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -2150,9 +2150,9 @@
                 "Tsizaraina89610302",
                 "Razaka57919292"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-07-06T13:00:58.006233",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-07-13T15:52:05.888625",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
