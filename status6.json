@@ -17030,6 +17030,16 @@
             "countdown_start_time": "2025-07-06T22:00:09.526860",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "FetisonRoIqA36kQi0ISizf",
+            "android_id": "/",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-07-06T22:25:38.127063",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
