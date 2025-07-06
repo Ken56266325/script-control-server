@@ -1860,7 +1860,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-06-25T18:16:24.765149",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -1888,9 +1888,9 @@
                 "Harris681971",
                 "Rodin79103890"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-07-06T13:00:09.974023",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-07-13T13:39:36.370664",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
