@@ -1810,7 +1810,8 @@
                 "Compte40y4Bcv14K",
                 "ClovianneXhpYq0k7",
                 "TahiryaxsWPEZl",
-                "AnrsiBYk3kWbQ"
+                "AnrsiBYk3kWbQ",
+                "Miandrisoa6znDptwC"
             ],
             "status": "active",
             "countdown_start_time": "2025-07-08T00:21:29.884037",
@@ -17216,6 +17217,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-07-07T23:44:15.363755",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Miandrisoa6znDptwC",
+            "android_id": "b2136c939e5cfde28eaf6af145df95e6",
+            "referred_by": "Wayne69193",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-07-08T01:54:35.652809",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
