@@ -8116,7 +8116,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-06-14T18:42:42.014011",
-            "affiliation_balance": 6000,
+            "affiliation_balance": 7000,
             "plan": "Basique"
         },
         {
@@ -12925,8 +12925,8 @@
             "referred_to": [
                 "Naro0xhSNAdp"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-07-06T19:20:52.216345",
+            "status": "active",
+            "countdown_start_time": "2025-07-14T15:21:12.195008",
             "affiliation_balance": 1000,
             "plan": "Basique"
         },
