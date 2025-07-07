@@ -2911,7 +2911,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-07-07T19:17:37.064369",
-            "affiliation_balance": 3000,
+            "affiliation_balance": 4000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -4019,9 +4019,9 @@
                 "Julio891992",
                 "Adriane899932904"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-07-07T19:12:29.624052",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-07-14T20:06:11.039981",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
