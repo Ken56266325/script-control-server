@@ -4871,7 +4871,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-07-11T15:12:34.075439",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -8655,7 +8655,7 @@
             "referred_by": "Damasc\u00e8ne6710302",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-07-07T19:54:21.752941",
+            "countdown_start_time": "2025-07-14T20:13:51.979806",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
