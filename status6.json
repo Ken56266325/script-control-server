@@ -9189,7 +9189,8 @@
                 "MICHAELSERGIOHV2wT26Y",
                 "@TsiveryshowGEZKzKgu",
                 "@angelatopy7ghFcIUC",
-                "@angelatopyn7e2U5vr"
+                "@angelatopyn7e2U5vr",
+                "@angelatopyeWSCw5JY"
             ],
             "status": "active",
             "countdown_start_time": "2025-07-07T18:51:41.110099",
@@ -17194,6 +17195,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-07-07T21:05:55.678115",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "@angelatopyeWSCw5JY",
+            "android_id": "42871b76bcd857410015c4911566ed07",
+            "referred_by": "+261331443017LHuEGatj",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-07-07T21:06:37.151191",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
