@@ -802,7 +802,8 @@
                 "MihajacSUmsdB5",
                 "BymfdTWpw4",
                 "NyMrkRsUJ2",
-                "FlancyvZlC5gFA"
+                "FlancyvZlC5gFA",
+                "MyZcTYAyit"
             ],
             "status": "active",
             "countdown_start_time": "2025-07-11T05:51:13.483115",
@@ -17161,6 +17162,16 @@
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2025-07-07T03:46:43.343906",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "MyZcTYAyit",
+            "android_id": "26ba63169ce8f67fa92c95a519d15de9",
+            "referred_by": "Miki5739",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-07-07T17:10:44.657352",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
