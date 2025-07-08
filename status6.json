@@ -5715,7 +5715,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-07-08T19:01:28.446165",
-            "affiliation_balance": 7000,
+            "affiliation_balance": 8000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -9168,7 +9168,7 @@
                 "Jonliemi80ZldT6"
             ],
             "status": "active",
-            "countdown_start_time": "2025-07-08T21:38:30.580346",
+            "countdown_start_time": "2025-07-15T21:38:30.580346",
             "affiliation_balance": 5000,
             "plan": "Basique"
         },
