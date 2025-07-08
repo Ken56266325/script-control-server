@@ -297,7 +297,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-06-25T08:46:48.977453",
-            "affiliation_balance": 3000,
+            "affiliation_balance": 4000,
             "android_id": "24e6c12d88d27aba84a80b1d0c821285",
             "countdown_paused": false,
             "plan": "Basique"
@@ -819,9 +819,9 @@
                 "Fanomezantsoa71899",
                 "Volatiana69193902"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-07-08T13:35:41.888614",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-07-15T16:55:01.464447",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
