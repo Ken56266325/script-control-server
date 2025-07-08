@@ -10920,7 +10920,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-07-06T14:56:35.334055",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique"
         },
         {
@@ -11676,8 +11676,8 @@
             "android_id": "93d1beeea68a243b779b6d2888192841",
             "referred_by": "valeryGVlimiteWPiXJalT",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2025-07-07T14:01:31.058238",
+            "status": "active",
+            "countdown_start_time": "2025-07-15T13:33:51.557748",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
