@@ -7951,7 +7951,8 @@
                 "Nasam64S41bQ5",
                 "DonatienrakotonirinaW1tKWvaT",
                 "@manountsosNkSduvt3",
-                "@OlivianbaymOmdDsEl"
+                "@OlivianbaymOmdDsEl",
+                "fid\u00e8ledoKrwGAutk"
             ],
             "status": "active",
             "countdown_start_time": "2025-07-13T09:52:28.359518",
@@ -17280,6 +17281,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-07-09T03:19:52.453088",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "fid\u00e8ledoKrwGAutk",
+            "android_id": "bd0dfa8d0b11c4ab3d9c896574937885",
+            "referred_by": "Dona68919229",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-07-09T04:21:19.336503",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
