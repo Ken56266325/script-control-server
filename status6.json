@@ -1895,7 +1895,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-07-13T13:39:36.370664",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -3492,8 +3492,8 @@
                 "Andii69103",
                 "Har7199392"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-07-08T08:35:08.086521",
+            "status": "active",
+            "countdown_start_time": "2025-07-15T21:55:16.402541",
             "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
