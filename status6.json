@@ -1438,7 +1438,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-07-12T18:20:43.243904",
-            "affiliation_balance": 6000,
+            "affiliation_balance": 7000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -4148,9 +4148,9 @@
                 "JeanPierritutTlwLlD",
                 "HoulderfYpospd9"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-07-07T15:22:11.488817",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-07-15T15:11:40.857329",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
