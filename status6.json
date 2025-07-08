@@ -3610,7 +3610,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-07-15T07:56:08.446240",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -7553,7 +7553,7 @@
             "referred_by": "Joel68010",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-07-08T16:07:21.588775",
+            "countdown_start_time": "2025-07-15T16:18:57.160341",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
@@ -15000,7 +15000,7 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-07-14T16:40:23.386129",
-            "affiliation_balance": 7000,
+            "affiliation_balance": 0,
             "plan": "Basique"
         },
         {
