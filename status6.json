@@ -12837,7 +12837,8 @@
                 "SandraVyMbmzFB",
                 "PrinciaefEEJMKW",
                 "DanielKCUBEs0Z",
-                "BroundaHDlzxJGRT5"
+                "BroundaHDlzxJGRT5",
+                "HajarivoyTnX7brp"
             ],
             "status": "active",
             "countdown_start_time": "2025-07-16T11:53:08.392606",
@@ -17346,6 +17347,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-07-10T03:44:47.381510",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "HajarivoyTnX7brp",
+            "android_id": "33ffb149815c5440ad25a3cae7d17022",
+            "referred_by": "MahefatinahajarivoaeJNpfdN",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-07-10T05:07:26.463808",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
