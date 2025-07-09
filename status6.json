@@ -3705,7 +3705,8 @@
                 "Rima7Gz4qeVs",
                 "AndricevZztlrB8",
                 "AndryU71m9Evi",
-                "LyndasYil2wnv"
+                "LyndasYil2wnv",
+                "TombotianaqiVqZGwF"
             ],
             "status": "active",
             "countdown_start_time": "2025-07-12T18:15:58.871394",
@@ -17335,6 +17336,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-07-17T02:29:26.265407",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "TombotianaqiVqZGwF",
+            "android_id": "5e9a8ffc5ca6d7b196f901b37536598c",
+            "referred_by": "Randrianarivo68130",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-07-10T03:44:47.381510",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
