@@ -9741,7 +9741,8 @@
                 "MialitinawSKVn6o5",
                 "Rojo3S6PrLZU",
                 "AdrianobmP75umk",
-                "LolynkzmFYHG"
+                "LolynkzmFYHG",
+                "LolyczTnwTPu"
             ],
             "status": "active",
             "countdown_start_time": "2025-07-10T16:07:03.837159",
@@ -17313,6 +17314,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-07-09T19:59:24.539731",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "LolyczTnwTPu",
+            "android_id": "07fb5a6f06c9d601e2dfc49c183eb6b5",
+            "referred_by": "JoharyQQx06ec7",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-07-09T20:00:51.396619",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
