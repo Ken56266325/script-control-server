@@ -3204,7 +3204,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-07-14T21:27:42.222254",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -5135,8 +5135,8 @@
                 "DominiquemFngsnTo"
             ],
             "status": "active",
-            "countdown_start_time": "2025-07-09T19:46:32.668394",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-07-16T19:46:32.668394",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
