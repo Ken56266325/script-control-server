@@ -6927,7 +6927,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-07-10T12:20:18.949077",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -13854,7 +13854,7 @@
             "referred_by": "Mamitina68010301",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-07-09T10:30:05.457617",
+            "countdown_start_time": "2025-07-16T11:08:31.377889",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
