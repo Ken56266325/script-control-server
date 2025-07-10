@@ -9007,7 +9007,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-07-07T19:35:43.089930",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -10743,8 +10743,8 @@
                 "LANTSOZYtv4bzhj6",
                 "Lagloiretaoe8gdL"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-07-10T08:48:01.264818",
+            "status": "active",
+            "countdown_start_time": "2025-07-17T13:43:59.990589",
             "affiliation_balance": 5000,
             "plan": "Basique"
         },
