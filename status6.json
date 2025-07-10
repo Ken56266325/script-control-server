@@ -5252,7 +5252,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-07-13T20:19:53.032019",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -10546,7 +10546,7 @@
             "referred_by": "YoMan691p321",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-07-10T09:47:55.899797",
+            "countdown_start_time": "2025-07-17T10:13:31.523465",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
