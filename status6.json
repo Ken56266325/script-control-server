@@ -1385,7 +1385,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-07-09T15:48:51.435599",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -8680,7 +8680,7 @@
             "referred_by": "Hoby5826",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-07-12T20:45:09.769999",
+            "countdown_start_time": "2025-07-19T20:45:09.769999",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
