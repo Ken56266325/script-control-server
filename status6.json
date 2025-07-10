@@ -3409,7 +3409,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-07-26T20:20:28.125455",
-            "affiliation_balance": 25000,
+            "affiliation_balance": 26000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -7754,7 +7754,7 @@
             "referred_by": "ToneJuly681030",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-07-10T19:06:55.817251",
+            "countdown_start_time": "2025-07-17T19:09:33.447929",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
