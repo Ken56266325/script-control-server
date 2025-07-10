@@ -1316,7 +1316,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-07-12T14:02:12.610606",
-            "affiliation_balance": 7000,
+            "affiliation_balance": 8000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -2182,9 +2182,9 @@
                 "Iary47103519",
                 "Rabary02RcIqSaLY"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-07-10T18:49:02.470897",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-07-17T20:41:44.503554",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
