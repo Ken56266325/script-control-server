@@ -8526,7 +8526,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-07-19T20:13:27.152399",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -12356,8 +12356,8 @@
             "referred_to": [
                 "lalainainbXxloS"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-07-10T05:42:32.659580",
+            "status": "active",
+            "countdown_start_time": "2025-07-17T19:11:24.003991",
             "affiliation_balance": 1000,
             "plan": "Basique"
         },
