@@ -1764,7 +1764,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-07-15T08:02:02.032017",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -6927,9 +6927,9 @@
                 "JulesnNAXNalA",
                 "PriscaWmQzA3Vo"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-07-10T12:20:18.949077",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-07-17T18:14:57.646476",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
