@@ -7078,7 +7078,7 @@
                 "Gerardherivalisoarp4mSL5L",
                 "MariusheriTqxBfSzp"
             ],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-07-11T21:14:46.477774",
             "affiliation_balance": 8000,
             "plan": "Basique",
@@ -10508,7 +10508,7 @@
             "android_id": "Haka ID unique tompoko",
             "referred_by": "Thierry R'andriiUSHsTvmS",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-07-11T21:25:11.434273",
             "affiliation_balance": 0,
             "plan": "Basique"
@@ -10860,7 +10860,7 @@
             "android_id": "af02bf0cc9f2af500646db42737dad08",
             "referred_by": "Emmanuel6837",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-07-11T21:19:55.869919",
             "affiliation_balance": 0,
             "plan": "Basique"
