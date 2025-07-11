@@ -1316,7 +1316,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-07-12T14:02:12.610606",
-            "affiliation_balance": 9000,
+            "affiliation_balance": 10000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -1347,7 +1347,7 @@
                 "Joelson3XdVgBfqO"
             ],
             "status": "active",
-            "countdown_start_time": "2025-07-18T16:52:13.187560",
+            "countdown_start_time": "2025-07-25T16:52:13.187560",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
