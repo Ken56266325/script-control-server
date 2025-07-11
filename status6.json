@@ -761,7 +761,8 @@
             "referred_to": [
                 "Sylvain6910317",
                 "Ruvaldo1R4ANUCz",
-                "DanielhC57xHhm"
+                "DanielhC57xHhm",
+                "Lahiandro8PafiZgP"
             ],
             "status": "active",
             "countdown_start_time": "2025-07-18T15:12:29.139034",
@@ -17379,6 +17380,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-07-12T00:50:53.696541",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Lahiandro8PafiZgP",
+            "android_id": "28979715",
+            "referred_by": "Carlos68301",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-07-12T02:45:52.299545",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
