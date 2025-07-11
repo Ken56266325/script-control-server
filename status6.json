@@ -2937,7 +2937,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-07-12T15:01:33.835688",
-            "affiliation_balance": 5000,
+            "affiliation_balance": 6000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -5237,9 +5237,9 @@
                 "Claudioh3JUwuOP"
             ],
             "status": "active",
-            "countdown_start_time": "2025-07-11T07:46:24.360327",
+            "countdown_start_time": "2025-07-18T07:47:58.357773",
             "affiliation_balance": 5000,
-            "plan": "VIP",
+            "plan": "Basique",
             "countdown_paused": false
         },
         {
