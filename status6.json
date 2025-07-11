@@ -1440,7 +1440,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-07-12T18:20:43.243904",
-            "affiliation_balance": 10000,
+            "affiliation_balance": 11000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -1678,7 +1678,7 @@
                 "FIDSONCFwJzXWB"
             ],
             "status": "active",
-            "countdown_start_time": "2025-07-11T18:17:42.498040",
+            "countdown_start_time": "2025-07-18T18:17:42.498040",
             "affiliation_balance": 6000,
             "plan": "Basique",
             "countdown_paused": false
