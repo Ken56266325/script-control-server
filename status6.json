@@ -2656,7 +2656,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-07-14T15:45:37.822379",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -3284,8 +3284,8 @@
                 "VOLATINAhTQFJRUk",
                 "RadoOvJMsySE"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-07-11T15:30:21.084562",
+            "status": "active",
+            "countdown_start_time": "2025-07-18T18:52:43.154259",
             "affiliation_balance": 6000,
             "plan": "Basique",
             "countdown_paused": false
