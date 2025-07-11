@@ -7742,7 +7742,8 @@
                 "RaholyroYkflgH",
                 "RijaZTEFjLYGS4P",
                 "MamyZme6ENOS",
-                "RijafeliciaR5stJlFM"
+                "RijafeliciaR5stJlFM",
+                "Eddy8vLafXih"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-07-10T16:48:35.253867",
@@ -17368,6 +17369,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-07-11T23:00:25.544357",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Eddy8vLafXih",
+            "android_id": "c973685aeae37296ff4963ac9c7b3a24",
+            "referred_by": "Paiso681992",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-07-12T00:50:53.696541",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
