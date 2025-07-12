@@ -17402,6 +17402,15 @@
             "countdown_start_time": "2025-07-12T23:31:21.099491",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Mariana234567",
+            "android_id": "5cd00284cc78c7d15f517ce02703fe47",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-07-19T16:28:34.420982",
+            "affiliation_balance": 0
         }
     ],
     "references": {
