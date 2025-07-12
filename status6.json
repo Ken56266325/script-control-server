@@ -4986,7 +4986,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-07-17T18:45:46.855211",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -11077,8 +11077,8 @@
                 "perytinotT9XVKpAY",
                 "gastrientsila47j7frwG"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-07-12T19:00:01.504708",
+            "status": "active",
+            "countdown_start_time": "2025-07-19T19:28:59.985628",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
