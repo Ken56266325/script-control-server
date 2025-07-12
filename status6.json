@@ -4325,7 +4325,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-07-09T10:34:41.407837",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -4926,9 +4926,9 @@
                 "Jeremie571e99",
                 "Bambi68193020"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-07-10T10:20:11.833896",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-07-19T17:50:04.513429",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
