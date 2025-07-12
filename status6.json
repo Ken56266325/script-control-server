@@ -9856,7 +9856,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-07-13T18:35:19.384918",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -12885,8 +12885,8 @@
             "referred_to": [
                 "RbwalkinQVvv82Pi"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-07-09T15:50:36.117307",
+            "status": "active",
+            "countdown_start_time": "2025-07-19T09:20:26.337972",
             "affiliation_balance": 2000,
             "plan": "Basique"
         },
