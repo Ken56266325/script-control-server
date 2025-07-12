@@ -5303,7 +5303,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-07-09T13:30:47.315606",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -6412,9 +6412,9 @@
                 "Mariellary33xWEy",
                 "tokyyHzU0cMz"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-07-09T09:41:36.770834",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-07-19T18:20:52.672317",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
