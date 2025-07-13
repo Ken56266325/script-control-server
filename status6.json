@@ -7054,7 +7054,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-06-26T20:01:10.997537",
-            "affiliation_balance": 9000,
+            "affiliation_balance": 10000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -15071,7 +15071,7 @@
             "referred_by": "Bevtt68192920",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-07-13T20:25:40.730115",
+            "countdown_start_time": "2025-07-20T20:25:40.730115",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
