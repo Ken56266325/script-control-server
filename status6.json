@@ -1242,7 +1242,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-07-18T12:04:03.097028",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -6361,7 +6361,7 @@
                 "22913841EA2DQ4QG"
             ],
             "status": "active",
-            "countdown_start_time": "2025-07-13T15:27:44.302188",
+            "countdown_start_time": "2025-07-20T15:41:13.012436",
             "affiliation_balance": 4000,
             "plan": "Basique",
             "countdown_paused": false
