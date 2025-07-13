@@ -1124,7 +1124,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-07-15T15:51:36.041320",
-            "affiliation_balance": 5000,
+            "affiliation_balance": 6000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -7963,8 +7963,8 @@
                 "@OlivianbaymOmdDsEl",
                 "fid\u00e8ledoKrwGAutk"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-07-13T09:52:28.359518",
+            "status": "active",
+            "countdown_start_time": "2025-07-20T10:40:14.094297",
             "affiliation_balance": 4000,
             "plan": "Basique"
         },
