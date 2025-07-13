@@ -3407,7 +3407,8 @@
                 "DhorickKaiqA7jJ",
                 "AnthonieJMe3Z2lR",
                 "Maharongatry1ysCar4h",
-                "Kumareg8znZ7S"
+                "Kumareg8znZ7S",
+                "CrhistaleBHZRnQxv"
             ],
             "status": "active",
             "countdown_start_time": "2025-07-26T20:20:28.125455",
@@ -17466,6 +17467,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-07-14T01:28:31.643024",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "CrhistaleBHZRnQxv",
+            "android_id": "0d4b2cb927cdb378c53db4e3d87fe7a6",
+            "referred_by": "ToneJuly681030",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-07-14T02:09:16.113538",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
