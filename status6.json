@@ -4134,7 +4134,8 @@
                 "ValisoagdkkzbMv",
                 "TovoLeietqim",
                 "Odonzr1EjMVZ",
-                "Princia5ayo0qo4"
+                "Princia5ayo0qo4",
+                "NambiwKWK45N1"
             ],
             "status": "active",
             "countdown_start_time": "2025-07-14T15:30:19.993524",
@@ -17421,6 +17422,16 @@
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2025-07-13T00:58:43.100102",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "NambiwKWK45N1",
+            "android_id": "6804a2f269860e2cc962e3b693777208",
+            "referred_by": "Timote689901",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-07-13T16:27:16.059034",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
