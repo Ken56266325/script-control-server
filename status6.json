@@ -1242,7 +1242,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-07-18T12:04:03.097028",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -14932,7 +14932,7 @@
                 "26665218LAoa5524"
             ],
             "status": "active",
-            "countdown_start_time": "2025-07-13T08:13:33.731471",
+            "countdown_start_time": "2025-07-20T08:35:43.508130",
             "affiliation_balance": 1000,
             "plan": "Basique"
         },
