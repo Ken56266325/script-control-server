@@ -739,7 +739,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-07-12T23:29:09.770825",
-            "affiliation_balance": 7000,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -8982,8 +8982,8 @@
                 "LalainahzWyT0HL",
                 "FanopbEbGocd"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-07-12T20:53:46.261718",
+            "status": "active",
+            "countdown_start_time": "2025-07-20T10:31:56.080520",
             "affiliation_balance": 5000,
             "plan": "Basique"
         },
