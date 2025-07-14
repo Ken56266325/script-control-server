@@ -2917,7 +2917,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-07-07T19:17:37.064369",
-            "affiliation_balance": 6000,
+            "affiliation_balance": 7000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -3137,9 +3137,9 @@
                 "FANDRESENAAaDuo7C1",
                 "rovisabatier8J84XBM7"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-07-14T14:12:17.834952",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-07-21T18:20:02.782609",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
