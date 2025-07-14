@@ -12349,7 +12349,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-07-17T14:24:56.954078",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -14608,7 +14608,7 @@
             "referred_by": "DagoSoDjKY3R",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-07-14T14:19:02.802082",
+            "countdown_start_time": "2025-07-21T14:19:02.802082",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
