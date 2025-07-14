@@ -3353,7 +3353,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-07-20T16:32:42.902192",
-            "affiliation_balance": 3000,
+            "affiliation_balance": 4000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -6085,8 +6085,8 @@
             "referred_to": [
                 "RanoelsonPdO8d0Bj"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-07-13T11:37:40.850822",
+            "status": "active",
+            "countdown_start_time": "2025-07-21T21:39:44.534425",
             "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
