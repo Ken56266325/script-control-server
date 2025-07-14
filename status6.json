@@ -2207,7 +2207,8 @@
                 "Ronaldo1pCCOq7Y",
                 "MbolaOe95txjV",
                 "MenakelyHEr1u8wS",
-                "LetinatVzS0yNer"
+                "LetinatVzS0yNer",
+                "BorytaWYUIwlIH"
             ],
             "status": "active",
             "countdown_start_time": "2025-07-17T20:34:31.306946",
@@ -17534,6 +17535,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-07-15T03:31:54.487027",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "BorytaWYUIwlIH",
+            "android_id": "fe8d5cfa4f5a3a9e146542cdf156922f",
+            "referred_by": "RanofaAuto",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-07-15T05:14:53.121522",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
