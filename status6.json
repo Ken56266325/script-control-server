@@ -4115,7 +4115,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-06-08T16:48:26.352351",
-            "affiliation_balance": 4000,
+            "affiliation_balance": 5000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -7223,8 +7223,8 @@
                 "AlphaMQQMUolP",
                 "ManouBa8fIWh2"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-07-10T10:37:40.457044",
+            "status": "active",
+            "countdown_start_time": "2025-07-21T08:04:39.784656",
             "affiliation_balance": 8000,
             "plan": "Basique",
             "countdown_paused": false
