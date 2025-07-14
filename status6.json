@@ -3111,7 +3111,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-07-19T20:18:17.057867",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -4327,9 +4327,9 @@
                 "Niaina78193o02",
                 "MialytOIc7das"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-07-09T10:34:41.407837",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-07-21T07:07:08.131443",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
