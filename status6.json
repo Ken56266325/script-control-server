@@ -1511,7 +1511,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-07-15T15:34:23.023032",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -7289,8 +7289,8 @@
             "android_id": "871464b5a4e2018c6ba72116693f8915",
             "referred_by": "Patty2751932",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2025-07-15T13:46:28.465138",
+            "status": "active",
+            "countdown_start_time": "2025-07-22T14:11:51.009524",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
