@@ -1347,7 +1347,8 @@
                 "FandresenaoNjiow86",
                 "SedyOJZhJe3T",
                 "Joelson4yl5w1ynA",
-                "Joelson3XdVgBfqO"
+                "Joelson3XdVgBfqO",
+                "Rova2WBY4X3v1"
             ],
             "status": "active",
             "countdown_start_time": "2025-08-01T16:52:13.187560",
@@ -17580,6 +17581,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-07-22T23:19:33.085655",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Rova2WBY4X3v1",
+            "android_id": "9d2a51036867217d8d0f97a896390e48",
+            "referred_by": "Hardy157204",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-07-16T09:15:49.170997",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
