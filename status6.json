@@ -1388,7 +1388,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-07-22T09:39:52.277008",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -1610,8 +1610,8 @@
                 "HyacintheRv9YXTYQ"
             ],
             "status": "active",
-            "countdown_start_time": "2025-07-15T12:51:00.188660",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-07-22T12:58:09.691613",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
