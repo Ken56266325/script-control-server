@@ -4882,7 +4882,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-07-18T17:51:09.802566",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -7211,7 +7211,7 @@
                 "MichellotSCmI04wq"
             ],
             "status": "active",
-            "countdown_start_time": "2025-07-15T08:05:16.219653",
+            "countdown_start_time": "2025-07-22T08:05:16.219653",
             "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
