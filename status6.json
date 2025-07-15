@@ -208,7 +208,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-07-15T14:24:19.991287",
-            "affiliation_balance": 24000,
+            "affiliation_balance": 25000,
             "android_id": "c4665ee227bd5513d44e32d4d69a242c",
             "countdown_paused": false,
             "plan": "Basique"
@@ -3615,9 +3615,9 @@
                 "Fabyri4KpyBE",
                 "PadjilbL1ejVk4"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-07-15T07:56:08.446240",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-07-22T08:56:44.220519",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
