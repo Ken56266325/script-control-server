@@ -208,7 +208,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-07-15T14:24:19.991287",
-            "affiliation_balance": 28000,
+            "affiliation_balance": 29000,
             "android_id": "c4665ee227bd5513d44e32d4d69a242c",
             "countdown_paused": false,
             "plan": "Basique"
@@ -503,8 +503,8 @@
                 "JeanmarchelsPCdd6km"
             ],
             "status": "active",
-            "countdown_start_time": "2025-07-15T13:31:17.766455",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-07-22T13:31:17.766455",
+            "affiliation_balance": 0,
             "countdown_paused": false,
             "plan": "Basique"
         },
