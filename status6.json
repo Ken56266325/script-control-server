@@ -4603,7 +4603,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-06-26T17:24:31.180362",
-            "affiliation_balance": 7000,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -10351,7 +10351,7 @@
             "referred_by": "Cetone479580",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-07-16T14:28:34.468868",
+            "countdown_start_time": "2025-07-23T14:28:34.468868",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
