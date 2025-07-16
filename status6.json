@@ -1032,7 +1032,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-07-23T11:17:08.018951",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -6648,7 +6648,7 @@
             "referred_by": "Lantsaniaina57204",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-07-16T21:06:57.699775",
+            "countdown_start_time": "2025-07-23T21:20:08.855886",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
