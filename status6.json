@@ -5409,7 +5409,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-07-15T19:10:13.202569",
-            "affiliation_balance": 3000,
+            "affiliation_balance": 4000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -12177,8 +12177,8 @@
                 "Nirina8gb7Sa8r",
                 "James2jF1oFaY"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-07-14T16:19:40.055268",
+            "status": "active",
+            "countdown_start_time": "2025-07-23T19:06:04.506508",
             "affiliation_balance": 2000,
             "plan": "Basique"
         },
