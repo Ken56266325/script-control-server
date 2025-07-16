@@ -3618,7 +3618,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-07-22T08:56:44.220519",
-            "affiliation_balance": 3000,
+            "affiliation_balance": 4000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -12844,8 +12844,8 @@
                 "yasnLQeRHoH8"
             ],
             "status": "active",
-            "countdown_start_time": "2025-07-16T09:32:11.205770",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-07-23T09:43:59.572732",
+            "affiliation_balance": 0,
             "plan": "Basique"
         },
         {
