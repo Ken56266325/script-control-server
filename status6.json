@@ -1352,7 +1352,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-01T16:52:13.187560",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -17590,7 +17590,7 @@
             "referred_by": "Hardy157204",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-07-16T09:15:49.170997",
+            "countdown_start_time": "2025-07-23T09:15:49.170997",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
