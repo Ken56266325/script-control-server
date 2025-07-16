@@ -12845,7 +12845,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-07-16T09:32:11.205770",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -16322,9 +16322,9 @@
             "android_id": "3c1f86955a8e8beb0f5eabf7f33cb6a3",
             "referred_by": "Hasina80bTZM6N",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2025-06-25T16:32:36.301390",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-07-23T07:44:02.473818",
+            "affiliation_balance": 0,
             "plan": "Basique"
         },
         {
