@@ -1319,7 +1319,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-07-20T15:49:19.195609",
-            "affiliation_balance": 6000,
+            "affiliation_balance": 7000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -2212,8 +2212,8 @@
                 "BorytaWYUIwlIH"
             ],
             "status": "active",
-            "countdown_start_time": "2025-07-17T20:34:31.306946",
-            "affiliation_balance": 12000,
+            "countdown_start_time": "2025-07-24T20:44:32.663966",
+            "affiliation_balance": 5000,
             "plan": "Basique",
             "countdown_paused": false
         },
