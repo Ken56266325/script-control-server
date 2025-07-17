@@ -671,7 +671,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-07-18T19:57:46.730123",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 3000,
             "countdown_paused": false,
             "plan": "Basique"
         },
@@ -12355,8 +12355,8 @@
                 "EmmanuelGeB2HfXv",
                 "BrownnewHT4pbwD"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-07-17T14:24:56.954078",
+            "status": "active",
+            "countdown_start_time": "2025-07-24T18:50:23.189483",
             "affiliation_balance": 2000,
             "plan": "Basique"
         },
