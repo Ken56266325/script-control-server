@@ -12861,7 +12861,8 @@
                 "PrinciaefEEJMKW",
                 "DanielKCUBEs0Z",
                 "BroundaHDlzxJGRT5",
-                "HajarivoyTnX7brp"
+                "HajarivoyTnX7brp",
+                "MHOwNaheUQ"
             ],
             "status": "active",
             "countdown_start_time": "2025-07-23T13:06:22.698549",
@@ -17657,6 +17658,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-07-18T02:36:10.718699",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "MHOwNaheUQ",
+            "android_id": "e1298a323efd388cd3bce52464763833",
+            "referred_by": "MahefatinahajarivoaeJNpfdN",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-07-18T03:19:57.404552",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
