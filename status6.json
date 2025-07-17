@@ -12435,7 +12435,9 @@
             "id": "Angeloo9rqKkIJ",
             "android_id": "623ca627e89ba09fa43b4a411094d41e",
             "referred_by": "Gogo57193929",
-            "referred_to": [],
+            "referred_to": [
+                "DaniaFaos9PfE"
+            ],
             "status": "active",
             "countdown_start_time": "2025-08-12T09:25:16.690496",
             "affiliation_balance": 0,
@@ -17622,6 +17624,16 @@
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2025-07-17T01:05:28.234193",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "DaniaFaos9PfE",
+            "android_id": "02fdbaa475f1a3eaf0ca2356f0485974",
+            "referred_by": "Angeloo9rqKkIJ",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-07-17T17:27:37.548055",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
