@@ -9023,7 +9023,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-07-23T06:40:19.294020",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -10760,7 +10760,7 @@
                 "Lagloiretaoe8gdL"
             ],
             "status": "active",
-            "countdown_start_time": "2025-07-17T13:43:59.990589",
+            "countdown_start_time": "2025-07-24T13:43:59.990589",
             "affiliation_balance": 5000,
             "plan": "Basique"
         },
