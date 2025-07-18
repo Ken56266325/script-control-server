@@ -17670,6 +17670,16 @@
             "countdown_start_time": "2025-07-18T03:19:57.404552",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "JudiquejcIEHzqg",
+            "android_id": "e8759d233cffe62e9f193b9fbe878384",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-07-18T17:25:14.047224",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
