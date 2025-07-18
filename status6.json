@@ -9116,7 +9116,8 @@
             "referred_by": "Rajaonarivo4792180",
             "referred_to": [
                 "santatraniainafbKiSwMb",
-                "CredienIigwlg6j"
+                "CredienIigwlg6j",
+                "manantenaLpAjgzy6"
             ],
             "status": "active",
             "countdown_start_time": "2025-07-22T17:39:40.414064",
@@ -17723,6 +17724,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-07-18T21:27:03.718505",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "manantenaLpAjgzy6",
+            "android_id": "da25a6256b44f2cbceaf9162ce65edce",
+            "referred_by": "Rasambatra telybsUgijZQ",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-07-18T22:40:48.835665",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
