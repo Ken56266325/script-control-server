@@ -15464,7 +15464,8 @@
                 "JhoSlhmy6nK",
                 "Pogba5fr2uD5r",
                 "SylvieiShdhZQ5",
-                "TommyULi1ZbYD"
+                "TommyULi1ZbYD",
+                "Tafitasom6R1oQy04"
             ],
             "status": "active",
             "countdown_start_time": "2025-07-20T17:02:41.766771",
@@ -17801,6 +17802,16 @@
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2025-07-19T08:40:10.757337",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Tafitasom6R1oQy04",
+            "android_id": "528ea7fc32170a2d0fc51df6de59c00d",
+            "referred_by": "AnthonieJMe3Z2lR",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-07-19T17:49:38.105644",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
