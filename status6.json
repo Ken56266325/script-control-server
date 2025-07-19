@@ -3659,7 +3659,8 @@
                 "Fame69103719",
                 "Claudio017812",
                 "Rkt6819942014",
-                "Valdo68199420"
+                "Valdo68199420",
+                "OliviaEPmCXslY"
             ],
             "status": "active",
             "countdown_start_time": "2025-07-22T12:11:05.042679",
@@ -17812,6 +17813,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-07-19T17:49:38.105644",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "OliviaEPmCXslY",
+            "android_id": "8168e6c71bee9e0e5bb6a2223a581eda",
+            "referred_by": "Robinson781930",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-07-19T20:13:10.671952",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
