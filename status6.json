@@ -10116,7 +10116,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-07-22T19:50:44.064691",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -10856,8 +10856,8 @@
             "referred_to": [
                 "SolofomGlhcPL8"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-07-19T09:21:24.518810",
+            "status": "active",
+            "countdown_start_time": "2025-07-26T15:20:18.615019",
             "affiliation_balance": 3000,
             "plan": "Basique"
         },
