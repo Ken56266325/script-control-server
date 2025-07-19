@@ -2490,7 +2490,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-04-14T15:34:16.012944",
-            "affiliation_balance": 16000,
+            "affiliation_balance": 17000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -2504,8 +2504,8 @@
                 "Hery5718282"
             ],
             "status": "active",
-            "countdown_start_time": "2025-07-19T21:47:21.027195",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-07-26T21:47:21.027195",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
