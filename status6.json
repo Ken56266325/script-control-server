@@ -8351,7 +8351,9 @@
             "id": "Valdo68199420",
             "android_id": "a23a52f5e52513247b1472125fd9642e",
             "referred_by": "Robinson781930",
-            "referred_to": [],
+            "referred_to": [
+                "RoselaBHfkREwa"
+            ],
             "status": "active",
             "countdown_start_time": "2025-07-26T12:43:30.938753",
             "affiliation_balance": 0,
@@ -17866,6 +17868,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-07-20T01:20:05.569346",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "RoselaBHfkREwa",
+            "android_id": "070315d7e3ae7062b8797aa9133368ce",
+            "referred_by": "Valdo68199420",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-07-20T03:46:46.307416",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
