@@ -5418,7 +5418,8 @@
                 "Eric8UqkCHxg",
                 "FalitianaRaza1VNQQEpF",
                 "jamesKLd0h2iF",
-                "AndoniainaUkIi3Hjp"
+                "AndoniainaUkIi3Hjp",
+                "@TojoRianala5DsmYENo"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-07-15T19:10:13.202569",
@@ -17953,6 +17954,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-07-21T03:53:51.474660",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "@TojoRianala5DsmYENo",
+            "android_id": "Rianala",
+            "referred_by": "Razakanirina6819482",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-07-21T03:58:38.618358",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
