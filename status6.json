@@ -2905,7 +2905,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-07-23T18:56:51.780013",
-            "affiliation_balance": 3000,
+            "affiliation_balance": 4000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -3843,9 +3843,9 @@
                 "NooneFFu6D5PW",
                 "CMTjzJN0ovR"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-07-20T09:18:28.200319",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-07-27T11:30:19.615106",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
