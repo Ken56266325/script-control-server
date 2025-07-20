@@ -1323,7 +1323,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-07-20T15:49:19.195609",
-            "affiliation_balance": 12000,
+            "affiliation_balance": 5000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -6893,8 +6893,8 @@
             "android_id": "c60f3bb8e45e42b9b910672f0392bfc6",
             "referred_by": "OlivNamb21",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2025-07-20T09:36:52.444382",
+            "status": "active",
+            "countdown_start_time": "2025-07-28T00:09:37.062310",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
