@@ -5256,7 +5256,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-07-25T08:04:00.995113",
-            "affiliation_balance": 7000,
+            "affiliation_balance": 8000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -16965,8 +16965,8 @@
             "android_id": "bdc129cf0833d0f91d535214830f082c",
             "referred_by": "Airtel791628962",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2025-07-19T21:02:52.305135",
+            "status": "active",
+            "countdown_start_time": "2025-07-27T11:10:08.165406",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
