@@ -4152,7 +4152,8 @@
                 "Odonzr1EjMVZ",
                 "Princia5ayo0qo4",
                 "NambiwKWK45N1",
-                "Charlinetiq36jqO"
+                "Charlinetiq36jqO",
+                "MamyCfpVtHFb"
             ],
             "status": "active",
             "countdown_start_time": "2025-07-21T16:22:13.587699",
@@ -17922,6 +17923,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-07-20T22:17:09.004556",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "MamyCfpVtHFb",
+            "android_id": "a2ff03e8c0c5e37228c962a7d49b460f",
+            "referred_by": "Timote689901",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-07-21T01:30:20.055085",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
