@@ -1448,7 +1448,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-07-26T19:21:45.299135",
-            "affiliation_balance": 12000,
+            "affiliation_balance": 13000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -3360,8 +3360,8 @@
                 "FenoupnNariz",
                 "Archin'ahPO2JitcO"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-07-20T16:32:42.902192",
+            "status": "active",
+            "countdown_start_time": "2025-07-27T17:38:49.074469",
             "affiliation_balance": 4000,
             "plan": "Basique",
             "countdown_paused": false
