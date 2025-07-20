@@ -2947,7 +2947,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-07-27T10:15:04.354799",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -3930,8 +3930,8 @@
                 "dicte24xHLA6Jjo"
             ],
             "status": "active",
-            "countdown_start_time": "2025-07-20T10:51:34.582294",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-07-27T11:24:44.931072",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
