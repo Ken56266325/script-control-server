@@ -1318,7 +1318,8 @@
                 "JeanFredVQ6XKW46",
                 "GilbertBqCHYDlX",
                 "GrandVAjwB8GZ",
-                "Narindra6D6bokJU"
+                "Narindra6D6bokJU",
+                "Test1cP7v3ZNr"
             ],
             "status": "active",
             "countdown_start_time": "2025-07-20T15:49:19.195609",
@@ -17911,6 +17912,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-07-20T21:15:39.995783",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Test1cP7v3ZNr",
+            "android_id": "afcd9af9a29c7fd527cc1a023f45fdd8",
+            "referred_by": "Mandresy241632",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-07-20T22:17:09.004556",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
