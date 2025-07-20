@@ -572,7 +572,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-07-23T09:44:09.956809",
-            "affiliation_balance": 3000,
+            "affiliation_balance": 4000,
             "countdown_paused": false,
             "plan": "Basique"
         },
@@ -1824,9 +1824,9 @@
                 "Miandrisoa6znDptwC",
                 "TaskmanR1OYPkLq"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-07-17T17:33:46.198258",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-07-27T22:25:38.930457",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
