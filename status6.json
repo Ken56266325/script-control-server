@@ -1391,7 +1391,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-07-22T09:39:52.277008",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -1496,9 +1496,9 @@
                 "Arijaona79124",
                 "Manun7pigSsT"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-07-12T09:47:38.125297",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-07-27T10:59:09.012623",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
