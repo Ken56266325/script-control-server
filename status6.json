@@ -15195,7 +15195,7 @@
             "android_id": "da3f7fa84fa6b8f298040152da04010e",
             "referred_by": "Chance69680",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-07-21T15:04:51.056338",
             "affiliation_balance": 0,
             "plan": "Basique"
@@ -16177,7 +16177,7 @@
             "android_id": "9f52dc1fefe00b3e5ccd95d0455e2b0a",
             "referred_by": null,
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-07-21T14:59:54.059346",
             "affiliation_balance": 0,
             "plan": "Basique"
@@ -16561,7 +16561,7 @@
             "referred_to": [
                 "HeritinaNPnfBAO0"
             ],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-07-21T15:04:01.112026",
             "affiliation_balance": 1000,
             "plan": "Basique"
