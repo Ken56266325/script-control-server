@@ -1516,7 +1516,8 @@
                 "Andriia6819320",
                 "Patric681992",
                 "ferena581939",
-                "zandrikelitVlTHGXMS"
+                "zandrikelitVlTHGXMS",
+                "Ferena7ykfUmXo"
             ],
             "status": "active",
             "countdown_start_time": "2025-07-23T06:55:05.980700",
@@ -18096,6 +18097,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-07-22T05:07:48.133733",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Ferena7ykfUmXo",
+            "android_id": "f7adfbfd684131d3d7ae15202fdb75c8",
+            "referred_by": "Patty2751932",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-07-22T05:56:31.096055",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
