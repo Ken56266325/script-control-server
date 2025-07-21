@@ -17953,7 +17953,7 @@
             "android_id": "Tojo",
             "referred_by": null,
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-07-21T03:53:51.474660",
             "affiliation_balance": 0,
             "plan": "Basique"
@@ -17963,7 +17963,7 @@
             "android_id": "Rianala",
             "referred_by": "Razakanirina6819482",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-07-21T03:58:38.618358",
             "affiliation_balance": 0,
             "plan": "Basique"
