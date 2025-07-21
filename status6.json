@@ -7048,7 +7048,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-07-24T16:18:39.979514",
-            "affiliation_balance": 3000,
+            "affiliation_balance": 4000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -16650,7 +16650,7 @@
             "referred_by": "Itsimindrana",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-07-23T08:53:28.213988",
+            "countdown_start_time": "2025-07-30T08:53:28.213988",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
