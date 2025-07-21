@@ -8332,7 +8332,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-07-23T20:51:03.360148",
-            "affiliation_balance": 4000,
+            "affiliation_balance": 5000,
             "plan": "Basique"
         },
         {
@@ -9299,8 +9299,8 @@
             "referred_to": [
                 "Nandrianinaz9NosaKY"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-07-04T08:33:44.469096",
+            "status": "active",
+            "countdown_start_time": "2025-07-28T12:49:14.188501",
             "affiliation_balance": 2000,
             "plan": "Basique"
         },
