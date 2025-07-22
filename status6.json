@@ -3736,7 +3736,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-07-26T18:15:58.871394",
-            "affiliation_balance": 6000,
+            "affiliation_balance": 7000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -5481,8 +5481,8 @@
                 "PabloHklLTqUM"
             ],
             "status": "active",
-            "countdown_start_time": "2025-07-22T17:13:36.258003",
-            "affiliation_balance": 14000,
+            "countdown_start_time": "2025-07-29T17:13:36.258003",
+            "affiliation_balance": 0,
             "plan": "VIP",
             "countdown_paused": false
         },
