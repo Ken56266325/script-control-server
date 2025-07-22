@@ -7057,7 +7057,7 @@
                 "GerardhMvQG5IQ"
             ],
             "status": "active",
-            "countdown_start_time": "2025-07-24T16:18:39.979514",
+            "countdown_start_time": "2025-07-28T20:11:16.120089",
             "affiliation_balance": 4000,
             "plan": "Basique",
             "countdown_paused": false
@@ -18184,16 +18184,6 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-07-23T04:09:22.378495",
-            "affiliation_balance": 0,
-            "plan": "Basique"
-        },
-        {
-            "id": "Jokerse7T1E5wb",
-            "android_id": "d128252c2f4210e64f86c849d056a127",
-            "referred_by": null,
-            "referred_to": [],
-            "status": "active",
-            "countdown_start_time": "2025-07-23T04:11:11.138612",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
