@@ -2631,7 +2631,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-07-18T13:51:21.185492",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -3672,9 +3672,9 @@
                 "Valdo68199420",
                 "OliviaEPmCXslY"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-07-22T12:11:05.042679",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-07-29T12:35:41.124880",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
