@@ -2634,7 +2634,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-07-18T13:51:21.185492",
-            "affiliation_balance": 3000,
+            "affiliation_balance": 4000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -6693,9 +6693,9 @@
                 "PierretteO1KU5acN",
                 "Sedrar8opLuxd"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-07-21T22:07:47.343908",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-07-29T18:54:13.265015",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
