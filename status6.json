@@ -1504,7 +1504,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-07-27T10:59:09.012623",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -2930,9 +2930,9 @@
                 "Lina4689",
                 "Ni681200"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-07-22T04:23:27.562389",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-07-29T06:36:24.640281",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
