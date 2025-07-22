@@ -1323,7 +1323,8 @@
                 "Test1cP7v3ZNr",
                 "NaharylIKBrlWG",
                 "Arisfw3Pktm8",
-                "FanevaCJOhDxo7"
+                "FanevaCJOhDxo7",
+                "EtiennehHRId24r"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-07-20T15:49:19.195609",
@@ -18151,6 +18152,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-07-23T01:38:49.555763",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "EtiennehHRId24r",
+            "android_id": "bbdd136cb41899e273c034b9291a89bc",
+            "referred_by": "Mandresy241632",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-07-23T02:25:14.558882",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
