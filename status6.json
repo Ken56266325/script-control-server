@@ -2224,7 +2224,8 @@
                 "MenakelyHEr1u8wS",
                 "LetinatVzS0yNer",
                 "BorytaWYUIwlIH",
-                "Ranofaw97v1STC"
+                "Ranofaw97v1STC",
+                "Garco\ud83d\ude05bcUOewsw"
             ],
             "status": "active",
             "countdown_start_time": "2025-07-24T20:44:32.663966",
@@ -18162,6 +18163,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-07-23T02:25:14.558882",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Garco\ud83d\ude05bcUOewsw",
+            "android_id": "cb31730f68a8e694b555d1b0eaaf4d47",
+            "referred_by": "RanofaAuto",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-07-23T02:28:48.350009",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
