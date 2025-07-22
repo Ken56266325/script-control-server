@@ -10973,7 +10973,8 @@
                 "NestorAlvisysUfWPrPk",
                 "mickaGVlimite4HxB3MqZ",
                 "AinaraisstgMpWtB",
-                "Zjuman27ZiJZz8l"
+                "Zjuman27ZiJZz8l",
+                "njakatinaBKNCoLip"
             ],
             "status": "active",
             "countdown_start_time": "2025-07-23T16:13:38.927183",
@@ -18118,6 +18119,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-07-29T18:45:42.418155",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "njakatinaBKNCoLip",
+            "android_id": "3a8524559f600a00c1ca7323145311a2",
+            "referred_by": "valeryGVlimiteWPiXJalT",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-07-22T20:49:20.336948",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
