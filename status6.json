@@ -674,7 +674,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-07-25T20:57:30.349185",
-            "affiliation_balance": 3000,
+            "affiliation_balance": 4000,
             "countdown_paused": false,
             "plan": "Basique"
         },
@@ -5107,7 +5107,7 @@
                 "TolotrafPTY6rzO"
             ],
             "status": "active",
-            "countdown_start_time": "2025-07-23T18:35:30.449027",
+            "countdown_start_time": "2025-07-30T19:01:53.703431",
             "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
