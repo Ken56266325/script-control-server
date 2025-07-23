@@ -1325,7 +1325,8 @@
                 "Arisfw3Pktm8",
                 "FanevaCJOhDxo7",
                 "EtiennehHRId24r",
-                "FinaritratkCZLHR9"
+                "FinaritratkCZLHR9",
+                "NatapwsXWG2R"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-07-20T15:49:19.195609",
@@ -18249,6 +18250,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-07-24T02:38:04.185127",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "NatapwsXWG2R",
+            "android_id": "9ea6fdb240118ab085e2ec62d0498649",
+            "referred_by": "Mandresy241632",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-07-24T03:28:13.531181",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
