@@ -11140,7 +11140,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-07-26T19:38:21.304206",
-            "affiliation_balance": 3000,
+            "affiliation_balance": 4000,
             "plan": "Basique"
         },
         {
@@ -15106,8 +15106,8 @@
             "referred_to": [
                 "bienaimeLLcwbnRD"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-07-07T17:03:46.942734",
+            "status": "active",
+            "countdown_start_time": "2025-07-31T18:22:56.685914",
             "affiliation_balance": 2000,
             "plan": "Basique"
         },
