@@ -674,7 +674,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-07-25T20:57:30.349185",
-            "affiliation_balance": 4000,
+            "affiliation_balance": 5000,
             "countdown_paused": false,
             "plan": "Basique"
         },
@@ -12404,8 +12404,8 @@
                 "BrownnewHT4pbwD",
                 "BronakamanczlfZou2"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-07-24T18:50:23.189483",
+            "status": "active",
+            "countdown_start_time": "2025-07-31T19:39:24.129329",
             "affiliation_balance": 6000,
             "plan": "Basique"
         },
