@@ -301,7 +301,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-06-25T08:46:48.977453",
-            "affiliation_balance": 10000,
+            "affiliation_balance": 11000,
             "android_id": "24e6c12d88d27aba84a80b1d0c821285",
             "countdown_paused": false,
             "plan": "Basique"
@@ -700,9 +700,9 @@
                 "Chance69680",
                 "herman3425dh6R82Kk"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-07-23T11:45:40.065955",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-07-31T08:32:05.439679",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
