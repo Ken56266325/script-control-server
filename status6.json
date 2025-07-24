@@ -5285,7 +5285,8 @@
             "referred_by": "Andriamahefa58103",
             "referred_to": [
                 "Xxxx6UBIlfgH9",
-                "NataciIdDUSs"
+                "NataciIdDUSs",
+                "HasxfnSYzSs"
             ],
             "status": "active",
             "countdown_start_time": "2025-07-27T20:19:53.032019",
@@ -18282,6 +18283,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-07-31T06:52:39.626238",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "HasxfnSYzSs",
+            "android_id": "c90a8940b8dbea966fa4188ba42f52a3",
+            "referred_by": "YoMan691p321",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-07-24T14:23:43.298262",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
