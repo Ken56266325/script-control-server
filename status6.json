@@ -16582,7 +16582,8 @@
             "android_id": "20912220",
             "referred_by": "PertinotlrajveKh",
             "referred_to": [
-                "HeritinaNPnfBAO0"
+                "HeritinaNPnfBAO0",
+                "NadiaxEHQNbby"
             ],
             "status": "active",
             "countdown_start_time": "2025-07-28T15:56:07.658726",
@@ -18315,6 +18316,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-07-25T02:28:48.247157",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "NadiaxEHQNbby",
+            "android_id": "ffd497db7b7a6243880a2b0d93b45e62",
+            "referred_by": "gastrientsila47j7frwG",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-07-25T03:18:54.139325",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
