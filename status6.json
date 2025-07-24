@@ -507,7 +507,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-07-29T13:31:17.766455",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "countdown_paused": false,
             "plan": "Basique"
         },
@@ -7791,8 +7791,8 @@
                 "Eddy8vLafXih",
                 "sophieQFO6HHB9"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-07-18T19:55:31.269907",
+            "status": "active",
+            "countdown_start_time": "2025-07-31T12:46:22.528055",
             "affiliation_balance": 5000,
             "plan": "Basique"
         },
