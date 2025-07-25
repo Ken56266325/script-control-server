@@ -2078,7 +2078,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-07-05T23:31:50.868036",
-            "affiliation_balance": 6000,
+            "affiliation_balance": 7000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -11295,8 +11295,8 @@
             "referred_to": [
                 "Mahery31Idpkxrrq"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-07-25T15:45:14.816796",
+            "status": "active",
+            "countdown_start_time": "2025-08-01T17:53:06.875066",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
