@@ -4188,7 +4188,8 @@
                 "Jackelin5719e930",
                 "DouglasQ6w5gJQU",
                 "JeanPierritutTlwLlD",
-                "HoulderfYpospd9"
+                "HoulderfYpospd9",
+                "NomenaD7p2UdQ7"
             ],
             "status": "active",
             "countdown_start_time": "2025-07-29T17:11:58.487660",
@@ -18394,6 +18395,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-07-25T23:45:36.048321",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "NomenaD7p2UdQ7",
+            "android_id": "d69b446c6e9d02d0914784599317695cd69b446c6e9d02d0914784599317695c",
+            "referred_by": "Sa\u00efd681930",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-07-26T02:07:57.640682",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
