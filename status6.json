@@ -14032,7 +14032,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-07-23T18:37:14.818588",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -18374,7 +18374,7 @@
             "referred_by": "NandrianinarandDLhlYKjO",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-07-25T17:57:01.808304",
+            "countdown_start_time": "2025-08-01T18:14:05.934447",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
