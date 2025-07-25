@@ -8007,7 +8007,8 @@
                 "DonatienrakotonirinaW1tKWvaT",
                 "@manountsosNkSduvt3",
                 "@OlivianbaymOmdDsEl",
-                "fid\u00e8ledoKrwGAutk"
+                "fid\u00e8ledoKrwGAutk",
+                "LalainaAYKzORIN"
             ],
             "status": "active",
             "countdown_start_time": "2025-07-27T10:47:08.102275",
@@ -18373,6 +18374,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-07-25T17:57:01.808304",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "LalainaAYKzORIN",
+            "android_id": "9e2c732a884c56c3f5920eb92935606d",
+            "referred_by": "Dona68919229",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-07-25T23:12:50.379048",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
