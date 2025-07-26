@@ -4916,7 +4916,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-07-28T07:50:22.621241",
-            "affiliation_balance": 3000,
+            "affiliation_balance": 4000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -8218,8 +8218,8 @@
             "android_id": "cb3d427fbf0cec4ee3ebac0d43f25d48",
             "referred_by": "Damasc\u00e8ne6710302",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2025-07-26T19:10:36.709926",
+            "status": "active",
+            "countdown_start_time": "2025-08-02T19:56:23.507956",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
