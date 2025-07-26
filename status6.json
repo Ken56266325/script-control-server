@@ -8834,7 +8834,8 @@
                 "@BaokolitraK5LdHVLp",
                 "violetteRegineugm7gmmJ",
                 "@lorhtinZSxiECEQ",
-                "@tinahmihajasoa6xI68fuc"
+                "@tinahmihajasoa6xI68fuc",
+                "@abelamalalae4GG3j6Q"
             ],
             "status": "active",
             "countdown_start_time": "2025-07-28T08:28:32.177258",
@@ -18427,6 +18428,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-07-26T19:52:33.587940",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "@abelamalalae4GG3j6Q",
+            "android_id": "8b3eb9882749f99f49f7dccf6dcf25c4",
+            "referred_by": "Claudin6189393",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-07-26T20:04:31.699041",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
