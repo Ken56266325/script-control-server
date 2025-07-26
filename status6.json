@@ -5343,7 +5343,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-07-31T11:34:48.050238",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -6458,8 +6458,8 @@
                 "tokyyHzU0cMz"
             ],
             "status": "active",
-            "countdown_start_time": "2025-07-26T19:36:50.547701",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-08-02T20:00:17.509796",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
