@@ -2921,7 +2921,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-01T13:52:12.424223",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -5024,8 +5024,8 @@
                 "ElietFWsQ9CqJ"
             ],
             "status": "active",
-            "countdown_start_time": "2025-07-26T18:41:39.628493",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-08-02T18:47:50.213322",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
