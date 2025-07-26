@@ -3265,7 +3265,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-07-04T16:48:58.847669",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -5614,8 +5614,8 @@
                 "Nivohu5hKo8c",
                 "CelestineDX1eASZy"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-07-25T21:24:16.071081",
+            "status": "active",
+            "countdown_start_time": "2025-08-02T13:41:51.496473",
             "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
