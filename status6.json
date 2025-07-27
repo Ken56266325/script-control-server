@@ -2921,7 +2921,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-01T13:52:12.424223",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -3336,9 +3336,9 @@
                 "Prosper68193030",
                 "antsoMV0V6enr"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-07-26T15:49:44.778050",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-08-03T07:24:27.912324",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
