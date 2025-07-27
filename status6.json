@@ -18480,9 +18480,21 @@
             "id": "LucieeHUHXdoD",
             "android_id": "423b7825b74c26b23a6aa7ccc5b23b1c",
             "referred_by": "Harimalala58294",
-            "referred_to": [],
+            "referred_to": [
+                "HarimalalaG9YXORAr"
+            ],
             "status": "active",
             "countdown_start_time": "2025-07-27T15:34:05.521968",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "HarimalalaG9YXORAr",
+            "android_id": "f927039a0ae71338ac6809ecaf49a1f9",
+            "referred_by": "LucieeHUHXdoD",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-07-27T17:19:20.558496",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
