@@ -3745,7 +3745,8 @@
                 "AbelXeYyq64z",
                 "Alfap3Qw2RBv",
                 "Ondriphaohib3DQj",
-                "Cisemany55B0YdL"
+                "Cisemany55B0YdL",
+                "FinaritrahgHpR71m"
             ],
             "status": "active",
             "countdown_start_time": "2025-08-02T18:26:42.163934",
@@ -18549,6 +18550,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-07-27T23:22:19.060653",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "FinaritrahgHpR71m",
+            "android_id": "d983ff3b4bb16c22ea95fc8b69ae7142",
+            "referred_by": "Randrianarivo68130",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-07-27T23:46:26.051772",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
