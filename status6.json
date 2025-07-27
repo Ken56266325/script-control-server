@@ -1130,7 +1130,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-07-30T10:21:50.465228",
-            "affiliation_balance": 7000,
+            "affiliation_balance": 8000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -8017,8 +8017,8 @@
                 "fid\u00e8ledoKrwGAutk",
                 "LalainaAYKzORIN"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-07-27T10:47:08.102275",
+            "status": "active",
+            "countdown_start_time": "2025-08-03T13:06:03.466896",
             "affiliation_balance": 3000,
             "plan": "Basique"
         },
