@@ -2940,7 +2940,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-07-29T06:36:24.640281",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -3134,8 +3134,8 @@
                 "MialyIVz1NM1Q"
             ],
             "status": "active",
-            "countdown_start_time": "2025-07-27T06:57:27.496533",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-08-03T07:16:21.632517",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
