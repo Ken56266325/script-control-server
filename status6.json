@@ -3136,7 +3136,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-03T07:16:21.632517",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -4364,9 +4364,9 @@
                 "MialytOIc7das",
                 "MarcoJNhGEtaE"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-07-21T07:07:08.131443",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-08-03T15:00:07.122225",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
