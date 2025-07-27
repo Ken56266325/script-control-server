@@ -4361,7 +4361,8 @@
                 "Sarobidy68921",
                 "Andr\u00e9as7819933",
                 "Niaina78193o02",
-                "MialytOIc7das"
+                "MialytOIc7das",
+                "MarcoJNhGEtaE"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-07-21T07:07:08.131443",
@@ -18495,6 +18496,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-07-27T17:19:20.558496",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "MarcoJNhGEtaE",
+            "android_id": "144a5e82950fd801b2e7f5802d65d5fa",
+            "referred_by": "Japhet589300",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-07-27T17:53:23.302096",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
