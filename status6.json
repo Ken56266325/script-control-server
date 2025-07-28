@@ -11162,7 +11162,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-02T19:52:03.274064",
-            "affiliation_balance": 7000,
+            "affiliation_balance": 8000,
             "plan": "Basique"
         },
         {
@@ -16617,8 +16617,8 @@
                 "HeritinaNPnfBAO0",
                 "NadiaxEHQNbby"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-07-28T15:56:07.658726",
+            "status": "active",
+            "countdown_start_time": "2025-08-04T19:01:06.485555",
             "affiliation_balance": 3000,
             "plan": "Basique"
         },
