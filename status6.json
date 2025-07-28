@@ -5880,7 +5880,8 @@
                 "Ramasala5IMcOMpR",
                 "Velotsara12zREg9jQz",
                 "Marianoh125b4b6hHk",
-                "Ariceshowc1q8U1Pa"
+                "Ariceshowc1q8U1Pa",
+                "RodrigoSqnukmrg"
             ],
             "status": "active",
             "countdown_start_time": "2025-07-29T09:13:21.256605",
@@ -18670,6 +18671,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-07-29T01:48:40.497599",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "RodrigoSqnukmrg",
+            "android_id": "cfea4f92d243614773a3799226992181",
+            "referred_by": "Velotsara681900",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-07-29T02:14:08.778170",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
