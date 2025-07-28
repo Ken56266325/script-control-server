@@ -1245,7 +1245,8 @@
                 "NatenasuO9lwyl",
                 "SeriniabiCHvXSn",
                 "BlandineavfsukI3",
-                "SitrakatvKUIp5N"
+                "SitrakatvKUIp5N",
+                "ElijoypS2ZH1k4"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-07-25T16:51:38.590491",
@@ -18681,6 +18682,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-07-29T02:14:08.778170",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "ElijoypS2ZH1k4",
+            "android_id": "1b2f20ac4901611361c04854d1eada69",
+            "referred_by": "Gaelode10361",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-07-29T02:30:34.175260",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
