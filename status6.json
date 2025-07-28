@@ -18605,6 +18605,16 @@
             "countdown_start_time": "2025-07-28T20:22:24.506526",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Waisnay6aZdxkmZ",
+            "android_id": "8a8edfc9b7c5d4612b878435ce323945",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-07-28T21:14:59.552003",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
