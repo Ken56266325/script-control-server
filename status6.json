@@ -1461,7 +1461,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-02T19:53:21.680934",
-            "affiliation_balance": 9000,
+            "affiliation_balance": 10000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -4181,8 +4181,8 @@
                 "Charlinetiq36jqO",
                 "MamyCfpVtHFb"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-07-28T16:43:02.945370",
+            "status": "active",
+            "countdown_start_time": "2025-08-04T17:32:02.822884",
             "affiliation_balance": 15000,
             "plan": "Basique",
             "countdown_paused": false
