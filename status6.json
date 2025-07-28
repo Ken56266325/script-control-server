@@ -5501,7 +5501,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-07-29T17:36:50.221785",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "VIP",
             "countdown_paused": false
         },
@@ -8846,8 +8846,8 @@
                 "@abelamalalae4GG3j6Q"
             ],
             "status": "active",
-            "countdown_start_time": "2025-07-28T08:28:32.177258",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-08-04T08:37:24.008640",
+            "affiliation_balance": 0,
             "plan": "Basique"
         },
         {
