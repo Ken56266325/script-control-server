@@ -2642,7 +2642,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-02T15:07:36.382032",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -3267,9 +3267,9 @@
                 "TahinaeVi4RHM8",
                 "Dane03bKyluv"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-07-04T16:48:58.847669",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-08-04T12:21:26.767182",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
