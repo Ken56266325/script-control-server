@@ -3444,7 +3444,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-26T15:02:35.857788",
-            "affiliation_balance": 23000,
+            "affiliation_balance": 24000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -15538,9 +15538,9 @@
                 "Tafitasom6R1oQy04",
                 "OlyNvMSQmhH"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-07-29T13:24:07.232595",
-            "affiliation_balance": 8000,
+            "status": "active",
+            "countdown_start_time": "2025-08-05T17:25:39.617388",
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
