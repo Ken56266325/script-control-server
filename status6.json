@@ -8854,7 +8854,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-04T08:37:24.008640",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -9279,7 +9279,7 @@
                 "@tsangowayFITjJ9ro"
             ],
             "status": "active",
-            "countdown_start_time": "2025-07-29T13:55:10.081707",
+            "countdown_start_time": "2025-08-05T14:18:10.844413",
             "affiliation_balance": 7000,
             "plan": "Basique"
         },
