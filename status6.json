@@ -3345,7 +3345,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-03T07:24:27.912324",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -8078,8 +8078,8 @@
             "android_id": "3250022415511a026732c5b970f70ede",
             "referred_by": "Hary79103",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2025-07-29T15:16:19.844360",
+            "status": "active",
+            "countdown_start_time": "2025-08-05T17:26:09.805755",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
