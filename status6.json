@@ -9249,7 +9249,7 @@
             "referred_to": [
                 "Jonliemi80ZldT6"
             ],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-07-29T23:24:12.181568",
             "affiliation_balance": 1000,
             "plan": "Basique"
@@ -10169,7 +10169,7 @@
             "referred_to": [
                 "LirmaniBwlTp0w"
             ],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-07-29T23:21:00.100984",
             "affiliation_balance": 1000,
             "plan": "Basique"
@@ -17675,7 +17675,7 @@
             "android_id": "cd316bf6a69e9b3182eb21cb90f57c4d",
             "referred_by": "AnthonieJMe3Z2lR",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-07-29T23:19:33.085655",
             "affiliation_balance": 0,
             "plan": "Basique"
