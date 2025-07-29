@@ -5035,7 +5035,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-02T18:47:50.213322",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -9176,9 +9176,9 @@
                 "CredienIigwlg6j",
                 "manantenaLpAjgzy6"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-07-29T18:28:18.323528",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-08-05T18:51:04.157040",
+            "affiliation_balance": 0,
             "plan": "Basique"
         },
         {
