@@ -18705,6 +18705,16 @@
             "countdown_start_time": "2025-07-29T07:14:14.761816",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Tsihosena91xVyLI5",
+            "android_id": "060f89a28078976d2b5b828af32e619d",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-07-29T17:56:59.896832",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
