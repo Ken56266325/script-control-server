@@ -3756,7 +3756,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-02T18:26:42.163934",
-            "affiliation_balance": 5000,
+            "affiliation_balance": 6000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -5503,9 +5503,9 @@
                 "MiantsaVB2f2FEF",
                 "PabloHklLTqUM"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-07-29T17:36:50.221785",
-            "affiliation_balance": 14000,
+            "status": "active",
+            "countdown_start_time": "2025-08-05T17:46:42.300946",
+            "affiliation_balance": 0,
             "plan": "VIP",
             "countdown_paused": false
         },
