@@ -5389,7 +5389,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-03-29T00:21:04.779692",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -6763,7 +6763,7 @@
                 "stessieGOLvkSzH"
             ],
             "status": "active",
-            "countdown_start_time": "2025-07-29T18:07:48.048045",
+            "countdown_start_time": "2025-08-05T18:09:43.683369",
             "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
