@@ -1405,8 +1405,8 @@
                 "FaustaDl1RwW4d"
             ],
             "status": "active",
-            "countdown_start_time": "2025-07-29T15:56:24.625799",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-08-05T15:56:24.625799",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -2286,7 +2286,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-03-24T17:57:30.901276",
-            "affiliation_balance": 24000,
+            "affiliation_balance": 25000,
             "plan": "Basique",
             "countdown_paused": false
         },
