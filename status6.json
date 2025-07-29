@@ -2208,7 +2208,8 @@
                 "Rabary02RcIqSaLY",
                 "Rabary03l6ITcBPV",
                 "Rabary04ju2DYTKl",
-                "Rabary053RGvBsFt"
+                "Rabary053RGvBsFt",
+                "Iary01EDzW0Leu"
             ],
             "status": "active",
             "countdown_start_time": "2025-07-31T20:03:17.796092",
@@ -18724,6 +18725,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-07-29T21:24:01.933118",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Iary01EDzW0Leu",
+            "android_id": "d78e42ecd7ff510e67c5dcae2aa7dda9",
+            "referred_by": "Tsilavina68192",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-07-30T04:57:29.056591",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
