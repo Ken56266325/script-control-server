@@ -4288,7 +4288,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-03-16T13:03:56.485449",
-            "affiliation_balance": 19000,
+            "affiliation_balance": 20000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -4322,8 +4322,8 @@
                 "Azarya6813001",
                 "Fanomezantsoa710001"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-07-29T22:32:11.258696",
+            "status": "active",
+            "countdown_start_time": "2025-08-06T09:00:15.379561",
             "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
