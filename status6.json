@@ -3245,7 +3245,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-04T22:25:36.273925",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -5195,9 +5195,9 @@
                 "RovaZ5sPAv6A",
                 "DominiquemFngsnTo"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-07-30T20:27:08.636185",
-            "affiliation_balance": 9000,
+            "status": "active",
+            "countdown_start_time": "2025-08-06T20:38:35.347848",
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
