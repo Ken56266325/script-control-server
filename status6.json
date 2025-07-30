@@ -18749,6 +18749,15 @@
             "countdown_start_time": "2025-07-30T16:00:24.737682",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "jeannie23458",
+            "android_id": "089104a7720dd2e1490c1f0e19261a45",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-08-06T09:18:04.482689",
+            "affiliation_balance": 0
         }
     ],
     "references": {
