@@ -524,8 +524,8 @@
                 "juvet5913",
                 "Ursila57193"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-07-30T15:44:20.736558",
+            "status": "active",
+            "countdown_start_time": "2025-08-06T17:19:01.815047",
             "affiliation_balance": 0,
             "countdown_paused": false,
             "plan": "Basique"
@@ -1338,7 +1338,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-07-20T15:49:19.195609",
-            "affiliation_balance": 12000,
+            "affiliation_balance": 11000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -17463,7 +17463,7 @@
             "referred_by": "Mandresy241632",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-08-08T09:53:50.140059",
+            "countdown_start_time": "2025-08-01T09:53:50.140059",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
