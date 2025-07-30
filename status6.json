@@ -9253,7 +9253,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-07-29T23:24:12.181568",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique"
         },
         {
@@ -10171,8 +10171,8 @@
             "referred_to": [
                 "LirmaniBwlTp0w"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-07-29T23:21:00.100984",
+            "status": "active",
+            "countdown_start_time": "2025-08-06T08:12:19.157617",
             "affiliation_balance": 1000,
             "plan": "Basique"
         },
