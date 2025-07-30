@@ -55,7 +55,9 @@
         {
             "id": "Andry5130",
             "referred_by": null,
-            "referred_to": [],
+            "referred_to": [
+                "Andry2025DTh2KaCH"
+            ],
             "status": "active",
             "countdown_start_time": "2025-07-31T10:57:43.737279",
             "affiliation_balance": 0,
@@ -18735,6 +18737,16 @@
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2025-07-30T04:57:29.056591",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Andry2025DTh2KaCH",
+            "android_id": "21019052",
+            "referred_by": "Andry5130",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-07-30T16:00:24.737682",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
