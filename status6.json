@@ -967,7 +967,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-07-19T18:32:12.125565",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -1038,9 +1038,9 @@
                 "Rosia5719",
                 "RavalomandaMAwP86LZ"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-07-30T16:46:42.360609",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-08-06T20:20:26.392371",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
