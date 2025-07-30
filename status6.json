@@ -214,7 +214,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-05T16:42:08.949015",
-            "affiliation_balance": 22000,
+            "affiliation_balance": 23000,
             "android_id": "c4665ee227bd5513d44e32d4d69a242c",
             "countdown_paused": false,
             "plan": "Basique"
@@ -574,8 +574,8 @@
                 "51ath6844900",
                 "Randria57199302"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-07-30T09:44:09.956809",
+            "status": "active",
+            "countdown_start_time": "2025-08-06T13:41:08.281066",
             "affiliation_balance": 0,
             "countdown_paused": false,
             "plan": "Basique"
