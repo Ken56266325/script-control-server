@@ -3936,7 +3936,8 @@
             "referred_to": [
                 "Jacquis68193920",
                 "Rakotonirina57193929",
-                "Harisoa8919ez0"
+                "Harisoa8919ez0",
+                "KizlrOuJDR5y"
             ],
             "status": "active",
             "countdown_start_time": "2025-08-01T14:31:47.180260",
@@ -18822,6 +18823,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-07-31T00:15:41.044901",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "KizlrOuJDR5y",
+            "android_id": "c92e46ad359fc89581317584c7c61d61",
+            "referred_by": "Andrianandraina68193",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-07-31T02:17:55.468432",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
