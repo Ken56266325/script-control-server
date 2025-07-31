@@ -5898,7 +5898,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-05T10:41:59.342665",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -13219,7 +13219,7 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-08-02T08:16:44.037712",
-            "affiliation_balance": 7000,
+            "affiliation_balance": 0,
             "plan": "Basique"
         },
         {
@@ -15593,8 +15593,8 @@
             "android_id": "ff0f58b0769800eb4ce7e0578fb37b7b",
             "referred_by": "Velotsara681900",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2025-07-31T16:26:16.008466",
+            "status": "active",
+            "countdown_start_time": "2025-08-07T18:34:12.718168",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
