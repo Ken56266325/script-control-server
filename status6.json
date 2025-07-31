@@ -5042,7 +5042,8 @@
                 "ClaraS96kcPgj",
                 "TolotraiVaB1Axb",
                 "ElietFWsQ9CqJ",
-                "Oliv\u00e0TnYRkcRj"
+                "Oliv\u00e0TnYRkcRj",
+                "DadyHWQJuhrc"
             ],
             "status": "active",
             "countdown_start_time": "2025-08-02T18:47:50.213322",
@@ -18907,6 +18908,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-08-01T05:28:16.789747",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "DadyHWQJuhrc",
+            "android_id": "8b34e961865b3121703e3856053b294b",
+            "referred_by": "Rajaonarivo4792180",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-08-01T05:50:21.992602",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
