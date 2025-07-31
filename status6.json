@@ -9189,7 +9189,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-05T18:51:04.157040",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -12451,7 +12451,7 @@
             "referred_by": "Rasambatra telybsUgijZQ",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-07-31T21:13:25.159403",
+            "countdown_start_time": "2025-08-07T21:28:25.940137",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
