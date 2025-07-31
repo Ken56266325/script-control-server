@@ -1338,7 +1338,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-07-20T15:49:19.195609",
-            "affiliation_balance": 14000,
+            "affiliation_balance": 15000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -2245,8 +2245,8 @@
                 "Nofa\ud83e\udd2a\ud83e\udd23NEDy9iHm"
             ],
             "status": "active",
-            "countdown_start_time": "2025-07-31T20:52:43.077319",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-08-07T20:52:43.077319",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
