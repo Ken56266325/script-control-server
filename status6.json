@@ -702,7 +702,8 @@
                 "Tiana79030",
                 "Chance69680",
                 "herman3425dh6R82Kk",
-                "timivonyRZpmmNJm"
+                "timivonyRZpmmNJm",
+                "narovanamCvqTLCM"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-07-31T08:32:05.439679",
@@ -18854,6 +18855,16 @@
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2025-07-31T04:18:18.030040",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "narovanamCvqTLCM",
+            "android_id": "c2af97bb075b5704585bb172308c46c8",
+            "referred_by": "Tahiry6393",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-07-31T23:05:54.166890",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
