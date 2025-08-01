@@ -4200,7 +4200,8 @@
                 "NambiwKWK45N1",
                 "Charlinetiq36jqO",
                 "MamyCfpVtHFb",
-                "FloridafNSqFejr"
+                "FloridafNSqFejr",
+                "D\u00e9sir\u00e9e0D5KbL3"
             ],
             "status": "active",
             "countdown_start_time": "2025-08-04T17:32:02.822884",
@@ -19062,6 +19063,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-08-02T01:59:18.300606",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "D\u00e9sir\u00e9e0D5KbL3",
+            "android_id": "bcc54a7a1a8b6f8cc9e4943378b6453a",
+            "referred_by": "Timote689901",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-08-02T02:53:44.328670",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
