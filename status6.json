@@ -9217,7 +9217,8 @@
                 "NofyAyiyARc4",
                 "EliasgDQqEL6C",
                 "RameryhXIJhEkt",
-                "raissaoqGPpXEY"
+                "raissaoqGPpXEY",
+                "EliasP2my3BZK"
             ],
             "status": "active",
             "countdown_start_time": "2025-08-02T21:51:42.376443",
@@ -18986,6 +18987,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-08-01T19:49:59.592350",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "EliasP2my3BZK",
+            "android_id": "899869c36dc824313fc63913d3025e65",
+            "referred_by": "TelyHI5TotWC",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-08-01T20:51:32.292848",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
