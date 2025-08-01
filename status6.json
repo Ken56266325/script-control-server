@@ -1413,7 +1413,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-05T15:56:24.625799",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -2938,9 +2938,9 @@
                 "Lucie68132",
                 "Tahiry681i282"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-08-01T13:52:12.424223",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-08-08T14:59:29.672874",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
