@@ -10454,7 +10454,9 @@
             "id": "RolloucxwONRo",
             "android_id": "5ee2adff1d2f8569ae02b78f5ea8fb3c",
             "referred_by": "ToneJuly681030",
-            "referred_to": [],
+            "referred_to": [
+                "nantenainaFQEWHKpm"
+            ],
             "status": "active",
             "countdown_start_time": "2025-08-07T11:47:09.496013",
             "affiliation_balance": 0,
@@ -19095,6 +19097,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-08-02T03:18:48.429521",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "nantenainaFQEWHKpm",
+            "android_id": "782588e60a08355e5f4f409f51da6273",
+            "referred_by": "RolloucxwONRo",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-08-02T04:22:06.708879",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
