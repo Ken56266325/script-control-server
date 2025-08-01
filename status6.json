@@ -2363,7 +2363,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-08T18:34:26.579566",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -2515,8 +2515,8 @@
                 "Raklesx3zwrKab"
             ],
             "status": "active",
-            "countdown_start_time": "2025-08-01T20:25:09.874916",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-08-08T20:37:05.456736",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
