@@ -2659,7 +2659,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-02T15:07:36.382032",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -3947,9 +3947,9 @@
                 "Harisoa8919ez0",
                 "KizlrOuJDR5y"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-08-01T14:31:47.180260",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-08-08T15:33:19.407387",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
