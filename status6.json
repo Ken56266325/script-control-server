@@ -18999,6 +18999,16 @@
             "countdown_start_time": "2025-08-01T20:51:32.292848",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "ChristneAlice021MWVwns7u",
+            "android_id": "e9d85ba55f95aef21c128bd4f98391f6",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-08-01T22:23:17.886658",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
