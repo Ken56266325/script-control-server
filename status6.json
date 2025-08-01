@@ -9100,7 +9100,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-06T17:22:19.842958",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -11988,8 +11988,8 @@
             "referred_to": [
                 "ValimbavakaLhZUQ8GL"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-08-01T08:56:20.448837",
+            "status": "active",
+            "countdown_start_time": "2025-08-08T10:29:47.340878",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
