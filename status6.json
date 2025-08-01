@@ -3251,7 +3251,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-04T22:25:36.273925",
-            "affiliation_balance": 4000,
+            "affiliation_balance": 5000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -3492,8 +3492,8 @@
                 "TheopneustosszouCMM7"
             ],
             "status": "active",
-            "countdown_start_time": "2025-08-01T08:59:17.745817",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-08-08T09:48:08.626644",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
