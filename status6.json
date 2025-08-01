@@ -1373,7 +1373,8 @@
                 "Joelson4yl5w1ynA",
                 "Joelson3XdVgBfqO",
                 "Rova2WBY4X3v1",
-                "Rova4Um3dI6Hj"
+                "Rova4Um3dI6Hj",
+                "Rova5Um5EJ4mi"
             ],
             "status": "active",
             "countdown_start_time": "2025-08-01T16:52:13.187560",
@@ -19029,6 +19030,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-08-01T23:03:07.028133",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Rova5Um5EJ4mi",
+            "android_id": "ca49910cc12a6835036dc4a84473ba48",
+            "referred_by": "Hardy157204",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-08-01T23:37:43.225332",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
