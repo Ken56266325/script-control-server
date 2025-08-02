@@ -2988,7 +2988,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-03T13:57:27.616267",
-            "affiliation_balance": 3000,
+            "affiliation_balance": 4000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -4245,9 +4245,9 @@
                 "edmondnambininaaWWsthXb",
                 "aimesarobidydLXfZd92"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-08-02T15:18:27.197221",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-08-09T17:06:53.326907",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
