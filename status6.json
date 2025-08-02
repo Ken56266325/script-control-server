@@ -9235,7 +9235,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-02T21:51:42.376443",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -13413,7 +13413,7 @@
             "referred_by": "TelyHI5TotWC",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-08-02T18:26:55.944673",
+            "countdown_start_time": "2025-08-09T18:54:55.375658",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
