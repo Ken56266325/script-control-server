@@ -19154,6 +19154,16 @@
             "countdown_start_time": "2025-08-02T21:59:52.008138",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "RovapierretteNUiNeAMd",
+            "android_id": "f1e7bd777cbaef488ebf0f37572743d8",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-08-03T00:02:40.171117",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
