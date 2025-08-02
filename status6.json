@@ -711,7 +711,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-08T22:09:47.936490",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -5014,8 +5014,8 @@
                 "DanielFxkuIkL3Cy"
             ],
             "status": "active",
-            "countdown_start_time": "2025-08-02T09:01:26.067732",
-            "affiliation_balance": 9000,
+            "countdown_start_time": "2025-08-09T09:13:47.610755",
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
