@@ -3776,7 +3776,8 @@
                 "Ondriphaohib3DQj",
                 "Cisemany55B0YdL",
                 "FinaritrahgHpR71m",
-                "Beatricex37t0uhU"
+                "Beatricex37t0uhU",
+                "ChrysantedUTrx2Mb"
             ],
             "status": "active",
             "countdown_start_time": "2025-08-09T18:33:29.043570",
@@ -19184,6 +19185,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-08-03T02:14:09.036570",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "ChrysantedUTrx2Mb",
+            "android_id": "9b9a398bca99a55fa20b2c2693036c24",
+            "referred_by": "Randrianarivo68130",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-08-03T03:03:57.034173",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
