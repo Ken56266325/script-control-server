@@ -2129,7 +2129,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-03T17:45:36.193259",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -9484,7 +9484,7 @@
             "referred_by": "Nanouh6819303",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-08-02T19:42:58.743158",
+            "countdown_start_time": "2025-08-09T19:56:58.242500",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
