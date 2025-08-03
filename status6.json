@@ -1935,7 +1935,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-03T15:56:29.670264",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -2141,8 +2141,8 @@
                 "Doudou571939219"
             ],
             "status": "active",
-            "countdown_start_time": "2025-08-03T07:46:14.530471",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-08-10T07:46:14.530471",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
