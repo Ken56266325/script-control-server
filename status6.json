@@ -6840,7 +6840,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-07-16T13:17:27.103727",
-            "affiliation_balance": 5000,
+            "affiliation_balance": 6000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -12111,8 +12111,8 @@
                 "CassieXPyGdebB",
                 "TOAVNkPbmrLUI"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-07-12T10:57:44.210956",
+            "status": "active",
+            "countdown_start_time": "2025-08-10T08:40:31.216821",
             "affiliation_balance": 1000,
             "plan": "Basique"
         },
