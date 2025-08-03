@@ -7171,7 +7171,8 @@
                 "JustinemarieqlLXNMTT8",
                 "Gerardherivalisoarp4mSL5L",
                 "MariusheriTqxBfSzp",
-                "tatie1234q0qlj1jv"
+                "tatie1234q0qlj1jv",
+                "Jptsiresymar0iOUP"
             ],
             "status": "active",
             "countdown_start_time": "2025-08-09T21:37:55.998699",
@@ -19261,6 +19262,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-08-03T21:03:03.483049",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Jptsiresymar0iOUP",
+            "android_id": "292dff5a9ad82863246c2c4762fd5dbb",
+            "referred_by": "Chance69680",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-08-04T02:14:40.243334",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
