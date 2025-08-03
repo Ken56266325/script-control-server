@@ -1428,7 +1428,7 @@
             "android_id": "802488aa17ff3e5208889d5d2da5100d",
             "referred_by": "Mandresy241632",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-08-03T23:02:31.973258",
             "affiliation_balance": 0,
             "plan": "Basique",
@@ -4499,7 +4499,7 @@
             "referred_to": [
                 "Oliv24aGx6CKmZ"
             ],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-08-03T23:21:11.383149",
             "affiliation_balance": 0,
             "plan": "Basique",
