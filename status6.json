@@ -427,7 +427,7 @@
                 "Thonny Fr\u00e9d\u00e9ricvlxwVzWk"
             ],
             "status": "active",
-            "countdown_start_time": "2025-08-03T21:01:15.845266",
+            "countdown_start_time": "2025-08-10T22:12:10.277890",
             "affiliation_balance": 5000,
             "android_id": "583e973065e6ac1cfbda38afc9bb6e62",
             "plan": "Basique",
@@ -9316,7 +9316,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-05T14:18:10.844413",
-            "affiliation_balance": 5000,
+            "affiliation_balance": 4000,
             "plan": "Basique"
         },
         {
@@ -16619,8 +16619,8 @@
             "android_id": "dace28223759edc80b29560a6152fe9a",
             "referred_by": "+261331443017LHuEGatj",
             "referred_to": [],
-            "status": "active",
-            "countdown_start_time": "2025-08-10T18:12:00.289881",
+            "status": "inactive",
+            "countdown_start_time": "2025-08-01T19:54:30.591167",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
