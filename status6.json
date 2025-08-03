@@ -1253,7 +1253,8 @@
                 "SeriniabiCHvXSn",
                 "BlandineavfsukI3",
                 "SitrakatvKUIp5N",
-                "ElijoypS2ZH1k4"
+                "ElijoypS2ZH1k4",
+                "R.TonassinaaxWzISzJ"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-07-25T16:51:38.590491",
@@ -19230,6 +19231,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-08-03T18:56:45.141454",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "R.TonassinaaxWzISzJ",
+            "android_id": "Esperant33",
+            "referred_by": "Gaelode10361",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-08-03T19:29:17.608357",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
