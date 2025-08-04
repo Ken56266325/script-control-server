@@ -217,7 +217,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-05T16:42:08.949015",
-            "affiliation_balance": 35000,
+            "affiliation_balance": 36000,
             "android_id": "c4665ee227bd5513d44e32d4d69a242c",
             "countdown_paused": false,
             "plan": "Basique"
@@ -1983,9 +1983,9 @@
                 "TsiotazabjLAVz0f",
                 "AndryigrlPTVe"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-08-04T19:08:37.257808",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-08-11T19:55:45.136148",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
