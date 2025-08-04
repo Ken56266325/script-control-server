@@ -14600,7 +14600,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-11T18:42:30.935996",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -15267,9 +15267,9 @@
             "referred_to": [
                 "FredieZjFlGdw4"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-08-04T20:24:03.154237",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-08-11T21:32:36.462041",
+            "affiliation_balance": 0,
             "plan": "Basique"
         },
         {
