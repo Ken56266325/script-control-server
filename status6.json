@@ -19366,6 +19366,16 @@
             "status": "active",
             "countdown_start_time": "2025-08-11T20:12:56.262101",
             "affiliation_balance": 0
+        },
+        {
+            "id": "nirina26QVyYTW7Z",
+            "android_id": "a8600d237c4f0e39a63af4cebd5a8bb2",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-08-05T06:05:54.638199",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
