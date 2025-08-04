@@ -924,7 +924,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-07-21T21:12:38.177317",
-            "affiliation_balance": 3000,
+            "affiliation_balance": 4000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -2128,8 +2128,8 @@
                 "niirinaUXc7Qepl",
                 "TOKYU5LywOFs"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-08-03T17:45:36.193259",
+            "status": "active",
+            "countdown_start_time": "2025-08-11T07:42:57.791834",
             "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
