@@ -19357,6 +19357,15 @@
             "countdown_start_time": "2025-08-05T03:36:18.125298",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "kzkz",
+            "android_id": "kzkz",
+            "referred_by": "jzj",
+            "referred_to": [],
+            "status": "inactive",
+            "countdown_start_time": "2025-08-11T20:12:56.262101",
+            "affiliation_balance": 0
         }
     ],
     "references": {
