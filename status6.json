@@ -3196,7 +3196,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-04T20:05:31.527953",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -7073,7 +7073,7 @@
             "referred_by": "Rakotomandimby78104",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-08-04T20:00:26.138521",
+            "countdown_start_time": "2025-08-11T20:00:26.138521",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
