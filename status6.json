@@ -1858,7 +1858,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-07-27T22:25:38.930457",
-            "affiliation_balance": 3000,
+            "affiliation_balance": 4000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -14619,8 +14619,8 @@
             "referred_to": [
                 "Lionely5oSZL20"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-08-02T12:14:23.973911",
+            "status": "active",
+            "countdown_start_time": "2025-08-11T16:43:25.687103",
             "affiliation_balance": 2000,
             "plan": "Basique"
         },
