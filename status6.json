@@ -14305,7 +14305,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-11T13:01:36.075433",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -17703,8 +17703,8 @@
             "android_id": "7ac606711392b5648d2c882993d48696",
             "referred_by": "Handy1WuVWCPh",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2025-08-04T15:41:09.937176",
+            "status": "active",
+            "countdown_start_time": "2025-08-11T16:58:07.693191",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
