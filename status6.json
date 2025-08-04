@@ -4428,7 +4428,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-07-13T07:27:16.685866",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -14598,8 +14598,8 @@
                 "Eric4tYrTeZc"
             ],
             "status": "active",
-            "countdown_start_time": "2025-08-04T18:41:33.643321",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-08-11T18:42:30.935996",
+            "affiliation_balance": 0,
             "plan": "Basique"
         },
         {
