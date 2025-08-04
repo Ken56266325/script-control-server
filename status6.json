@@ -1476,7 +1476,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-09T19:56:11.141165",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -4217,7 +4217,7 @@
                 "D\u00e9sir\u00e9e0D5KbL3"
             ],
             "status": "active",
-            "countdown_start_time": "2025-08-04T17:32:02.822884",
+            "countdown_start_time": "2025-08-11T17:32:02.822884",
             "affiliation_balance": 12000,
             "plan": "Basique",
             "countdown_paused": false
