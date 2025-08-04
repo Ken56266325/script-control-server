@@ -19285,6 +19285,15 @@
             "status": "active",
             "countdown_start_time": "2025-08-10T18:48:01.002151",
             "affiliation_balance": 0
+        },
+        {
+            "id": "hhe",
+            "android_id": "eue",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "inactive",
+            "countdown_start_time": "2025-08-11T07:28:52.952865",
+            "affiliation_balance": 0
         }
     ],
     "references": {
