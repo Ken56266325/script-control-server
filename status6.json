@@ -3712,7 +3712,8 @@
                 "Claudio017812",
                 "Rkt6819942014",
                 "Valdo68199420",
-                "OliviaEPmCXslY"
+                "OliviaEPmCXslY",
+                "AlphadavidsonEH9eEp3b"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-08-05T12:51:36.048217",
@@ -19395,6 +19396,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-08-05T17:10:56.075641",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "AlphadavidsonEH9eEp3b",
+            "android_id": "77d18796df91fe12155ad3aadd922842",
+            "referred_by": "Robinson781930",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-08-05T23:56:36.479172",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
