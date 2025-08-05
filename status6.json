@@ -12481,7 +12481,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-07T21:27:16.778270",
-            "affiliation_balance": 11000,
+            "affiliation_balance": 12000,
             "plan": "Basique"
         },
         {
@@ -14439,8 +14439,8 @@
             "referred_to": [
                 "DodoantenainaZAfRUHVO"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-08-04T19:52:29.488254",
+            "status": "active",
+            "countdown_start_time": "2025-08-12T19:08:08.293525",
             "affiliation_balance": 1000,
             "plan": "Basique"
         },
