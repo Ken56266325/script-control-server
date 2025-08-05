@@ -9320,7 +9320,8 @@
                 "@angelatopy7ghFcIUC",
                 "@angelatopyn7e2U5vr",
                 "@angelatopyeWSCw5JY",
-                "@tsangowayFITjJ9ro"
+                "@tsangowayFITjJ9ro",
+                "@lucioprostatincvbIDgTU"
             ],
             "status": "active",
             "countdown_start_time": "2025-08-12T14:36:27.187506",
@@ -19417,6 +19418,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-08-06T01:17:22.467818",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "@lucioprostatincvbIDgTU",
+            "android_id": "46e6c89c22cf98c8f01056b5197cb3a2",
+            "referred_by": "+261331443017LHuEGatj",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-08-06T04:22:04.703511",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
