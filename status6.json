@@ -15190,7 +15190,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-07T20:55:16.674281",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -17308,7 +17308,7 @@
             "referred_by": "perytinotT9XVKpAY",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-08-05T19:36:39.760721",
+            "countdown_start_time": "2025-08-12T20:03:04.953608",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
