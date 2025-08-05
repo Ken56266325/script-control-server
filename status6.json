@@ -4695,7 +4695,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2028-02-28T11:21:43.680865",
-            "affiliation_balance": 17000,
+            "affiliation_balance": 18000,
             "plan": "VIP",
             "countdown_paused": false
         },
@@ -5117,7 +5117,7 @@
             "referred_by": "Ronaldin217569",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-08-09T18:57:27.533579",
+            "countdown_start_time": "2025-08-16T18:57:27.533579",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
