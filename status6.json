@@ -2969,7 +2969,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-07-29T06:36:24.640281",
-            "affiliation_balance": 7000,
+            "affiliation_balance": 8000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -3166,9 +3166,9 @@
                 "JaphetdWXyU2xu",
                 "MialyIVz1NM1Q"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-08-03T07:16:21.632517",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-08-12T17:00:33.566551",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
