@@ -19429,6 +19429,15 @@
             "status": "active",
             "countdown_start_time": "2025-08-13T10:54:57.082498",
             "affiliation_balance": 0
+        },
+        {
+            "id": "alice221423",
+            "android_id": "e9d85ba55f95aef21c128bd4f98391f6",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-08-13T14:45:26.873452",
+            "affiliation_balance": 0
         }
     ],
     "references": {
