@@ -19430,6 +19430,15 @@
             "countdown_start_time": "2025-08-06T16:19:49.696547",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "blocker1",
+            "android_id": "967f91df78fff4699096b9412fae8b0c",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "inactive",
+            "countdown_start_time": "2025-08-13T10:53:58.849384",
+            "affiliation_balance": 0
         }
     ],
     "references": {
