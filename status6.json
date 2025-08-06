@@ -7416,7 +7416,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-08T09:41:33.494917",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -17802,8 +17802,8 @@
             "referred_to": [
                 "RAZANAJATOVOAndrianinaVivienS9fHnWMK"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-07-18T19:29:44.476492",
+            "status": "active",
+            "countdown_start_time": "2025-08-13T22:11:05.355037",
             "affiliation_balance": 1000,
             "plan": "Basique"
         },
