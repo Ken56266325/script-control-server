@@ -307,7 +307,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-06-25T08:46:48.977453",
-            "affiliation_balance": 20000,
+            "affiliation_balance": 21000,
             "android_id": "24e6c12d88d27aba84a80b1d0c821285",
             "countdown_paused": false,
             "plan": "Basique"
@@ -2666,9 +2666,9 @@
                 "Mendrika1g87jkml",
                 "FiiiiisVQMjU04Y"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-08-02T15:07:36.382032",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-08-14T00:54:33.370883",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
