@@ -5492,7 +5492,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-10T12:12:39.859980",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -12275,7 +12275,7 @@
                 "James2jF1oFaY"
             ],
             "status": "active",
-            "countdown_start_time": "2025-08-07T11:40:15.116397",
+            "countdown_start_time": "2025-08-14T11:47:49.652191",
             "affiliation_balance": 2000,
             "plan": "Basique"
         },
