@@ -4235,7 +4235,8 @@
                 "DouglasQ6w5gJQU",
                 "JeanPierritutTlwLlD",
                 "HoulderfYpospd9",
-                "NomenaD7p2UdQ7"
+                "NomenaD7p2UdQ7",
+                "Douglas5wCOcTwv"
             ],
             "status": "active",
             "countdown_start_time": "2025-08-12T19:18:17.579464",
@@ -19511,6 +19512,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-08-08T01:51:43.977171",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Douglas5wCOcTwv",
+            "android_id": "0eeb83bcb699c94cfb9614bc8fb48bcd",
+            "referred_by": "Sa\u00efd681930",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-08-08T02:57:06.540623",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
