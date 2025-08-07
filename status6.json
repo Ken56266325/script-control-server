@@ -5539,7 +5539,8 @@
                 "Mirana6819292",
                 "Claudin6189393",
                 "MiantsaVB2f2FEF",
-                "PabloHklLTqUM"
+                "PabloHklLTqUM",
+                "BeatriceBv2EpUN5"
             ],
             "status": "active",
             "countdown_start_time": "2025-08-12T19:20:26.567120",
@@ -19500,6 +19501,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-08-07T18:31:26.559614",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "BeatriceBv2EpUN5",
+            "android_id": "39b8cdd8b3560e8f17c0d56c0dfe747b",
+            "referred_by": "Amadou681036190",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-08-08T01:51:43.977171",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
