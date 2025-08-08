@@ -3265,7 +3265,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-11T22:25:36.273925",
-            "affiliation_balance": 4000,
+            "affiliation_balance": 5000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -3505,9 +3505,9 @@
                 "Tiana79102o1",
                 "TheopneustosszouCMM7"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-08-08T09:48:08.626644",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-08-15T11:05:01.005764",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
