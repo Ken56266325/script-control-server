@@ -1478,7 +1478,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-09T19:56:11.141165",
-            "affiliation_balance": 9000,
+            "affiliation_balance": 10000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -1717,7 +1717,7 @@
                 "FIDSONCFwJzXWB"
             ],
             "status": "active",
-            "countdown_start_time": "2025-08-08T19:26:40.791336",
+            "countdown_start_time": "2025-08-15T19:26:40.791336",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
@@ -14726,7 +14726,7 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-08-09T20:46:49.011764",
-            "affiliation_balance": 7000,
+            "affiliation_balance": 0,
             "plan": "Basique"
         },
         {
