@@ -307,7 +307,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-06-25T08:46:48.977453",
-            "affiliation_balance": 21000,
+            "affiliation_balance": 22000,
             "android_id": "24e6c12d88d27aba84a80b1d0c821285",
             "countdown_paused": false,
             "plan": "Basique"
@@ -821,7 +821,7 @@
                 "MyZcTYAyit"
             ],
             "status": "active",
-            "countdown_start_time": "2025-08-09T00:16:12.308774",
+            "countdown_start_time": "2025-08-16T00:39:13.013790",
             "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
