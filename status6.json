@@ -2330,7 +2330,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-04-13T06:03:36.905599",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -7418,7 +7418,7 @@
                 "ANDRINIRINAMamisonFideleJfbnGsfJ"
             ],
             "status": "active",
-            "countdown_start_time": "2025-08-08T09:41:33.494917",
+            "countdown_start_time": "2025-08-15T09:41:33.494917",
             "affiliation_balance": 1000,
             "plan": "Basique"
         },
