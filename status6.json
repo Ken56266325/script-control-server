@@ -3675,7 +3675,8 @@
                 "JoelSVt1B49q",
                 "TsambaniZpyK2QRO",
                 "SendrarEwQjhz9",
-                "YamissQe3Gu2BJ"
+                "YamissQe3Gu2BJ",
+                "MishaQxv12lb6"
             ],
             "status": "active",
             "countdown_start_time": "2025-08-12T12:00:37.491022",
@@ -19576,6 +19577,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-08-09T01:05:56.836821",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "MishaQxv12lb6",
+            "android_id": "f9ef201ae32f364e938a2e592d63d270",
+            "referred_by": "Joel68010",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-08-09T02:30:03.418788",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
