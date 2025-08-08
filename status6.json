@@ -1801,7 +1801,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-12T11:47:21.774991",
-            "affiliation_balance": 4000,
+            "affiliation_balance": 5000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -7032,9 +7032,9 @@
                 "PriscaWmQzA3Vo",
                 "Emmaj0FCp6DT"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-08-07T19:34:17.618160",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-08-15T07:50:13.602247",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
