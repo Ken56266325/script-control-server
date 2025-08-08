@@ -2087,7 +2087,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-10T19:46:27.072132",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -2184,9 +2184,9 @@
                 "TojosoaOAhqCizP",
                 "Antoine25mMiTqX"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-08-07T19:33:55.167583",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-08-15T08:29:21.539324",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
