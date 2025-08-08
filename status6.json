@@ -2970,7 +2970,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-07-29T06:36:24.640281",
-            "affiliation_balance": 9000,
+            "affiliation_balance": 10000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -3740,8 +3740,8 @@
             "referred_to": [
                 "Hajaniaina7967193"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-08-05T19:41:58.251089",
+            "status": "active",
+            "countdown_start_time": "2025-08-15T13:48:27.661150",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
