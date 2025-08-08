@@ -1346,7 +1346,8 @@
                 "Samuel82oOoFry",
                 "AlexandregdR1GZdP",
                 "MalalaOONiTKqx",
-                "LirahalbFYFS63"
+                "LirahalbFYFS63",
+                "Darahae49GpAq5"
             ],
             "status": "active",
             "countdown_start_time": "2025-08-11T07:19:24.373409",
@@ -19598,6 +19599,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-08-09T06:52:39.690288",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Darahae49GpAq5",
+            "android_id": "f2c89e1805850adcb20d28b2bac08716",
+            "referred_by": "Mandresy241632",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-08-09T08:41:24.091866",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
