@@ -5016,7 +5016,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-11T17:23:46.942707",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -6820,8 +6820,8 @@
                 "JEANMARCELINCILuACsT",
                 "fetyjoachin6UrojHHj"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-08-05T09:54:19.401266",
+            "status": "active",
+            "countdown_start_time": "2025-08-15T11:40:52.024066",
             "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
