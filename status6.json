@@ -19546,6 +19546,16 @@
             "countdown_start_time": "2025-08-08T18:51:32.623529",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Juanezfk66qx0",
+            "android_id": "00053183d36b27358222876863afdbe5",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-08-08T20:00:43.677573",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
