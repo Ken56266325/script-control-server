@@ -2550,7 +2550,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-11T21:29:32.201380",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -4343,7 +4343,7 @@
             "referred_by": "Rasta681030",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-08-08T10:38:57.553608",
+            "countdown_start_time": "2025-08-15T10:49:08.315126",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
