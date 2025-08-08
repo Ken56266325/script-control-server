@@ -2670,7 +2670,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-14T00:54:33.370883",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -3965,9 +3965,9 @@
                 "KizlrOuJDR5y",
                 "KevStonenQ9Qo0j5"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-08-08T15:33:19.407387",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-08-15T17:57:25.563540",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
