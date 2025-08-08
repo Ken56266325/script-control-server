@@ -1134,7 +1134,8 @@
                 "BriandwGIrDkEG",
                 "Annah9tGqipeC",
                 "Mandimby7199392",
-                "Sylves1jVLJB98"
+                "Sylves1jVLJB98",
+                "Hasinab2eAZQwF"
             ],
             "status": "active",
             "countdown_start_time": "2025-08-13T14:07:05.691809",
@@ -19565,6 +19566,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-08-08T20:09:30.898726",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Hasinab2eAZQwF",
+            "android_id": "574eafd325692dce717e5c532bb0bb2a",
+            "referred_by": "Marcel10325",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-08-09T01:05:56.836821",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
