@@ -1778,7 +1778,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-07-28T06:53:45.785505",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -2103,8 +2103,8 @@
                 "Kris.Noelisoakcv5YQah",
                 "SitrakaRasoaZSqQ94SM"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-08-08T21:01:06.212236",
+            "status": "active",
+            "countdown_start_time": "2025-08-16T21:53:42.944272",
             "affiliation_balance": 8000,
             "plan": "Basique",
             "countdown_paused": false
