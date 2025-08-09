@@ -5334,7 +5334,8 @@
                 "Tina6819201",
                 "Basted'sBPdXrotk",
                 "Lauristeunoi0nET",
-                "Claudioh3JUwuOP"
+                "Claudioh3JUwuOP",
+                "BaltajarayBOhnCvR"
             ],
             "status": "active",
             "countdown_start_time": "2025-08-15T08:41:46.491532",
@@ -19698,6 +19699,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-08-10T01:00:42.776852",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "BaltajarayBOhnCvR",
+            "android_id": "da6d03ab47092c1a5c5091fc7d456f50",
+            "referred_by": "Airtel791628962",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-08-10T01:42:42.198373",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
