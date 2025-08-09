@@ -4685,7 +4685,8 @@
                 "Cetonex0KOIUWl",
                 "Angelowy5ZrVY6",
                 "Lova5nQdOmum",
-                "FELANAw5KanSKa"
+                "FELANAw5KanSKa",
+                "SAJOAeltolmrj"
             ],
             "status": "active",
             "countdown_start_time": "2025-08-13T10:18:53.768246",
@@ -19643,6 +19644,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-08-09T18:58:12.414887",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "SAJOAeltolmrj",
+            "android_id": "8f53a6bcc3ec9afd53dc2b691360743f",
+            "referred_by": "Cetone479580",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-08-09T21:13:42.285126",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
