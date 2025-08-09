@@ -259,7 +259,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-14T12:24:37.162939",
-            "affiliation_balance": 3000,
+            "affiliation_balance": 4000,
             "android_id": "e74af1c33b0fd4e7b3ecef900c118751",
             "countdown_paused": false,
             "plan": "Basique"
@@ -3791,7 +3791,7 @@
                 "Joliib78AX95c"
             ],
             "status": "active",
-            "countdown_start_time": "2025-08-09T18:33:29.043570",
+            "countdown_start_time": "2025-08-16T19:00:53.210587",
             "affiliation_balance": 6000,
             "plan": "Basique",
             "countdown_paused": false
