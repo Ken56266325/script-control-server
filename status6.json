@@ -12834,7 +12834,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-11T13:01:27.139756",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -19638,7 +19638,7 @@
             "referred_by": "Bert\u00f4JZVeYjXp",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-08-09T18:04:34.847551",
+            "countdown_start_time": "2025-08-16T18:25:36.375774",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
