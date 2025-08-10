@@ -681,7 +681,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-16T06:48:00.884389",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "countdown_paused": false,
             "plan": "Basique"
         },
@@ -6260,8 +6260,8 @@
                 "Babix4fVX0Mm",
                 "PierreRaonDxarGYjd"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-08-10T06:44:18.468393",
+            "status": "active",
+            "countdown_start_time": "2025-08-17T08:52:16.045082",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
