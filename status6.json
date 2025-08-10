@@ -2956,7 +2956,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-08-08T14:59:29.672874",
-            "affiliation_balance": 4000,
+            "affiliation_balance": 5000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -5082,8 +5082,8 @@
                 "DadyHWQJuhrc"
             ],
             "status": "active",
-            "countdown_start_time": "2025-08-17T15:15:22.137525",
-            "affiliation_balance": 9000,
+            "countdown_start_time": "2025-08-24T15:15:22.137525",
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
