@@ -2375,7 +2375,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-15T20:09:04.632682",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -5353,7 +5353,7 @@
                 "HasxfnSYzSs"
             ],
             "status": "active",
-            "countdown_start_time": "2025-08-10T21:06:47.595608",
+            "countdown_start_time": "2025-08-17T21:06:47.595608",
             "affiliation_balance": 6000,
             "plan": "Basique",
             "countdown_paused": false
