@@ -1805,7 +1805,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-12T11:47:21.774991",
-            "affiliation_balance": 5000,
+            "affiliation_balance": 6000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -4439,7 +4439,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-07-13T07:27:16.685866",
-            "affiliation_balance": 7000,
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -11454,8 +11454,8 @@
             "referred_to": [
                 "FranciaBlq1SbVs"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-08-10T08:22:23.836348",
+            "status": "active",
+            "countdown_start_time": "2025-08-17T17:27:30.032590",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
