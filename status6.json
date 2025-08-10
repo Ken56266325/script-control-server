@@ -6341,7 +6341,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-17T22:40:18.253450",
-            "affiliation_balance": 3000,
+            "affiliation_balance": 4000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -11214,8 +11214,8 @@
                 "ChristophinoJNp322T"
             ],
             "status": "active",
-            "countdown_start_time": "2025-08-12T18:43:41.353540",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-08-19T18:43:41.353540",
+            "affiliation_balance": 0,
             "plan": "Basique"
         },
         {
