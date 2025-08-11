@@ -14307,7 +14307,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-18T16:22:44.240730",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -17709,7 +17709,7 @@
             "referred_by": "Handy1WuVWCPh",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-08-11T16:58:07.693191",
+            "countdown_start_time": "2025-08-18T17:20:40.190732",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
