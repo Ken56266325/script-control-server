@@ -19829,6 +19829,16 @@
             "countdown_start_time": "2025-08-12T14:17:26.338040",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Nellyd0k2fvGq",
+            "android_id": "69b831d57ea0359f9dbbc20f94b0da1b",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-08-11T23:39:58.450950",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
