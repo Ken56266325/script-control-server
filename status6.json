@@ -1480,7 +1480,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-16T20:58:11.340266",
-            "affiliation_balance": 8000,
+            "affiliation_balance": 9000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -1494,8 +1494,8 @@
                 "EtiennedomVtFfK",
                 "Laha7BRIsYOb"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-08-11T19:56:57.002303",
+            "status": "active",
+            "countdown_start_time": "2025-08-18T21:36:48.148006",
             "affiliation_balance": 5000,
             "plan": "Basique",
             "countdown_paused": false
