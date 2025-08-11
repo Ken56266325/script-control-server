@@ -2956,7 +2956,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-08-08T14:59:29.672874",
-            "affiliation_balance": 5000,
+            "affiliation_balance": 6000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -3376,8 +3376,8 @@
                 "antsoMV0V6enr"
             ],
             "status": "active",
-            "countdown_start_time": "2025-08-11T12:05:08.705228",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-08-18T12:12:42.240905",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
