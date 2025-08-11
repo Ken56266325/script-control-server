@@ -514,7 +514,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-12T14:37:37.791312",
-            "affiliation_balance": 5000,
+            "affiliation_balance": 4000,
             "countdown_paused": false,
             "plan": "Basique"
         },
@@ -12258,8 +12258,8 @@
             "android_id": "645c32bf49dcbb3e8fe24471902d192a",
             "referred_by": "Richard294024",
             "referred_to": [],
-            "status": "active",
-            "countdown_start_time": "2025-08-18T12:33:47.786642",
+            "status": "inactive",
+            "countdown_start_time": "2025-08-10T09:33:15.742744",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
@@ -12835,7 +12835,7 @@
                 "AvilahySFxHRJks"
             ],
             "status": "active",
-            "countdown_start_time": "2025-08-11T13:01:27.139756",
+            "countdown_start_time": "2025-08-19T12:37:57.182254",
             "affiliation_balance": 1000,
             "plan": "Basique"
         },
