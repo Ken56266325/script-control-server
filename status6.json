@@ -9146,7 +9146,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-13T18:11:09.608389",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -11590,7 +11590,7 @@
                 "WilsonO1IInkXS"
             ],
             "status": "active",
-            "countdown_start_time": "2025-08-11T17:28:29.099887",
+            "countdown_start_time": "2025-08-18T17:28:29.099887",
             "affiliation_balance": 1000,
             "plan": "Basique"
         },
