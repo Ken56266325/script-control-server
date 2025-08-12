@@ -19948,6 +19948,16 @@
             "countdown_start_time": "2025-08-13T19:49:53.806154",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Bedo9Ae5Pgn6",
+            "android_id": "6d0272081e1bac5d930da15243bfa80f",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-08-13T04:40:29.754724",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
