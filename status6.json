@@ -753,7 +753,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-08-03T08:45:29.643058",
-            "affiliation_balance": 7000,
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -4094,7 +4094,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-14T21:38:53.314599",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -11600,8 +11600,8 @@
             "android_id": "1b118e3a890fd557986c8e4db56e86a9",
             "referred_by": "Volana68103",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2025-07-06T20:46:41.827793",
+            "status": "active",
+            "countdown_start_time": "2025-08-19T10:54:27.673493",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
