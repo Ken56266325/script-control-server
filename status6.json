@@ -8919,7 +8919,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-18T09:51:24.238651",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -9328,7 +9328,7 @@
                 "@lucioprostatincvbIDgTU"
             ],
             "status": "active",
-            "countdown_start_time": "2025-08-12T14:36:27.187506",
+            "countdown_start_time": "2025-08-19T14:54:10.951705",
             "affiliation_balance": 5000,
             "plan": "Basique"
         },
