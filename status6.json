@@ -1858,7 +1858,8 @@
                 "TaskmanR1OYPkLq",
                 "BertrandpEd4QL4B",
                 "FanomezantsoaUZJQZybL",
-                "EligSCaW3GM"
+                "EligSCaW3GM",
+                "RaivoY8MbL23J"
             ],
             "status": "active",
             "countdown_start_time": "2025-08-18T18:39:58.189690",
@@ -19892,6 +19893,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-08-12T20:19:38.461218",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "RaivoY8MbL23J",
+            "android_id": "e5365a5d9476ea8ddb7ecac9ae8fc033",
+            "referred_by": "Wayne69193",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-08-12T21:52:35.165867",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
