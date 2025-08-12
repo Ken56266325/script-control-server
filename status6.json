@@ -5823,7 +5823,8 @@
                 "Tafaray57183929",
                 "Namby5718e93",
                 "Emil681903",
-                "Amir19pG7Imv"
+                "Amir19pG7Imv",
+                "RodriguezlCzmnqCx"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-07-08T19:01:28.446165",
@@ -19914,6 +19915,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-08-13T01:27:28.131985",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "RodriguezlCzmnqCx",
+            "android_id": "273455cc857a0eff9b4f266c9bad9a29",
+            "referred_by": "Miray519093i0",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-08-13T01:28:20.293210",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
