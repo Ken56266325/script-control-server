@@ -3476,7 +3476,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-26T15:02:35.857788",
-            "affiliation_balance": 3000,
+            "affiliation_balance": 4000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -15595,7 +15595,7 @@
                 "OlyNvMSQmhH"
             ],
             "status": "active",
-            "countdown_start_time": "2025-08-12T17:25:39.617388",
+            "countdown_start_time": "2025-08-19T17:25:39.617388",
             "affiliation_balance": 5000,
             "plan": "Basique"
         },
