@@ -18563,7 +18563,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-13T12:51:02.888074",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique"
         },
         {
@@ -18573,8 +18573,8 @@
             "referred_to": [
                 "Andryhar56ClC8QP"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-08-11T14:08:51.287185",
+            "status": "active",
+            "countdown_start_time": "2025-08-19T09:06:51.469081",
             "affiliation_balance": 2000,
             "plan": "Basique"
         },
