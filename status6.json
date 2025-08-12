@@ -8037,7 +8037,8 @@
             "referred_by": "Elie69103580",
             "referred_to": [
                 "Zoarisoar8RoRDnY",
-                "Mahazony7k532wm9"
+                "Mahazony7k532wm9",
+                "GerardjpwWC08R"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-07-21T16:13:05.241873",
@@ -19881,6 +19882,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-08-12T19:08:55.903288",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "GerardjpwWC08R",
+            "android_id": "b7d6c692108ddc15492e93fbaef143e1",
+            "referred_by": "Lionel56199302",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-08-12T20:19:38.461218",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
