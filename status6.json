@@ -510,7 +510,8 @@
                 "Narovankery65mDF2zd",
                 "ClaverUCtoFhSO",
                 "JeanmarchelsPCdd6km",
-                "Maguy5KGqSMfg"
+                "Maguy5KGqSMfg",
+                "Fridelkimrfksm"
             ],
             "status": "active",
             "countdown_start_time": "2025-08-19T15:16:10.230160",
@@ -19968,6 +19969,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-08-14T02:52:32.042846",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Fridelkimrfksm",
+            "android_id": "08b03bf1d0ac3035ccd9a71931dc8332",
+            "referred_by": "Richard294024",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-08-14T04:51:57.362768",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
