@@ -366,7 +366,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-19T20:18:47.706419",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "android_id": "56f274f07f0875f8f4c28f68451427e0",
             "countdown_paused": false,
             "plan": "Basique"
@@ -1138,8 +1138,8 @@
                 "Hasinab2eAZQwF"
             ],
             "status": "active",
-            "countdown_start_time": "2025-08-13T14:07:05.691809",
-            "affiliation_balance": 8000,
+            "countdown_start_time": "2025-08-20T14:18:02.268136",
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
