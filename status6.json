@@ -6532,7 +6532,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-19T19:45:02.206219",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -7695,8 +7695,8 @@
             "referred_to": [
                 "Elinah68192920"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-08-13T18:05:08.031864",
+            "status": "active",
+            "countdown_start_time": "2025-08-20T18:14:10.271697",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
