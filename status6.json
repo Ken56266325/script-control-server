@@ -9987,7 +9987,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-08-12T19:15:09.879735",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -12997,8 +12997,8 @@
                 "SSLl46cFRR",
                 "MJ0YbQhp8o"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-08-13T18:08:18.445893",
+            "status": "active",
+            "countdown_start_time": "2025-08-20T21:21:08.304650",
             "affiliation_balance": 17000,
             "plan": "Basique"
         },
