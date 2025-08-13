@@ -5243,7 +5243,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-13T21:20:14.440956",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -14282,7 +14282,7 @@
             "referred_by": "Elie69103580",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-08-13T20:24:33.870891",
+            "countdown_start_time": "2025-08-20T20:24:33.870891",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
