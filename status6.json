@@ -3727,7 +3727,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-08-12T19:09:59.799898",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -5406,9 +5406,9 @@
                 "JncfiiNBArlGpq",
                 "natenaink2Edh8qw"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-08-11T21:00:17.734369",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-08-20T07:56:22.148365",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
