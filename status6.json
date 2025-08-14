@@ -2238,7 +2238,8 @@
                 "Iary02sqpg19Jq",
                 "Iary03HVBbeotV",
                 "rabary12r45MXCW",
-                "rabary2j6QA3xck"
+                "rabary2j6QA3xck",
+                "rabary3QjAVDE0v"
             ],
             "status": "active",
             "countdown_start_time": "2025-08-14T21:03:12.770100",
@@ -19989,6 +19990,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-08-21T09:20:02.733342",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "rabary3QjAVDE0v",
+            "android_id": "8f16bac6d68dda2b2ab43e800a04203c",
+            "referred_by": "Tsilavina68192",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-08-14T21:45:08.214402",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
