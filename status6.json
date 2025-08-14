@@ -1140,7 +1140,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-20T14:18:02.268136",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -15977,9 +15977,9 @@
             "referred_by": "Marcel10325",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-08-14T06:52:01.518570",
+            "countdown_start_time": "2025-08-21T07:10:47.215314",
             "affiliation_balance": 0,
-            "plan": "VIP"
+            "plan": "Basique"
         },
         {
             "id": "Sylves1jVLJB98",
