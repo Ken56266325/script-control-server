@@ -1140,7 +1140,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-20T14:18:02.268136",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -2926,8 +2926,8 @@
             "referred_to": [
                 "MarietteAKwrey4U"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-08-13T20:25:55.167950",
+            "status": "active",
+            "countdown_start_time": "2025-08-21T17:15:25.009955",
             "affiliation_balance": 4000,
             "plan": "Basique",
             "countdown_paused": false
