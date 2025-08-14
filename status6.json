@@ -3795,7 +3795,8 @@
                 "FinaritrahgHpR71m",
                 "Beatricex37t0uhU",
                 "ChrysantedUTrx2Mb",
-                "Joliib78AX95c"
+                "Joliib78AX95c",
+                "FrancelT9xJc9GB"
             ],
             "status": "active",
             "countdown_start_time": "2025-08-16T20:15:43.835185",
@@ -20034,6 +20035,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-08-15T01:15:26.323305",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "FrancelT9xJc9GB",
+            "android_id": "c0fa31be243c341b6f0fdc9122cd92a0",
+            "referred_by": "Randrianarivo68130",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-08-15T01:31:46.425460",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
