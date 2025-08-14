@@ -2135,7 +2135,8 @@
                 "Lenanido58193",
                 "niirinaUXc7Qepl",
                 "TOKYU5LywOFs",
-                "NiraG5JwbD2A"
+                "NiraG5JwbD2A",
+                "HaingoHB89hBf4"
             ],
             "status": "active",
             "countdown_start_time": "2025-08-19T08:09:20.408813",
@@ -20023,6 +20024,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-08-15T00:45:11.698804",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "HaingoHB89hBf4",
+            "android_id": "2f23a23d8ca2d6344920dcf918366dd0",
+            "referred_by": "Nanouh6819303",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-08-15T01:15:26.323305",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
