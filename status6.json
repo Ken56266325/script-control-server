@@ -6269,7 +6269,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-17T08:52:16.045082",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -10428,8 +10428,8 @@
             "referred_to": [
                 "Berthine6Wd3IOUq"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-07-31T10:29:09.056582",
+            "status": "active",
+            "countdown_start_time": "2025-08-21T08:15:22.984343",
             "affiliation_balance": 1000,
             "plan": "Basique"
         },
