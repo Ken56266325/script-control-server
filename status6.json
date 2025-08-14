@@ -1860,7 +1860,8 @@
                 "BertrandpEd4QL4B",
                 "FanomezantsoaUZJQZybL",
                 "EligSCaW3GM",
-                "RaivoY8MbL23J"
+                "RaivoY8MbL23J",
+                "LeandroDD1HWHP0"
             ],
             "status": "active",
             "countdown_start_time": "2025-08-18T18:39:58.189690",
@@ -20000,6 +20001,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-08-14T21:45:08.214402",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "LeandroDD1HWHP0",
+            "android_id": "79c036226d36caa2c64359683d863b0e",
+            "referred_by": "Wayne69193",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-08-14T22:20:35.718722",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
