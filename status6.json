@@ -424,7 +424,8 @@
             "id": "CompteN2973681",
             "referred_by": "Compte35183",
             "referred_to": [
-                "Thonny Fr\u00e9d\u00e9ricvlxwVzWk"
+                "Thonny Fr\u00e9d\u00e9ricvlxwVzWk",
+                "Lantonirina3XdxdqOJ"
             ],
             "status": "active",
             "countdown_start_time": "2025-08-17T22:19:37.820751",
@@ -20099,6 +20100,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-08-15T20:49:26.036328",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Lantonirina3XdxdqOJ",
+            "android_id": "4278f025e8d5c3300c7defbd6c27ae34",
+            "referred_by": "CompteN2973681",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-08-15T23:21:50.701888",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
