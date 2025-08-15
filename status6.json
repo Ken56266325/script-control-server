@@ -20123,6 +20123,15 @@
             "countdown_start_time": "2025-08-16T16:44:59.641723",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "mino45828",
+            "android_id": "a62327f4a4f80837e08bd71c4b0a8bd8",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-08-22T16:50:04.041575",
+            "affiliation_balance": 0
         }
     ],
     "references": {
