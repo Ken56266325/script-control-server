@@ -1478,7 +1478,8 @@
                 "Malawi6810321",
                 "Brada7912",
                 "Juliot79103601",
-                "florette122235"
+                "florette122235",
+                "boss56274"
             ],
             "status": "active",
             "countdown_start_time": "2025-08-16T20:58:11.340266",
@@ -20112,6 +20113,15 @@
             "countdown_start_time": "2025-08-15T23:21:50.701888",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "boss56274",
+            "android_id": "8df9607c35d96d116e15e066a398202e",
+            "referred_by": "Germain5719\u20ac",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-08-22T16:44:28.247681",
+            "affiliation_balance": 0
         }
     ],
     "references": {
