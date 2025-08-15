@@ -3006,7 +3006,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-20T12:59:54.164752",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -4101,9 +4101,9 @@
                 "ANDRYR279kv8T",
                 "Volanai7C5biRD"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-08-14T21:38:53.314599",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-08-22T06:23:30.676274",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
