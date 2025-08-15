@@ -11222,7 +11222,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-17T07:17:36.527667",
-            "affiliation_balance": 6000,
+            "affiliation_balance": 7000,
             "plan": "Basique"
         },
         {
@@ -14120,8 +14120,8 @@
             "referred_to": [
                 "Fitahianauep0L16P"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-08-09T18:28:13.704779",
+            "status": "active",
+            "countdown_start_time": "2025-08-22T18:10:32.174470",
             "affiliation_balance": 1000,
             "plan": "Basique"
         },
