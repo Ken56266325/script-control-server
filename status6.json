@@ -4235,7 +4235,8 @@
                 "Charlinetiq36jqO",
                 "MamyCfpVtHFb",
                 "FloridafNSqFejr",
-                "D\u00e9sir\u00e9e0D5KbL3"
+                "D\u00e9sir\u00e9e0D5KbL3",
+                "YvonR5lGjHuE"
             ],
             "status": "active",
             "countdown_start_time": "2025-08-18T17:32:10.496202",
@@ -20143,6 +20144,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-08-23T08:23:19.128975",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "YvonR5lGjHuE",
+            "android_id": "31ee65e0552ce7688a728b44eec8877a",
+            "referred_by": "Timote689901",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-08-16T22:09:38.864012",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
