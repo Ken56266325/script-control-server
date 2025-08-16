@@ -3900,7 +3900,8 @@
             "android_id": "9834cf0e2adad842460af3749bb5c44f",
             "referred_by": "Harris681971",
             "referred_to": [
-                "EmmatCA8WJNv"
+                "EmmatCA8WJNv",
+                "Cl\u00e9ment6OQLbei8"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-07-14T17:32:03.326189",
@@ -20176,6 +20177,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-08-17T02:59:25.254098",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Cl\u00e9ment6OQLbei8",
+            "android_id": "b8aee1f25f663e2767d1e331e452cf9b",
+            "referred_by": "Andii69103",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-08-17T03:51:29.590393",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
