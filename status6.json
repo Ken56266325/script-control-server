@@ -6970,7 +6970,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-17T12:34:36.290483",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -14521,8 +14521,8 @@
             "referred_to": [
                 "vetsotianacNfvxF26"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-08-16T16:21:39.194530",
+            "status": "active",
+            "countdown_start_time": "2025-08-23T16:49:55.903971",
             "affiliation_balance": 1000,
             "plan": "Basique"
         },
