@@ -259,7 +259,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-21T12:41:34.483420",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "android_id": "e74af1c33b0fd4e7b3ecef900c118751",
             "countdown_paused": false,
             "plan": "Basique"
@@ -3802,7 +3802,7 @@
                 "FrancelT9xJc9GB"
             ],
             "status": "active",
-            "countdown_start_time": "2025-08-16T20:15:43.835185",
+            "countdown_start_time": "2025-08-23T20:15:43.835185",
             "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
