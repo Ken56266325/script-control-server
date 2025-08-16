@@ -7212,7 +7212,8 @@
                 "Gerardherivalisoarp4mSL5L",
                 "MariusheriTqxBfSzp",
                 "tatie1234q0qlj1jv",
-                "Jptsiresymar0iOUP"
+                "Jptsiresymar0iOUP",
+                "Tahirialbert7OZ9UMUX"
             ],
             "status": "active",
             "countdown_start_time": "2025-08-17T07:29:33.223896",
@@ -20154,6 +20155,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-08-23T22:09:38.864012",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Tahirialbert7OZ9UMUX",
+            "android_id": "1a405af4f081cb03eefd9a20cc11955a",
+            "referred_by": "Chance69680",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-08-17T00:42:14.071177",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
