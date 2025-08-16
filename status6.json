@@ -683,7 +683,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-23T10:39:18.135628",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "countdown_paused": false,
             "plan": "Basique"
         },
@@ -9699,7 +9699,7 @@
                 "Tiana539AFNWb"
             ],
             "status": "active",
-            "countdown_start_time": "2025-08-16T16:19:19.512814",
+            "countdown_start_time": "2025-08-23T16:19:19.512814",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
