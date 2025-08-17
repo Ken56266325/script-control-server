@@ -1946,7 +1946,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-08-17T18:20:15.118405",
-            "affiliation_balance": 3000,
+            "affiliation_balance": 4000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -2095,8 +2095,8 @@
                 "BaliakaVw1WobBW"
             ],
             "status": "active",
-            "countdown_start_time": "2025-08-17T19:46:27.072132",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-08-24T20:15:42.148662",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
