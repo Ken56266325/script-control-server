@@ -5953,7 +5953,8 @@
                 "Marianoh125b4b6hHk",
                 "Ariceshowc1q8U1Pa",
                 "RodrigoSqnukmrg",
-                "KAMARAHKhHtOtyT"
+                "KAMARAHKhHtOtyT",
+                "BertinoAhKZWm1U"
             ],
             "status": "active",
             "countdown_start_time": "2025-08-20T09:52:04.738628",
@@ -20187,6 +20188,16 @@
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2025-08-17T03:51:29.590393",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "BertinoAhKZWm1U",
+            "android_id": "f635f17268bf88f5022a83dba4d80683",
+            "referred_by": "Velotsara681900",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-08-17T18:29:39.490383",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
