@@ -3799,7 +3799,8 @@
                 "Beatricex37t0uhU",
                 "ChrysantedUTrx2Mb",
                 "Joliib78AX95c",
-                "FrancelT9xJc9GB"
+                "FrancelT9xJc9GB",
+                "Zafiondrifauf65izVA"
             ],
             "status": "active",
             "countdown_start_time": "2025-08-23T20:15:43.835185",
@@ -20231,6 +20232,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-08-18T01:04:29.969157",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Zafiondrifauf65izVA",
+            "android_id": "d0df863acddb3e5af3227e653b2b8aa6",
+            "referred_by": "Randrianarivo68130",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-08-18T04:18:09.062044",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
