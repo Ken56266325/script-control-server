@@ -1808,7 +1808,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-19T11:53:52.782535",
-            "affiliation_balance": 4000,
+            "affiliation_balance": 5000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -5519,8 +5519,8 @@
                 "AndoniainaUkIi3Hjp",
                 "@TojoRianala5DsmYENo"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-08-10T12:12:39.859980",
+            "status": "active",
+            "countdown_start_time": "2025-08-24T14:33:40.805586",
             "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
