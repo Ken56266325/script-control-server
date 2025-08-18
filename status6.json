@@ -755,7 +755,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-08-03T08:45:29.643058",
-            "affiliation_balance": 4000,
+            "affiliation_balance": 5000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -8073,7 +8073,7 @@
             "referred_by": "Harimalala58294",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-08-18T10:39:26.093716",
+            "countdown_start_time": "2025-08-25T10:48:11.115055",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
