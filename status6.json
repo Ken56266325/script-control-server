@@ -8112,7 +8112,8 @@
                 "@manountsosNkSduvt3",
                 "@OlivianbaymOmdDsEl",
                 "fid\u00e8ledoKrwGAutk",
-                "LalainaAYKzORIN"
+                "LalainaAYKzORIN",
+                "@Anniot24PT9RH0ZZ"
             ],
             "status": "active",
             "countdown_start_time": "2025-08-24T15:30:50.581457",
@@ -20285,6 +20286,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-08-18T19:20:22.655183",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "@Anniot24PT9RH0ZZ",
+            "android_id": "095f88c7bb140647bae6071c2e2d6798",
+            "referred_by": "Dona68919229",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-08-18T20:02:38.562138",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
