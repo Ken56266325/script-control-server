@@ -1719,7 +1719,8 @@
             "referred_by": "Germain5719\u20ac",
             "referred_to": [
                 "Hasina5BMRhxVJ",
-                "FIDSONCFwJzXWB"
+                "FIDSONCFwJzXWB",
+                "Ya\u00e4shi\u00ebM\u00efo_lantR2V1w1Qt"
             ],
             "status": "active",
             "countdown_start_time": "2025-08-22T19:26:40.791336",
@@ -20338,6 +20339,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-08-18T22:35:19.182199",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Ya\u00e4shi\u00ebM\u00efo_lantR2V1w1Qt",
+            "android_id": "37faae86454dfe7ecf41abf58382927c",
+            "referred_by": "Escag\u00e9s591732",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-08-19T01:06:25.285415",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
