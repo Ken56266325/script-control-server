@@ -20255,6 +20255,16 @@
             "countdown_start_time": "2025-08-18T04:21:05.764128",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "ANDRIATSITOHAINASoafitiavanaPaulin7xvJFBr3",
+            "android_id": "07136f51dd8d00ecb8b1529162d50ef7",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-08-18T18:26:29.641560",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
