@@ -3482,7 +3482,8 @@
                 "AnthonieJMe3Z2lR",
                 "Maharongatry1ysCar4h",
                 "Kumareg8znZ7S",
-                "CrhistaleBHZRnQxv"
+                "CrhistaleBHZRnQxv",
+                "Onie2tq4WqI1"
             ],
             "status": "active",
             "countdown_start_time": "2025-08-26T15:02:35.857788",
@@ -20263,6 +20264,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-08-18T18:26:29.641560",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Onie2tq4WqI1",
+            "android_id": "7c6972a0f0ef37c025cd64f0e37d4f18",
+            "referred_by": "ToneJuly681030",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-08-18T19:09:37.299615",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
