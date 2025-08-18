@@ -1353,7 +1353,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-08-11T07:19:24.373409",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -4871,8 +4871,8 @@
             "referred_to": [
                 "Elonk4SLMiB0"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-08-18T23:08:42.919059",
+            "status": "active",
+            "countdown_start_time": "2025-08-26T00:12:51.673703",
             "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
