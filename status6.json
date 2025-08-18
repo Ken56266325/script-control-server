@@ -3181,7 +3181,8 @@
                 "Sandra78199320",
                 "RayandRBymORM",
                 "JaphetdWXyU2xu",
-                "MialyIVz1NM1Q"
+                "MialyIVz1NM1Q",
+                "mahenintsoajr6V4WNE"
             ],
             "status": "active",
             "countdown_start_time": "2025-08-19T17:15:39.701859",
@@ -20327,6 +20328,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-08-18T22:12:37.466356",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "mahenintsoajr6V4WNE",
+            "android_id": "bb34999fe8133449df56a20c0cdd5ad6",
+            "referred_by": "Niaina89103",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-08-18T22:35:19.182199",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
