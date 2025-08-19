@@ -20373,6 +20373,15 @@
             "countdown_start_time": "2025-08-19T22:38:22.808840",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Arnaud005",
+            "android_id": "9f20bedcc81bd4e945a8aad0b92b2325",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-08-26T14:47:21.669737",
+            "affiliation_balance": 0
         }
     ],
     "references": {
