@@ -5261,7 +5261,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-20T21:29:12.980363",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -8067,8 +8067,8 @@
                 "Mahazony7k532wm9",
                 "GerardjpwWC08R"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-07-21T16:13:05.241873",
+            "status": "active",
+            "countdown_start_time": "2025-08-26T09:06:55.073315",
             "affiliation_balance": 4000,
             "plan": "Basique"
         },
