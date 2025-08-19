@@ -18061,7 +18061,8 @@
             "android_id": "19874152",
             "referred_by": "PertinotlrajveKh",
             "referred_to": [
-                "MaximeespinolahcDIlFqR8"
+                "MaximeespinolahcDIlFqR8",
+                "RijalalainaCEB7Rtng"
             ],
             "status": "active",
             "countdown_start_time": "2025-08-19T12:18:19.002565",
@@ -20349,6 +20350,16 @@
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2025-08-19T01:06:25.285415",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "RijalalainaCEB7Rtng",
+            "android_id": "21772758",
+            "referred_by": "MiranamialisoawzrKqfFg",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-08-19T17:39:03.907255",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
