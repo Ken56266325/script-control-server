@@ -2140,7 +2140,8 @@
                 "TOKYU5LywOFs",
                 "NiraG5JwbD2A",
                 "HaingoHB89hBf4",
-                "562663261106ojCTosVy"
+                "562663261106ojCTosVy",
+                "MichelrOdIiVnr"
             ],
             "status": "active",
             "countdown_start_time": "2025-08-26T10:15:12.069406",
@@ -20391,6 +20392,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-08-20T00:00:34.575715",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "MichelrOdIiVnr",
+            "android_id": "635ce44249c5b6fbd2fa51af6566d4f2",
+            "referred_by": "Nanouh6819303",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-08-20T01:07:07.035586",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
