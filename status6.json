@@ -2988,7 +2988,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-07-29T06:36:24.640281",
-            "affiliation_balance": 14000,
+            "affiliation_balance": 15000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -3188,8 +3188,8 @@
                 "RhianeebWDz9iu"
             ],
             "status": "active",
-            "countdown_start_time": "2025-08-19T17:15:39.701859",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-08-26T17:25:56.355007",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
