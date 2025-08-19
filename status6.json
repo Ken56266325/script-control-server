@@ -4459,7 +4459,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-07-13T07:27:16.685866",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -14634,9 +14634,9 @@
                 "Stephanion79oro8Y",
                 "Eric4tYrTeZc"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-08-19T07:34:13.132579",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-08-26T07:50:37.421670",
+            "affiliation_balance": 0,
             "plan": "Basique"
         },
         {
