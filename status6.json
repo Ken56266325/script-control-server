@@ -1353,7 +1353,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-08-11T07:19:24.373409",
-            "affiliation_balance": 3000,
+            "affiliation_balance": 4000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -1550,9 +1550,9 @@
                 "zandrikelitVlTHGXMS",
                 "Ferena7ykfUmXo"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-08-16T21:25:54.920121",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-08-26T07:50:12.655812",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
