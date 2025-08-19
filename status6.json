@@ -3317,7 +3317,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-20T22:34:42.127443",
-            "affiliation_balance": 3000,
+            "affiliation_balance": 4000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -7417,8 +7417,8 @@
             "referred_to": [
                 "Ezio6891930"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-08-18T12:54:38.184559",
+            "status": "active",
+            "countdown_start_time": "2025-08-26T10:47:52.095108",
             "affiliation_balance": 4000,
             "plan": "Basique"
         },
