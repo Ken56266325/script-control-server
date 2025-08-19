@@ -16712,7 +16712,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-26T09:07:18.866461",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -17827,8 +17827,8 @@
             "referred_to": [
                 "YangodatsilaIZbGh1WZ"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-08-16T07:00:21.080771",
+            "status": "active",
+            "countdown_start_time": "2025-08-26T09:10:29.994092",
             "affiliation_balance": 1000,
             "plan": "Basique"
         },
