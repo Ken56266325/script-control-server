@@ -824,7 +824,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-23T07:11:41.145383",
-            "affiliation_balance": 8000,
+            "affiliation_balance": 9000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -4751,8 +4751,8 @@
             "referred_to": [
                 "Laurent671932004"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-08-12T19:48:19.047715",
+            "status": "active",
+            "countdown_start_time": "2025-08-27T21:26:31.810090",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
