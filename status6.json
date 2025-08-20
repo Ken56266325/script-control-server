@@ -5047,7 +5047,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-20T17:02:22.062588",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -6121,7 +6121,7 @@
             "referred_by": "Pass58190",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-08-20T16:05:58.482297",
+            "countdown_start_time": "2025-08-27T16:37:58.558616",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
