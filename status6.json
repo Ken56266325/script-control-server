@@ -2538,7 +2538,8 @@
                 "Christian58194",
                 "LemsMamyHrNcZ3QY",
                 "Raklesx3zwrKab",
-                "rmlrak10pXHXYnSt"
+                "rmlrak10pXHXYnSt",
+                "rmlrak12iv6x9SDQ"
             ],
             "status": "active",
             "countdown_start_time": "2025-08-25T20:31:33.357624",
@@ -20523,6 +20524,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-08-22T00:48:23.983740",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "rmlrak12iv6x9SDQ",
+            "android_id": "23daeabad98346641292db8054f4d02e",
+            "referred_by": "Mamy6795",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-08-22T01:08:50.277296",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
