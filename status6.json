@@ -6462,7 +6462,8 @@
                 "SafidySafidy7zad2wZy",
                 "NantenainaYoMl9ukU",
                 "NantenainaBWZ3q7iY",
-                "Leon7vMdwZNj"
+                "Leon7vMdwZNj",
+                "BaltaXGt6rapo"
             ],
             "status": "active",
             "countdown_start_time": "2025-08-21T16:13:10.859596",
@@ -20467,6 +20468,16 @@
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2025-08-21T07:14:55.860916",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "BaltaXGt6rapo",
+            "android_id": "eedeb0ab5cf693066b2696c6cd64682c",
+            "referred_by": "Tina6819201",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-08-21T16:52:10.563154",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
