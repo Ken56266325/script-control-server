@@ -5366,7 +5366,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-22T08:42:34.589873",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -5774,8 +5774,8 @@
                 "RANDRIANASOLOLucianolloDyP6Z",
                 "LovasOrgMoneyWyC8Wo5p"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-08-21T14:10:02.235508",
+            "status": "active",
+            "countdown_start_time": "2025-08-28T16:17:41.329983",
             "affiliation_balance": 5000,
             "plan": "Basique",
             "countdown_paused": false
