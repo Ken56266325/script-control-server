@@ -307,7 +307,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-06-25T08:46:48.977453",
-            "affiliation_balance": 38000,
+            "affiliation_balance": 39000,
             "android_id": "24e6c12d88d27aba84a80b1d0c821285",
             "countdown_paused": false,
             "plan": "Basique"
@@ -2686,9 +2686,9 @@
                 "FiiiiisVQMjU04Y",
                 "FerdinandLxA7ipYs"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-08-21T06:56:49.941871",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-08-28T08:23:41.307377",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
