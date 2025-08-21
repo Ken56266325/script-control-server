@@ -516,7 +516,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-26T15:30:01.049682",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "countdown_paused": false,
             "plan": "Basique"
         },
@@ -20015,8 +20015,8 @@
                 "Termis0sLJg7vkS",
                 "HerisarobidyDVxvEQzd"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-08-21T07:00:10.404076",
+            "status": "active",
+            "countdown_start_time": "2025-08-28T08:33:49.073144",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
