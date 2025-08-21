@@ -2539,7 +2539,8 @@
                 "LemsMamyHrNcZ3QY",
                 "Raklesx3zwrKab",
                 "rmlrak10pXHXYnSt",
-                "rmlrak12iv6x9SDQ"
+                "rmlrak12iv6x9SDQ",
+                "mamylesgdytBwVg"
             ],
             "status": "active",
             "countdown_start_time": "2025-08-25T20:31:33.357624",
@@ -20534,6 +20535,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-08-22T01:08:50.277296",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "mamylesgdytBwVg",
+            "android_id": "f63c7c48ce4211d4c7f8ebadd927c36e",
+            "referred_by": "Mamy6795",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-08-22T03:03:32.947360",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
