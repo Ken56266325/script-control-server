@@ -10914,7 +10914,8 @@
                 "Aur\u00e9liaiq8G30YX",
                 "RotsiniainapkWiDrht",
                 "LANTSOZYtv4bzhj6",
-                "Lagloiretaoe8gdL"
+                "Lagloiretaoe8gdL",
+                "Claudine3nHZ5naJ"
             ],
             "status": "active",
             "countdown_start_time": "2025-08-23T16:40:10.663994",
@@ -20663,6 +20664,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-08-23T02:10:52.383708",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Claudine3nHZ5naJ",
+            "android_id": "8d1942e63eba08a97ed742b0f5c05163",
+            "referred_by": "VoninahitraBoeEiLmp",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-08-23T02:12:07.149805",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
