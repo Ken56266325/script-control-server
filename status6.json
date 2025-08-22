@@ -1991,7 +1991,8 @@
             "referred_to": [
                 "ANJARANIAINAvXFkqEwG",
                 "TsiotazabjLAVz0f",
-                "AndryigrlPTVe"
+                "AndryigrlPTVe",
+                "Ars\u00e8ne67tnIZXG"
             ],
             "status": "active",
             "countdown_start_time": "2025-08-26T21:13:01.963587",
@@ -20590,6 +20591,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-08-22T18:49:43.039679",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Ars\u00e8ne67tnIZXG",
+            "android_id": "748bae0d488e9c62091c75caa0a38fab",
+            "referred_by": "Manohisoa591030",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-08-22T19:03:36.173442",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
