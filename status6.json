@@ -5971,7 +5971,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-27T09:52:04.738628",
-            "affiliation_balance": 7000,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -15682,8 +15682,8 @@
             "android_id": "ff0f58b0769800eb4ce7e0578fb37b7b",
             "referred_by": "Velotsara681900",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2025-08-21T18:55:36.253942",
+            "status": "active",
+            "countdown_start_time": "2025-08-29T08:49:24.029946",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
