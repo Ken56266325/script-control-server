@@ -1725,7 +1725,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-22T19:26:40.791336",
-            "affiliation_balance": 3000,
+            "affiliation_balance": 4000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -20368,8 +20368,8 @@
             "android_id": "37faae86454dfe7ecf41abf58382927c",
             "referred_by": "Escag\u00e9s591732",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2025-08-19T01:06:25.285415",
+            "status": "active",
+            "countdown_start_time": "2025-08-29T12:56:25.149194",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
