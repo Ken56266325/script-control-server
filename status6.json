@@ -1865,7 +1865,8 @@
                 "FanomezantsoaUZJQZybL",
                 "EligSCaW3GM",
                 "RaivoY8MbL23J",
-                "LeandroDD1HWHP0"
+                "LeandroDD1HWHP0",
+                "JessmineQ91e8oXH"
             ],
             "status": "active",
             "countdown_start_time": "2025-08-25T20:28:21.809562",
@@ -20652,6 +20653,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-08-22T23:12:33.481870",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "JessmineQ91e8oXH",
+            "android_id": "1aab9dab90a12a8a911e53cba35e1b2c",
+            "referred_by": "Wayne69193",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-08-23T02:10:52.383708",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
