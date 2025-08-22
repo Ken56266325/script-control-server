@@ -4117,7 +4117,7 @@
                 "ANDRYR279kv8T",
                 "Volanai7C5biRD"
             ],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-08-22T06:23:30.676274",
             "affiliation_balance": 0,
             "plan": "Basique",
@@ -20555,7 +20555,7 @@
             "android_id": "58e341d54563e7b74f54f3b3f3f80ff4",
             "referred_by": "BryantzyxRGTNq",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-08-22T06:09:33.259264",
             "affiliation_balance": 0,
             "plan": "Basique"
