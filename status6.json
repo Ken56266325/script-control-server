@@ -20496,7 +20496,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-28T16:59:33.680075",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -20584,8 +20584,8 @@
             "android_id": "7ae73045d014cffee73aa60fb4859cf4",
             "referred_by": "BaltaXGt6rapo",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2025-08-22T16:42:56.310322",
+            "status": "active",
+            "countdown_start_time": "2025-08-29T18:30:54.060139",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
