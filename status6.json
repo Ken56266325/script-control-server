@@ -683,7 +683,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-23T10:39:18.135628",
-            "affiliation_balance": 6000,
+            "affiliation_balance": 7000,
             "countdown_paused": false,
             "plan": "Basique"
         },
@@ -10022,8 +10022,8 @@
                 "MahefatinahajarivoaeJNpfdN",
                 "rolain6NmkRYYg"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-08-21T19:14:39.125310",
+            "status": "active",
+            "countdown_start_time": "2025-08-29T12:35:16.337805",
             "affiliation_balance": 2000,
             "plan": "Basique"
         },
