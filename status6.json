@@ -1427,7 +1427,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-25T15:58:05.191511",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -8709,9 +8709,9 @@
                 "SedinahBFl7CG3J",
                 "YveslsVRUoz5"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-08-22T18:55:20.722505",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-08-30T07:06:22.934162",
+            "affiliation_balance": 0,
             "plan": "Basique"
         },
         {
