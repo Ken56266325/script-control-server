@@ -5274,7 +5274,8 @@
                 "Rovaqyif5q4H",
                 "RovaZ5sPAv6A",
                 "DominiquemFngsnTo",
-                "Meryeme6Gp2X7V"
+                "Meryeme6Gp2X7V",
+                "KefasywmkfYdVN"
             ],
             "status": "active",
             "countdown_start_time": "2025-08-27T21:33:33.131015",
@@ -20754,6 +20755,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-08-23T20:10:01.580433",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "KefasywmkfYdVN",
+            "android_id": "1af564e8eaed91d0fb8ee523e00e7352",
+            "referred_by": "Elie69103580",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-08-24T01:27:29.292263",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
