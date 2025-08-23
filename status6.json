@@ -259,7 +259,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-28T12:46:56.771759",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "android_id": "e74af1c33b0fd4e7b3ecef900c118751",
             "countdown_paused": false,
             "plan": "Basique"
@@ -3825,7 +3825,7 @@
                 "ZafitalI7V0bH0p"
             ],
             "status": "active",
-            "countdown_start_time": "2025-08-23T20:15:43.835185",
+            "countdown_start_time": "2025-08-30T20:15:43.835185",
             "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
