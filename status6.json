@@ -1142,7 +1142,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-27T14:18:02.268136",
-            "affiliation_balance": 8000,
+            "affiliation_balance": 7000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -5296,7 +5296,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-25T17:02:42.573919",
-            "affiliation_balance": 16000,
+            "affiliation_balance": 0,
             "plan": "VIP",
             "countdown_paused": false
         },
@@ -8144,8 +8144,8 @@
                 "LalainaAYKzORIN",
                 "@Anniot24PT9RH0ZZ"
             ],
-            "status": "active",
-            "countdown_start_time": "2025-08-31T17:02:06.022376",
+            "status": "inactive",
+            "countdown_start_time": "2025-08-24T15:30:50.581457",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
