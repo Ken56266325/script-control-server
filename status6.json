@@ -3823,7 +3823,8 @@
                 "Joliib78AX95c",
                 "FrancelT9xJc9GB",
                 "Zafiondrifauf65izVA",
-                "ZafitalI7V0bH0p"
+                "ZafitalI7V0bH0p",
+                "GangmanolvQEO5W"
             ],
             "status": "active",
             "countdown_start_time": "2025-08-30T20:15:43.835185",
@@ -20776,6 +20777,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-08-24T17:22:24.700303",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "GangmanolvQEO5W",
+            "android_id": "8ea77438d86e266e31a2c062aef9b362",
+            "referred_by": "Randrianarivo68130",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-08-24T19:19:57.614212",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
