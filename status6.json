@@ -2739,7 +2739,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-26T09:46:04.013384",
-            "affiliation_balance": 3000,
+            "affiliation_balance": 4000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -3092,9 +3092,9 @@
                 "hanintriainaErtuUECH",
                 "oliviarsjPA1Gg"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-08-24T16:12:00.987858",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-08-31T19:37:01.982143",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
