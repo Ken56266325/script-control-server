@@ -2101,7 +2101,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-24T20:15:42.148662",
-            "affiliation_balance": 7000,
+            "affiliation_balance": 8000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -6938,8 +6938,8 @@
                 "yyg"
             ],
             "status": "active",
-            "countdown_start_time": "2025-08-24T19:57:54.037813",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-08-31T20:04:08.653665",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
