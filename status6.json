@@ -3717,7 +3717,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-26T15:52:41.571952",
-            "affiliation_balance": 5000,
+            "affiliation_balance": 6000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -10242,9 +10242,9 @@
             "referred_to": [
                 "AndoTscbXQll"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-08-25T15:20:40.708200",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-09-01T19:50:01.903058",
+            "affiliation_balance": 0,
             "plan": "Basique"
         },
         {
