@@ -3333,7 +3333,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-08-20T22:34:42.127443",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -5722,7 +5722,7 @@
                 "CelestineDX1eASZy"
             ],
             "status": "active",
-            "countdown_start_time": "2025-08-25T19:16:37.138769",
+            "countdown_start_time": "2025-09-01T19:35:41.276665",
             "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
