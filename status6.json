@@ -1499,7 +1499,7 @@
                 "EtiennedomVtFfK",
                 "Laha7BRIsYOb"
             ],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-08-25T23:27:34.886287",
             "affiliation_balance": 11000,
             "plan": "Basique",
@@ -3517,7 +3517,7 @@
             "android_id": "403bb0eab8cb4664c0b1f26025547120",
             "referred_by": "Nantenaina90183",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-08-25T23:55:02.756917",
             "affiliation_balance": 0,
             "plan": "Basique",
@@ -9678,7 +9678,7 @@
             "android_id": "98bc9abfa63c0c8c112d20ee754df6c4",
             "referred_by": "Harivola6719932",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-08-25T23:56:11.923658",
             "affiliation_balance": 0,
             "plan": "Basique"
