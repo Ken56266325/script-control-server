@@ -19555,7 +19555,9 @@
             "id": "TsantaandriTemiPUYs",
             "android_id": "955264d72df5a5536cf02e3d3bd13c78",
             "referred_by": null,
-            "referred_to": [],
+            "referred_to": [
+                "sasakiantsaxNzlmcnx"
+            ],
             "status": "active",
             "countdown_start_time": "2025-08-27T22:47:03.449418",
             "affiliation_balance": 0,
@@ -20896,6 +20898,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-08-26T05:25:08.039230",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "sasakiantsaxNzlmcnx",
+            "android_id": "9d0b12740742518a55cb4d567b94525c",
+            "referred_by": "TsantaandriTemiPUYs",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-08-26T07:01:10.339688",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
