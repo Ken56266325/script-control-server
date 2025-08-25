@@ -1871,7 +1871,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-25T20:28:21.809562",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -7828,8 +7828,8 @@
             "referred_to": [
                 "Antsa68919392"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-08-25T18:51:52.782901",
+            "status": "active",
+            "countdown_start_time": "2025-09-01T19:13:21.642991",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
