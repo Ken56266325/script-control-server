@@ -3227,7 +3227,7 @@
                 "FANDRESENAAaDuo7C1",
                 "rovisabatier8J84XBM7"
             ],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-08-26T23:56:17.951310",
             "affiliation_balance": 0,
             "plan": "Basique",
@@ -7145,7 +7145,7 @@
             "android_id": "2fa5615196600cf157d97f72f66718b7",
             "referred_by": "Rakotomandimby78104",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-08-26T23:46:45.513980",
             "affiliation_balance": 0,
             "plan": "Basique",
@@ -12866,7 +12866,7 @@
             "android_id": "8d28a0aaf62c40dc95b02f08e87247b8",
             "referred_by": "Timote689901",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-08-27T00:22:38.197960",
             "affiliation_balance": 0,
             "plan": "Basique"
