@@ -1485,7 +1485,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-30T21:35:09.220009",
-            "affiliation_balance": 12000,
+            "affiliation_balance": 13000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -4287,9 +4287,9 @@
                 "Douglas5wCOcTwv",
                 "JackelinbbddmMEH"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-08-26T20:45:34.617160",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-09-02T21:18:32.031883",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
