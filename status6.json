@@ -9349,7 +9349,8 @@
             "android_id": "b865882632f0572cda6f44801fb8efc9",
             "referred_by": "Miray519093i0",
             "referred_to": [
-                "Jonliemi80ZldT6"
+                "Jonliemi80ZldT6",
+                "LiimramiNPiOUFgc"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-08-22T20:31:42.567379",
@@ -20932,6 +20933,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-08-26T16:17:33.692241",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "LiimramiNPiOUFgc",
+            "android_id": "a1a7e1471eded296aecbd63623a31dca",
+            "referred_by": "Amir19pG7Imv",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-08-26T16:50:41.775198",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
