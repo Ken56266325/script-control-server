@@ -4267,7 +4267,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-09-01T19:26:22.589405",
-            "affiliation_balance": 17000,
+            "affiliation_balance": 18000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -13448,9 +13448,9 @@
             "referred_by": "Timote689901",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-08-26T13:24:04.971546",
+            "countdown_start_time": "2025-09-02T13:24:04.971546",
             "affiliation_balance": 0,
-            "plan": "VIP"
+            "plan": "Basique"
         },
         {
             "id": "JeanJohnsongHESgbZE",
