@@ -3333,7 +3333,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-08-20T22:34:42.127443",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -7005,9 +7005,9 @@
                 "SarobidysBwvsy0E",
                 "Cl\u00e9oMjejAXbV"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-08-24T12:48:01.769020",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-09-02T07:48:28.847792",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
