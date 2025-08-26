@@ -3201,7 +3201,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-08-26T17:25:56.355007",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -4106,8 +4106,8 @@
             "referred_to": [
                 "TAHINAP1YU64ao"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-08-20T20:35:39.647924",
+            "status": "active",
+            "countdown_start_time": "2025-09-02T19:12:51.915819",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
