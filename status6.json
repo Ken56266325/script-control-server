@@ -11872,7 +11872,8 @@
             "android_id": "f7ba9458143e421336e5807a831c49eb",
             "referred_by": "Airtel791628962",
             "referred_to": [
-                "Lauristec9WMVpHE"
+                "Lauristec9WMVpHE",
+                "julienjustinaTsLhn2yp"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-07-16T18:36:08.777921",
@@ -20943,6 +20944,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-08-26T16:50:41.775198",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "julienjustinaTsLhn2yp",
+            "android_id": "25517802",
+            "referred_by": "Lauristeunoi0nET",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-08-26T18:06:01.029795",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
