@@ -3713,7 +3713,8 @@
                 "TsambaniZpyK2QRO",
                 "SendrarEwQjhz9",
                 "YamissQe3Gu2BJ",
-                "MishaQxv12lb6"
+                "MishaQxv12lb6",
+                "MishaWYIc8CUn"
             ],
             "status": "active",
             "countdown_start_time": "2025-09-02T16:52:18.163768",
@@ -20999,6 +21000,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-08-27T01:20:20.363417",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "MishaWYIc8CUn",
+            "android_id": "c5fbca646b364e3dbbfdda37f9c9c063",
+            "referred_by": "Joel68010",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-08-27T02:31:13.714883",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
