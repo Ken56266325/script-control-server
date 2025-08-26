@@ -217,7 +217,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-30T11:05:46.899495",
-            "affiliation_balance": 5000,
+            "affiliation_balance": 6000,
             "android_id": "c4665ee227bd5513d44e32d4d69a242c",
             "countdown_paused": false,
             "plan": "Basique"
@@ -515,8 +515,8 @@
                 "Fridelkimrfksm"
             ],
             "status": "active",
-            "countdown_start_time": "2025-08-26T15:30:01.049682",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-09-02T15:45:06.575007",
+            "affiliation_balance": 0,
             "countdown_paused": false,
             "plan": "Basique"
         },
