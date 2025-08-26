@@ -1264,7 +1264,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-31T11:55:59.452679",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -15111,8 +15111,8 @@
                 "Angelickat3qdUHttX",
                 "TonassinaoHG2PEPo"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-08-26T20:41:19.886198",
+            "status": "active",
+            "countdown_start_time": "2025-09-02T22:07:13.892017",
             "affiliation_balance": 1000,
             "plan": "Basique"
         },
