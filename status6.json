@@ -13131,7 +13131,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-08-25T18:15:49.558814",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -15002,7 +15002,7 @@
             "referred_by": "TinotyhejTUkpU7wX",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-08-27T12:12:16.418541",
+            "countdown_start_time": "2025-09-03T12:47:48.008385",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
