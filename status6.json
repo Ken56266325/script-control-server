@@ -4264,7 +4264,8 @@
                 "MamyCfpVtHFb",
                 "FloridafNSqFejr",
                 "D\u00e9sir\u00e9e0D5KbL3",
-                "YvonR5lGjHuE"
+                "YvonR5lGjHuE",
+                "Mons\u00e8neC1GyWPQl"
             ],
             "status": "active",
             "countdown_start_time": "2025-09-01T19:26:22.589405",
@@ -21032,6 +21033,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-08-27T18:36:50.842472",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Mons\u00e8neC1GyWPQl",
+            "android_id": "d60c58ff8af713d97160798e8b8ad957",
+            "referred_by": "Timote689901",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-08-27T20:38:40.666510",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
