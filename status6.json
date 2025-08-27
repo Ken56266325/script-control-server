@@ -1047,7 +1047,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-08-27T10:24:46.454426",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -6807,7 +6807,7 @@
                 "IdapP3uXj4C"
             ],
             "status": "active",
-            "countdown_start_time": "2025-08-27T22:15:21.439273",
+            "countdown_start_time": "2025-09-03T22:15:21.439273",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
