@@ -366,7 +366,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-09-02T23:11:17.882225",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "android_id": "56f274f07f0875f8f4c28f68451427e0",
             "countdown_paused": false,
             "plan": "Basique"
@@ -555,7 +555,7 @@
                 "OcheneGhzYU4CF"
             ],
             "status": "active",
-            "countdown_start_time": "2025-08-27T08:52:43.721106",
+            "countdown_start_time": "2025-09-03T08:52:43.721106",
             "affiliation_balance": 0,
             "countdown_paused": false,
             "plan": "Basique"
