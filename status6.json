@@ -7252,7 +7252,8 @@
                 "tatie1234q0qlj1jv",
                 "Jptsiresymar0iOUP",
                 "Tahirialbert7OZ9UMUX",
-                "yzaia1aR3EUdTy"
+                "yzaia1aR3EUdTy",
+                "MahazonirinapK2zMRod"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-08-24T12:06:03.093374",
@@ -21010,6 +21011,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-09-03T06:16:05.684162",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "MahazonirinapK2zMRod",
+            "android_id": "e84bd68c8def4f919b83b0494f3e1145",
+            "referred_by": "Chance69680",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-08-27T17:33:49.012864",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
