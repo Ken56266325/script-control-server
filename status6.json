@@ -2286,7 +2286,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-28T20:52:43.077319",
-            "affiliation_balance": 3000,
+            "affiliation_balance": 4000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -8029,8 +8029,8 @@
             "referred_to": [
                 "Ora6819932"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-08-26T22:14:00.715456",
+            "status": "active",
+            "countdown_start_time": "2025-09-03T08:54:06.133176",
             "affiliation_balance": 2000,
             "plan": "Basique"
         },
