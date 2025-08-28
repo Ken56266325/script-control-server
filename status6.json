@@ -7392,7 +7392,8 @@
             "referred_to": [
                 "AlphaMQQMUolP",
                 "ManouBa8fIWh2",
-                "MandavD35iLT6"
+                "MandavD35iLT6",
+                "FlorentnkxaVIj8"
             ],
             "status": "active",
             "countdown_start_time": "2025-08-30T13:34:31.736790",
@@ -21085,6 +21086,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-09-04T06:53:08.326488",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "FlorentnkxaVIj8",
+            "android_id": "26dbec5b15ee7ac8297367f1f7b75dbf",
+            "referred_by": "Manou68194o02",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-08-28T21:32:23.675962",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
