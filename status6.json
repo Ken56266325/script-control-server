@@ -4969,7 +4969,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-05-25T20:36:25.935183",
-            "affiliation_balance": 13000,
+            "affiliation_balance": 7000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -6992,8 +6992,8 @@
                 "tiavinaX5KGV9Cv",
                 "niqqxTNmt5"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-08-06T11:10:35.185126",
+            "status": "active",
+            "countdown_start_time": "2025-09-04T18:51:57.903610",
             "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
