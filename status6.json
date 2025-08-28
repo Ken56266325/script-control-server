@@ -10942,7 +10942,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-31T19:29:08.569762",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -21083,8 +21083,8 @@
             "android_id": "a6f34cadd5a55f2c27925a16d3bdce02",
             "referred_by": "VoninahitraBoeEiLmp",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2025-08-28T05:27:51.224704",
+            "status": "active",
+            "countdown_start_time": "2025-09-04T06:53:08.326488",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
