@@ -3294,7 +3294,8 @@
                 "Honore891681020",
                 "Elie69103580",
                 "Sarobidy68100320",
-                "Meryem67193939"
+                "Meryem67193939",
+                "StephenghlABUCH"
             ],
             "status": "active",
             "countdown_start_time": "2025-09-01T22:26:39.107529",
@@ -21108,6 +21109,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-08-28T23:02:32.208221",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "StephenghlABUCH",
+            "android_id": "233cfa40c652d338f4e449eed81909bb",
+            "referred_by": "Nantenaina90183",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-08-29T00:48:44.577881",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
