@@ -3832,7 +3832,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-30T20:15:43.835185",
-            "affiliation_balance": 5000,
+            "affiliation_balance": 6000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -5605,9 +5605,9 @@
                 "BeatriceBv2EpUN5",
                 "Amadou2K5uIt6j6"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-08-27T14:44:42.742918",
-            "affiliation_balance": 14000,
+            "status": "active",
+            "countdown_start_time": "2025-09-04T18:49:54.512554",
+            "affiliation_balance": 0,
             "plan": "VIP",
             "countdown_paused": false
         },
