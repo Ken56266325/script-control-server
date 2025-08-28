@@ -820,7 +820,8 @@
                 "BymfdTWpw4",
                 "NyMrkRsUJ2",
                 "FlancyvZlC5gFA",
-                "MyZcTYAyit"
+                "MyZcTYAyit",
+                "ValyMvBA6jVT"
             ],
             "status": "active",
             "countdown_start_time": "2025-08-30T07:56:17.919274",
@@ -21130,6 +21131,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-08-29T00:53:51.759914",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "ValyMvBA6jVT",
+            "android_id": "bcc43b4e4d464b87104b2d8f8f0029e7",
+            "referred_by": "Miki5739",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-08-29T01:27:11.512577",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
