@@ -1813,7 +1813,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-09-02T12:03:52.157046",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -7107,8 +7107,8 @@
                 "Emmaj0FCp6DT"
             ],
             "status": "active",
-            "countdown_start_time": "2025-08-29T19:31:18.448910",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-09-05T19:35:47.155008",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
