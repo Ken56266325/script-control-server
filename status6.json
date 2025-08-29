@@ -11133,7 +11133,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-09-03T19:19:20.549608",
-            "affiliation_balance": 4000,
+            "affiliation_balance": 0,
             "plan": "Basique"
         },
         {
@@ -20543,7 +20543,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-09-04T17:16:14.106558",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -20632,7 +20632,7 @@
             "referred_by": "BaltaXGt6rapo",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-09-05T18:30:54.060139",
+            "countdown_start_time": "2025-08-29T18:30:54.060139",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
