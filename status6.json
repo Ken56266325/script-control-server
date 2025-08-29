@@ -1261,7 +1261,8 @@
                 "ElijoypS2ZH1k4",
                 "R.TonassinaaxWzISzJ",
                 "CamaazZAZmIQ",
-                "LantoIiL1sMpT"
+                "LantoIiL1sMpT",
+                "AinaWT8cHHSR"
             ],
             "status": "active",
             "countdown_start_time": "2025-08-31T11:55:59.452679",
@@ -21196,6 +21197,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-08-30T01:07:32.613395",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "AinaWT8cHHSR",
+            "android_id": "9d6a03863e493fe630f12a4860aea064",
+            "referred_by": "Gaelode10361",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-08-30T02:21:50.083294",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
