@@ -5609,7 +5609,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-09-04T18:49:54.512554",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "VIP",
             "countdown_paused": false
         },
@@ -19647,7 +19647,7 @@
             "referred_by": "Amadou681036190",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-08-30T09:08:19.424243",
+            "countdown_start_time": "2025-09-06T09:43:51.958366",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
