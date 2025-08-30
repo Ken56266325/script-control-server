@@ -20939,7 +20939,9 @@
             "id": "sasakiantsaxNzlmcnx",
             "android_id": "9d0b12740742518a55cb4d567b94525c",
             "referred_by": "TsantaandriTemiPUYs",
-            "referred_to": [],
+            "referred_to": [
+                "HeritianaJuli_oxS0K7MX4"
+            ],
             "status": "active",
             "countdown_start_time": "2025-09-02T09:24:18.321352",
             "affiliation_balance": 0,
@@ -21272,6 +21274,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-08-31T00:29:22.126356",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "HeritianaJuli_oxS0K7MX4",
+            "android_id": "790671e4af39820deae634475d828659",
+            "referred_by": "sasakiantsaxNzlmcnx",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-08-31T04:55:52.011530",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
