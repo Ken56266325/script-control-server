@@ -21253,6 +21253,16 @@
             "countdown_start_time": "2025-08-30T18:45:00.971324",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "GabriellaHantasoa1ckZqAYO",
+            "android_id": "21960563",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-08-30T22:30:03.456611",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
