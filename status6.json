@@ -7664,7 +7664,8 @@
             "android_id": "gzkzkzhzkzijzj",
             "referred_by": "Tsila5819292",
             "referred_to": [
-                "https://t.me/popbro4ma33SS6"
+                "https://t.me/popbro4ma33SS6",
+                "@maoraikyn2Decods"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-08-28T20:07:59.134695",
@@ -21284,6 +21285,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-08-31T04:55:52.011530",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "@maoraikyn2Decods",
+            "android_id": "b1ec3bff3b8fad31aff23885f072e226",
+            "referred_by": "Smmboss58194920",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-08-31T05:32:59.870546",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
