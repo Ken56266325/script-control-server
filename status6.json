@@ -6491,7 +6491,8 @@
                 "NantenainaYoMl9ukU",
                 "NantenainaBWZ3q7iY",
                 "Leon7vMdwZNj",
-                "BaltaXGt6rapo"
+                "BaltaXGt6rapo",
+                "NomenjanaharymarceljUZmUzPZ"
             ],
             "status": "active",
             "countdown_start_time": "2025-09-04T16:29:46.935806",
@@ -21240,6 +21241,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-08-30T18:12:36.993428",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "NomenjanaharymarceljUZmUzPZ",
+            "android_id": "04862c312c138db77141a8a7c1d806bb",
+            "referred_by": "Tina6819201",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-08-30T18:45:00.971324",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
