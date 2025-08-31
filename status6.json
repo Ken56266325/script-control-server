@@ -1953,7 +1953,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-08-31T21:01:53.722499",
-            "affiliation_balance": 3000,
+            "affiliation_balance": 4000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -2102,9 +2102,9 @@
                 "Fenoasy0KedYaBJ",
                 "BaliakaVw1WobBW"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-08-31T20:15:42.148662",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-09-07T20:49:32.617167",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
