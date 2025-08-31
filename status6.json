@@ -888,7 +888,7 @@
             "android_id": "4966e14e7b411a5a1e3f7f83d79d6ff8",
             "referred_by": "Compte35183",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-08-31T21:43:17.846732",
             "affiliation_balance": 0,
             "plan": "Basique",
@@ -12586,7 +12586,7 @@
             "referred_to": [
                 "lalainainbXxloS"
             ],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-08-31T21:43:48.180758",
             "affiliation_balance": 2000,
             "plan": "Basique"
