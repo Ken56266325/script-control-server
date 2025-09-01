@@ -21399,6 +21399,15 @@
             "countdown_start_time": "2025-09-02T01:01:04.202629",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "valisoa63737",
+            "android_id": "fa0b63eb04af3b919c37bbce3d55e976",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-09-08T17:06:17.338012",
+            "affiliation_balance": 0
         }
     ],
     "references": {
