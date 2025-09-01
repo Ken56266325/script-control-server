@@ -8112,7 +8112,8 @@
                 "Zoarisoar8RoRDnY",
                 "Mahazony7k532wm9",
                 "GerardjpwWC08R",
-                "geldoa0LOLdF"
+                "geldoa0LOLdF",
+                "NathalieMgnKukWL"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-08-26T09:06:55.073315",
@@ -21364,6 +21365,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-09-01T20:02:04.670315",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "NathalieMgnKukWL",
+            "android_id": "8d23b0fcee2aae102ebfe23b91581a14",
+            "referred_by": "Lionel56199302",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-09-02T00:05:02.266729",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
