@@ -7263,7 +7263,8 @@
                 "Jptsiresymar0iOUP",
                 "Tahirialbert7OZ9UMUX",
                 "yzaia1aR3EUdTy",
-                "MahazonirinapK2zMRod"
+                "MahazonirinapK2zMRod",
+                "RandriamlalagVZXPGU2"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-08-24T12:06:03.093374",
@@ -21386,6 +21387,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-09-02T00:40:07.048831",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "RandriamlalagVZXPGU2",
+            "android_id": "0cba56f0798b0748303ff369318c4cb6",
+            "referred_by": "Chance69680",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-09-02T01:01:04.202629",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
