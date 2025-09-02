@@ -1488,7 +1488,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-09-06T22:00:41.716422",
-            "affiliation_balance": 14000,
+            "affiliation_balance": 15000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -4273,8 +4273,8 @@
                 "Mons\u00e8neC1GyWPQl",
                 "boscoC2UkD7J8"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-09-01T19:26:22.589405",
+            "status": "active",
+            "countdown_start_time": "2025-09-09T18:30:17.550756",
             "affiliation_balance": 26000,
             "plan": "Basique",
             "countdown_paused": false
