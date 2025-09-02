@@ -1431,7 +1431,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-09-09T20:30:42.116418",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -1785,9 +1785,9 @@
                 "Mampionona58103",
                 "EricfcywHC3y"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-08-30T13:30:43.076788",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-09-09T21:48:25.232830",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
