@@ -307,7 +307,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-09-07T13:17:33.020397",
-            "affiliation_balance": 40000,
+            "affiliation_balance": 41000,
             "android_id": "24e6c12d88d27aba84a80b1d0c821285",
             "countdown_paused": false,
             "plan": "Basique"
@@ -1813,8 +1813,8 @@
                 "Fran\u00e7ois575Vlrsw"
             ],
             "status": "active",
-            "countdown_start_time": "2025-09-02T12:03:52.157046",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-09-09T20:50:23.521287",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
