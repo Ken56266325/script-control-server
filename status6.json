@@ -1488,7 +1488,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-09-06T22:00:41.716422",
-            "affiliation_balance": 16000,
+            "affiliation_balance": 17000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -4295,8 +4295,8 @@
                 "JackelinbbddmMEH"
             ],
             "status": "active",
-            "countdown_start_time": "2025-09-02T21:18:32.031883",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-09-09T22:21:39.090419",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
