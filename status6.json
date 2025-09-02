@@ -1267,7 +1267,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-08-31T11:55:59.452679",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -15136,7 +15136,7 @@
                 "TonassinaoHG2PEPo"
             ],
             "status": "active",
-            "countdown_start_time": "2025-09-02T22:07:13.892017",
+            "countdown_start_time": "2025-09-09T22:20:55.946979",
             "affiliation_balance": 1000,
             "plan": "Basique"
         },
