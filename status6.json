@@ -4515,7 +4515,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-05-22T12:33:17.707406",
-            "affiliation_balance": 26000,
+            "affiliation_balance": 27000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -6349,8 +6349,8 @@
                 "sylvainPj8arEy9",
                 "IzahoSo4Yc878"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-09-03T17:36:06.397060",
+            "status": "active",
+            "countdown_start_time": "2025-09-10T19:11:58.252391",
             "affiliation_balance": 8000,
             "plan": "Basique",
             "countdown_paused": false
