@@ -5860,7 +5860,7 @@
             "android_id": "0493571ef95605a15bf5e30129cadd97",
             "referred_by": "Airtel791628962",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-09-03T09:37:17.639914",
             "affiliation_balance": 0,
             "plan": "Basique",
@@ -5998,7 +5998,7 @@
                 "BertinoAhKZWm1U",
                 "NathaliekcMGQ8Mw"
             ],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-09-03T09:52:04.738628",
             "affiliation_balance": 2000,
             "plan": "Basique",
@@ -8048,7 +8048,7 @@
             "referred_to": [
                 "Ora6819932"
             ],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-09-03T08:54:06.133176",
             "affiliation_balance": 2000,
             "plan": "Basique"
@@ -13654,7 +13654,7 @@
             "android_id": "a61f2bec921899b75ccbf33371c0b170",
             "referred_by": "derasoaommjkfwM",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-09-03T09:24:10.855768",
             "affiliation_balance": 0,
             "plan": "Basique"
