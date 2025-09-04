@@ -2354,7 +2354,8 @@
                 "Christian57199202",
                 "Smmboss58194920",
                 "YVONLkIh6ad9",
-                "CHRIS9tOHcLlx"
+                "CHRIS9tOHcLlx",
+                "faniryJnC4Znh9"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-04-13T06:03:36.905599",
@@ -21503,6 +21504,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-09-05T11:15:17.121177",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "faniryJnC4Znh9",
+            "android_id": "dcc50b693093e9190b290571155252c6",
+            "referred_by": "Tsila5819292",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-09-04T19:20:20.841313",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
