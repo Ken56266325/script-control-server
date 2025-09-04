@@ -3303,7 +3303,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-09-09T05:17:21.718990",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -5290,9 +5290,9 @@
                 "Meryeme6Gp2X7V",
                 "KefasywmkfYdVN"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-09-03T21:58:28.714700",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-09-11T09:54:49.968534",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
