@@ -6502,7 +6502,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-09-04T16:29:46.935806",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -20569,7 +20569,7 @@
                 "TantelyftfhcZ7D"
             ],
             "status": "active",
-            "countdown_start_time": "2025-09-04T17:16:14.106558",
+            "countdown_start_time": "2025-09-11T17:26:09.451082",
             "affiliation_balance": 2000,
             "plan": "Basique"
         },
