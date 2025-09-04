@@ -5225,7 +5225,7 @@
             "referred_to": [
                 "TolotrafPTY6rzO"
             ],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-09-04T12:44:44.970529",
             "affiliation_balance": 3000,
             "plan": "Basique",
@@ -9038,7 +9038,7 @@
             "android_id": "228e31c862ccbccbb5e002b6c77a650d",
             "referred_by": "Emmanuel1",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-09-04T12:29:21.780436",
             "affiliation_balance": 0,
             "plan": "Basique"
