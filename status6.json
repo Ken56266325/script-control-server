@@ -3514,7 +3514,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-09-09T15:33:06.236707",
-            "affiliation_balance": 7000,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -10416,7 +10416,7 @@
                 "ManatsaraCNUMonwS"
             ],
             "status": "active",
-            "countdown_start_time": "2025-09-05T23:26:59.686477",
+            "countdown_start_time": "2025-09-12T23:26:59.686477",
             "affiliation_balance": 2000,
             "plan": "Basique"
         },
