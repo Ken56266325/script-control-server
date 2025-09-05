@@ -60,7 +60,7 @@
                 "lala99LUHutLhT",
                 "Andry20256E7nMPgK"
             ],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-09-05T21:34:47.990058",
             "affiliation_balance": 4000,
             "countdown_paused": false,
@@ -9972,7 +9972,7 @@
             "android_id": "b8e8ddd490525c001d42b0cf0ad95c90",
             "referred_by": "ToneJuly681030",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-09-05T21:56:41.817656",
             "affiliation_balance": 0,
             "plan": "Basique"
@@ -20721,7 +20721,7 @@
             "android_id": "ad4ca0026cc34710e6726f87d8023dcc",
             "referred_by": null,
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-09-05T21:18:19.945657",
             "affiliation_balance": 0,
             "plan": "Basique"
