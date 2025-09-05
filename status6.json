@@ -19275,7 +19275,8 @@
             "referred_by": "Nanouh6819303",
             "referred_to": [
                 "TokyWRpxRqkM",
-                "HaingoCay3DmQY"
+                "HaingoCay3DmQY",
+                "HanitraX9BtyZEX"
             ],
             "status": "active",
             "countdown_start_time": "2025-09-07T15:13:08.270566",
@@ -21525,6 +21526,16 @@
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2025-09-05T02:54:16.937540",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "HanitraX9BtyZEX",
+            "android_id": "45aa78efa973b5fbcd5c20e20074ff5c",
+            "referred_by": "TOKYU5LywOFs",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-09-05T15:51:11.684286",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
