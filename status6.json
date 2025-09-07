@@ -2627,7 +2627,7 @@
             "android_id": "693104edb67ab252f99ace840d71ffbe",
             "referred_by": null,
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-09-07T08:51:17.007868",
             "affiliation_balance": 0,
             "plan": "Basique",
@@ -20219,7 +20219,7 @@
             "android_id": "14414eadd6b3cc67481426267986ee66",
             "referred_by": null,
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-09-07T08:02:30.603790",
             "affiliation_balance": 0,
             "plan": "Basique"
@@ -20716,7 +20716,7 @@
             "android_id": "7cadc0c02393677a38d91d4abdc85415",
             "referred_by": "🆔 de référence de ity n 🆔 \nAndriamahefa58103",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-09-07T08:51:36.463386",
             "affiliation_balance": 0,
             "plan": "Basique"
