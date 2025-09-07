@@ -6844,7 +6844,7 @@
                 "PierretteO1KU5acN",
                 "Sedrar8opLuxd"
             ],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-09-07T19:41:47.158255",
             "affiliation_balance": 0,
             "plan": "Basique",
@@ -21341,7 +21341,7 @@
             "android_id": "1d602c245ce30c5321fc27deeda51c52",
             "referred_by": "Airtel791628962",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-09-07T19:54:29.796361",
             "affiliation_balance": 0,
             "plan": "Basique"
