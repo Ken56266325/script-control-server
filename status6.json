@@ -4276,7 +4276,8 @@
                 "D\u00e9sir\u00e9e0D5KbL3",
                 "YvonR5lGjHuE",
                 "Mons\u00e8neC1GyWPQl",
-                "boscoC2UkD7J8"
+                "boscoC2UkD7J8",
+                "TokyTlLPVMEb"
             ],
             "status": "active",
             "countdown_start_time": "2025-09-09T18:30:17.550756",
@@ -21602,6 +21603,16 @@
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2025-09-07T04:29:44.545011",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "TokyTlLPVMEb",
+            "android_id": "4d53e7fbdddf408f220eeb5174d3603c",
+            "referred_by": "Timote689901",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-09-07T17:17:21.158478",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
