@@ -2103,7 +2103,8 @@
                 "Fenoasy0KedYaBJ",
                 "BaliakaVw1WobBW",
                 "LidaQ9FMPOYC",
-                "FabysEn6rfQ9"
+                "FabysEn6rfQ9",
+                "MorganeR1nOZKU"
             ],
             "status": "active",
             "countdown_start_time": "2025-09-07T20:49:32.617167",
@@ -21613,6 +21614,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-09-14T17:43:58.674030",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "MorganeR1nOZKU",
+            "android_id": "303ddb17faf81bbd8e4b43383c5b86db",
+            "referred_by": "SNeddie58103",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-09-08T04:28:12.585250",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
