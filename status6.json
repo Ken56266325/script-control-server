@@ -11105,7 +11105,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-07-21T18:03:26.226263",
-            "affiliation_balance": 9000,
+            "affiliation_balance": 10000,
             "plan": "Basique"
         },
         {
@@ -13385,9 +13385,9 @@
             "referred_to": [
                 "PedriHClTKquF"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-09-04T18:17:12.921981",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-09-15T22:13:56.182817",
+            "affiliation_balance": 0,
             "plan": "Basique"
         },
         {
