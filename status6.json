@@ -3209,7 +3209,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-09-11T17:26:57.946252",
-            "affiliation_balance": 7000,
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -4473,7 +4473,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-09-04T16:54:23.914210",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -5253,8 +5253,8 @@
             "android_id": "90950310aa242f330c4a1d71ad4cfcc4",
             "referred_by": "Japhet589300",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2025-08-12T17:40:11.381526",
+            "status": "active",
+            "countdown_start_time": "2025-09-16T19:23:15.586854",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
