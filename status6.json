@@ -3606,7 +3606,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-08-27T23:56:12.375824",
-            "affiliation_balance": 8000,
+            "affiliation_balance": 9000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -3941,8 +3941,8 @@
                 "EmmatCA8WJNv",
                 "Cl\u00e9ment6OQLbei8"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-09-07T21:11:01.831462",
+            "status": "active",
+            "countdown_start_time": "2025-09-16T17:59:06.626308",
             "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
