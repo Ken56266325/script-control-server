@@ -21692,6 +21692,15 @@
             "countdown_start_time": "2025-09-10T16:16:23.001125",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Bri2563",
+            "android_id": "8a43c8f00ab3c2dd37a3b708ac4dc0e9  io ny ApiH ko",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-09-17T10:21:47.207613",
+            "affiliation_balance": 0
         }
     ],
     "references": {
