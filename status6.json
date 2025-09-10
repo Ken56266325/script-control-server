@@ -5945,7 +5945,7 @@
             "referred_to": [
                 "MamywxWOh3y9"
             ],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-09-10T16:08:44.170217",
             "affiliation_balance": 5000,
             "plan": "Basique",
@@ -21688,7 +21688,7 @@
             "android_id": "7e97c7e76577c77baaab6214ba8fc917",
             "referred_by": "TantelyftfhcZ7D",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-09-10T16:16:23.001125",
             "affiliation_balance": 0,
             "plan": "Basique"
