@@ -1144,7 +1144,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-09-12T15:57:50.926504",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -8692,8 +8692,8 @@
             "referred_to": [
                 "OnjaniainahemZuoVk"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-09-08T13:12:16.516982",
+            "status": "active",
+            "countdown_start_time": "2025-09-17T12:07:16.849722",
             "affiliation_balance": 3000,
             "plan": "Basique"
         },
