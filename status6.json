@@ -9802,7 +9802,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-07-05T19:49:20.032404",
-            "affiliation_balance": 10000,
+            "affiliation_balance": 11000,
             "plan": "Basique"
         },
         {
@@ -11285,8 +11285,8 @@
             "referred_to": [
                 "safidyKewBp6W9"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-08-30T18:17:45.745243",
+            "status": "active",
+            "countdown_start_time": "2025-09-18T06:25:29.390770",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
