@@ -7279,7 +7279,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-08-24T12:06:03.093374",
-            "affiliation_balance": 7000,
+            "affiliation_balance": 8000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -14632,8 +14632,8 @@
             "referred_to": [
                 "corea1zKyMktqbe"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-08-24T13:59:18.097251",
+            "status": "active",
+            "countdown_start_time": "2025-09-18T10:31:39.189163",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
