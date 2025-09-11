@@ -1954,7 +1954,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-09-09T09:21:25.949297",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -2169,9 +2169,9 @@
                 "Cenioravoavylze7d4tH",
                 "TeckakfNOECr4"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-09-07T12:30:10.896419",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-09-18T09:52:04.969698",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
