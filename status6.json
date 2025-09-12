@@ -2108,7 +2108,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-09-14T21:01:55.429039",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -2213,8 +2213,8 @@
                 "dovicNukCU0eR"
             ],
             "status": "active",
-            "countdown_start_time": "2025-09-12T18:25:49.643790",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-09-19T18:25:49.643790",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
