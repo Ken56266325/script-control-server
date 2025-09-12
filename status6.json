@@ -3307,7 +3307,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-09-09T05:17:21.718990",
-            "affiliation_balance": 7000,
+            "affiliation_balance": 8000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -3556,8 +3556,8 @@
                 "andolPS8vkjt"
             ],
             "status": "active",
-            "countdown_start_time": "2025-09-12T16:08:43.930935",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-09-19T16:57:26.997956",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
