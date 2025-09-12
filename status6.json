@@ -364,7 +364,7 @@
                 "Hatake10372",
                 "Rojoniaina1379"
             ],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-09-12T09:13:34.461276",
             "affiliation_balance": 3000,
             "android_id": "56f274f07f0875f8f4c28f68451427e0",
@@ -3992,7 +3992,7 @@
             "android_id": "15fcb27ed0fc82d2179a4e8ad5e13b8a",
             "referred_by": "Rjc68103",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-09-12T09:25:17.972533",
             "affiliation_balance": 0,
             "plan": "Basique",
@@ -21540,7 +21540,7 @@
             "android_id": "c7f8c86a0e060df54d4eb0392a92209c",
             "referred_by": "Rjc68103",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-09-12T09:17:15.696133",
             "affiliation_balance": 0,
             "plan": "Basique"
