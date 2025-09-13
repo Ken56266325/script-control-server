@@ -21587,7 +21587,7 @@
             "android_id": "23f620ffd825369f07bfedf4c5db242c",
             "referred_by": "Gaelode10361",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-09-14T01:41:50.328935",
             "affiliation_balance": 0,
             "plan": "Basique"
@@ -21817,7 +21817,7 @@
             "android_id": "63897b657ada3e984af0d001fbe4c020",
             "referred_by": null,
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-09-14T00:41:04.594211",
             "affiliation_balance": 0,
             "plan": "Basique"
