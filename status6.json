@@ -3029,7 +3029,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-09-06T10:25:39.703553",
-            "affiliation_balance": 4000,
+            "affiliation_balance": 5000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -5402,8 +5402,8 @@
                 "NarywBHaiTaX",
                 "Bienvenux0E21spz"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-09-12T12:03:42.929249",
+            "status": "active",
+            "countdown_start_time": "2025-09-20T11:15:08.684240",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
