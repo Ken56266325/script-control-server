@@ -15713,7 +15713,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-08-26T17:25:39.617388",
-            "affiliation_balance": 3000,
+            "affiliation_balance": 4000,
             "plan": "Basique"
         },
         {
@@ -17346,8 +17346,8 @@
                 "NanjaVCAC55Kj",
                 "yannita1LW6bziQ"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-09-12T16:57:10.982456",
+            "status": "active",
+            "countdown_start_time": "2025-09-21T09:40:45.307374",
             "affiliation_balance": 2000,
             "plan": "Basique"
         },
