@@ -4302,7 +4302,7 @@
                 "Douglas5wCOcTwv",
                 "JackelinbbddmMEH"
             ],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-09-16T22:21:39.090419",
             "affiliation_balance": 1000,
             "plan": "Basique",
@@ -21850,7 +21850,7 @@
             "android_id": "1206a040cdcb86343c92360dc6f82c48",
             "referred_by": "sasakiantsaxNzlmcnx",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-09-16T22:10:40.335543",
             "affiliation_balance": 0,
             "plan": "Basique"
