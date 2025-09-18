@@ -21926,6 +21926,15 @@
             "countdown_start_time": "2025-09-18T23:51:18.561051",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "fiera3834",
+            "android_id": "632578a23e08587ed12eebc829b23d43",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-09-25T16:09:54.909422",
+            "affiliation_balance": 0
         }
     ],
     "references": {
