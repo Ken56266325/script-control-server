@@ -2571,7 +2571,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-04-14T15:34:16.012944",
-            "affiliation_balance": 20000,
+            "affiliation_balance": 21000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -2584,9 +2584,9 @@
                 "Claudio91781",
                 "Hery5718282"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-09-17T18:37:13.465597",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-09-25T19:50:30.023664",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
