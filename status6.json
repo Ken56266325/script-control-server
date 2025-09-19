@@ -21947,6 +21947,15 @@
             "countdown_start_time": "2025-09-19T03:59:58.571591",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Edme53667",
+            "android_id": "9ae139b25a21f47f679f84fe53284190",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-09-26T17:22:12.378110",
+            "affiliation_balance": 0
         }
     ],
     "references": {
