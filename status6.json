@@ -9423,7 +9423,8 @@
                 "@angelatopyn7e2U5vr",
                 "@angelatopyeWSCw5JY",
                 "@tsangowayFITjJ9ro",
-                "@lucioprostatincvbIDgTU"
+                "@lucioprostatincvbIDgTU",
+                "hasinaaugustine22nIe5Ezm"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-09-02T15:38:59.141745",
@@ -22040,6 +22041,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-09-22T19:32:18.247607",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "hasinaaugustine22nIe5Ezm",
+            "android_id": "009a9c454a05ecfaba1711daac7ac99a",
+            "referred_by": "+261331443017LHuEGatj",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-09-22T04:46:15.151114",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
