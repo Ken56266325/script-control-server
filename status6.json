@@ -1489,7 +1489,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-09-28T09:36:18.758546",
-            "affiliation_balance": 7000,
+            "affiliation_balance": 8000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -3520,7 +3520,7 @@
                 "LudcOjdF9uX"
             ],
             "status": "active",
-            "countdown_start_time": "2025-09-21T16:24:21.296428",
+            "countdown_start_time": "2025-09-28T16:24:21.296428",
             "affiliation_balance": 5000,
             "plan": "Basique",
             "countdown_paused": false
