@@ -2405,7 +2405,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-09-24T14:16:41.309535",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -5422,8 +5422,8 @@
                 "NataciIdDUSs",
                 "HasxfnSYzSs"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-09-20T12:57:42.504548",
+            "status": "active",
+            "countdown_start_time": "2025-09-28T20:07:41.771734",
             "affiliation_balance": 10000,
             "plan": "Basique",
             "countdown_paused": false
