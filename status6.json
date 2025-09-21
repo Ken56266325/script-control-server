@@ -2194,8 +2194,8 @@
             "referred_to": [
                 "RAZAFINDRAIBEHARISONJeanTheodosePwsjhbwr"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-09-21T12:34:23.115518",
+            "status": "active",
+            "countdown_start_time": "2025-09-28T18:26:59.801318",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
@@ -2631,8 +2631,8 @@
             "android_id": "693104edb67ab252f99ace840d71ffbe",
             "referred_by": null,
             "referred_to": [],
-            "status": "active",
-            "countdown_start_time": "2025-09-28T18:26:57.006641",
+            "status": "inactive",
+            "countdown_start_time": "2025-09-21T12:26:09.101738",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
