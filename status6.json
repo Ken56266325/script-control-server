@@ -2152,7 +2152,8 @@
                 "NiraG5JwbD2A",
                 "HaingoHB89hBf4",
                 "562663261106ojCTosVy",
-                "MichelrOdIiVnr"
+                "MichelrOdIiVnr",
+                "GigaBoELuJQg"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-09-10T21:21:41.998304",
@@ -21998,6 +21999,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-09-21T17:42:32.213517",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "GigaBoELuJQg",
+            "android_id": "e0b6ccacb63bdc1e71393170ca9289d6",
+            "referred_by": "Nanouh6819303",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-09-21T18:14:14.358080",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
