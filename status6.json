@@ -514,7 +514,7 @@
                 "Maguy5KGqSMfg",
                 "Fridelkimrfksm"
             ],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-09-23T01:14:57.435850",
             "affiliation_balance": 4000,
             "countdown_paused": false,
@@ -22079,7 +22079,7 @@
             "android_id": "bfaa7a164515086c8eb4f248379640c5",
             "referred_by": "blaiseaUt8XKFJ",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-09-23T00:47:48.729507",
             "affiliation_balance": 0,
             "plan": "Basique"
