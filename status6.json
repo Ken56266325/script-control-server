@@ -2709,7 +2709,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-08-28T08:23:41.307377",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -3309,9 +3309,9 @@
                 "Meryem67193939",
                 "StephenghlABUCH"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-09-23T22:59:47.256340",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-10-01T07:55:59.367195",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
