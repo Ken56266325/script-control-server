@@ -6944,7 +6944,8 @@
                 "Alfredo3SpmS0nB",
                 "Mbola94unyLMK",
                 "LalainasFwoexGl",
-                "SteveYCgtaQxH"
+                "SteveYCgtaQxH",
+                "Mbolatiana8j77YybI"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-07-16T13:17:27.103727",
@@ -22157,6 +22158,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-09-24T20:09:47.317728",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Mbolatiana8j77YybI",
+            "android_id": "6e2d679148683d0ad34d5809f1f89777",
+            "referred_by": "Fasou6799302",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-09-24T23:54:06.095138",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
