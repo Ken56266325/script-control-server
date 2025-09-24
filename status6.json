@@ -22176,7 +22176,7 @@
             "android_id": "4a1db90d0ab6ca48680f3f8764207bdb",
             "referred_by": null,
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-09-25T01:59:04.276290",
             "affiliation_balance": 0,
             "plan": "Basique"
@@ -22186,7 +22186,7 @@
             "android_id": "65da36f8f5060424ed48da24f280eff7",
             "referred_by": null,
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-09-25T02:03:22.060439",
             "affiliation_balance": 0,
             "plan": "Basique"
