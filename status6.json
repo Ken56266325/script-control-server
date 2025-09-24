@@ -15725,7 +15725,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-08-26T17:25:39.617388",
-            "affiliation_balance": 4000,
+            "affiliation_balance": 5000,
             "plan": "Basique"
         },
         {
@@ -17562,8 +17562,8 @@
             "referred_to": [
                 "ElieQPkL1S54"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-09-21T08:05:09.928741",
+            "status": "active",
+            "countdown_start_time": "2025-10-01T07:58:19.733856",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
