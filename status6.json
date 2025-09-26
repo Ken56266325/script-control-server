@@ -17567,7 +17567,8 @@
             "referred_by": "AnthonieJMe3Z2lR",
             "referred_to": [
                 "ElieQPkL1S54",
-                "Harentsy1GL1qjWE"
+                "Harentsy1GL1qjWE",
+                "HarentsyzJW4bwAE"
             ],
             "status": "active",
             "countdown_start_time": "2025-10-01T07:58:19.733856",
@@ -22233,6 +22234,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-09-27T00:12:00.991665",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "HarentsyzJW4bwAE",
+            "android_id": "c6c8c0fe7634e485d02582269a5db8d0",
+            "referred_by": "SylvieiShdhZQ5",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-09-27T00:13:00.372767",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
