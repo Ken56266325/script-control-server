@@ -13115,7 +13115,8 @@
                 "DAAGM8UAHY",
                 "NNhG7rRFmu",
                 "CAu6vkk6Ve",
-                "JlgORy8HhA"
+                "JlgORy8HhA",
+                "ZBLACKSBHjeDau"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-09-17T16:44:34.029298",
@@ -22211,6 +22212,16 @@
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2025-09-26T00:51:49.063822",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "ZBLACKSBHjeDau",
+            "android_id": "5905bc02ea664c5df95facda5e061f26",
+            "referred_by": "MahefatinahajarivoaeJNpfdN",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-09-26T18:03:56.500791",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
