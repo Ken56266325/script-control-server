@@ -22246,6 +22246,15 @@
             "countdown_start_time": "2025-09-27T00:13:00.372767",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Rosette42626",
+            "android_id": "98a0a168f670045315d11a66f2155670",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-10-04T09:08:53.990758",
+            "affiliation_balance": 0
         }
     ],
     "references": {
