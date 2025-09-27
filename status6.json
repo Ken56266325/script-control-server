@@ -3344,7 +3344,8 @@
                 "Mahandry5618292o",
                 "Richard78983010",
                 "TahinaeVi4RHM8",
-                "Dane03bKyluv"
+                "Dane03bKyluv",
+                "Adrman2JCHUdKZ"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-08-20T22:34:42.127443",
@@ -22264,6 +22265,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-01-05T17:08:44.741877",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Adrman2JCHUdKZ",
+            "android_id": "1c6accc230e47e647339275aa36beb43",
+            "referred_by": "Lalaina89103",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-09-28T01:52:28.316780",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
