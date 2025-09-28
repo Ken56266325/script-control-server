@@ -13165,7 +13165,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-09-03T19:00:52.598462",
-            "affiliation_balance": 4000,
+            "affiliation_balance": 5000,
             "plan": "Basique"
         },
         {
@@ -22297,7 +22297,7 @@
             "referred_by": "rolain6NmkRYYg",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-09-28T18:39:38.653720",
+            "countdown_start_time": "2025-10-05T18:39:38.653720",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
