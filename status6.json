@@ -22334,6 +22334,15 @@
             "countdown_start_time": "2025-09-29T16:36:48.101185",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Patricia52626",
+            "android_id": "c5da44cd77fb15435201df59fcc5458b",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-10-06T13:40:33.671079",
+            "affiliation_balance": 0
         }
     ],
     "references": {
