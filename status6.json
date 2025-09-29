@@ -21936,7 +21936,9 @@
             "id": "Marcot24kIzr8X",
             "android_id": "c6e5c68a9203f32cf18a6ba3cd240c54",
             "referred_by": "Marcot",
-            "referred_to": [],
+            "referred_to": [
+                "RoselineRXFi1WJU"
+            ],
             "status": "inactive",
             "countdown_start_time": "2025-09-20T17:35:28.487990",
             "affiliation_balance": 0,
@@ -22309,6 +22311,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-10-06T05:00:11.284289",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "RoselineRXFi1WJU",
+            "android_id": "86121b5cd9000984f91a872b9b07e360",
+            "referred_by": "Marcot24kIzr8X",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-09-29T16:18:50.817771",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
