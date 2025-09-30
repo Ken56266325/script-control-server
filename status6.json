@@ -1954,7 +1954,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-10-03T15:11:51.670548",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -2108,9 +2108,9 @@
                 "FabysEn6rfQ9",
                 "MorganeR1nOZKU"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-09-30T12:17:45.796735",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-10-07T12:44:19.516504",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
