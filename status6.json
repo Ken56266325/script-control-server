@@ -1954,7 +1954,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-10-03T15:11:51.670548",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -2197,9 +2197,9 @@
                 "RAZAFINDRAIBEHARISONJeanTheodosePwsjhbwr",
                 "Roxzp3fYZ2D"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-09-30T04:47:10.279974",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-10-07T06:43:10.343398",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
