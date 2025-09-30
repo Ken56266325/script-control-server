@@ -1144,7 +1144,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-09-28T15:27:39.712915",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -15586,8 +15586,8 @@
             "referred_to": [
                 "Ainah3WVsCz5j"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-08-26T20:55:34.494372",
+            "status": "active",
+            "countdown_start_time": "2025-10-07T17:22:09.212025",
             "affiliation_balance": 6000,
             "plan": "Basique"
         },
