@@ -22462,6 +22462,15 @@
             "countdown_start_time": "2025-10-01T23:49:27.249731",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "edou16",
+            "android_id": "d516fc529d4ce2067470a0ad3e195ddc",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-10-08T16:01:48.784750",
+            "affiliation_balance": 0
         }
     ],
     "references": {
