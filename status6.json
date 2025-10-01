@@ -22441,6 +22441,15 @@
             "countdown_start_time": "2025-10-02T17:23:09.517576",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Claudiotg1",
+            "android_id": "9093ba10d8d1d052127427c4338e55e9",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-10-08T13:23:34.304917",
+            "affiliation_balance": 0
         }
     ],
     "references": {
