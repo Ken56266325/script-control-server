@@ -14516,7 +14516,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-08-27T21:31:05.474398",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -22502,7 +22502,7 @@
             "referred_by": "Armele3YGfR2e",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-10-02T23:58:37.409596",
+            "countdown_start_time": "2025-10-09T23:58:37.409596",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
