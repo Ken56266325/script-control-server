@@ -2217,7 +2217,8 @@
                 "alexandrinotVnKavhsB",
                 "TojosoaOAhqCizP",
                 "Antoine25mMiTqX",
-                "dovicNukCU0eR"
+                "dovicNukCU0eR",
+                "CaroliaFzbNJSKX"
             ],
             "status": "active",
             "countdown_start_time": "2025-10-08T12:18:53.624327",
@@ -22569,6 +22570,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-10-04T22:36:17.924968",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "CaroliaFzbNJSKX",
+            "android_id": "0a65fde7e19e62ee94af43714f48ea77",
+            "referred_by": "Donatien58193",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-10-04T23:08:44.810004",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
