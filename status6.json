@@ -15430,7 +15430,8 @@
             "referred_by": null,
             "referred_to": [
                 "NjaraTkswbUHo",
-                "FlauricVVw41ku1"
+                "FlauricVVw41ku1",
+                "JuleborarLtgBiqF"
             ],
             "status": "active",
             "countdown_start_time": "2025-10-11T13:11:09.464548",
@@ -22580,6 +22581,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-10-04T23:08:44.810004",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "JuleborarLtgBiqF",
+            "android_id": "dd8e0f60d280578f8ea0210c23ca3810",
+            "referred_by": "anjara236373",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-10-05T02:41:09.622390",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
