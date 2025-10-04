@@ -22334,7 +22334,9 @@
             "id": "RoselineRXFi1WJU",
             "android_id": "86121b5cd9000984f91a872b9b07e360",
             "referred_by": "Marcot24kIzr8X",
-            "referred_to": [],
+            "referred_to": [
+                "DrenandfS8K4WDg"
+            ],
             "status": "inactive",
             "countdown_start_time": "2025-09-29T16:18:50.817771",
             "affiliation_balance": 0,
@@ -22547,6 +22549,16 @@
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2025-10-04T06:23:57.021585",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "DrenandfS8K4WDg",
+            "android_id": "ded410bec9f3964b842e41b6e44ce566",
+            "referred_by": "RoselineRXFi1WJU",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-10-04T19:21:48.187944",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
