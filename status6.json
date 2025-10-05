@@ -2370,7 +2370,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-04-13T06:03:36.905599",
-            "affiliation_balance": 5000,
+            "affiliation_balance": 6000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -14273,8 +14273,8 @@
                 "CHRIS3TxFY8nk",
                 "chris52863"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-09-20T07:59:50.179513",
+            "status": "active",
+            "countdown_start_time": "2025-10-12T11:26:59.094234",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
