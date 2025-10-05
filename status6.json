@@ -8200,7 +8200,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-10-05T09:31:05.939227",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -11175,8 +11175,8 @@
                 "Zjuman27ZiJZz8l",
                 "njakatinaBKNCoLip"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-09-28T12:27:12.377144",
+            "status": "active",
+            "countdown_start_time": "2025-10-12T11:21:31.687574",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
