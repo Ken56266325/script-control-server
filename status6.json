@@ -2709,7 +2709,8 @@
                 "Anja571o3o2",
                 "Mendrika1g87jkml",
                 "FiiiiisVQMjU04Y",
-                "FerdinandLxA7ipYs"
+                "FerdinandLxA7ipYs",
+                "tsirahonanaU3BXh1Sk"
             ],
             "status": "active",
             "countdown_start_time": "2025-10-05T19:25:03.829342",
@@ -22601,6 +22602,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-10-05T17:49:06.397241",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "tsirahonanaU3BXh1Sk",
+            "android_id": "bbef6acf2c2115cb803af509059379fe",
+            "referred_by": "Fasou5819302",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-10-06T00:07:42.086141",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
