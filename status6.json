@@ -3316,7 +3316,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-10-08T08:03:40.981011",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -3566,9 +3566,9 @@
                 "Fanantenana8G4YYNBA",
                 "andolPS8vkjt"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-10-05T18:34:43.964167",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-10-12T20:48:17.877117",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
