@@ -2200,7 +2200,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-10-07T06:43:10.343398",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -22450,8 +22450,8 @@
             "referred_by": "JassBoy58103",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-10-05T10:36:38.076113",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-10-12T10:36:38.076113",
+            "affiliation_balance": 0,
             "plan": "Basique"
         },
         {
