@@ -5635,7 +5635,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-10-10T11:01:25.267594",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "VIP",
             "countdown_paused": false
         },
@@ -9024,8 +9024,8 @@
                 "@tinahmihajasoa6xI68fuc",
                 "@abelamalalae4GG3j6Q"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-08-25T09:51:54.495507",
+            "status": "active",
+            "countdown_start_time": "2025-10-12T07:44:47.514861",
             "affiliation_balance": 3000,
             "plan": "Basique"
         },
