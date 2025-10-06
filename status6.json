@@ -18070,7 +18070,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-08-25T17:17:10.491757",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique"
         },
         {
@@ -18714,8 +18714,8 @@
             "android_id": "961c6afc8aa61621ed708d175a59e241",
             "referred_by": "AndoTscbXQll",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2025-10-03T11:27:45.746445",
+            "status": "active",
+            "countdown_start_time": "2025-10-13T18:59:41.199869",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
