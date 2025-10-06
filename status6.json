@@ -3524,7 +3524,8 @@
                 "CrhistaleBHZRnQxv",
                 "Onie2tq4WqI1",
                 "ElsonXGu7oAZU",
-                "LudcOjdF9uX"
+                "LudcOjdF9uX",
+                "tongasoaFJsarrlO"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-10-06T04:58:04.386772",
@@ -22676,6 +22677,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-10-07T01:09:20.067969",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "tongasoaFJsarrlO",
+            "android_id": "8881b5ab0fd42f7ce442320404f6f17d",
+            "referred_by": "ToneJuly681030",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-10-07T01:18:13.577895",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
