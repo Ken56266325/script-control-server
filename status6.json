@@ -2714,7 +2714,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-10-13T07:45:40.361685",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -3350,8 +3350,8 @@
                 "Dane03bKyluv",
                 "Adrman2JCHUdKZ"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-08-20T22:34:42.127443",
+            "status": "active",
+            "countdown_start_time": "2025-10-13T09:24:41.791080",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
