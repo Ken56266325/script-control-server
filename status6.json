@@ -6864,7 +6864,8 @@
                 "Sedrar8opLuxd",
                 "harilandytZONz3dN",
                 "Achille86J9YJ5U",
-                "TahinaBj1bYdUj"
+                "TahinaBj1bYdUj",
+                "JeremieLInhIOEE"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-09-23T15:50:20.771751",
@@ -22665,6 +22666,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-10-07T00:00:42.009250",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "JeremieLInhIOEE",
+            "android_id": "7e4a20233d7884db759cdbfef163d2e0",
+            "referred_by": "Andry5718e0",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-10-07T01:09:20.067969",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
