@@ -12721,7 +12721,8 @@
                 "NomenaqoXeLU84",
                 "HenintsoaxmauY9vK",
                 "LalainaUaoaEOvt",
-                "ZourNzefbG5"
+                "ZourNzefbG5",
+                "ToavinaBGSoQoyk"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-08-31T19:17:14.797127",
@@ -22795,6 +22796,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-10-08T23:35:44.284635",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "ToavinaBGSoQoyk",
+            "android_id": "1c27cb1ef3de6f794e3ed7bbd9d0fab9",
+            "referred_by": "HerizoPMlpf1Vv",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-10-09T00:57:17.668904",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
