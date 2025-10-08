@@ -1950,7 +1950,8 @@
                 "JassBoy58103",
                 "SannyDeem5790",
                 "Harris681971",
-                "Rodin79103890"
+                "Rodin79103890",
+                "FibitoElmBWXZjm1"
             ],
             "status": "active",
             "countdown_start_time": "2025-10-10T17:48:08.241248",
@@ -22817,6 +22818,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-10-09T01:42:44.653867",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "FibitoElmBWXZjm1",
+            "android_id": "20662967",
+            "referred_by": "Grav69130",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-10-09T05:25:04.813535",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
