@@ -1144,7 +1144,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-10-02T07:43:04.356751",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -8207,8 +8207,8 @@
                 "@Anniot24PT9RH0ZZ",
                 "francia05KT3mLdSm"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-10-05T09:31:05.939227",
+            "status": "active",
+            "countdown_start_time": "2025-10-15T07:52:20.263189",
             "affiliation_balance": 1000,
             "plan": "Basique"
         },
