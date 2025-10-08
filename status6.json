@@ -5637,7 +5637,8 @@
                 "MiantsaVB2f2FEF",
                 "PabloHklLTqUM",
                 "BeatriceBv2EpUN5",
-                "Amadou2K5uIt6j6"
+                "Amadou2K5uIt6j6",
+                "JunnosMnjwtZgQp2e"
             ],
             "status": "active",
             "countdown_start_time": "2025-10-10T11:01:25.267594",
@@ -22806,6 +22807,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-10-09T00:57:17.668904",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "JunnosMnjwtZgQp2e",
+            "android_id": "37a7f020a87fc3f08f0d1833d7aa8059",
+            "referred_by": "Amadou681036190",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-10-09T01:42:44.653867",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
