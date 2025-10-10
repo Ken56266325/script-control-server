@@ -12726,7 +12726,8 @@
                 "HenintsoaxmauY9vK",
                 "LalainaUaoaEOvt",
                 "ZourNzefbG5",
-                "ToavinaBGSoQoyk"
+                "ToavinaBGSoQoyk",
+                "Brichelo06vYc4al"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-08-31T19:17:14.797127",
@@ -22905,6 +22906,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-10-10T18:03:35.624626",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Brichelo06vYc4al",
+            "android_id": "5b841b8506153e6026b6366a832e6a76",
+            "referred_by": "HerizoPMlpf1Vv",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-10-10T18:23:10.564374",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
