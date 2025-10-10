@@ -5420,7 +5420,8 @@
                 "Claudioh3JUwuOP",
                 "BaltajarayBOhnCvR",
                 "NarywBHaiTaX",
-                "Bienvenux0E21spz"
+                "Bienvenux0E21spz",
+                "Cedric4boPnage"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-09-20T11:15:08.684240",
@@ -22894,6 +22895,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-10-11T09:14:17.682744",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Cedric4boPnage",
+            "android_id": "06daf6f89e9a29aa0d739eab8e70534a",
+            "referred_by": "Airtel791628962",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-10-10T18:03:35.624626",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
