@@ -20047,7 +20047,9 @@
             "id": "JackelinbbddmMEH",
             "android_id": "fe914184d982677b8e4103315f4eed35",
             "referred_by": "Sa\u00efd681930",
-            "referred_to": [],
+            "referred_to": [
+                "NaomyE10lkrZB"
+            ],
             "status": "inactive",
             "countdown_start_time": "2025-09-21T07:12:24.766840",
             "affiliation_balance": 0,
@@ -22938,6 +22940,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-10-10T20:12:55.788001",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "NaomyE10lkrZB",
+            "android_id": "89d5395a246c57be5581adbf71489d12",
+            "referred_by": "JackelinbbddmMEH",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-10-10T20:56:10.364565",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
