@@ -22918,6 +22918,15 @@
             "countdown_start_time": "2025-10-10T19:08:58.905645",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "BeatriceBv2EpUN5",
+            "android_id": "39b8cdd8b3560e8f17c0d56c0dfe747b",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-10-17T12:04:33.914959",
+            "affiliation_balance": 0
         }
     ],
     "references": {
