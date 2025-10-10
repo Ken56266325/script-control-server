@@ -16564,7 +16564,8 @@
                 "Laurettedo2xOhh0",
                 "GideonPvBdXzE3",
                 "HenriLTFu2fYh",
-                "MamisoaLwuexVQw"
+                "MamisoaLwuexVQw",
+                "LucienMreBKZSD"
             ],
             "status": "active",
             "countdown_start_time": "2025-10-15T07:48:25.736770",
@@ -22981,6 +22982,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-10-11T04:04:42.979653",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "LucienMreBKZSD",
+            "android_id": "8e301ca9e60f90a2bde1a2802c0b4ae7",
+            "referred_by": "HermanODwBrkLl",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-10-11T04:07:55.307850",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
