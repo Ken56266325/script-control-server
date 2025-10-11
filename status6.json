@@ -3959,7 +3959,8 @@
             "referred_to": [
                 "EmmatCA8WJNv",
                 "Cl\u00e9ment6OQLbei8",
-                "Odricel5yWz8rN"
+                "Odricel5yWz8rN",
+                "UmadsfkLdnP"
             ],
             "status": "active",
             "countdown_start_time": "2025-10-16T18:50:51.384211",
@@ -23025,6 +23026,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-10-11T21:27:25.213939",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "UmadsfkLdnP",
+            "android_id": "8bbe8d3bf25b6cbf5da9c8ff40dcc405",
+            "referred_by": "Andii69103",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-10-12T00:10:09.548659",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
