@@ -23035,7 +23035,7 @@
             "android_id": "8bbe8d3bf25b6cbf5da9c8ff40dcc405",
             "referred_by": "Andii69103",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-10-12T00:10:09.548659",
             "affiliation_balance": 0,
             "plan": "Basique"
@@ -23045,7 +23045,7 @@
             "android_id": "c660c4784e149a34d8ab5a72daf80b9d",
             "referred_by": null,
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-10-12T00:35:54.494423",
             "affiliation_balance": 0,
             "plan": "Basique"
