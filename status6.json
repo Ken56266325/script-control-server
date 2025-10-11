@@ -857,7 +857,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-10-15T12:05:59.832403",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -1070,7 +1070,7 @@
             "referred_by": "Doda6920",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-10-11T08:53:57.143116",
+            "countdown_start_time": "2025-10-18T08:53:57.143116",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
