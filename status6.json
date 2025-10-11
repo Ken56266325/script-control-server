@@ -2201,7 +2201,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-10-13T10:14:20.522336",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
