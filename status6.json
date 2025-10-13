@@ -23092,6 +23092,16 @@
             "countdown_start_time": "2025-10-20T01:20:33.832526",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "YannickJ3BajsRL",
+            "android_id": "f8dd9ae1c4483a7a3500b0f58c61d559",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-10-13T17:03:47.496692",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
