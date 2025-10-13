@@ -19004,7 +19004,8 @@
             "referred_by": null,
             "referred_to": [
                 "TinamiBEc6zGQE",
-                "Batsidn3CxCUH"
+                "Batsidn3CxCUH",
+                "RinahBDxl3jGe"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-10-03T08:16:23.994898",
@@ -23111,6 +23112,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-10-13T19:33:17.201665",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "RinahBDxl3jGe",
+            "android_id": "eeb94fbd81872626dc3665886c3761f9",
+            "referred_by": "jeannie23458",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-10-14T01:03:25.151332",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
