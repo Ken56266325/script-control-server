@@ -1269,7 +1269,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-10-14T16:06:51.716569",
-            "affiliation_balance": 12000,
+            "affiliation_balance": 13000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -6565,8 +6565,8 @@
                 "22913841EA2DQ4QG",
                 "28513441CiLBtpmS"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-10-13T11:28:28.557438",
+            "status": "active",
+            "countdown_start_time": "2025-10-21T15:33:36.591308",
             "affiliation_balance": 15000,
             "plan": "Basique",
             "countdown_paused": false
