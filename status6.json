@@ -20069,7 +20069,9 @@
             "id": "YangodatsilaIZbGh1WZ",
             "android_id": "26125095",
             "referred_by": "HeritinaNPnfBAO0",
-            "referred_to": [],
+            "referred_to": [
+                "GinaginaPdkBuTWH"
+            ],
             "status": "active",
             "countdown_start_time": "2025-10-18T18:34:31.382577",
             "affiliation_balance": 0,
@@ -23196,6 +23198,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-10-14T23:54:24.889355",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "GinaginaPdkBuTWH",
+            "android_id": "26615326",
+            "referred_by": "YangodatsilaIZbGh1WZ",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-10-15T00:05:29.093190",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
