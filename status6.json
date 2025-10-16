@@ -2408,7 +2408,8 @@
                 "Chanks36128",
                 "YoMan691p321",
                 "MAHEFA2j3H6rpni",
-                "TahinaYk2qUh2u"
+                "TahinaYk2qUh2u",
+                "MAHERYuLjbafql"
             ],
             "status": "active",
             "countdown_start_time": "2025-10-21T12:37:43.248988",
@@ -23262,6 +23263,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-10-16T08:01:03.175153",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "MAHERYuLjbafql",
+            "android_id": "3c9f10f6a495c29d4952c05ae36f61c3",
+            "referred_by": "Andriamahefa58103",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-10-16T11:40:39.062170",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
