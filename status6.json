@@ -5345,7 +5345,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-08-25T17:02:42.573919",
-            "affiliation_balance": 11000,
+            "affiliation_balance": 12000,
             "plan": "VIP",
             "countdown_paused": false
         },
@@ -20943,7 +20943,7 @@
             "referred_by": "Nnoh6904268",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-10-16T19:33:53.732954",
+            "countdown_start_time": "2025-10-23T19:34:23.583153",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
