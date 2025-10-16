@@ -2409,7 +2409,8 @@
                 "YoMan691p321",
                 "MAHEFA2j3H6rpni",
                 "TahinaYk2qUh2u",
-                "MAHERYuLjbafql"
+                "MAHERYuLjbafql",
+                "TSITOHAINAZ0AGYaYt"
             ],
             "status": "active",
             "countdown_start_time": "2025-10-21T12:37:43.248988",
@@ -23304,6 +23305,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-10-17T03:28:41.013454",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "TSITOHAINAZ0AGYaYt",
+            "android_id": "c903fcedb5e2c8d46f99c3e73e802e72",
+            "referred_by": "Andriamahefa58103",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-10-17T04:18:05.140741",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
