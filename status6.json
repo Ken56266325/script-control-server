@@ -1360,7 +1360,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-08-27T21:13:48.913124",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -2302,8 +2302,8 @@
                 "Rova\ud83e\udd74fQm1yB9T"
             ],
             "status": "active",
-            "countdown_start_time": "2025-10-16T14:04:24.638331",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-10-23T14:04:24.638331",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
