@@ -3318,7 +3318,8 @@
                 "Sarobidy68100320",
                 "Meryem67193939",
                 "StephenghlABUCH",
-                "TsiorySOWvTTfx"
+                "TsiorySOWvTTfx",
+                "Mario84jzFFzt"
             ],
             "status": "active",
             "countdown_start_time": "2025-10-22T12:20:58.333739",
@@ -23315,6 +23316,16 @@
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2025-10-17T04:18:05.140741",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Mario84jzFFzt",
+            "android_id": "b70d6c355b5dfa77da1d72c5fd07d137",
+            "referred_by": "Nantenaina90183",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-10-17T17:09:57.829698",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
