@@ -3321,7 +3321,8 @@
                 "StephenghlABUCH",
                 "TsiorySOWvTTfx",
                 "Mario84jzFFzt",
-                "MihajapM1z0HPd"
+                "MihajapM1z0HPd",
+                "OrangecviAO1nq"
             ],
             "status": "active",
             "countdown_start_time": "2025-10-22T12:20:58.333739",
@@ -23378,6 +23379,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-10-17T20:54:21.299161",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "OrangecviAO1nq",
+            "android_id": "75259105b37754915118755ab261fb83",
+            "referred_by": "Nantenaina90183",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-10-17T22:51:41.572201",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
