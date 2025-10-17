@@ -7512,7 +7512,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-10-20T19:12:02.119923",
-            "affiliation_balance": 7000,
+            "affiliation_balance": 0,
             "plan": "Basique"
         },
         {
@@ -10092,8 +10092,8 @@
             "referred_to": [
                 "FilamatraWoXFyo0t"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-08-26T10:50:35.069358",
+            "status": "active",
+            "countdown_start_time": "2025-10-24T19:30:07.909226",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
