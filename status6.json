@@ -16581,7 +16581,7 @@
                 "MamisoaLwuexVQw",
                 "LucienMreBKZSD"
             ],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-10-17T01:33:13.730998",
             "affiliation_balance": 1000,
             "plan": "Basique"
@@ -23303,7 +23303,7 @@
             "android_id": "e23bb05ea554a500f56460e2805bf33b",
             "referred_by": null,
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-10-17T03:28:41.013454",
             "affiliation_balance": 0,
             "plan": "Basique"
