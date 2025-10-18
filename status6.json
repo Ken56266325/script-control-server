@@ -23476,6 +23476,16 @@
             "countdown_start_time": "2025-10-18T22:35:22.433664",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "JerricoSteve4IoYn1Vo",
+            "android_id": "24ab8b593abb9a7b54c02b7c2e001080",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-10-18T22:35:48.232325",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
