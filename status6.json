@@ -4783,7 +4783,8 @@
                 "jessica8ZknrvyH",
                 "LEENOUNAcSniPZZV",
                 "NIAVOuRxntJZm",
-                "BELOLOnhVqwQuG"
+                "BELOLOnhVqwQuG",
+                "TONGA9f0h47hC"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-08-27T10:18:53.768246",
@@ -23463,6 +23464,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-10-18T22:24:30.119669",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "TONGA9f0h47hC",
+            "android_id": "3ba87196cedfe540d2252f387211b73d",
+            "referred_by": "Cetone479580",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-10-18T22:35:22.433664",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
