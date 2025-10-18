@@ -1655,7 +1655,8 @@
                 "Miantsaniaina68191",
                 "Herisoa79193030",
                 "Nandrij3citBoB",
-                "HyacintheRv9YXTYQ"
+                "HyacintheRv9YXTYQ",
+                "Lapa0utQgM72"
             ],
             "status": "active",
             "countdown_start_time": "2025-10-21T09:13:27.374172",
@@ -23421,6 +23422,16 @@
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2025-10-18T03:51:05.073014",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Lapa0utQgM72",
+            "android_id": "a686e2895275ed74049dd5991c6250c",
+            "referred_by": "Claudia501\u20ac2",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-10-18T17:45:07.630887",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
