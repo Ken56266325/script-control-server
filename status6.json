@@ -1502,7 +1502,8 @@
                 "MEXerfa5e5QEY",
                 "DrArnf2HnCOcgM",
                 "EtiennedomVtFfK",
-                "Laha7BRIsYOb"
+                "Laha7BRIsYOb",
+                "ValalazyKj3GYl"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-08-25T23:27:34.886287",
@@ -23442,6 +23443,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-10-18T18:10:30.920474",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "ValalazyKj3GYl",
+            "android_id": "8e04d7deb64bec06e234ac196c0ba31b",
+            "referred_by": "Shogun581930",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-10-18T18:46:33.377766",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
