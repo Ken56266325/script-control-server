@@ -25193,6 +25193,16 @@
             "countdown_start_time": "2025-10-21T02:42:46.085251",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "SquidPjkazdNC",
+            "android_id": "c41e2bf695fe75eef51458c2289a0d1e",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-10-21T05:35:56.222395",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
