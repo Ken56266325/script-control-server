@@ -3326,7 +3326,8 @@
                 "Mario84jzFFzt",
                 "MihajapM1z0HPd",
                 "OrangecviAO1nq",
-                "AzumiEXlc2xKj"
+                "AzumiEXlc2xKj",
+                "AdrienSrcvS7qG"
             ],
             "status": "active",
             "countdown_start_time": "2025-10-22T12:20:58.333739",
@@ -25147,6 +25148,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-10-20T22:29:23.905610",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "AdrienSrcvS7qG",
+            "android_id": "2437851eef56cbdbc693a874e22a4109",
+            "referred_by": "Nantenaina90183",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-10-20T22:51:21.915161",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
