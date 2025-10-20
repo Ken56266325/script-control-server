@@ -3325,7 +3325,8 @@
                 "TsiorySOWvTTfx",
                 "Mario84jzFFzt",
                 "MihajapM1z0HPd",
-                "OrangecviAO1nq"
+                "OrangecviAO1nq",
+                "AzumiEXlc2xKj"
             ],
             "status": "active",
             "countdown_start_time": "2025-10-22T12:20:58.333739",
@@ -25136,6 +25137,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-10-20T19:55:59.194799",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "AzumiEXlc2xKj",
+            "android_id": "dc26579188315dec5739f65d61519971",
+            "referred_by": "Nantenaina90183",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-10-20T22:29:23.905610",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
