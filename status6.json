@@ -3047,7 +3047,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-09-06T10:25:39.703553",
-            "affiliation_balance": 5000,
+            "affiliation_balance": 6000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -5444,8 +5444,8 @@
                 "Bienvenux0E21spz",
                 "Cedric4boPnage"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-09-20T11:15:08.684240",
+            "status": "active",
+            "countdown_start_time": "2025-10-27T08:07:19.830033",
             "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
