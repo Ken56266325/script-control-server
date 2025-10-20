@@ -25118,6 +25118,16 @@
             "countdown_start_time": "2025-10-20T07:21:01.000991",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "PriscoKiqCRZ42",
+            "android_id": "5c34c1a2c5a65280ed60e409c1055a57",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-10-20T16:46:17.172644",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
