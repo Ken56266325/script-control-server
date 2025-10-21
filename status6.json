@@ -13243,7 +13243,8 @@
                 "ZourNzefbG5",
                 "ToavinaBGSoQoyk",
                 "Brichelo06vYc4al",
-                "CanedjiahG4QUUzkG"
+                "CanedjiahG4QUUzkG",
+                "OmegaufmSP3aj"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-08-31T19:17:14.797127",
@@ -25296,6 +25297,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-10-23T00:12:39.384997",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "OmegaufmSP3aj",
+            "android_id": "2c49ee1c70d277cd341f125f779175c6",
+            "referred_by": "HerizoPMlpf1Vv",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-10-22T04:13:17.787695",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
