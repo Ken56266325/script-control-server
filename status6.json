@@ -25277,6 +25277,16 @@
             "countdown_start_time": "2025-10-21T22:09:09.606452",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "NDTraderNrBo0zKd",
+            "android_id": "5043a1a8051b79a245fed0180438e0f0",
+            "referred_by": "Donatien58913",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-10-21T23:28:57.312250",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
