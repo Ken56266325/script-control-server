@@ -23932,7 +23932,7 @@
             "android_id": "39a0b1d2670a1f0211f6b3b8556950d4",
             "referred_by": null,
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-10-21T05:59:37.674710",
             "affiliation_balance": 0,
             "plan": "Basique",
@@ -25200,7 +25200,7 @@
             "android_id": "c41e2bf695fe75eef51458c2289a0d1e",
             "referred_by": null,
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-10-21T05:35:56.222395",
             "affiliation_balance": 0,
             "plan": "Basique"
@@ -25210,7 +25210,7 @@
             "android_id": "6dc44053c58f3df9ef182016cd77de27",
             "referred_by": null,
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-10-21T05:36:03.984511",
             "affiliation_balance": 0,
             "plan": "Basique"
@@ -25220,7 +25220,7 @@
             "android_id": "00013f1c43c201b7b62c7c81a291032c",
             "referred_by": "HermanODwBrkLl",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-10-21T05:49:57.743416",
             "affiliation_balance": 0,
             "plan": "Basique"
