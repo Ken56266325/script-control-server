@@ -25267,6 +25267,16 @@
             "countdown_start_time": "2025-10-21T20:23:17.645171",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "HarenarazafynrugWQ8t",
+            "android_id": "27707042",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-10-21T22:09:09.606452",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
