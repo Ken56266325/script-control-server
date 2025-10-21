@@ -25246,6 +25246,16 @@
             "countdown_start_time": "2025-10-21T17:00:35.405135",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Davidsony4QYhcV8",
+            "android_id": "fde6149b54074441ea0c0264296b06f1",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-10-21T19:04:50.845550",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
