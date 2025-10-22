@@ -3419,7 +3419,7 @@
                 "RadoOvJMsySE",
                 "JhassiRlvj13M2"
             ],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-10-22T10:50:57.715540",
             "affiliation_balance": 0,
             "plan": "Basique",
@@ -24419,7 +24419,7 @@
             "android_id": "c1514263466efc7ab46b3a7c16b95a77",
             "referred_by": null,
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-10-22T11:02:50.817459",
             "affiliation_balance": 0,
             "plan": "Basique",
