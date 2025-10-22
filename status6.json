@@ -2729,7 +2729,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-10-27T13:08:57.731698",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -3335,9 +3335,9 @@
                 "AzumiEXlc2xKj",
                 "AdrienSrcvS7qG"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-10-22T12:20:58.333739",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-10-29T20:15:22.188651",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
