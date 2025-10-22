@@ -2724,7 +2724,8 @@
                 "FiiiiisVQMjU04Y",
                 "FerdinandLxA7ipYs",
                 "tsirahonanaU3BXh1Sk",
-                "PriscillaGKmr0Gai"
+                "PriscillaGKmr0Gai",
+                "NiavonykmE9Lk"
             ],
             "status": "active",
             "countdown_start_time": "2025-10-27T13:08:57.731698",
@@ -25372,6 +25373,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-10-22T20:57:40.754492",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "NiavonykmE9Lk",
+            "android_id": "bb5fbd076fb3709483af1250db94890d",
+            "referred_by": "Fasou5819302",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-10-22T22:35:37.234972",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
