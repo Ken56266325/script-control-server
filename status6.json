@@ -24304,7 +24304,8 @@
             "referred_to": [
                 "task26272",
                 "Sedmmb62xh3",
-                "Levoanao11W2mwD"
+                "Levoanao11W2mwD",
+                "LevoanadpNM0hQK"
             ],
             "status": "active",
             "countdown_start_time": "2025-10-27T14:46:35.921161",
@@ -25339,6 +25340,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-10-22T17:32:29.538492",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "LevoanadpNM0hQK",
+            "android_id": "27c3d92f62b35f08f3d74c7decfffa10",
+            "referred_by": "Ferenand53626",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-10-22T17:49:38.249613",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
