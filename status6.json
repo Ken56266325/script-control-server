@@ -20491,7 +20491,8 @@
             "referred_by": "MiranamialisoawzrKqfFg",
             "referred_to": [
                 "Didiernalisoao7C6vWLR",
-                "ToavinarisoaaG1Fh410"
+                "ToavinarisoaaG1Fh410",
+                "Vezoocarbonele80J3yES"
             ],
             "status": "active",
             "countdown_start_time": "2025-10-28T13:36:26.523422",
@@ -25437,6 +25438,16 @@
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2025-10-23T03:28:31.029549",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Vezoocarbonele80J3yES",
+            "android_id": "22273357",
+            "referred_by": "MaximeespinolahcDIlFqR8",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-10-23T18:03:53.663738",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
