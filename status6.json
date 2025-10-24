@@ -5471,7 +5471,7 @@
                 "NataciIdDUSs",
                 "HasxfnSYzSs"
             ],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-10-24T20:58:01.425315",
             "affiliation_balance": 4000,
             "plan": "Basique",
@@ -7575,7 +7575,7 @@
             "referred_to": [
                 "ANDRINIRINAMamisonFideleJfbnGsfJ"
             ],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-10-24T20:58:52.340686",
             "affiliation_balance": 2000,
             "plan": "Basique",
@@ -11155,7 +11155,7 @@
             "android_id": "aedd3fc4bc38df161f53eb9f2b737135",
             "referred_by": "Cetone479580",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-10-24T21:00:33.599225",
             "affiliation_balance": 0,
             "plan": "Basique",
