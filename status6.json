@@ -2731,7 +2731,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-10-27T13:08:57.731698",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -3806,9 +3806,9 @@
                 "OliviaEPmCXslY",
                 "AlphadavidsonEH9eEp3b"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-10-23T12:21:02.060800",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-10-31T16:01:56.919991",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
