@@ -367,7 +367,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-09-12T09:13:34.461276",
-            "affiliation_balance": 7000,
+            "affiliation_balance": 8000,
             "android_id": "56f274f07f0875f8f4c28f68451427e0",
             "countdown_paused": false,
             "plan": "Basique"
@@ -1147,9 +1147,9 @@
                 "Hasinab2eAZQwF",
                 "TahirykfOgrilg"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-10-02T07:43:04.356751",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-11-02T08:07:56.076022",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
