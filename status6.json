@@ -4803,7 +4803,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-08-27T10:18:53.768246",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -24156,8 +24156,8 @@
             "android_id": "c747327ec27a9244960bdd7af0ac169d",
             "referred_by": "Cetone479580",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2025-10-21T07:11:37.149896",
+            "status": "active",
+            "countdown_start_time": "2025-11-02T18:28:15.161788",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
@@ -24303,7 +24303,7 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-10-29T18:02:53.334924",
-            "affiliation_balance": 7000,
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
