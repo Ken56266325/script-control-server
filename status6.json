@@ -25533,7 +25533,7 @@
             "android_id": "4c4b62720dd93b5c6f99bf666da7d02d",
             "referred_by": null,
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-10-26T02:49:52.036725",
             "affiliation_balance": 0,
             "plan": "Basique"
@@ -25543,7 +25543,7 @@
             "android_id": "d71c6e18416117959a803f5252579c90",
             "referred_by": "Amadou681036190",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-10-26T03:44:43.814583",
             "affiliation_balance": 0,
             "plan": "Basique"
