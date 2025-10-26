@@ -304,8 +304,7 @@
                 "Itsimindrana",
                 "Fasou5819302",
                 "Noely561920",
-                "Mbolatiana79103",
-                "NjaraUotNGqGJ"
+                "Mbolatiana79103"
             ],
             "status": "active",
             "countdown_start_time": "2025-11-01T20:06:47.908535",
@@ -2212,7 +2211,7 @@
                 "jassb65eTkA6"
             ],
             "status": "active",
-            "countdown_start_time": "2025-10-26T09:52:01.052947",
+            "countdown_start_time": "2025-10-27T10:56:40.693210",
             "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
@@ -25557,16 +25556,6 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-10-26T13:54:19.954894",
-            "affiliation_balance": 0,
-            "plan": "Basique"
-        },
-        {
-            "id": "NjaraUotNGqGJ",
-            "android_id": "07bd00131bab5b36e725539bac83f129",
-            "referred_by": "Compte35183",
-            "referred_to": [],
-            "status": "active",
-            "countdown_start_time": "2025-10-26T14:56:39.743327",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
