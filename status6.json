@@ -4777,7 +4777,7 @@
             "referred_to": [
                 "KellermanGIpGMC6g"
             ],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-10-26T22:44:11.091259",
             "affiliation_balance": 2000,
             "plan": "Basique",
@@ -25602,7 +25602,7 @@
             "android_id": "29cd6ab601aabd4ec2cbf31937a269bc",
             "referred_by": null,
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-10-26T22:16:30.733109",
             "affiliation_balance": 0,
             "plan": "Basique"
