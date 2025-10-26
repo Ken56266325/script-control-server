@@ -25622,7 +25622,7 @@
             "android_id": "42dc4f3af728a4f1ed03fb9918e18ff9",
             "referred_by": "Cetone479580",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-10-27T02:27:09.638636",
             "affiliation_balance": 0,
             "plan": "Basique"
@@ -25632,7 +25632,7 @@
             "android_id": "59f0bcad28a1892477a409d053139557",
             "referred_by": null,
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-10-27T02:51:56.431790",
             "affiliation_balance": 0,
             "plan": "Basique"
