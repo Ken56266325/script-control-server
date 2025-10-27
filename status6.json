@@ -25688,6 +25688,16 @@
             "countdown_start_time": "2025-10-27T21:24:14.913822",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "ClermontErMw5fKA",
+            "android_id": "c5818c7d50aa3feadc49e445ff0a050a",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-10-27T21:42:35.464189",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
