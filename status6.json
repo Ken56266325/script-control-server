@@ -13261,7 +13261,8 @@
                 "ToavinaBGSoQoyk",
                 "Brichelo06vYc4al",
                 "CanedjiahG4QUUzkG",
-                "OmegaufmSP3aj"
+                "OmegaufmSP3aj",
+                "NarindraHbYJr8mw"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-08-31T19:17:14.797127",
@@ -25730,6 +25731,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-10-28T01:55:16.605116",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "NarindraHbYJr8mw",
+            "android_id": "fa18f5931692c23ae3d8a254622f2113",
+            "referred_by": "HerizoPMlpf1Vv",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-10-28T02:40:34.127102",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
