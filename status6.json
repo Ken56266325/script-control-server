@@ -46,7 +46,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2028-08-26T05:40:25.982622",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000000,
             "android_id": "d099fb72fa1d28a5627ff511b88111f7",
             "plan": "VIP",
             "paused_at": null,
