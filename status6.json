@@ -309,7 +309,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-11-01T20:06:47.908535",
-            "affiliation_balance": 27000,
+            "affiliation_balance": 28000,
             "android_id": "24e6c12d88d27aba84a80b1d0c821285",
             "countdown_paused": false,
             "plan": "Basique"
@@ -2732,9 +2732,9 @@
                 "PriscillaGKmr0Gai",
                 "NiavonykmE9Lk"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-10-27T13:08:57.731698",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-11-03T14:42:10.607560",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
