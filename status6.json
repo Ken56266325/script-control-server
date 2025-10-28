@@ -19042,7 +19042,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-09-02T09:16:56.765523",
-            "affiliation_balance": 8000,
+            "affiliation_balance": 9000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -21346,8 +21346,8 @@
             "referred_to": [
                 "GinaginaPdkBuTWH"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-10-28T17:15:03.487728",
+            "status": "active",
+            "countdown_start_time": "2025-11-04T19:08:58.323431",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
