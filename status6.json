@@ -2,10 +2,10 @@
     "scripts": [
         {
             "id": "sergina09",
-            "status": "inactive",
+            "status": "active",
             "referred_by": null,
             "referred_to": [],
-            "countdown_start_time": "2025-10-09T18:21:05.417911",
+            "countdown_start_time": "2025-11-04T18:28:26.917048",
             "android_id": "6b58be3f2531d1a61759928a41bf0e4e",
             "countdown_paused": false,
             "plan": "VIP"
