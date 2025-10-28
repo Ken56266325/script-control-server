@@ -46,7 +46,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2028-08-26T05:40:25.982622",
-            "affiliation_balance": 993000,
+            "affiliation_balance": 986000,
             "android_id": "d099fb72fa1d28a5627ff511b88111f7",
             "plan": "VIP",
             "paused_at": null,
@@ -12290,7 +12290,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-10-27T07:41:10.540600",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -25090,7 +25090,7 @@
             "referred_by": "NestorAlvisysUfWPrPk",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-11-03T20:34:55.396193",
+            "countdown_start_time": "2025-11-10T20:34:55.396193",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": true
