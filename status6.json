@@ -6073,7 +6073,8 @@
                 "SolofoTyiJ9s1s",
                 "Marianoh12xgIUWemu",
                 "Solofo2JjgiQ0Z8",
-                "ANTONIOPzm3ETac"
+                "ANTONIOPzm3ETac",
+                "RAMAARkLIhrSzp"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-09-03T09:52:04.738628",
@@ -25773,6 +25774,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-10-28T18:19:38.959185",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "RAMAARkLIhrSzp",
+            "android_id": "3bf94f24b95e68454598f7eee2c5a4b0",
+            "referred_by": "Velotsara681900",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-10-28T19:20:50.754072",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
