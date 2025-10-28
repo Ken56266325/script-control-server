@@ -3984,7 +3984,8 @@
                 "Cl\u00e9ment6OQLbei8",
                 "Odricel5yWz8rN",
                 "UmadsfkLdnP",
-                "Fredericotq4VTWARl"
+                "Fredericotq4VTWARl",
+                "Fredico6bltdsMV"
             ],
             "status": "active",
             "countdown_start_time": "2025-11-01T22:31:28.237757",
@@ -25762,6 +25763,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-10-28T17:55:19.568238",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Fredico6bltdsMV",
+            "android_id": "35d69c981ab1faec150cf01a27c216ad",
+            "referred_by": "Andii69103",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-10-28T18:19:38.959185",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
