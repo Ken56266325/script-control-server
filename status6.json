@@ -2736,7 +2736,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-11-03T14:42:10.607560",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -3343,8 +3343,8 @@
                 "AdrienSrcvS7qG"
             ],
             "status": "active",
-            "countdown_start_time": "2025-10-29T20:15:22.188651",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-11-05T20:15:22.188651",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
