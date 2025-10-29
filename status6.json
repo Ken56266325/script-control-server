@@ -2400,7 +2400,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-07-18T20:44:19.471700",
-            "affiliation_balance": 6000,
+            "affiliation_balance": 7000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -3191,8 +3191,8 @@
             "referred_to": [
                 "FanevaceUGqcHR"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-10-29T18:29:09.795420",
+            "status": "active",
+            "countdown_start_time": "2025-11-05T22:45:21.493341",
             "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
