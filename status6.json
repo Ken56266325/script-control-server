@@ -9674,7 +9674,7 @@
                 "hasinaaugustine22nIe5Ezm",
                 "@hasinaaugustineCwNMy9ru"
             ],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-10-29T07:10:05.741643",
             "affiliation_balance": 5000,
             "plan": "Basique",
@@ -14912,7 +14912,7 @@
             "android_id": "7b4e0bde9ec4bd9c27e9c898a27b213b",
             "referred_by": "Andry5718e0",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-10-29T02:37:14.526533",
             "affiliation_balance": 0,
             "plan": "Basique",
@@ -25286,7 +25286,7 @@
             "android_id": "04e5d8f1f6a6916bb5ad8af605c580f3",
             "referred_by": "Grav69130",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-10-29T06:53:32.115642",
             "affiliation_balance": 0,
             "plan": "Basique"
@@ -25296,7 +25296,7 @@
             "android_id": "fde6149b54074441ea0c0264296b06f1",
             "referred_by": null,
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-10-29T06:52:15.123980",
             "affiliation_balance": 0,
             "plan": "Basique"
