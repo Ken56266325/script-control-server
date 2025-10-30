@@ -2736,7 +2736,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-11-03T14:42:10.607560",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -25841,8 +25841,8 @@
             "android_id": "b39d1cea02c10a11b30b946d2aa6b5d2",
             "referred_by": "Fasou5819302",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2025-10-29T19:49:30.163075",
+            "status": "active",
+            "countdown_start_time": "2025-11-06T07:07:38.782589",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
