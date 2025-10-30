@@ -25712,7 +25712,9 @@
             "id": "ClermontErMw5fKA",
             "android_id": "c5818c7d50aa3feadc49e445ff0a050a",
             "referred_by": null,
-            "referred_to": [],
+            "referred_to": [
+                "GhostefgiKBZHc"
+            ],
             "status": "active",
             "countdown_start_time": "2025-11-04T07:30:48.659088",
             "affiliation_balance": 0,
@@ -25905,6 +25907,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-11-07T02:45:16.505333",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "GhostefgiKBZHc",
+            "android_id": "a2dea85e3262a3e74f86c174639e90ac",
+            "referred_by": "ClermontErMw5fKA",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-10-31T04:54:49.424695",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
