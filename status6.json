@@ -23333,7 +23333,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-11-01T22:58:22.527945",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -24525,7 +24525,7 @@
             "referred_by": "ondriphavipw5TC96WT",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-10-31T21:31:52.802954",
+            "countdown_start_time": "2025-11-07T21:31:52.802954",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
