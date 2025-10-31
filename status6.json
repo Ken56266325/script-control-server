@@ -15484,7 +15484,9 @@
             "id": "DanielhC57xHhm",
             "android_id": "ef906b4e03ed1d45a3f97ce5e44dca74",
             "referred_by": "Carlos68301",
-            "referred_to": [],
+            "referred_to": [
+                "DatoaV06e2R6m"
+            ],
             "status": "inactive",
             "countdown_start_time": "2025-09-15T13:40:53.445088",
             "affiliation_balance": 0,
@@ -25939,6 +25941,16 @@
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2025-10-31T09:00:08.431730",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "DatoaV06e2R6m",
+            "android_id": "4eb20fea435731242e6965e8693bb0c6",
+            "referred_by": "DanielhC57xHhm",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-10-31T22:55:54.291755",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
