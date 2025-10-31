@@ -25719,7 +25719,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-11-04T07:30:48.659088",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -25917,8 +25917,8 @@
             "android_id": "a2dea85e3262a3e74f86c174639e90ac",
             "referred_by": "ClermontErMw5fKA",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2025-10-31T04:54:49.424695",
+            "status": "active",
+            "countdown_start_time": "2025-11-07T07:36:53.791967",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
