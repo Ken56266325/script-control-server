@@ -24545,7 +24545,7 @@
             "android_id": "21de9262a0fb8f5e64ed184d4c2a6306",
             "referred_by": "Fasou5819302",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-10-31T18:44:41.220337",
             "affiliation_balance": 0,
             "plan": "Basique",
@@ -25247,7 +25247,7 @@
             "android_id": "26a5956856f679bddd57f5824a02b975",
             "referred_by": null,
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-10-31T19:34:16.823525",
             "affiliation_balance": 0,
             "plan": "Basique"
