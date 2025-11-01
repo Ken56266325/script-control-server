@@ -20184,7 +20184,8 @@
                 "Batsidn3CxCUH",
                 "RinahBDxl3jGe",
                 "MandresyOKAALFZm",
-                "TanjonaVbVyness"
+                "TanjonaVbVyness",
+                "Prudenceue5yY32I"
             ],
             "status": "active",
             "countdown_start_time": "2025-11-04T09:46:41.668732",
@@ -25996,6 +25997,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-11-02T03:18:24.229274",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Prudenceue5yY32I",
+            "android_id": "8ea0cd01ce8dc655a3f19e528e4b3be6",
+            "referred_by": "jeannie23458",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-11-02T04:50:26.943316",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
