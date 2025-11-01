@@ -2582,7 +2582,8 @@
                 "rmlrak10pXHXYnSt",
                 "rmlrak12iv6x9SDQ",
                 "mamylesgdytBwVg",
-                "tafitaX2DDV34p"
+                "tafitaX2DDV34p",
+                "farakdWf0dlp"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-09-08T09:41:36.707599",
@@ -25962,6 +25963,16 @@
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2025-11-01T04:00:20.232520",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "farakdWf0dlp",
+            "android_id": "917cc6424dc1c411f02ada7fec351a30",
+            "referred_by": "Mamy6795",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-11-01T18:40:29.932439",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
