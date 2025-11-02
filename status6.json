@@ -3991,7 +3991,8 @@
                 "UmadsfkLdnP",
                 "Fredericotq4VTWARl",
                 "Fredico6bltdsMV",
-                "TonniazZG2PI2h"
+                "TonniazZG2PI2h",
+                "MafaikycfVxhVoD"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-11-01T22:31:28.237757",
@@ -26039,6 +26040,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-11-03T01:08:42.986223",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "MafaikycfVxhVoD",
+            "android_id": "cbb2a128f02369f618a2e1dc440b932e",
+            "referred_by": "Andii69103",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-11-03T01:45:02.425997",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
