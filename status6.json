@@ -26031,6 +26031,16 @@
             "countdown_start_time": "2025-11-03T00:35:12.202614",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "LauraFaniryZd2Inp2R",
+            "android_id": "8f7b9ad141e5bd6f31d2b0781a9ac1f6",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-11-03T01:08:42.986223",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
