@@ -3812,7 +3812,8 @@
                 "Valdo68199420",
                 "OliviaEPmCXslY",
                 "AlphadavidsonEH9eEp3b",
-                "Mialyj4KPNsHx"
+                "Mialyj4KPNsHx",
+                "DorissergioYkHtjPbs"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-10-31T16:01:56.919991",
@@ -26082,6 +26083,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-11-03T15:17:18.137765",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "DorissergioYkHtjPbs",
+            "android_id": "42db92526b8f87b71677907b7668cefb",
+            "referred_by": "Robinson781930",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-11-03T15:25:19.539269",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
