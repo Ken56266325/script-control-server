@@ -260,7 +260,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-10-29T20:52:01.820100",
-            "affiliation_balance": 5000,
+            "affiliation_balance": 6000,
             "android_id": "e74af1c33b0fd4e7b3ecef900c118751",
             "countdown_paused": false,
             "plan": "Basique"
@@ -3886,8 +3886,8 @@
                 "ZafitalI7V0bH0p",
                 "GangmanolvQEO5W"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-10-30T14:46:41.819191",
+            "status": "active",
+            "countdown_start_time": "2025-11-10T07:20:59.488958",
             "affiliation_balance": 5000,
             "plan": "Basique",
             "countdown_paused": false
