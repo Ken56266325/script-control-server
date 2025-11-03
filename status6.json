@@ -26029,7 +26029,7 @@
             "android_id": "http://my.telegram.org",
             "referred_by": null,
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-11-03T00:35:12.202614",
             "affiliation_balance": 0,
             "plan": "Basique"
@@ -26039,7 +26039,7 @@
             "android_id": "8f7b9ad141e5bd6f31d2b0781a9ac1f6",
             "referred_by": null,
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-11-03T01:08:42.986223",
             "affiliation_balance": 0,
             "plan": "Basique"
@@ -26049,7 +26049,7 @@
             "android_id": "cbb2a128f02369f618a2e1dc440b932e",
             "referred_by": "Andii69103",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-11-03T01:45:02.425997",
             "affiliation_balance": 0,
             "plan": "Basique"
@@ -26059,7 +26059,7 @@
             "android_id": "963aac80bd4eb2d60005fd2a2b290a94",
             "referred_by": "TsioryPgINzRaZ",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-11-03T03:15:41.455942",
             "affiliation_balance": 0,
             "plan": "Basique"
@@ -26069,7 +26069,7 @@
             "android_id": "https://my.telegram.org",
             "referred_by": null,
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-11-03T04:34:58.779597",
             "affiliation_balance": 0,
             "plan": "Basique"
