@@ -2734,7 +2734,8 @@
                 "tsirahonanaU3BXh1Sk",
                 "PriscillaGKmr0Gai",
                 "NiavonykmE9Lk",
-                "Rojosoafiononanav9nO4lxx"
+                "Rojosoafiononanav9nO4lxx",
+                "VyrmZnX3C1"
             ],
             "status": "active",
             "countdown_start_time": "2025-11-03T14:42:10.607560",
@@ -26103,6 +26104,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-11-03T16:44:13.984662",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "VyrmZnX3C1",
+            "android_id": "9f35def56a753641a16b9f34e8790eb6",
+            "referred_by": "Fasou5819302",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-11-03T17:25:49.780857",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
