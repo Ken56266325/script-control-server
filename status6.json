@@ -26155,7 +26155,7 @@
             "android_id": "pip install flask",
             "referred_by": null,
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-11-04T00:54:43.885201",
             "affiliation_balance": 0,
             "plan": "Basique"
