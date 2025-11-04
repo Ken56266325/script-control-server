@@ -26233,6 +26233,15 @@
             "countdown_start_time": "2025-11-05T17:13:48.963348",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Lucas35363",
+            "android_id": "6660a6df08829a58c4eef6d23551d369",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-11-11T16:30:02.902794",
+            "affiliation_balance": 0
         }
     ],
     "references": {
