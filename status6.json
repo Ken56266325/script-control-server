@@ -3819,7 +3819,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-11-11T14:04:31.747439",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -6273,8 +6273,8 @@
                 "GordiesauIKcEx",
                 "KevinunrUfUJF"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-11-03T10:34:07.343059",
+            "status": "active",
+            "countdown_start_time": "2025-11-11T19:10:36.042476",
             "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
