@@ -26202,6 +26202,16 @@
             "countdown_start_time": "2025-11-04T20:17:20.618732",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "StanislasiTNu1ZMe",
+            "android_id": "3da670fbadad48fe487d73fce8b9f068",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-11-04T21:00:07.352477",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
