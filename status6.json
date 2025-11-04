@@ -17518,7 +17518,8 @@
                 "LucienMreBKZSD",
                 "TsiferanaaJa0f0sg",
                 "MarievrCrIHF9",
-                "Nirina9hI8ewMv"
+                "Nirina9hI8ewMv",
+                "MampitaTzCgUIao"
             ],
             "status": "active",
             "countdown_start_time": "2025-11-08T08:05:17.726749",
@@ -26295,6 +26296,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-11-05T04:28:39.861458",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "MampitaTzCgUIao",
+            "android_id": "6b5971a3eda399fc8ee384ba19af939c",
+            "referred_by": "HermanODwBrkLl",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-11-05T06:24:05.253663",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
