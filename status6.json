@@ -2739,7 +2739,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-11-10T15:38:12.121900",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -3817,9 +3817,9 @@
                 "Mialyj4KPNsHx",
                 "DorissergioYkHtjPbs"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-10-31T16:01:56.919991",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-11-11T14:04:31.747439",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
