@@ -16271,7 +16271,8 @@
             "referred_to": [
                 "NjaraTkswbUHo",
                 "FlauricVVw41ku1",
-                "JuleborarLtgBiqF"
+                "JuleborarLtgBiqF",
+                "StellaFjVtao0O"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-10-26T21:02:09.428606",
@@ -26262,6 +26263,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-11-05T17:50:34.919039",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "StellaFjVtao0O",
+            "android_id": "0346b0561b07df72a62c118ca295077f",
+            "referred_by": "anjara236373",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-11-05T00:55:55.848130",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
