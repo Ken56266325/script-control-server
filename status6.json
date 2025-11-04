@@ -3995,7 +3995,8 @@
                 "Fredericotq4VTWARl",
                 "Fredico6bltdsMV",
                 "TonniazZG2PI2h",
-                "MafaikycfVxhVoD"
+                "MafaikycfVxhVoD",
+                "RJNxdg9HZqY"
             ],
             "status": "active",
             "countdown_start_time": "2025-11-11T17:56:49.156992",
@@ -26273,6 +26274,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-11-05T00:55:55.848130",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "RJNxdg9HZqY",
+            "android_id": "45763f1564aa2bb09516ce0b52f7752e",
+            "referred_by": "Andii69103",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-11-05T03:43:27.928671",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
