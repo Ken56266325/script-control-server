@@ -1437,7 +1437,8 @@
                 "Tolotra68199320",
                 "Daniel719292",
                 "FaustaDl1RwW4d",
-                "lovasCyakBpM"
+                "lovasCyakBpM",
+                "RadoiuKPUkMI"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-09-09T20:30:42.116418",
@@ -26337,6 +26338,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-11-05T18:01:57.297665",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "RadoiuKPUkMI",
+            "android_id": "bf75a8cdaf0e8bc7f5571ed6aea37c91",
+            "referred_by": "Hoby5826",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-11-05T20:57:22.663368",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
