@@ -3451,7 +3451,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-11-12T09:38:25.288459",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -26403,7 +26403,7 @@
             "referred_by": "Soso79103",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-11-06T15:49:37.113953",
+            "countdown_start_time": "2025-11-13T15:53:07.056236",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
