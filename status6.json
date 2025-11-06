@@ -2316,7 +2316,8 @@
                 "Garco\ud83d\ude05bcUOewsw",
                 "TravyI3huG6IY",
                 "Nofa\ud83e\udd2a\ud83e\udd23NEDy9iHm",
-                "Rova\ud83e\udd74fQm1yB9T"
+                "Rova\ud83e\udd74fQm1yB9T",
+                "TantelygUEyitQK"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-10-27T17:13:04.723944",
@@ -26369,6 +26370,16 @@
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2025-11-06T03:19:13.892252",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "TantelygUEyitQK",
+            "android_id": "013ff5b75d9cd5862ea7e75094eaccc2",
+            "referred_by": "RanofaAuto",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-11-06T13:51:38.691451",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
