@@ -26437,6 +26437,15 @@
             "countdown_start_time": "2025-11-08T09:39:58.597459",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Souma",
+            "android_id": "dd8e0f60d280578f8ea0210c23ca3810",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-11-14T14:57:55.108615",
+            "affiliation_balance": 0
         }
     ],
     "references": {
