@@ -3389,7 +3389,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-11-12T10:02:08.657701",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -7119,8 +7119,8 @@
                 "Cl\u00e9oMjejAXbV",
                 "Kellym9Mcytfv"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-11-04T07:35:54.676214",
+            "status": "active",
+            "countdown_start_time": "2025-11-14T07:07:37.068329",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
