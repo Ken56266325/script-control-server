@@ -6102,7 +6102,8 @@
                 "LINDAxRG1eUqT",
                 "JEANNE12s6MkUHf9",
                 "SANDRAC6K2zb4g",
-                "C\u00c9LINAWW4ge8zp"
+                "C\u00c9LINAWW4ge8zp",
+                "ANDONASOLOG8vTykpd"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-09-03T09:52:04.738628",
@@ -26490,6 +26491,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-11-08T22:57:09.809925",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "ANDONASOLOG8vTykpd",
+            "android_id": "2cbc1bd53bf4dc99f75476c3ecfd41ea",
+            "referred_by": "Velotsara681900",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-11-08T23:30:59.812349",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
