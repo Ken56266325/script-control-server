@@ -8287,7 +8287,8 @@
                 "GerardjpwWC08R",
                 "geldoa0LOLdF",
                 "NathalieMgnKukWL",
-                "seizelE9iWYTq"
+                "seizelE9iWYTq",
+                "tojokk3US6If"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-10-11T12:09:20.087960",
@@ -26523,6 +26524,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-11-09T16:47:44.293821",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "tojokk3US6If",
+            "android_id": "09e44adf1a857cad70dc8b69e147dd9c",
+            "referred_by": "Lionel56199302",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-11-09T19:41:03.656437",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
