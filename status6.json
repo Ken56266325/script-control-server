@@ -4827,7 +4827,8 @@
                 "ANDRYfBvUWajG",
                 "COCOTTEhcD0Wqei",
                 "JULIENeODCgE1r",
-                "NOMENAJzImS7Ty"
+                "NOMENAJzImS7Ty",
+                "ZANDRYBOTAIaa52qRj"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-08-27T10:18:53.768246",
@@ -26623,6 +26624,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-11-11T00:34:58.912580",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "ZANDRYBOTAIaa52qRj",
+            "android_id": "d728b959c47189b885f3b2b39deea696",
+            "referred_by": "Cetone479580",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-11-11T00:46:06.097786",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
