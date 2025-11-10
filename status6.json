@@ -3136,7 +3136,8 @@
                 "Toandro9003810",
                 "Narindra1IzmwEjr",
                 "hanintriainaErtuUECH",
-                "oliviarsjPA1Gg"
+                "oliviarsjPA1Gg",
+                "Nantenainaio4cg6MI"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-09-10T10:23:16.388312",
@@ -26612,6 +26613,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-11-11T00:12:05.698370",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Nantenainaio4cg6MI",
+            "android_id": "a3b41b1562e5c31b5700a4dc7896a7ee",
+            "referred_by": "Christian189103",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-11-11T00:34:58.912580",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
