@@ -3606,7 +3606,8 @@
                 "TheopneustosszouCMM7",
                 "VatsXzS7oVlI",
                 "Fanantenana8G4YYNBA",
-                "andolPS8vkjt"
+                "andolPS8vkjt",
+                "MioraYjVYlpCk"
             ],
             "status": "active",
             "countdown_start_time": "2025-11-11T14:05:29.513577",
@@ -26644,6 +26645,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-11-12T18:35:41.003427",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "MioraYjVYlpCk",
+            "android_id": "2f9a722ac4bb81449a393ad447a5f12c",
+            "referred_by": "Rjc68103",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-11-11T20:49:26.749156",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
