@@ -46,7 +46,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2028-08-26T05:40:25.982622",
-            "affiliation_balance": 867000,
+            "affiliation_balance": 860000,
             "android_id": "d099fb72fa1d28a5627ff511b88111f7",
             "plan": "VIP",
             "paused_at": null,
@@ -1970,7 +1970,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-11-18T08:06:17.742796",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -2217,7 +2217,7 @@
                 "Rindraahdg7Frr"
             ],
             "status": "active",
-            "countdown_start_time": "2025-11-13T06:51:17.229217",
+            "countdown_start_time": "2025-11-20T06:51:17.229217",
             "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
