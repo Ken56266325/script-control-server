@@ -684,7 +684,8 @@
                 "RakmalalaQ1z152Vy",
                 "Feno5mcoVqmq",
                 "AureliehOHeJqwx",
-                "LoxAzTYfYNa"
+                "LoxAzTYfYNa",
+                "SolangeE80bVoNl"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-08-30T14:44:08.280609",
@@ -26719,6 +26720,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-11-13T01:10:58.877174",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "SolangeE80bVoNl",
+            "android_id": "f98ceffb6112aaea033528a4d6ef51ab",
+            "referred_by": "Emmanuel1",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-11-13T06:39:03.866967",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
