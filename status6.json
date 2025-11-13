@@ -2740,7 +2740,8 @@
                 "PriscillaGKmr0Gai",
                 "NiavonykmE9Lk",
                 "Rojosoafiononanav9nO4lxx",
-                "VyrmZnX3C1"
+                "VyrmZnX3C1",
+                "willyRsb2lspS"
             ],
             "status": "active",
             "countdown_start_time": "2025-11-17T16:54:17.721381",
@@ -26740,6 +26741,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-11-13T14:15:13.963452",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "willyRsb2lspS",
+            "android_id": "ef489f4510b50619299d08c53e1be3ca",
+            "referred_by": "Fasou5819302",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-11-13T16:23:18.908871",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
