@@ -2747,7 +2747,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-11-17T16:54:17.721381",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -3392,9 +3392,9 @@
                 "Tsirahonana72y1PPlz",
                 "WaidTD7xhhhj"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-11-13T18:02:52.644743",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-11-20T18:33:56.209851",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
