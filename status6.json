@@ -3791,7 +3791,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-09-02T16:52:18.163768",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -9932,8 +9932,8 @@
             "referred_to": [
                 "RaJj0b0liJ"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-10-20T20:08:48.618090",
+            "status": "active",
+            "countdown_start_time": "2025-11-20T18:45:17.779658",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
