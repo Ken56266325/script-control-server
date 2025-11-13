@@ -3610,7 +3610,8 @@
                 "VatsXzS7oVlI",
                 "Fanantenana8G4YYNBA",
                 "andolPS8vkjt",
-                "MioraYjVYlpCk"
+                "MioraYjVYlpCk",
+                "MikaKUO6Zy70"
             ],
             "status": "active",
             "countdown_start_time": "2025-11-18T20:37:43.828178",
@@ -26762,6 +26763,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-11-13T18:21:43.673695",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "MikaKUO6Zy70",
+            "android_id": "368daa12d9e12e6783bfc0237ad48e06",
+            "referred_by": "Rjc68103",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-11-13T20:11:30.205593",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
