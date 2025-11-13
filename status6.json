@@ -2323,7 +2323,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-10-27T17:13:04.723944",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -26412,7 +26412,7 @@
                 "Bozy94B8jyu8"
             ],
             "status": "active",
-            "countdown_start_time": "2025-11-13T15:12:46.092339",
+            "countdown_start_time": "2025-11-20T15:12:46.092339",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
