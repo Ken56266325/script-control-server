@@ -3396,7 +3396,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-11-20T18:33:56.209851",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -7586,7 +7586,7 @@
                 "BeckhamFaniriantsoa89ivMIzo"
             ],
             "status": "active",
-            "countdown_start_time": "2025-11-14T10:24:39.722671",
+            "countdown_start_time": "2025-11-21T10:40:12.210623",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
