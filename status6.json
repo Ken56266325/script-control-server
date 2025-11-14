@@ -25554,7 +25554,9 @@
             "id": "Vezoocarbonele80J3yES",
             "android_id": "22273357",
             "referred_by": "MaximeespinolahcDIlFqR8",
-            "referred_to": [],
+            "referred_to": [
+                "DassyUdTmKEGT"
+            ],
             "status": "inactive",
             "countdown_start_time": "2025-10-30T21:22:28.698030",
             "affiliation_balance": 0,
@@ -26874,6 +26876,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-11-14T16:16:51.283023",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "DassyUdTmKEGT",
+            "android_id": "33645062",
+            "referred_by": "Vezoocarbonele80J3yES",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-11-14T16:52:33.761944",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
