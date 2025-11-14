@@ -9271,7 +9271,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-10-12T07:44:47.514861",
-            "affiliation_balance": 6000,
+            "affiliation_balance": 7000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -9719,8 +9719,8 @@
                 "hasinaaugustine22nIe5Ezm",
                 "@hasinaaugustineCwNMy9ru"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-11-13T14:07:30.445662",
+            "status": "active",
+            "countdown_start_time": "2025-11-21T10:47:48.745350",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
