@@ -24581,7 +24581,9 @@
             "id": "TalboteyFvTphnm",
             "android_id": "c58b0d2b8807fd46f15da7cf40f88c85",
             "referred_by": "ondriphavipw5TC96WT",
-            "referred_to": [],
+            "referred_to": [
+                "RosiakoDCkS6o"
+            ],
             "status": "active",
             "countdown_start_time": "2025-11-14T21:31:52.802954",
             "affiliation_balance": 0,
@@ -26862,6 +26864,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-11-14T15:13:02.679060",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "RosiakoDCkS6o",
+            "android_id": "61bf5dc1b0f043d5dd31d787385cb09b",
+            "referred_by": "TalboteyFvTphnm",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-11-14T16:16:51.283023",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
