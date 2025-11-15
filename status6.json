@@ -19946,7 +19946,8 @@
             "referred_by": "Harimalala58294",
             "referred_to": [
                 "HarimalalaG9YXORAr",
-                "HarhyvolhaM6UnSY3R"
+                "HarhyvolhaM6UnSY3R",
+                "Valerien8@386dL5BhK9"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-11-13T09:28:21.851983",
@@ -26951,6 +26952,16 @@
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2025-11-15T06:31:08.128309",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Valerien8@386dL5BhK9",
+            "android_id": "f6b55bf6068d0b5792f898cf74f253ab",
+            "referred_by": "LucieeHUHXdoD",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-11-15T19:29:25.136994",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
