@@ -4015,7 +4015,8 @@
                 "MafaikycfVxhVoD",
                 "RJNxdg9HZqY",
                 "NicolasTSZal0oY",
-                "ClerioAYQmqScF"
+                "ClerioAYQmqScF",
+                "GuinotMNGWMPO9"
             ],
             "status": "active",
             "countdown_start_time": "2025-11-18T18:52:11.490258",
@@ -26973,6 +26974,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-11-15T19:32:57.690633",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "GuinotMNGWMPO9",
+            "android_id": "859c7574f71f0d462e0f16ff5584ddc8",
+            "referred_by": "Andii69103",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-11-15T19:55:13.768359",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
