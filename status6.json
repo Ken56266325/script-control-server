@@ -3834,7 +3834,7 @@
                 "Mialyj4KPNsHx",
                 "DorissergioYkHtjPbs"
             ],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-11-15T06:05:19.918642",
             "affiliation_balance": 2000,
             "plan": "Basique",
@@ -4425,7 +4425,7 @@
             "android_id": "4d9dc3bc70c447b5b3941cb506931996",
             "referred_by": "Compte35183",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-11-15T06:24:09.564021",
             "affiliation_balance": 0,
             "plan": "Basique",
@@ -26949,7 +26949,7 @@
             "android_id": "fd222948b43ac2bd8d13f68dbc54b10c",
             "referred_by": "Rjc68103",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-11-15T06:31:08.128309",
             "affiliation_balance": 0,
             "plan": "Basique"
