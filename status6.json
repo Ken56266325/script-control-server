@@ -2745,7 +2745,8 @@
                 "Rojosoafiononanav9nO4lxx",
                 "VyrmZnX3C1",
                 "willyRsb2lspS",
-                "No\u00eblAndriamanjafygWlpYMWN"
+                "No\u00eblAndriamanjafygWlpYMWN",
+                "JySERbNHke"
             ],
             "status": "active",
             "countdown_start_time": "2025-11-17T16:54:17.721381",
@@ -27005,6 +27006,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-11-16T01:38:26.992815",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "JySERbNHke",
+            "android_id": "aacfe9a4c637c888b683be64b81b5d12",
+            "referred_by": "Fasou5819302",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-11-16T02:28:21.242029",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
