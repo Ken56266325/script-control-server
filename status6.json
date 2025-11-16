@@ -6962,7 +6962,8 @@
                 "WilsonwHSIhI0s",
                 "FredoIaS9NOgN",
                 "WilsonL3Iyz5iE",
-                "Jeremie9D3zKBdm"
+                "Jeremie9D3zKBdm",
+                "BigBoy0nf5XroX"
             ],
             "status": "active",
             "countdown_start_time": "2025-11-21T12:06:37.554336",
@@ -27112,6 +27113,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-11-17T04:43:49.324327",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "BigBoy0nf5XroX",
+            "android_id": "42d1bf5353bfa69b1319983978b76770",
+            "referred_by": "Andry5718e0",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-11-17T05:21:15.084319",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
