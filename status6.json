@@ -26155,7 +26155,8 @@
                 "MARIANOHPYTHONCHeg2y6z",
                 "1bac1a2352ccc4374dab594483ac13ccfvFJGGS6",
                 "AVOTRA2SToihuW",
-                "FYDELIS32pfTlFAQd"
+                "FYDELIS32pfTlFAQd",
+                "DANIELLAYxeOxdHW"
             ],
             "status": "active",
             "countdown_start_time": "2025-11-19T16:57:51.431930",
@@ -27101,6 +27102,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-11-17T03:34:00.758934",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "DANIELLAYxeOxdHW",
+            "android_id": "f5a99ec7d8d8e6b61c05b1b07c1019cc",
+            "referred_by": "JEANNE12s6MkUHf9",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-11-17T04:43:49.324327",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
