@@ -581,7 +581,8 @@
                 "Wayne69193",
                 "51ath6844900",
                 "Randria57199302",
-                "CompteungvNyRRR6"
+                "CompteungvNyRRR6",
+                "NomenanVx84e7s"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-09-03T17:33:50.122280",
@@ -27058,6 +27059,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-11-16T18:50:32.655078",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "NomenanVx84e7s",
+            "android_id": "54b0308bc1ff4ebc612448c817a85ca0",
+            "referred_by": "Tatamo5394",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-11-16T19:09:48.984221",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
