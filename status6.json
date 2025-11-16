@@ -20859,7 +20859,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-09-09T07:12:10.831526",
-            "affiliation_balance": 7000,
+            "affiliation_balance": 8000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -23392,8 +23392,8 @@
             "referred_to": [
                 "TalboteyFvTphnm"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-11-16T08:44:26.763563",
+            "status": "active",
+            "countdown_start_time": "2025-11-23T12:26:43.821618",
             "affiliation_balance": 4000,
             "plan": "Basique",
             "countdown_paused": false
