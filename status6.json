@@ -2132,7 +2132,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-11-20T13:44:42.247937",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -2245,8 +2245,8 @@
                 "FyKRTBRYrb"
             ],
             "status": "active",
-            "countdown_start_time": "2025-11-16T16:07:42.392110",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-11-23T16:07:42.392110",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
