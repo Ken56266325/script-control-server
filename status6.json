@@ -5573,7 +5573,8 @@
                 "Jeremia571922",
                 "JncfiiNBArlGpq",
                 "natenaink2Edh8qw",
-                "kandraWyPXQEGr"
+                "kandraWyPXQEGr",
+                "GhostwwI2S5Rr"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-09-02T15:42:49.494704",
@@ -27187,6 +27188,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-11-18T00:42:52.015299",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "GhostwwI2S5Rr",
+            "android_id": "d4a6746bb0a7bb350d4944f5c52fdfb6",
+            "referred_by": "Fame69103719",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-11-18T00:55:32.449875",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
