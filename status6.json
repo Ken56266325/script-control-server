@@ -5571,7 +5571,8 @@
                 "Nico6819320",
                 "Jeremia571922",
                 "JncfiiNBArlGpq",
-                "natenaink2Edh8qw"
+                "natenaink2Edh8qw",
+                "kandraWyPXQEGr"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-09-02T15:42:49.494704",
@@ -27155,6 +27156,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-11-17T21:34:21.661142",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "kandraWyPXQEGr",
+            "android_id": "6396d8305681780324cd15643e3f955d",
+            "referred_by": "Fame69103719",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-11-17T23:18:55.506584",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
