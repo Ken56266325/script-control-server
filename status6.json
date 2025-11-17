@@ -2243,7 +2243,8 @@
                 "Antoine25mMiTqX",
                 "dovicNukCU0eR",
                 "CaroliaFzbNJSKX",
-                "FyKRTBRYrb"
+                "FyKRTBRYrb",
+                "BlackmEYXp8b6"
             ],
             "status": "active",
             "countdown_start_time": "2025-11-23T16:07:42.392110",
@@ -27198,6 +27199,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-11-18T00:55:32.449875",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "BlackmEYXp8b6",
+            "android_id": "3ca8e46747f5b4ff2b69091207048f2c",
+            "referred_by": "Donatien58193",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-11-18T02:51:00.762527",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
