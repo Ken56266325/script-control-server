@@ -1971,7 +1971,8 @@
                 "FibitoElmBWXZjm1",
                 "HoliniainaMzbHLjbY",
                 "YoungSFVsh3wb6n",
-                "FinackoRATyQ03bXvl"
+                "FinackoRATyQ03bXvl",
+                "SmarfajXnlDE8X"
             ],
             "status": "active",
             "countdown_start_time": "2025-11-18T08:06:17.742796",
@@ -27176,6 +27177,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-11-18T00:05:51.410308",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "SmarfajXnlDE8X",
+            "android_id": "fea433f23d1368c3caa2514e86411960",
+            "referred_by": "Grav69130",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-11-18T00:42:52.015299",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
