@@ -27223,6 +27223,15 @@
             "countdown_start_time": "2025-11-18T03:29:55.402518",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Nicolas792939392",
+            "android_id": "5bf5bf8f8fbbf71480db8e2b6462ea56",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-11-24T19:38:53.187625",
+            "affiliation_balance": 0
         }
     ],
     "references": {
