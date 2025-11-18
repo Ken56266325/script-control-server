@@ -3362,7 +3362,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-11-26T22:17:27.380841",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -3624,9 +3624,9 @@
                 "MikaKUO6Zy70",
                 "Sitrakav0KKhKke"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-11-18T20:37:43.828178",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-11-25T21:36:24.563827",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
