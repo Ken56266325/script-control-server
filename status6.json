@@ -27308,6 +27308,16 @@
             "countdown_start_time": "2025-11-19T14:58:53.474312",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "TantelyOInPZG3X",
+            "android_id": "aa24ef47d010a52cd233144421d12c12",
+            "referred_by": "aa24ef47d010a52cd233144421d12c12",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-11-19T17:07:04.117136",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
