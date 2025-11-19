@@ -3036,7 +3036,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-10-04T16:30:39.879684",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -4857,9 +4857,9 @@
                 "FEHIZOROJESSYUfziEtXW",
                 "YAMAL1sFuvqfr"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-11-19T16:32:08.411257",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-11-26T17:45:52.653985",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
