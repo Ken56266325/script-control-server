@@ -3365,7 +3365,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-11-26T22:17:27.380841",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -5265,7 +5265,7 @@
             "referred_by": "Nantenaina90183",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-11-21T19:03:03.564718",
+            "countdown_start_time": "2025-11-28T19:03:03.564718",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
