@@ -25429,7 +25429,8 @@
             "status": "active",
             "countdown_start_time": "2025-11-20T18:44:51.154103",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "countdown_paused": true
         },
         {
             "id": "Sedmmb62xh3",
