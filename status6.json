@@ -4859,7 +4859,8 @@
                 "FEHIZOROJESSYUfziEtXW",
                 "YAMAL1sFuvqfr",
                 "KISOAGASYv59Vk5CN",
-                "BELOLO117fEwZQhDe"
+                "BELOLO117fEwZQhDe",
+                "NOMENAJESSpFtWEToY"
             ],
             "status": "active",
             "countdown_start_time": "2025-11-26T17:45:52.653985",
@@ -27393,6 +27394,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-11-20T19:46:09.921462",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "NOMENAJESSpFtWEToY",
+            "android_id": "1a844c34cf6d60e3ddeca0e647d22555",
+            "referred_by": "Cetone479580",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-11-20T23:10:57.576999",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
