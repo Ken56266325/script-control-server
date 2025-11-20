@@ -938,7 +938,8 @@
                 "Julien57182o1",
                 "Fan58199320",
                 "Fano68MHTB9t",
-                "562663261106RqySWzNS"
+                "562663261106RqySWzNS",
+                "FanoyZkGbYyS"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-07-21T21:12:38.177317",
@@ -27370,6 +27371,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-11-20T19:06:59.111180",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "FanoyZkGbYyS",
+            "android_id": "ae07ade93c3958a11492b61bb4519af4",
+            "referred_by": "Herininakely5830",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-11-20T19:29:48.038283",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
