@@ -1976,7 +1976,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-11-25T08:36:59.989651",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -2224,8 +2224,8 @@
                 "rovasoafyFhhE9k"
             ],
             "status": "active",
-            "countdown_start_time": "2025-11-20T06:51:17.229217",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-11-27T06:59:13.358735",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
