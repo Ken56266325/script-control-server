@@ -27416,6 +27416,16 @@
             "countdown_start_time": "2025-11-21T02:28:32.181427",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "RogerErnestUrEdCKiQ",
+            "android_id": "d9a35ab415143e41249139856bc1cd26",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-11-21T03:51:06.860850",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
