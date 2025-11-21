@@ -121,7 +121,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-06-29T19:21:28.610099",
-            "affiliation_balance": 7000,
+            "affiliation_balance": 0,
             "android_id": "9093ba10d8d1d052127427c4338e55e9",
             "countdown_paused": false,
             "plan": "Basique"
@@ -16336,8 +16336,8 @@
                 "JuleborarLtgBiqF",
                 "StellaFjVtao0O"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-11-21T17:01:49.984699",
+            "status": "active",
+            "countdown_start_time": "2025-11-28T18:01:33.735181",
             "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
