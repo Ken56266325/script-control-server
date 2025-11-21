@@ -23607,7 +23607,8 @@
             "android_id": "17e6567cff85ea8e09212c0ad31b3916",
             "referred_by": null,
             "referred_to": [
-                "Julios6yAgcUU"
+                "Julios6yAgcUU",
+                "BoandaKlhTvETN"
             ],
             "status": "active",
             "countdown_start_time": "2025-11-23T09:12:21.139526",
@@ -27554,6 +27555,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-11-22T03:03:50.450327",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "BoandaKlhTvETN",
+            "android_id": "647196b54d16514fb2c2917be6f23578",
+            "referred_by": "HantaXIMg7rD8",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-11-22T03:14:13.456755",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
