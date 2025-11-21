@@ -2253,7 +2253,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-11-23T16:07:42.392110",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -25804,7 +25804,7 @@
             "referred_by": "Donatien58193",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-11-21T16:32:17.872732",
+            "countdown_start_time": "2025-11-28T16:32:17.872732",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
@@ -27229,7 +27229,7 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-11-25T02:51:00.762527",
-            "affiliation_balance": 7000,
+            "affiliation_balance": 0,
             "plan": "Basique"
         },
         {
