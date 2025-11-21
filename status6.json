@@ -9016,7 +9016,8 @@
                 "SedinahBFl7CG3J",
                 "YveslsVRUoz5",
                 "TantelyrBeYCYFA",
-                "Nirina4VMrW1jQ"
+                "Nirina4VMrW1jQ",
+                "JoelsonnO94fab6"
             ],
             "status": "active",
             "countdown_start_time": "2025-11-22T16:04:17.543213",
@@ -27511,6 +27512,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-11-21T22:11:39.113680",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "JoelsonnO94fab6",
+            "android_id": "4f83747ff878fa148fbda5a6229ea495",
+            "referred_by": "Tolotra68199320",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-11-22T02:04:25.639758",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
