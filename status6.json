@@ -3405,7 +3405,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-11-20T18:33:56.209851",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -7167,7 +7167,7 @@
                 "Kellym9Mcytfv"
             ],
             "status": "active",
-            "countdown_start_time": "2025-11-21T18:26:58.368924",
+            "countdown_start_time": "2025-11-28T18:26:58.368924",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
