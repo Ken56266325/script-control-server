@@ -23800,7 +23800,8 @@
             "referred_by": "Fasou6799302",
             "referred_to": [
                 "Mirettia2QLrSe5r",
-                "Andriatsirefesy2CvYWldf"
+                "Andriatsirefesy2CvYWldf",
+                "AndrianoBoSE4Me"
             ],
             "status": "active",
             "countdown_start_time": "2025-11-26T12:49:13.834607",
@@ -27500,6 +27501,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-11-21T21:29:00.172071",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "AndrianoBoSE4Me",
+            "android_id": "854294469ccae73c05d2a54ce4f157fa",
+            "referred_by": "Mbolatiana8j77YybI",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-11-21T22:11:39.113680",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
