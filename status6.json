@@ -26246,7 +26246,8 @@
             "android_id": "6408acf95de0592b594e243a91e72939",
             "referred_by": null,
             "referred_to": [
-                "JeremyUn7ULRdf"
+                "JeremyUn7ULRdf",
+                "WeikerBRoryo1u"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-11-18T10:51:56.711383",
@@ -27706,6 +27707,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-11-23T00:58:23.488526",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "WeikerBRoryo1u",
+            "android_id": "c366db656aeccb73f30d29e1801a09dd",
+            "referred_by": "DelrKoVEi5K",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-11-23T01:35:58.133190",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
