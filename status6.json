@@ -1981,7 +1981,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-11-25T08:36:59.989651",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -2136,9 +2136,9 @@
                 "MorganeR1nOZKU",
                 "RANOFRAbkYTYgSb"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-11-20T13:44:42.247937",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-11-29T09:42:07.860360",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
