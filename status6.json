@@ -19322,9 +19322,9 @@
             "android_id": "5b021735510456d6d08ff44214092d86",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2025-08-26T18:41:36.915978",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-11-29T17:12:27.436244",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
