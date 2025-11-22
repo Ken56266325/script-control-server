@@ -310,7 +310,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-11-24T18:09:53.572876",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "android_id": "4d9dc3bc70c447b5b3941cb506931996",
             "countdown_paused": false,
             "plan": "Basique"
@@ -430,8 +430,8 @@
                 "Thonny Fr\u00e9d\u00e9ricvlxwVzWk",
                 "Lantonirina3XdxdqOJ"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-10-26T21:30:46.378254",
+            "status": "active",
+            "countdown_start_time": "2025-11-29T11:25:28.493221",
             "affiliation_balance": 1000,
             "android_id": "583e973065e6ac1cfbda38afc9bb6e62",
             "plan": "Basique",
