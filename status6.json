@@ -1978,7 +1978,8 @@
                 "HoliniainaMzbHLjbY",
                 "YoungSFVsh3wb6n",
                 "FinackoRATyQ03bXvl",
-                "SmarfajXnlDE8X"
+                "SmarfajXnlDE8X",
+                "TakaloPG5ljSRk"
             ],
             "status": "active",
             "countdown_start_time": "2025-11-25T08:36:59.989651",
@@ -27683,6 +27684,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-11-22T20:28:12.305038",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "TakaloPG5ljSRk",
+            "android_id": "7b1667043d0822da5ab7ab51c76ab101",
+            "referred_by": "Grav69130",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-11-22T21:14:43.579249",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
