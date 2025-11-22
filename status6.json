@@ -23974,7 +23974,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-10-25T17:41:31.518577",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -27036,8 +27036,8 @@
             "android_id": "1625595ed97f660d1110fedd5b04e091",
             "referred_by": "RoselineRXFi1WJU",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2025-11-16T01:38:26.992815",
+            "status": "active",
+            "countdown_start_time": "2025-11-29T19:30:37.302750",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
