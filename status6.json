@@ -24590,7 +24590,8 @@
             "referred_by": "Nantenaina90183",
             "referred_to": [
                 "SafidyjJuiP8H0",
-                "NandrianinaZPHm0f8k"
+                "NandrianinaZPHm0f8k",
+                "NandrytKbWLgvl"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-11-13T09:25:16.109875",
@@ -27631,6 +27632,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-11-22T18:39:38.092469",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "NandrytKbWLgvl",
+            "android_id": "e9cd97af483abfe4f1ba7af42cd52028",
+            "referred_by": "TsiorySOWvTTfx",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-11-22T19:20:15.250376",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
