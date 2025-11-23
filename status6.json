@@ -2334,7 +2334,8 @@
                 "Nofa\ud83e\udd2a\ud83e\udd23NEDy9iHm",
                 "Rova\ud83e\udd74fQm1yB9T",
                 "TantelygUEyitQK",
-                "Nofainaw4eDqJmu"
+                "Nofainaw4eDqJmu",
+                "OppooFqTGc9dB"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-10-27T17:13:04.723944",
@@ -27812,6 +27813,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-11-24T01:14:07.615761",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "OppooFqTGc9dB",
+            "android_id": "ec6858ac05e6a9d13e654f68812c1225",
+            "referred_by": "RanofaAuto",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-11-24T01:43:44.758143",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
