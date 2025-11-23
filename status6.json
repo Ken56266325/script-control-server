@@ -20615,7 +20615,8 @@
                 "NaliabdallahFTfj2vHQ",
                 "Josoanoahm59ZL4rd",
                 "RakotonirinavalyxHFcjEug",
-                "XavierIscardi6q8cQzT0"
+                "XavierIscardi6q8cQzT0",
+                "Herinantenainafran\u00e7oisMP4pGRVI"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-11-21T15:55:25.789809",
@@ -27770,6 +27771,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-11-23T17:44:59.651781",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Herinantenainafran\u00e7oisMP4pGRVI",
+            "android_id": "7db35486ed73b1d559c5fca7ca21b712",
+            "referred_by": "MaximeespinolahcDIlFqR8",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-11-23T18:35:07.479974",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
