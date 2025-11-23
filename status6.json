@@ -16342,7 +16342,8 @@
                 "NjaraTkswbUHo",
                 "FlauricVVw41ku1",
                 "JuleborarLtgBiqF",
-                "StellaFjVtao0O"
+                "StellaFjVtao0O",
+                "Njara8919392"
             ],
             "status": "active",
             "countdown_start_time": "2025-11-28T18:01:33.735181",
@@ -27825,6 +27826,15 @@
             "countdown_start_time": "2025-12-01T01:43:44.758143",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Njara8919392",
+            "android_id": "6bff211937c246caae998c932dfcc275",
+            "referred_by": "anjara236373",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-11-30T18:52:34.879742",
+            "affiliation_balance": 0
         }
     ],
     "references": {
