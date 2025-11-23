@@ -16718,7 +16718,8 @@
             "referred_by": "Patty2751932",
             "referred_to": [
                 "faralahy6oXN0ZGd",
-                "MyhdJOg15A2"
+                "MyhdJOg15A2",
+                "MiaryfvdvGN6k"
             ],
             "status": "active",
             "countdown_start_time": "2025-11-25T12:05:18.585732",
@@ -27781,6 +27782,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-11-23T18:35:07.479974",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "MiaryfvdvGN6k",
+            "android_id": "b7d9cfde62902536b04675ffd43b3816",
+            "referred_by": "zandrikelitVlTHGXMS",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-11-23T19:01:44.138874",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
