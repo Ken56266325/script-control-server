@@ -25370,7 +25370,8 @@
                 "YagamiIrLbKyjl",
                 "BainaRKib3VVQ",
                 "saradabzuVNwlZ",
-                "FeliciaRw7Czfeb"
+                "FeliciaRw7Czfeb",
+                "NarutoEhIDnTQu"
             ],
             "status": "active",
             "countdown_start_time": "2025-11-28T09:31:29.766321",
@@ -27867,6 +27868,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-11-24T06:22:29.188010",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "NarutoEhIDnTQu",
+            "android_id": "a270cb228335eacdea589df543a75e38",
+            "referred_by": "SquidPjkazdNC",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-11-24T06:49:52.085627",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
