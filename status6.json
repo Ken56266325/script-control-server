@@ -20614,7 +20614,8 @@
                 "MiorahasminahMhu4et8w",
                 "NaliabdallahFTfj2vHQ",
                 "Josoanoahm59ZL4rd",
-                "RakotonirinavalyxHFcjEug"
+                "RakotonirinavalyxHFcjEug",
+                "XavierIscardi6q8cQzT0"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-11-21T15:55:25.789809",
@@ -27759,6 +27760,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-11-24T17:39:00.128103",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "XavierIscardi6q8cQzT0",
+            "android_id": "31249735",
+            "referred_by": "MaximeespinolahcDIlFqR8",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-11-23T17:44:59.651781",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
