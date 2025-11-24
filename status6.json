@@ -19399,7 +19399,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-09-04T16:24:26.242614",
-            "affiliation_balance": 11000,
+            "affiliation_balance": 12000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -20622,8 +20622,8 @@
                 "XavierIscardi6q8cQzT0",
                 "Herinantenainafran\u00e7oisMP4pGRVI"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-11-21T15:55:25.789809",
+            "status": "active",
+            "countdown_start_time": "2025-12-01T08:27:56.848721",
             "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
