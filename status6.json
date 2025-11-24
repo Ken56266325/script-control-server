@@ -7471,7 +7471,7 @@
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2025-08-19T21:28:15.447445",
-            "affiliation_balance": 7000,
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -9646,8 +9646,8 @@
             "android_id": "92eb18367351857d9283e961aabac083",
             "referred_by": "RanofAuto",
             "referred_to": [],
-            "status": "active",
-            "countdown_start_time": "2025-12-01T18:46:35.162097",
+            "status": "inactive",
+            "countdown_start_time": "2025-11-24T08:33:57.819258",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
@@ -26473,7 +26473,7 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-11-28T09:42:23.230481",
+            "countdown_start_time": "2025-11-30T11:23:50.291917",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
