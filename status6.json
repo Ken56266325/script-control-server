@@ -4872,7 +4872,8 @@
                 "KISOAGASYv59Vk5CN",
                 "BELOLO117fEwZQhDe",
                 "NOMENAJESSpFtWEToY",
-                "TIARYcfKAUjwF"
+                "TIARYcfKAUjwF",
+                "TSIAROk72weosy"
             ],
             "status": "active",
             "countdown_start_time": "2025-11-26T17:45:52.653985",
@@ -27977,6 +27978,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-11-25T22:21:12.226698",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "TSIAROk72weosy",
+            "android_id": "b8f5947ecf45696a8cf87c55ee0396c6",
+            "referred_by": "Cetone479580",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-11-25T22:26:35.555904",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
