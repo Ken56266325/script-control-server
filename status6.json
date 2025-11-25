@@ -28033,6 +28033,16 @@
             "countdown_start_time": "2025-11-26T04:23:13.290928",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Frede2c6VxAqpUmP",
+            "android_id": "94050b03609100c19f03feb42edbf381",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-11-26T05:46:44.585072",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
