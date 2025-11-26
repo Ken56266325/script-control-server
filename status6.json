@@ -23824,7 +23824,8 @@
             "referred_to": [
                 "Mirettia2QLrSe5r",
                 "Andriatsirefesy2CvYWldf",
-                "AndrianoBoSE4Me"
+                "AndrianoBoSE4Me",
+                "MahabiraVkRmpWzG"
             ],
             "status": "active",
             "countdown_start_time": "2025-11-26T12:49:13.834607",
@@ -28041,6 +28042,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-12-03T05:46:44.585072",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "MahabiraVkRmpWzG",
+            "android_id": "f1450f6388a5ea2a13d9335bc5010631",
+            "referred_by": "Mbolatiana8j77YybI",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-11-26T15:52:20.228964",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
