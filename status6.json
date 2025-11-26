@@ -2765,7 +2765,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-11-27T20:55:49.077959",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -3375,8 +3375,8 @@
                 "MaguyyBpYWbOx"
             ],
             "status": "active",
-            "countdown_start_time": "2025-11-26T22:17:27.380841",
-            "affiliation_balance": 9000,
+            "countdown_start_time": "2025-12-03T22:26:31.088807",
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
