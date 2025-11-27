@@ -91,7 +91,7 @@
                 "Nantenaina6810301",
                 "Faneva178302"
             ],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-11-27T13:05:01.715102",
             "affiliation_balance": 1000,
             "android_id": "69d1cd8860c9981fe73891d313c8088d",
@@ -25656,7 +25656,7 @@
             "android_id": "40925a438d23bfd9a036fb070dedc3c1",
             "referred_by": null,
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-11-27T12:33:34.361687",
             "affiliation_balance": 0,
             "plan": "Basique"
@@ -26332,7 +26332,7 @@
             "referred_to": [
                 "siscoxx22i0xx73fOqpiD"
             ],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-11-27T13:18:29.380427",
             "affiliation_balance": 0,
             "plan": "Basique"
