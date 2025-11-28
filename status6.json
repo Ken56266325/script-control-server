@@ -26273,7 +26273,8 @@
             "referred_to": [
                 "JeremyUn7ULRdf",
                 "WeikerBRoryo1u",
-                "Vip1ZshWPfo3"
+                "Vip1ZshWPfo3",
+                "TaskQLZumr52"
             ],
             "status": "active",
             "countdown_start_time": "2025-11-30T14:37:35.459752",
@@ -28099,6 +28100,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-12-05T04:25:53.473423",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "TaskQLZumr52",
+            "android_id": "2b262b31a4bfd3813a8264deed131856",
+            "referred_by": "DelrKoVEi5K",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-11-28T23:18:04.533217",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
