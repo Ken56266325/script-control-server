@@ -28201,6 +28201,16 @@
             "countdown_start_time": "2025-11-29T21:11:26.867910",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "EslyPjYU2IT5",
+            "android_id": "77003ae363e06fe5ef11f198271c7a49",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-11-30T00:21:45.585677",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
