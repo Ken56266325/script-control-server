@@ -25403,7 +25403,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-12-05T09:31:29.766321",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 3000,
             "plan": "Basique"
         },
         {
@@ -27711,8 +27711,8 @@
             "android_id": "88bcc1527c6ca9ca15cc8805776a32a8",
             "referred_by": "SquidPjkazdNC",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2025-11-29T19:58:30.302524",
+            "status": "active",
+            "countdown_start_time": "2025-12-07T19:23:19.106562",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
