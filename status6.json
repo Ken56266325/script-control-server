@@ -28265,6 +28265,16 @@
             "countdown_start_time": "2025-12-01T00:33:34.129408",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "@DinoIz937Kjy",
+            "android_id": "1d0a7207cd1db391e0c012949e0a00b0",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-12-01T01:12:16.867502",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
