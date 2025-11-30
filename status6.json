@@ -24538,7 +24538,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-10-16T12:39:22.101754",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -24570,7 +24570,7 @@
             "referred_by": "ManahiraA8bhcX0M",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-12-03T16:32:00.860004",
+            "countdown_start_time": "2025-12-10T16:32:00.860004",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
