@@ -12973,7 +12973,8 @@
                 "NoutahinahFBkPAVpS",
                 "NouutahYJ5FRYmD",
                 "TahinaGh7xBNiZ",
-                "Haja6LaXxXlN"
+                "Haja6LaXxXlN",
+                "LeonardU64X1O0u"
             ],
             "status": "active",
             "countdown_start_time": "2025-12-04T17:32:25.792048",
@@ -28252,6 +28253,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-11-30T23:48:21.349267",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "LeonardU64X1O0u",
+            "android_id": "64e10d561d355e828d01fc12ce1e4c80",
+            "referred_by": "Noutahtahy6rRaqvU",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-12-01T00:33:34.129408",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
