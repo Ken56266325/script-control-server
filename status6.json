@@ -4045,7 +4045,8 @@
                 "BoyAMWWxab4",
                 "Brinot3YpusKbP",
                 "Airtel1bhv5CpkJ",
-                "AlliVDUBslj8"
+                "AlliVDUBslj8",
+                "CQuinotyRtw8K1Z"
             ],
             "status": "active",
             "countdown_start_time": "2025-12-13T20:08:30.599615",
@@ -28314,6 +28315,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-12-02T01:05:00.842061",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "CQuinotyRtw8K1Z",
+            "android_id": "8151dde372fe44d0a8a5b2952da9121e",
+            "referred_by": "Andii69103",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-12-02T03:20:11.332970",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
