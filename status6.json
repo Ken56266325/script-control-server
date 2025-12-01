@@ -26229,7 +26229,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-12-03T09:00:56.713165",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique"
         },
         {
@@ -27113,8 +27113,8 @@
             "referred_by": "JEANNE12s6MkUHf9",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-12-01T15:47:38.731032",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-12-08T15:47:38.731032",
+            "affiliation_balance": 0,
             "plan": "Basique"
         },
         {
