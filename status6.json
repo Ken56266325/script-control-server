@@ -28285,6 +28285,16 @@
             "countdown_start_time": "2025-12-01T14:16:29.107823",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "LemenasaDxQe8f",
+            "android_id": "5a29d45dc6e7075d59f9895c39bf0a10",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-12-01T16:51:48.759646",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
