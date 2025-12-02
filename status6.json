@@ -23830,7 +23830,8 @@
                 "Mirettia2QLrSe5r",
                 "Andriatsirefesy2CvYWldf",
                 "AndrianoBoSE4Me",
-                "MahabiraVkRmpWzG"
+                "MahabiraVkRmpWzG",
+                "NantegnaymFLc9es0"
             ],
             "status": "active",
             "countdown_start_time": "2025-12-05T08:56:08.075689",
@@ -28346,6 +28347,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-12-02T13:00:32.898079",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "NantegnaymFLc9es0",
+            "android_id": "d5e14dc592fee14b51d9b2434e19e33f",
+            "referred_by": "Mbolatiana8j77YybI",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-12-02T17:32:09.151889",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
