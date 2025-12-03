@@ -3379,7 +3379,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-12-10T23:20:55.052489",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -3642,8 +3642,8 @@
                 "Sitrakav0KKhKke",
                 "TolotraIzoyx9LP"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-12-02T21:46:33.518465",
+            "status": "active",
+            "countdown_start_time": "2025-12-10T13:41:02.752540",
             "affiliation_balance": 8000,
             "plan": "Basique",
             "countdown_paused": false
