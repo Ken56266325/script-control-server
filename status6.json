@@ -24503,7 +24503,8 @@
             "android_id": "37a7f020a87fc3f08f0d1833d7aa8059",
             "referred_by": "Amadou681036190",
             "referred_to": [
-                "Mnj7929329"
+                "Mnj7929329",
+                "Jun819392912"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-10-23T13:18:23.459802",
@@ -28466,6 +28467,15 @@
             "countdown_start_time": "2025-12-03T19:47:08.395177",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Jun819392912",
+            "android_id": "0661e5d04f9efb64cfe3afce483d0e9d",
+            "referred_by": "JunnosMnjwtZgQp2e",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-12-10T12:20:55.356490",
+            "affiliation_balance": 0
         }
     ],
     "references": {
