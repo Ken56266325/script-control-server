@@ -3050,7 +3050,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-10-04T16:30:39.879684",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -4885,8 +4885,8 @@
                 "FANEVAw40iwvcT"
             ],
             "status": "active",
-            "countdown_start_time": "2025-12-03T20:26:05.873036",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2025-12-10T20:53:38.049960",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
