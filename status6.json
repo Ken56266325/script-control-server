@@ -13234,7 +13234,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-10-29T17:45:04.497490",
-            "affiliation_balance": 10000,
+            "affiliation_balance": 11000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -15407,8 +15407,8 @@
                 "DodoantenainaZAfRUHVO",
                 "Pasy6PUaDJCM"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-11-30T15:37:02.167668",
+            "status": "active",
+            "countdown_start_time": "2025-12-10T12:13:17.444521",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
