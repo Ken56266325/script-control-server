@@ -28445,6 +28445,15 @@
             "countdown_start_time": "2025-12-10T07:15:08.037202",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Calvin7199292",
+            "android_id": "685696e96f7783199a3545a28e044096",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-12-10T11:26:56.518286",
+            "affiliation_balance": 0
         }
     ],
     "references": {
