@@ -16349,7 +16349,8 @@
                 "JuleborarLtgBiqF",
                 "StellaFjVtao0O",
                 "Njara8919392",
-                "LouisrJPraAcR"
+                "LouisrJPraAcR",
+                "MarcoSWQOYAX6"
             ],
             "status": "active",
             "countdown_start_time": "2025-12-05T18:47:59.292160",
@@ -28549,6 +28550,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-12-05T17:55:20.993052",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "MarcoSWQOYAX6",
+            "android_id": "a1b2b137ff4b3282bcc832a79249cfde",
+            "referred_by": "anjara236373",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-12-06T00:06:15.487528",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
