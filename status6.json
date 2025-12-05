@@ -20283,7 +20283,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-12-01T14:18:54.099184",
-            "affiliation_balance": 6000,
+            "affiliation_balance": 7000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -23959,8 +23959,8 @@
             "referred_to": [
                 "koloinaY0CdqC33"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-12-05T12:49:01.064020",
+            "status": "active",
+            "countdown_start_time": "2025-12-12T14:23:09.457386",
             "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
