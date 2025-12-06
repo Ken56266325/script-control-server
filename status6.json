@@ -1510,7 +1510,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-10-13T12:14:17.502846",
-            "affiliation_balance": 5000,
+            "affiliation_balance": 6000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -3599,8 +3599,8 @@
                 "LudcOjdF9uX",
                 "tongasoaFJsarrlO"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-10-13T20:20:18.743312",
+            "status": "active",
+            "countdown_start_time": "2025-12-13T18:16:05.466443",
             "affiliation_balance": 4000,
             "plan": "Basique",
             "countdown_paused": false
