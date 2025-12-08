@@ -24639,7 +24639,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-11-13T09:25:16.109875",
-            "affiliation_balance": 3000,
+            "affiliation_balance": 4000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -27910,9 +27910,9 @@
             "android_id": "eb44e20b9874261657b03c5754702e24",
             "referred_by": "TsiorySOWvTTfx",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2025-12-02T13:14:16.984075",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2025-12-15T12:51:09.574614",
+            "affiliation_balance": 0,
             "plan": "Basique"
         },
         {
