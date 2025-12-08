@@ -24635,7 +24635,8 @@
                 "NandrianinaZPHm0f8k",
                 "NandrytKbWLgvl",
                 "NdriaxNTocvRy",
-                "LyNdriaWksJYdbo"
+                "LyNdriaWksJYdbo",
+                "Nirina8oN1cHwN"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-11-13T09:25:16.109875",
@@ -28736,6 +28737,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-12-09T00:42:31.109625",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Nirina8oN1cHwN",
+            "android_id": "a771a4f6c622beb789e3f9335c3673be",
+            "referred_by": "TsiorySOWvTTfx",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-12-09T03:08:45.082948",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
