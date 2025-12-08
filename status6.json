@@ -20634,7 +20634,8 @@
                 "RakotonirinavalyxHFcjEug",
                 "XavierIscardi6q8cQzT0",
                 "Herinantenainafran\u00e7oisMP4pGRVI",
-                "SolofonianarbTLCkyC"
+                "SolofonianarbTLCkyC",
+                "ManampisoaQlo9wExV"
             ],
             "status": "active",
             "countdown_start_time": "2025-12-08T08:31:30.549500",
@@ -28671,6 +28672,16 @@
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2025-12-08T01:32:52.364416",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "ManampisoaQlo9wExV",
+            "android_id": "4b14a89724e51c614f5642fb61c8231c",
+            "referred_by": "MaximeespinolahcDIlFqR8",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-12-08T14:25:06.462724",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
