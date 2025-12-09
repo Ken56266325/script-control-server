@@ -25653,7 +25653,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-10-30T21:22:28.698030",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -26992,8 +26992,8 @@
             "android_id": "33645062",
             "referred_by": "Vezoocarbonele80J3yES",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2025-11-14T16:52:33.761944",
+            "status": "active",
+            "countdown_start_time": "2025-12-16T13:00:19.756304",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
