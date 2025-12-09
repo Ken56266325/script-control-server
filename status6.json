@@ -27624,7 +27624,7 @@
             "android_id": "4f83747ff878fa148fbda5a6229ea495",
             "referred_by": null,
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-12-09T10:07:50.544222",
             "affiliation_balance": 0,
             "plan": "Basique"
@@ -28316,7 +28316,7 @@
             "android_id": "bf6782f24a63f1181309d46e1ea47d23",
             "referred_by": "SquidPjkazdNC",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-12-09T10:45:15.578723",
             "affiliation_balance": 0,
             "plan": "Basique"
