@@ -26372,7 +26372,8 @@
                 "PheunStYka487v3H",
                 "jeanrollin5QzX2JLD",
                 "sayah2cLxtpbHTj",
-                "NellosJ12PdscRSsB"
+                "NellosJ12PdscRSsB",
+                "arnaudf12hhzZU8jR"
             ],
             "status": "active",
             "countdown_start_time": "2025-12-12T07:56:08.260968",
@@ -28780,6 +28781,16 @@
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2025-12-09T15:00:18.713121",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "arnaudf12hhzZU8jR",
+            "android_id": "1ec8ad1e0a74cf7fc1cd51a1b2562597",
+            "referred_by": "StanislasiTNu1ZMe",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-12-10T04:12:10.855810",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
