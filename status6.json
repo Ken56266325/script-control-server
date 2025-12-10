@@ -19152,7 +19152,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-09-02T09:16:56.765523",
-            "affiliation_balance": 13000,
+            "affiliation_balance": 14000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -21469,8 +21469,8 @@
                 "DylanEVEIj7Ee",
                 "Heritinatsilavinan9S1JX97"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-12-10T10:47:16.405050",
+            "status": "active",
+            "countdown_start_time": "2025-12-17T18:25:17.360147",
             "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
