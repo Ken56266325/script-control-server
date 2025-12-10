@@ -2771,7 +2771,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-12-09T19:44:24.326079",
-            "affiliation_balance": 4000,
+            "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -3381,8 +3381,8 @@
                 "MaguyyBpYWbOx"
             ],
             "status": "active",
-            "countdown_start_time": "2025-12-18T11:04:35.873232",
-            "affiliation_balance": 0,
+            "countdown_start_time": "2025-12-11T11:04:35.873232",
+            "affiliation_balance": 7000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -26195,7 +26195,7 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-12-17T20:23:14.266249",
+            "countdown_start_time": "2025-12-16T22:23:24.816948",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
