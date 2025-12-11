@@ -28914,6 +28914,16 @@
             "countdown_start_time": "2025-12-12T02:23:45.390299",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "EggoThunderyLH4CR73",
+            "android_id": "93abab710270b832528bebc00c4e604e",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-12-12T04:08:17.067548",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
