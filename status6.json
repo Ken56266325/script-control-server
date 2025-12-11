@@ -9663,7 +9663,7 @@
             "android_id": "92eb18367351857d9283e961aabac083",
             "referred_by": "RanofAuto",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-12-12T00:32:22.884573",
             "affiliation_balance": 0,
             "plan": "Basique",
@@ -28890,7 +28890,7 @@
             "android_id": "1d93fcd982403600426e77798cc5b305",
             "referred_by": "BeatriceBv2EpUN5",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-12-12T00:05:59.816540",
             "affiliation_balance": 0,
             "plan": "Basique"
