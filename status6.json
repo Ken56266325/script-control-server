@@ -24516,7 +24516,8 @@
                 "Mnj7929329",
                 "Jun819392912",
                 "Mnj7919399191",
-                "NjVZjMLJFH"
+                "NjVZjMLJFH",
+                "Mist69929392"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-12-12T07:37:41.261353",
@@ -28944,6 +28945,15 @@
             "countdown_start_time": "2025-12-12T18:00:43.212942",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Mist69929392",
+            "android_id": "e42bca909ce817f3d3b5b6bcda94b15a",
+            "referred_by": "JunnosMnjwtZgQp2e",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-12-19T11:49:14.365345",
+            "affiliation_balance": 0
         }
     ],
     "references": {
