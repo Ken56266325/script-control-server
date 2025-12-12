@@ -13813,7 +13813,8 @@
                 "CAu6vkk6Ve",
                 "JlgORy8HhA",
                 "ZBLACKSBHjeDau",
-                "NicoyT6AhXq2"
+                "NicoyT6AhXq2",
+                "CPgunXY2kn"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-12-10T17:44:37.179912",
@@ -28963,6 +28964,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-12-12T19:52:51.412409",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "CPgunXY2kn",
+            "android_id": "35103fd2f56ef6be244a4fdaf8f17498",
+            "referred_by": "MahefatinahajarivoaeJNpfdN",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-12-12T19:53:20.491374",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
