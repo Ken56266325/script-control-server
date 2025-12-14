@@ -27277,7 +27277,8 @@
             "referred_to": [
                 "BriPA9HLsfx",
                 "Not7199229",
-                "JertooMn1tMab"
+                "JertooMn1tMab",
+                "Antoniot8fAQrXY8"
             ],
             "status": "active",
             "countdown_start_time": "2025-12-16T20:17:41.128279",
@@ -29080,6 +29081,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-12-15T01:04:58.234603",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Antoniot8fAQrXY8",
+            "android_id": "2acf97c7e2f0711438d142f5f5fea851",
+            "referred_by": "Brinot3YpusKbP",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-12-15T01:38:31.241856",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
