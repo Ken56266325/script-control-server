@@ -4059,7 +4059,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-12-21T20:59:22.103012",
-            "affiliation_balance": 4000,
+            "affiliation_balance": 5000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -27286,8 +27286,8 @@
                 "JertooMn1tMab",
                 "Antoniot8fAQrXY8"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-12-16T20:17:41.128279",
+            "status": "active",
+            "countdown_start_time": "2025-12-24T18:12:41.248137",
             "affiliation_balance": 2000,
             "plan": "Basique"
         },
