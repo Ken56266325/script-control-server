@@ -26256,7 +26256,8 @@
                 "MARCOT0QFJ9P3k",
                 "MICHOUSSaHsnxg",
                 "VICKYGRPLoshR",
-                "MARIANOHLABELBcXYzWD6"
+                "MARIANOHLABELBcXYzWD6",
+                "MAYTUPJl2ZIr2U"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-12-10T09:42:06.430422",
@@ -29185,6 +29186,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-12-17T15:31:03.575812",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "MAYTUPJl2ZIr2U",
+            "android_id": "f1045222bb7449ef46d697e2b8e10035",
+            "referred_by": "JEANNE12s6MkUHf9",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-12-17T15:39:24.896459",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
