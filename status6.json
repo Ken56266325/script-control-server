@@ -9327,7 +9327,8 @@
                 "@abelamalalae4GG3j6Q",
                 "@santatramartESRcqAV",
                 "@serkane54WbbjRanu",
-                "botfaharoav4B3SgOw"
+                "botfaharoav4B3SgOw",
+                "ndelleUKDMjoGf"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-10-12T07:44:47.514861",
@@ -29174,6 +29175,16 @@
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2025-12-16T23:19:05.112856",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "ndelleUKDMjoGf",
+            "android_id": "a177614624e2973eb2dadbe8047e96e2",
+            "referred_by": "Claudin6189393",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-12-17T15:31:03.575812",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
