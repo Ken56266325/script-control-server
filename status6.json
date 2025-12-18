@@ -27290,7 +27290,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2025-12-24T18:12:41.248137",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 3000,
             "plan": "Basique"
         },
         {
@@ -28827,8 +28827,8 @@
             "android_id": "e72aa64093a4d0563d22caab06554303",
             "referred_by": "Brinot3YpusKbP",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2025-12-17T18:08:58.706991",
+            "status": "active",
+            "countdown_start_time": "2025-12-25T14:08:31.005876",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
