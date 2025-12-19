@@ -2773,7 +2773,8 @@
                 "JySERbNHke",
                 "faisou555vAu5o",
                 "VolamitaIwF5woJ1",
-                "NiRinaHZri7Qyc"
+                "NiRinaHZri7Qyc",
+                "AinafD92OXnc"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-12-11T18:24:43.561464",
@@ -29366,6 +29367,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-12-20T01:39:49.658062",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "AinafD92OXnc",
+            "android_id": "54c36845b77df67dac7976714b082e87",
+            "referred_by": "Fasou5819302",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-12-20T01:40:13.325526",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
