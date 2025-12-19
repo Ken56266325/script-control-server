@@ -26263,7 +26263,8 @@
                 "MARIANOHLABELBcXYzWD6",
                 "MAYTUPJl2ZIr2U",
                 "SANSITOSc22F4qsf",
-                "NARINDRAAjb2Cam7"
+                "NARINDRAAjb2Cam7",
+                "GYMNASpNOSjt0N"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-12-10T09:42:06.430422",
@@ -29387,6 +29388,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-12-20T04:15:59.030445",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "GYMNASpNOSjt0N",
+            "android_id": "29d8a6c18585cb26e2d3e9fa28100d02",
+            "referred_by": "JEANNE12s6MkUHf9",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-12-20T06:07:27.864886",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
