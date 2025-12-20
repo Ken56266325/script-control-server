@@ -29475,6 +29475,16 @@
             "countdown_start_time": "2025-12-21T01:07:28.945834",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "JohnXW5mmZDq",
+            "android_id": "5111b1627aa99d12bda696dbf935ad1b",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-12-21T01:26:49.850729",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
