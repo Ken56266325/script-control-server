@@ -26264,7 +26264,8 @@
                 "MAYTUPJl2ZIr2U",
                 "SANSITOSc22F4qsf",
                 "NARINDRAAjb2Cam7",
-                "GYMNASpNOSjt0N"
+                "GYMNASpNOSjt0N",
+                "TENDYVICTOReQ2fNIeA"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-12-10T09:42:06.430422",
@@ -29408,6 +29409,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-12-20T15:39:08.476819",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "TENDYVICTOReQ2fNIeA",
+            "android_id": "6d8875ad6e64d3e37275f33df91d9c9c",
+            "referred_by": "JEANNE12s6MkUHf9",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-12-20T15:48:25.238152",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
