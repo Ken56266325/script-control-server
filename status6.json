@@ -29518,6 +29518,16 @@
             "countdown_start_time": "2025-12-21T22:20:02.144551",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "stellanadixima4wmHuhUw",
+            "android_id": "a629b978c04c067160e2a30554f689d9",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-12-21T22:47:10.644730",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
