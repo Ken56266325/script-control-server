@@ -13823,7 +13823,8 @@
                 "CAu6vkk6Ve",
                 "JlgORy8HhA",
                 "ZBLACKSBHjeDau",
-                "NicoyT6AhXq2"
+                "NicoyT6AhXq2",
+                "RLlc6ZBOMK"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-12-10T17:44:37.179912",
@@ -29526,6 +29527,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-12-21T22:47:10.644730",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "RLlc6ZBOMK",
+            "android_id": "947cfe93ab84be3d06abae02577fa1c4",
+            "referred_by": "MahefatinahajarivoaeJNpfdN",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-12-21T22:55:53.604838",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
