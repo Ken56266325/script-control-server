@@ -23978,7 +23978,8 @@
             "referred_by": "jeannie23458",
             "referred_to": [
                 "koloinaY0CdqC33",
-                "KoloinaijRUDyb4"
+                "KoloinaijRUDyb4",
+                "Andry2PTidEsPa"
             ],
             "status": "active",
             "countdown_start_time": "2025-12-22T21:41:28.673822",
@@ -29494,6 +29495,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-12-21T18:35:40.926334",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Andry2PTidEsPa",
+            "android_id": "28784245e3dee23c6fd0150668f8aacd",
+            "referred_by": "TinamiBEc6zGQE",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-12-21T20:40:54.346020",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
