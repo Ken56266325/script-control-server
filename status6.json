@@ -2264,7 +2264,7 @@
                 "Malala8d94IfdC",
                 "Marella3ndTr203"
             ],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-12-22T07:07:07.975925",
             "affiliation_balance": 0,
             "plan": "Basique",
@@ -19352,7 +19352,7 @@
             "android_id": "5b021735510456d6d08ff44214092d86",
             "referred_by": null,
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-12-22T06:38:07.590015",
             "affiliation_balance": 0,
             "plan": "Basique",
@@ -27349,7 +27349,7 @@
             "android_id": "3ca8e46747f5b4ff2b69091207048f2c",
             "referred_by": "Donatien58193",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-12-22T07:07:30.128246",
             "affiliation_balance": 0,
             "plan": "Basique"
