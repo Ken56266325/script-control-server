@@ -2237,7 +2237,7 @@
                 "rouRJu1waSw",
                 "amira3nbExdQd"
             ],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-12-23T02:33:20.379208",
             "affiliation_balance": 0,
             "plan": "Basique",
@@ -29555,7 +29555,7 @@
             "android_id": "c88e7605e0b417cdb5c1c60d324a5913",
             "referred_by": null,
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-12-23T03:00:21.492739",
             "affiliation_balance": 0,
             "plan": "Basique"
