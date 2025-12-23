@@ -29569,6 +29569,16 @@
             "countdown_start_time": "2025-12-23T15:05:48.390288",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "fitialAtgMdbH",
+            "android_id": "97ea746e073c8c90f90b2cd41e22c558",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-12-23T18:36:55.935860",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
