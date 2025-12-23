@@ -11624,7 +11624,7 @@
             "referred_to": [
                 "SphanjrVgJFpGaI"
             ],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-12-23T19:00:21.296855",
             "affiliation_balance": 0,
             "plan": "Basique",
@@ -29587,7 +29587,7 @@
             "android_id": "459cd5c5c7c08507f04b840e52e35339",
             "referred_by": null,
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-12-23T18:54:50.201932",
             "affiliation_balance": 0,
             "plan": "Basique"
