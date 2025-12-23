@@ -24547,7 +24547,7 @@
             "referred_to": [
                 "sergioigorOnpbL6TQ"
             ],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-12-23T22:29:35.548882",
             "affiliation_balance": 0,
             "plan": "Basique",
@@ -29607,7 +29607,7 @@
             "android_id": "e0caae6d717d869b83c4b8242acd2996",
             "referred_by": null,
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-12-23T21:51:49.746685",
             "affiliation_balance": 0,
             "plan": "Basique"
