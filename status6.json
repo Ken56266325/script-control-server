@@ -29627,7 +29627,7 @@
             "android_id": "a570c45abb9a8ebd19b827d62c3df604",
             "referred_by": "TantelyOInPZG3X",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-12-24T02:02:24.721971",
             "affiliation_balance": 0,
             "plan": "Basique"
@@ -29637,7 +29637,7 @@
             "android_id": "739927de7c941f8e43725507a3e2bc68",
             "referred_by": null,
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-12-24T02:08:49.898524",
             "affiliation_balance": 0,
             "plan": "Basique"
