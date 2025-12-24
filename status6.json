@@ -29674,6 +29674,15 @@
             "countdown_start_time": "2025-12-24T21:43:06.383709",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Judi7819399202",
+            "android_id": "6c865a2be12d434ff73283be67b59449",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-12-31T18:02:43.292926",
+            "affiliation_balance": 0
         }
     ],
     "references": {
