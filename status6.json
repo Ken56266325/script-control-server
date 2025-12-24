@@ -24895,7 +24895,7 @@
             "countdown_start_time": "2025-12-30T10:12:20.468063",
             "affiliation_balance": 2000,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true
         },
         {
             "id": "MedsTwS5IHWD",
