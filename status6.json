@@ -3390,7 +3390,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-12-11T11:04:35.873232",
-            "affiliation_balance": 8000,
+            "affiliation_balance": 9000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -24656,9 +24656,9 @@
                 "LyNdriaWksJYdbo",
                 "Nirina8oN1cHwN"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-12-23T13:28:24.086890",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2026-01-01T18:54:59.571841",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
