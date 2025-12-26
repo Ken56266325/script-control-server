@@ -20650,7 +20650,8 @@
                 "XavierIscardi6q8cQzT0",
                 "Herinantenainafran\u00e7oisMP4pGRVI",
                 "SolofonianarbTLCkyC",
-                "ManampisoaQlo9wExV"
+                "ManampisoaQlo9wExV",
+                "TojolmsWdjIUBSX"
             ],
             "status": "active",
             "countdown_start_time": "2025-12-31T11:24:41.361512",
@@ -29704,6 +29705,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-01-02T05:26:52.222264",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "TojolmsWdjIUBSX",
+            "android_id": "09863b04921becf0aa96e14a12a5696a",
+            "referred_by": "MaximeespinolahcDIlFqR8",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-12-26T17:36:39.424522",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
