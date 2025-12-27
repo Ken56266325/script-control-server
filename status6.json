@@ -11845,7 +11845,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-12-11T13:49:44.418753",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -29468,7 +29468,7 @@
             "referred_by": "PertinotlrajveKh",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2025-12-27T20:53:34.866358",
+            "countdown_start_time": "2026-01-03T20:53:34.866358",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
