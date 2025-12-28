@@ -872,7 +872,8 @@
                 "Mbolatiana591021",
                 "Valisoa681930",
                 "Noutahtahy6rRaqvU",
-                "Herilanto79193610"
+                "Herilanto79193610",
+                "MissaoIZMXPjb"
             ],
             "status": "active",
             "countdown_start_time": "2025-12-31T20:37:30.691030",
@@ -29759,6 +29760,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-01-04T07:35:43.927830",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "MissaoIZMXPjb",
+            "android_id": "9d9721ba2ec2d9097f69bd56425125c8",
+            "referred_by": "Doda6920",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-12-29T03:10:56.997746",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
