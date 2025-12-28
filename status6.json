@@ -873,7 +873,8 @@
                 "Valisoa681930",
                 "Noutahtahy6rRaqvU",
                 "Herilanto79193610",
-                "MissaoIZMXPjb"
+                "MissaoIZMXPjb",
+                "BouboumeWn8rtSf1"
             ],
             "status": "active",
             "countdown_start_time": "2025-12-31T20:37:30.691030",
@@ -29770,6 +29771,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2025-12-29T03:10:56.997746",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "BouboumeWn8rtSf1",
+            "android_id": "cfd27fd78fb80fa12bfa4c0a81e84396",
+            "referred_by": "Doda6920",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-12-29T03:36:52.631060",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
