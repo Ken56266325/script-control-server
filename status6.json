@@ -2148,7 +2148,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-12-20T21:34:56.846945",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -7135,9 +7135,9 @@
             "referred_to": [
                 "yyg"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-12-29T00:34:54.557674",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2026-01-05T06:18:55.658546",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
