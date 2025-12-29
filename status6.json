@@ -26413,7 +26413,8 @@
                 "yatolaj09HSPsCr",
                 "EliscaF12jJWRFgES",
                 "jazzlove2chOlYq8m7x",
-                "JeanRollin25sDJL0aA1"
+                "JeanRollin25sDJL0aA1",
+                "WalstevN8kefsMO"
             ],
             "status": "active",
             "countdown_start_time": "2026-01-02T23:32:08.738910",
@@ -29803,6 +29804,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-01-05T20:55:59.829946",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "WalstevN8kefsMO",
+            "android_id": "28af21dae2a433c665e84089fe6f741f",
+            "referred_by": "StanislasiTNu1ZMe",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-12-30T06:00:51.610849",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
