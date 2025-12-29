@@ -12581,7 +12581,7 @@
             "android_id": "4b578d85d0fe800c8378a5c4a0ab18f8",
             "referred_by": "Velotsara681900",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-12-29T18:15:27.126535",
             "affiliation_balance": 0,
             "plan": "Basique",
@@ -29149,7 +29149,7 @@
             "android_id": "6ebc70533762cc45596ee9d36fd2c5db",
             "referred_by": null,
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-12-29T17:47:24.419746",
             "affiliation_balance": 0,
             "plan": "Basique"
@@ -29431,7 +29431,7 @@
             "android_id": "199656dbc5275fc0259c44349166943c",
             "referred_by": null,
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-12-29T18:35:09.327038",
             "affiliation_balance": 0,
             "plan": "Basique"
