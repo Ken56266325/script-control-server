@@ -13249,7 +13249,8 @@
                 "PetersonclEqShIR",
                 "EmmanuelGeB2HfXv",
                 "BrownnewHT4pbwD",
-                "BronakamanczlfZou2"
+                "BronakamanczlfZou2",
+                "Zoz\u00e9AN6lIECu"
             ],
             "status": "active",
             "countdown_start_time": "2026-01-01T20:02:16.506066",
@@ -29792,6 +29793,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-01-05T07:31:08.871270",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Zoz\u00e9AN6lIECu",
+            "android_id": "397ad8cd8c3edaf431a25181e99a97d5",
+            "referred_by": "DagoSoDjKY3R",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2025-12-29T20:54:55.593988",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
