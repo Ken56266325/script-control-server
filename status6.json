@@ -19431,7 +19431,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-09-04T16:24:26.242614",
-            "affiliation_balance": 17000,
+            "affiliation_balance": 18000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -20659,8 +20659,8 @@
                 "TojolmsWdjIUBSX",
                 "385115681LmbrHiW"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-12-31T11:24:41.361512",
+            "status": "active",
+            "countdown_start_time": "2026-01-07T13:22:34.645789",
             "affiliation_balance": 8000,
             "plan": "Basique",
             "countdown_paused": false
