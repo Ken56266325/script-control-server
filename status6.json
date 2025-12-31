@@ -430,7 +430,7 @@
                 "Thonny FrédéricvlxwVzWk",
                 "Lantonirina3XdxdqOJ"
             ],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-12-31T19:22:01.661496",
             "affiliation_balance": 1000,
             "android_id": "583e973065e6ac1cfbda38afc9bb6e62",
@@ -28383,7 +28383,7 @@
             "android_id": "5a29d45dc6e7075d59f9895c39bf0a10",
             "referred_by": null,
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-12-31T19:26:55.744335",
             "affiliation_balance": 0,
             "plan": "Basique"
@@ -29835,7 +29835,7 @@
             "android_id": "c5626ea48d028792e65dce17acc7a4ea",
             "referred_by": null,
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2025-12-31T19:51:57.674955",
             "affiliation_balance": 0,
             "plan": "Basique"
