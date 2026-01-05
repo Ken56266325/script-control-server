@@ -20658,7 +20658,8 @@
                 "SolofonianarbTLCkyC",
                 "ManampisoaQlo9wExV",
                 "TojolmsWdjIUBSX",
-                "385115681LmbrHiW"
+                "385115681LmbrHiW",
+                "Luciocharlesm4RAIGkn"
             ],
             "status": "active",
             "countdown_start_time": "2026-01-07T13:22:34.645789",
@@ -29978,6 +29979,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-01-05T19:49:56.415053",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Luciocharlesm4RAIGkn",
+            "android_id": "61eff1a4fab28142bef4cd66c0623142",
+            "referred_by": "MaximeespinolahcDIlFqR8",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-01-05T20:01:56.010927",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
