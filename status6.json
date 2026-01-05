@@ -25454,7 +25454,8 @@
                 "Peterpan2sQf4ejE",
                 "BeneCIBuhKs",
                 "SarikajkReeHgl",
-                "Jaguarq9PTflsx"
+                "Jaguarq9PTflsx",
+                "Nomenae5xOL1ei"
             ],
             "status": "active",
             "countdown_start_time": "2026-01-12T21:36:44.543320",
@@ -30021,6 +30022,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-01-06T03:42:55.877899",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Nomenae5xOL1ei",
+            "android_id": "43e7fa9dba144f52afc8e0dcad63296e",
+            "referred_by": "SquidPjkazdNC",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-01-06T06:28:45.748627",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
