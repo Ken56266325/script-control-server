@@ -29286,7 +29286,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2026-01-08T07:24:01.193938",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -29724,8 +29724,8 @@
             "android_id": "3b265d3e9a282cd8997c707629c63731",
             "referred_by": "RabarptKRuvLy",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-01-02T05:26:52.222264",
+            "status": "active",
+            "countdown_start_time": "2026-01-12T08:48:16.247695",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
