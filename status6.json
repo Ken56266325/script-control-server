@@ -23806,7 +23806,8 @@
             "referred_to": [
                 "TsoaHslFWyvU",
                 "NoirKZJppnDV",
-                "Francia3b4EmasK"
+                "Francia3b4EmasK",
+                "AlexAezFueT2"
             ],
             "status": "active",
             "countdown_start_time": "2026-01-09T13:08:37.120402",
@@ -30010,6 +30011,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-01-06T01:31:24.401851",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "AlexAezFueT2",
+            "android_id": "69b0730acfa8c754dd4d61e065df933c",
+            "referred_by": "Roxzp3fYZ2D",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-01-06T03:42:55.877899",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
