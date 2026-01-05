@@ -25858,7 +25858,8 @@
             "referred_to": [
                 "BRUCINORAHARINANTENAINAKiF2rYWs",
                 "savioYTxvn3l3YjL",
-                "NambiyfLLHirK"
+                "NambiyfLLHirK",
+                "NaniRoniKsoKdAze"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-11-26T18:09:07.463197",
@@ -29967,6 +29968,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-01-05T19:46:31.747952",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "NaniRoniKsoKdAze",
+            "android_id": "9a91e8538c25d8a0284795394681191a",
+            "referred_by": "UnohgAU559y3",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-01-05T19:49:56.415053",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
