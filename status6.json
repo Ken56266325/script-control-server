@@ -30084,6 +30084,16 @@
             "countdown_start_time": "2026-01-07T03:00:24.429661",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "BagheraBYA3vA3B",
+            "android_id": "dcbb277e282663383514740ad16c42b9",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-01-07T05:14:42.109346",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
