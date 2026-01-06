@@ -19171,7 +19171,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-09-02T09:16:56.765523",
-            "affiliation_balance": 14000,
+            "affiliation_balance": 15000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -21493,8 +21493,8 @@
                 "Heritinatsilavinan9S1JX97",
                 "HeritinagastrienFnv7QWmg"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-01-06T13:56:54.795352",
+            "status": "active",
+            "countdown_start_time": "2026-01-13T18:56:59.221796",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
