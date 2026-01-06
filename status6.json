@@ -30054,6 +30054,16 @@
             "countdown_start_time": "2026-01-06T16:55:17.438438",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Akelabienr2JtN16S",
+            "android_id": "855892a86d60659caa1a7edc90356b8a",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-01-07T01:42:10.082231",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
