@@ -25455,7 +25455,8 @@
                 "BeneCIBuhKs",
                 "SarikajkReeHgl",
                 "Jaguarq9PTflsx",
-                "Nomenae5xOL1ei"
+                "Nomenae5xOL1ei",
+                "ZotopiaVFwY3ZxR"
             ],
             "status": "active",
             "countdown_start_time": "2026-01-12T21:36:44.543320",
@@ -30092,6 +30093,16 @@
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2026-01-07T05:14:42.109346",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "ZotopiaVFwY3ZxR",
+            "android_id": "bb54a81a5f5f6da5707e74d4ad9b4bd1",
+            "referred_by": "SquidPjkazdNC",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-01-07T16:21:23.915890",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
