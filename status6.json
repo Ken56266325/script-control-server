@@ -29013,7 +29013,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-12-19T19:44:33.192035",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique"
         },
         {
@@ -30114,8 +30114,8 @@
             "referred_by": "Rudy_ardmP9ICOIc",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-01-07T19:52:09.630542",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2026-01-14T19:52:09.630542",
+            "affiliation_balance": 0,
             "plan": "Basique"
         },
         {
