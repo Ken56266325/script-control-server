@@ -25462,7 +25462,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2026-01-12T21:36:44.543320",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 3000,
             "plan": "Basique"
         },
         {
@@ -30145,7 +30145,7 @@
             "referred_by": "SquidPjkazdNC",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-01-09T00:51:00.036344",
+            "countdown_start_time": "2026-01-16T00:51:00.036344",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
