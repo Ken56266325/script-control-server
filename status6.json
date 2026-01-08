@@ -30148,6 +30148,16 @@
             "countdown_start_time": "2026-01-16T00:51:00.036344",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Leac9nNlzBI",
+            "android_id": "6c49b9d272bee1facc6f50a1b7bd2886",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-01-09T03:17:55.296269",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
