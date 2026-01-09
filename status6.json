@@ -29012,7 +29012,8 @@
                 "foikomanontoloDrmCJPcm",
                 "puce8fr1y1nQNHD",
                 "Jean22_xPcLbqA4t",
-                "v_puce1fG5zy3a7"
+                "v_puce1fG5zy3a7",
+                "@tsito1513hfPpEQtyRu"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-12-19T19:44:33.192035",
@@ -30228,6 +30229,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-01-09T18:21:12.794195",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "@tsito1513hfPpEQtyRu",
+            "android_id": "a8141276a3ea7fd564ba79d21bcedf09",
+            "referred_by": "Rudy_ardmP9ICOIc",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-01-09T20:09:55.830622",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
