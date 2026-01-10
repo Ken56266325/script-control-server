@@ -16270,7 +16270,7 @@
             "referred_to": [
                 "bienaimeLLcwbnRD"
             ],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-01-10T15:10:25.107305",
             "affiliation_balance": 2000,
             "plan": "Basique",
@@ -29850,7 +29850,7 @@
             "android_id": "2f57101950994bb18d2643072b9d8028",
             "referred_by": "UnohgAU559y3",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-01-10T15:17:35.127082",
             "affiliation_balance": 0,
             "plan": "Basique"
