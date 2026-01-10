@@ -15434,7 +15434,8 @@
                 "DodoantenainaZAfRUHVO",
                 "Pasy6PUaDJCM",
                 "DjamainnDqrPlOjP",
-                "GangAvfK1Yn1"
+                "GangAvfK1Yn1",
+                "Nafa4DWC4QmI"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-12-19T23:14:35.354242",
@@ -30303,6 +30304,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-01-11T01:10:15.568812",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Nafa4DWC4QmI",
+            "android_id": "89e3c68561d8c2464240ab8126fd5d6d",
+            "referred_by": "PetersonclEqShIR",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-01-11T02:38:07.900970",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
