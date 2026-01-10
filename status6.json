@@ -1188,7 +1188,7 @@
             "android_id": "e08be0feacb0d70396fc90136c7808a9",
             "referred_by": "Onjaniaina52809",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-01-10T06:03:02.018415",
             "affiliation_balance": 0,
             "plan": "Basique",
@@ -24143,7 +24143,7 @@
             "referred_to": [
                 "RaharyRzJrcm3m"
             ],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-01-10T05:41:20.557685",
             "affiliation_balance": 2000,
             "plan": "Basique",
