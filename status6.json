@@ -19871,7 +19871,8 @@
             "android_id": "ffd497db7b7a6243880a2b0d93b45e62",
             "referred_by": "gastrientsila47j7frwG",
             "referred_to": [
-                "Davilani0DmNoOt4"
+                "Davilani0DmNoOt4",
+                "ZanellaPxSY3TTL"
             ],
             "status": "active",
             "countdown_start_time": "2026-01-17T10:49:08.059291",
@@ -30360,6 +30361,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-01-11T22:44:40.604544",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "ZanellaPxSY3TTL",
+            "android_id": "e842a013da080c5c2540b1ac81a8231f",
+            "referred_by": "NadiaxEHQNbby",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-01-11T23:01:13.504542",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
