@@ -21502,7 +21502,8 @@
                 "GinaginaPdkBuTWH",
                 "DylanEVEIj7Ee",
                 "Heritinatsilavinan9S1JX97",
-                "HeritinagastrienFnv7QWmg"
+                "HeritinagastrienFnv7QWmg",
+                "HeritinatsilaI1ElqoDX"
             ],
             "status": "active",
             "countdown_start_time": "2026-01-13T18:56:59.221796",
@@ -30349,6 +30350,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-01-11T20:44:22.034086",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "HeritinatsilaI1ElqoDX",
+            "android_id": "d67f2e163cbd34e13bee2095cdb64692",
+            "referred_by": "YangodatsilaIZbGh1WZ",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-01-11T22:44:40.604544",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
