@@ -19875,7 +19875,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2026-01-17T10:49:08.059291",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -30338,7 +30338,7 @@
             "referred_by": "NadiaxEHQNbby",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-01-11T13:44:56.965489",
+            "countdown_start_time": "2026-01-18T13:47:52.633844",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
