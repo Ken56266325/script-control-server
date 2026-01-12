@@ -11853,7 +11853,8 @@
                 "MiranamialisoawzrKqfFg",
                 "MiranamialyQp3idgl4",
                 "marinajoellahjEisl5gl",
-                "Randria0BFbJzxl"
+                "Randria0BFbJzxl",
+                "florinPnQCoP4f"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-12-11T13:49:44.418753",
@@ -30413,6 +30414,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-01-12T23:26:39.329064",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "florinPnQCoP4f",
+            "android_id": "56331f259c2e96915c305752bfa9cd67",
+            "referred_by": "PertinotlrajveKh",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-01-13T00:20:02.682142",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
