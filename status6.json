@@ -261,7 +261,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2026-01-05T20:29:38.861826",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "android_id": "e74af1c33b0fd4e7b3ecef900c118751",
             "countdown_paused": false,
             "plan": "Basique"
@@ -24852,8 +24852,8 @@
             "referred_to": [
                 "misainamahayWTl2mk2G"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-01-11T21:05:48.522737",
+            "status": "active",
+            "countdown_start_time": "2026-01-19T19:49:27.297326",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
