@@ -30394,6 +30394,16 @@
             "countdown_start_time": "2026-01-12T15:55:40.732710",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "AsakoRngyyeIR",
+            "android_id": "6013d7a64d900c70a3d104bd1f3a1452",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-01-12T19:48:41.757199",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
