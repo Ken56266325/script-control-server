@@ -27344,7 +27344,8 @@
                 "BriPA9HLsfx",
                 "Not7199229",
                 "JertooMn1tMab",
-                "Antoniot8fAQrXY8"
+                "Antoniot8fAQrXY8",
+                "SaidaJjbRfA4G"
             ],
             "status": "inactive",
             "countdown_start_time": "2026-01-13T10:30:21.401579",
@@ -30468,6 +30469,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-01-14T18:12:42.560469",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "SaidaJjbRfA4G",
+            "android_id": "ce0ddc69489c06be7224d07c8db0f6a5",
+            "referred_by": "Brinot3YpusKbP",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-01-14T20:29:22.732651",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
