@@ -877,7 +877,7 @@
                 "BouboumeWn8rtSf1",
                 "HeryTianafNJ5cJol"
             ],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-01-15T08:37:34.942131",
             "affiliation_balance": 3000,
             "plan": "Basique",
@@ -22433,7 +22433,7 @@
             "android_id": "1af564e8eaed91d0fb8ee523e00e7352",
             "referred_by": "Elie69103580",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-01-15T07:38:29.806517",
             "affiliation_balance": 0,
             "plan": "Basique",
@@ -26799,7 +26799,7 @@
             "android_id": "1e90e53290698bd720ae3c00f416f1d0",
             "referred_by": "SquidPjkazdNC",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-01-15T07:41:59.383738",
             "affiliation_balance": 0,
             "plan": "Basique"
@@ -28738,7 +28738,7 @@
             "android_id": "dc27340c75771579e705b13998a0f64f",
             "referred_by": "SquidPjkazdNC",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-01-15T07:54:06.492488",
             "affiliation_balance": 0,
             "plan": "Basique"
