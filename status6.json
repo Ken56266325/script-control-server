@@ -3715,7 +3715,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-10-27T09:08:33.416600",
-            "affiliation_balance": 3000,
+            "affiliation_balance": 4000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -4072,8 +4072,8 @@
                 "CQuinotyRtw8K1Z",
                 "AndrexURMp5WS0"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-12-27T23:07:16.675973",
+            "status": "active",
+            "countdown_start_time": "2026-01-22T11:49:31.920025",
             "affiliation_balance": 8000,
             "plan": "Basique",
             "countdown_paused": false
