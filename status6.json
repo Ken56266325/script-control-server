@@ -30170,7 +30170,7 @@
             "android_id": "5b9f6396f16e8ff673efb2c0a06097bf",
             "referred_by": "SquidPjkazdNC",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-01-16T00:51:00.036344",
             "affiliation_balance": 0,
             "plan": "Basique"
@@ -30530,7 +30530,7 @@
             "android_id": "b3cee8c4fd33630e7d130643ae0af366",
             "referred_by": null,
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-01-16T00:50:11.769052",
             "affiliation_balance": 0,
             "plan": "Basique"
