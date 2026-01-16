@@ -694,7 +694,8 @@
                 "Evah50XtPDgT",
                 "Solangeabj1RjXS",
                 "BidyV2c0Xypb",
-                "AndoG5z1tnGf"
+                "AndoG5z1tnGf",
+                "MiarzoVKBQfuli"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-08-30T14:44:08.280609",
@@ -30553,6 +30554,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-01-16T20:43:02.723071",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "MiarzoVKBQfuli",
+            "android_id": "8ad8b9307bfec1a0798fda36e8f971c1",
+            "referred_by": "Emmanuel1",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-01-16T22:33:11.111382",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
