@@ -1998,7 +1998,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2026-01-19T21:01:38.591494",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -2153,9 +2153,9 @@
                 "MorganeR1nOZKU",
                 "RANOFRAbkYTYgSb"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-01-16T10:20:13.017723",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2026-01-23T13:08:04.650999",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
         },
