@@ -26457,7 +26457,8 @@
                 "jazzlove2chOlYq8m7x",
                 "JeanRollin25sDJL0aA1",
                 "WalstevN8kefsMO",
-                "pisonakaKqKezTLn"
+                "pisonakaKqKezTLn",
+                "Joachin3c1fsGTiRFh"
             ],
             "status": "inactive",
             "countdown_start_time": "2026-01-10T13:37:29.414955",
@@ -30619,6 +30620,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-01-17T22:29:19.858527",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Joachin3c1fsGTiRFh",
+            "android_id": "f4fb26cf2aaa4bd7c355bfcf51ae06a8",
+            "referred_by": "StanislasiTNu1ZMe",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-01-18T00:08:24.319767",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
