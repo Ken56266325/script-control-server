@@ -4855,8 +4855,8 @@
             "android_id": "1a61d89d6eba3f2324444d6f76934bfb",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-01-16T10:41:29.375412",
+            "status": "active",
+            "countdown_start_time": "2026-01-24T09:12:28.357726",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
