@@ -30589,6 +30589,16 @@
             "countdown_start_time": "2026-01-17T14:42:35.651831",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "berthinonadaEdxW4k8n",
+            "android_id": "a5dbf1e7bb7a807e2b9e01263bf99fb3",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-01-17T18:32:35.655423",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
