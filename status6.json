@@ -27653,7 +27653,9 @@
             "id": "Ndraina79193902",
             "android_id": "bbdbd6eef3bbcf257ddfb402726faf40",
             "referred_by": null,
-            "referred_to": [],
+            "referred_to": [
+                "Vrai12125050"
+            ],
             "status": "active",
             "countdown_start_time": "2026-01-25T15:10:48.339851",
             "affiliation_balance": 0,
@@ -30655,6 +30657,15 @@
             "countdown_start_time": "2026-01-25T15:42:56.888986",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Vrai12125050",
+            "android_id": "813ead5487d7c5c4128d40db3971ddcf",
+            "referred_by": "Ndraina79193902",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-01-25T16:09:44.212735",
+            "affiliation_balance": 0
         }
     ],
     "references": {
