@@ -26462,7 +26462,8 @@
                 "JeanRollin25sDJL0aA1",
                 "WalstevN8kefsMO",
                 "pisonakaKqKezTLn",
-                "Joachin3c1fsGTiRFh"
+                "Joachin3c1fsGTiRFh",
+                "Mirelah3c1oHwy6bXc"
             ],
             "status": "inactive",
             "countdown_start_time": "2026-01-10T13:37:29.414955",
@@ -30688,6 +30689,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-01-19T02:42:55.868094",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Mirelah3c1oHwy6bXc",
+            "android_id": "a6cd0ccae6b1e970bdd21899c0bd7d5d",
+            "referred_by": "StanislasiTNu1ZMe",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-01-19T02:57:13.364900",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
