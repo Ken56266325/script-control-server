@@ -5304,7 +5304,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-08-31T15:15:22.137525",
-            "affiliation_balance": 5000,
+            "affiliation_balance": 6000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -11860,8 +11860,8 @@
                 "florinPnQCoP4f",
                 "PertyYHzaCWsm"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-12-11T13:49:44.418753",
+            "status": "active",
+            "countdown_start_time": "2026-01-25T17:04:17.984202",
             "affiliation_balance": 8000,
             "plan": "Basique",
             "countdown_paused": false
