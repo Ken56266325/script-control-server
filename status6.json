@@ -2251,7 +2251,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2026-01-19T17:18:24.513892",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -23679,8 +23679,8 @@
                 "JahlmanYVEEGDYX",
                 "HariI1os4ZrW"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-12-16T14:20:04.410147",
+            "status": "active",
+            "countdown_start_time": "2026-01-25T16:15:07.411433",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
