@@ -27389,7 +27389,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2026-01-18T15:04:48.946487",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -30652,8 +30652,8 @@
             "referred_by": "SmarfajXnlDE8X",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-01-18T15:42:56.888986",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2026-01-25T15:42:56.888986",
+            "affiliation_balance": 0,
             "plan": "Basique"
         }
     ],
