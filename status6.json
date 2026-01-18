@@ -25890,7 +25890,8 @@
                 "savioYTxvn3l3YjL",
                 "NambiyfLLHirK",
                 "NaniRoniKsoKdAze",
-                "Rapha\u00eblAjzEXUuJgW"
+                "Rapha\u00eblAjzEXUuJgW",
+                "SylvanyVerstappen9HjRVC2M"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-11-26T18:09:07.463197",
@@ -30677,6 +30678,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-01-19T00:53:46.894291",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "SylvanyVerstappen9HjRVC2M",
+            "android_id": "3c882fbfa540bfa20773a979a35935d5",
+            "referred_by": "UnohgAU559y3",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-01-19T02:42:55.868094",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
