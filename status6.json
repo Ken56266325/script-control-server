@@ -29793,7 +29793,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2026-01-23T19:36:38.460828",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -30723,8 +30723,8 @@
             "android_id": "8191f6e4b94225f9446f43867dd5e6dd",
             "referred_by": "TojolmsWdjIUBSX",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-01-19T20:06:44.218239",
+            "status": "active",
+            "countdown_start_time": "2026-01-27T09:50:24.771508",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
