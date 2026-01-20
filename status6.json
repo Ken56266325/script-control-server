@@ -11866,7 +11866,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2026-01-25T17:04:17.984202",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -17947,8 +17947,8 @@
                 "NadiaxEHQNbby",
                 "GaetantheritianaN8ZX2iLU"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-01-01T08:35:55.059437",
+            "status": "active",
+            "countdown_start_time": "2026-01-27T17:09:16.803987",
             "affiliation_balance": 5000,
             "plan": "Basique",
             "countdown_paused": false
