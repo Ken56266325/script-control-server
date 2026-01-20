@@ -10225,7 +10225,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-07-05T19:49:20.032404",
-            "affiliation_balance": 11000,
+            "affiliation_balance": 12000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -11842,8 +11842,8 @@
                 "safidyKewBp6W9",
                 "Miahya3WCQ5sa"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-10-17T17:56:06.770907",
+            "status": "active",
+            "countdown_start_time": "2026-01-27T17:17:42.969420",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
