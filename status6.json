@@ -9132,7 +9132,8 @@
                 "BryanNHf6PcKP",
                 "Andria4EQ394h9",
                 "TinoZcZMiFWS",
-                "onihajanLuDDmC9"
+                "onihajanLuDDmC9",
+                "TsikysHFF2XVq"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-12-16T20:07:20.629321",
@@ -30743,6 +30744,16 @@
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2026-01-20T00:26:37.304333",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "TsikysHFF2XVq",
+            "android_id": "0ac7eb08d470f2d4ddbb755bc87a0cf6",
+            "referred_by": "Alex7819e929",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-01-20T16:51:44.022444",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
