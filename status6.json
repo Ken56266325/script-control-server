@@ -25487,7 +25487,8 @@
                 "Jaguarq9PTflsx",
                 "Nomenae5xOL1ei",
                 "ZotopiaVFwY3ZxR",
-                "BozyoStpR496"
+                "BozyoStpR496",
+                "RonieSHUYVu0f"
             ],
             "status": "active",
             "countdown_start_time": "2026-01-23T19:31:12.369770",
@@ -30830,6 +30831,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-01-20T23:26:20.623096",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "RonieSHUYVu0f",
+            "android_id": "a96ddd7111486aa63f6ec666452e74ab",
+            "referred_by": "SquidPjkazdNC",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-01-21T01:42:20.771300",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
