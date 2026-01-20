@@ -20692,7 +20692,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2026-01-14T13:31:27.462701",
-            "affiliation_balance": 13000,
+            "affiliation_balance": 14000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -25722,8 +25722,8 @@
             "referred_to": [
                 "DassyUdTmKEGT"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-10-30T21:22:28.698030",
+            "status": "active",
+            "countdown_start_time": "2026-01-27T17:06:42.602142",
             "affiliation_balance": 1000,
             "plan": "Basique"
         },
