@@ -2156,7 +2156,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2026-01-23T13:08:04.650999",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -9138,9 +9138,9 @@
                 "Tojoz3tGtR7I",
                 "Brido4SRQwEZA"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-12-16T20:07:20.629321",
-            "affiliation_balance": 18000,
+            "status": "active",
+            "countdown_start_time": "2026-01-28T21:34:55.807479",
+            "affiliation_balance": 11000,
             "plan": "Basique",
             "countdown_paused": false
         },
