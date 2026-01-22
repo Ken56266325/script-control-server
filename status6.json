@@ -30898,6 +30898,16 @@
             "countdown_start_time": "2026-01-22T04:42:14.209956",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "dac6b4b294bc3498827b10c85ac6b8a6CITdX6p2",
+            "android_id": "31799617",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-01-22T17:58:50.738101",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
