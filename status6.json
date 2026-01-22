@@ -30873,7 +30873,9 @@
             "id": "Marin\u00e0MamyShalomdCyRZksN",
             "android_id": "09ff6d3e5cfed1bcf0902175dfc7361b",
             "referred_by": "@DinoIz937Kjy",
-            "referred_to": [],
+            "referred_to": [
+                "Maminirina7bOz2sk4"
+            ],
             "status": "inactive",
             "countdown_start_time": "2026-01-22T03:07:57.151915",
             "affiliation_balance": 0,
@@ -30926,6 +30928,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-01-22T23:05:48.749356",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Maminirina7bOz2sk4",
+            "android_id": "6790a91cf97e1142d79978ecbefa2c17",
+            "referred_by": "Marin\u00e0MamyShalomdCyRZksN",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-01-22T23:16:53.750279",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
