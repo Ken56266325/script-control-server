@@ -27785,7 +27785,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2026-01-27T22:21:26.023624",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -30884,8 +30884,8 @@
             "android_id": "6c2982c5e2a7ed188f7aa08856ec7a3a",
             "referred_by": "BainaRKib3VVQ",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-01-21T23:14:40.477829",
+            "status": "active",
+            "countdown_start_time": "2026-01-29T08:50:47.875658",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
