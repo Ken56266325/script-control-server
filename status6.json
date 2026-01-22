@@ -30898,6 +30898,16 @@
             "countdown_start_time": "2026-01-22T04:42:14.209956",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "FranciscoJz63LhbQ",
+            "android_id": "dac6b4b294bc3498827b10c85ac6b8a6",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-01-22T18:01:40.430247",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
