@@ -28275,7 +28275,8 @@
             "referred_to": [
                 "NomenjanaharyAoQ1CCVT",
                 "Josepht2Sspdq2",
-                "AvotranianaxmiJdYe4"
+                "AvotranianaxmiJdYe4",
+                "VancCbvQxyL"
             ],
             "status": "active",
             "countdown_start_time": "2026-01-24T13:41:48.205409",
@@ -30949,6 +30950,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-01-23T01:44:27.412885",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "VancCbvQxyL",
+            "android_id": "77af538ab5d05bcb1c1de3e1224ab533",
+            "referred_by": "harsonielnBBuRIyG",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-01-23T02:15:12.164569",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
