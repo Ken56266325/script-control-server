@@ -11867,7 +11867,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2026-01-22T08:39:44.630157",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -16287,8 +16287,8 @@
             "referred_to": [
                 "bienaimeLLcwbnRD"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-01-23T07:24:53.752723",
+            "status": "active",
+            "countdown_start_time": "2026-01-30T08:00:24.433571",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
