@@ -13850,7 +13850,8 @@
                 "ZBLACKSBHjeDau",
                 "NicoyT6AhXq2",
                 "RLlc6ZBOMK",
-                "RBdK7Vr1Wh"
+                "RBdK7Vr1Wh",
+                "Cacaprice5VN1xHjU"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-12-10T17:44:37.179912",
@@ -30971,6 +30972,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-01-23T15:22:16.621570",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Cacaprice5VN1xHjU",
+            "android_id": "add532acc03438571b12cc544ba55217",
+            "referred_by": "MahefatinahajarivoaeJNpfdN",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-01-23T16:11:09.568065",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
