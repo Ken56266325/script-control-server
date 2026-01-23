@@ -11864,7 +11864,8 @@
                 "florinPnQCoP4f",
                 "PertyYHzaCWsm",
                 "MarinahxZZXp9Ys",
-                "Faniryzul5L1vy"
+                "Faniryzul5L1vy",
+                "RazafyijlcqWLe"
             ],
             "status": "inactive",
             "countdown_start_time": "2026-01-22T08:39:44.630157",
@@ -31035,6 +31036,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-01-31T01:17:01.355757",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "RazafyijlcqWLe",
+            "android_id": "4972c496b08286ac563996f75fecfaf6",
+            "referred_by": "PertinotlrajveKh",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-01-24T02:04:41.061898",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
