@@ -30984,6 +30984,15 @@
             "countdown_start_time": "2026-01-23T16:11:09.568065",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Hery7199329",
+            "android_id": "5c8de7dfd906275c43df30a07fbf5cae",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-01-30T13:20:11.245164",
+            "affiliation_balance": 0
         }
     ],
     "references": {
