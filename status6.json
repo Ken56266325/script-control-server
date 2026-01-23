@@ -26475,7 +26475,8 @@
                 "WalstevN8kefsMO",
                 "pisonakaKqKezTLn",
                 "Joachin3c1fsGTiRFh",
-                "Mirelah3c1oHwy6bXc"
+                "Mirelah3c1oHwy6bXc",
+                "Jenio199qYFyJEP6"
             ],
             "status": "inactive",
             "countdown_start_time": "2026-01-10T13:37:29.414955",
@@ -31003,6 +31004,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-01-23T22:32:43.743291",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Jenio199qYFyJEP6",
+            "android_id": "4b007fc9a628886796e34d1b9bf56250",
+            "referred_by": "StanislasiTNu1ZMe",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-01-23T22:40:22.117451",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
