@@ -19461,7 +19461,8 @@
                 "RijalalainaCEB7Rtng",
                 "LovaanjarahzNJ46he",
                 "LalatianaU46U5Tmo",
-                "MialisoaNo7mH9VS"
+                "MialisoaNo7mH9VS",
+                "MialisoacgCPWNSL"
             ],
             "status": "inactive",
             "countdown_start_time": "2026-01-19T13:17:10.662462",
@@ -31155,6 +31156,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-01-25T02:37:25.719590",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "MialisoacgCPWNSL",
+            "android_id": "50c7dd9571e0c6253b66d7c98251d555",
+            "referred_by": "MiranamialisoawzrKqfFg",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-01-25T04:25:16.208706",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
