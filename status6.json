@@ -25497,7 +25497,8 @@
                 "BozyoStpR496",
                 "RonieSHUYVu0f",
                 "KevindahWHMLr",
-                "Ainac8xV2xA0"
+                "Ainac8xV2xA0",
+                "AliceBfR2lKbh"
             ],
             "status": "active",
             "countdown_start_time": "2026-01-30T19:45:22.965580",
@@ -31078,6 +31079,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-01-24T14:18:20.998801",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "AliceBfR2lKbh",
+            "android_id": "a14ab0d86f1cb3adfc6211870f3d06d7",
+            "referred_by": "SquidPjkazdNC",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-01-24T14:30:19.418919",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
