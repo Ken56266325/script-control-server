@@ -25914,7 +25914,8 @@
                 "NambiyfLLHirK",
                 "NaniRoniKsoKdAze",
                 "Rapha\u00eblAjzEXUuJgW",
-                "SylvanyVerstappen9HjRVC2M"
+                "SylvanyVerstappen9HjRVC2M",
+                "MbolatianaSedrickaMijnKbUD"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-11-26T18:09:07.463197",
@@ -31197,6 +31198,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-01-26T00:04:49.719235",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "MbolatianaSedrickaMijnKbUD",
+            "android_id": "784139d43e7b3e0fccb4711062a4f86a",
+            "referred_by": "UnohgAU559y3",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-01-26T01:35:32.945502",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
