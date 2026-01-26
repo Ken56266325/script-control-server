@@ -30747,7 +30747,7 @@
             "android_id": "2900ccdd020a2a50b71ffc78de9cf5ec",
             "referred_by": "stellanadixima4wmHuhUw",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-01-26T17:28:35.793761",
             "affiliation_balance": 0,
             "plan": "Basique"
@@ -31223,7 +31223,7 @@
             "android_id": "b29df1a1fd6e8c86736f4879ab0a8ba8",
             "referred_by": null,
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-01-26T16:39:59.702269",
             "affiliation_balance": 0,
             "plan": "Basique"
