@@ -19899,7 +19899,8 @@
             "referred_to": [
                 "Davilani0DmNoOt4",
                 "ZanellaPxSY3TTL",
-                "Joelledmn9lCKd"
+                "Joelledmn9lCKd",
+                "BotakelyfxIGGt27"
             ],
             "status": "active",
             "countdown_start_time": "2026-01-31T19:09:43.398776",
@@ -31275,6 +31276,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-01-27T00:17:07.208381",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "BotakelyfxIGGt27",
+            "android_id": "1c21a026ac4d8748ac05dddc77b365bc",
+            "referred_by": "NadiaxEHQNbby",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-01-27T02:24:04.792680",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
