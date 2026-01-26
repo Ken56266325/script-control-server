@@ -16124,7 +16124,8 @@
                 "Angelickat3qdUHttX",
                 "TonassinaoHG2PEPo",
                 "SilvioaKzsJYFh",
-                "Veronique1YkrKF67"
+                "Veronique1YkrKF67",
+                "SilvioaKzsJYFhDRi9kTxm"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-09-19T19:39:16.088361",
@@ -31306,6 +31307,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-01-27T03:29:46.664028",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "SilvioaKzsJYFhDRi9kTxm",
+            "android_id": "MamedisonlWMnqEUq",
+            "referred_by": "MamedisonlWMnqEUq",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-01-27T05:13:17.772084",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
