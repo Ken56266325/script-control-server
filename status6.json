@@ -5465,7 +5465,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-12-10T07:09:09.390781",
-            "affiliation_balance": 6000,
+            "affiliation_balance": 7000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -8383,8 +8383,8 @@
                 "seizelE9iWYTq",
                 "tojokk3US6If"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-12-19T15:20:04.871007",
+            "status": "active",
+            "countdown_start_time": "2026-02-02T15:43:57.763017",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
