@@ -1385,7 +1385,8 @@
                 "Darahae49GpAq5",
                 "AndryZ6ApRYjY",
                 "MandraiqTSdBp",
-                "NADZRNHsCqeU"
+                "NADZRNHsCqeU",
+                "Zandry4ULYX48N"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-08-27T21:13:48.913124",
@@ -31242,6 +31243,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-01-26T22:42:08.094251",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Zandry4ULYX48N",
+            "android_id": "07f166d639a22016432534bc40e72fe5",
+            "referred_by": "Mandresy241632",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-01-26T23:05:06.318423",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
