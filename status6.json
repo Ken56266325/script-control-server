@@ -2000,7 +2000,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2026-01-26T21:01:38.591494",
-            "affiliation_balance": 3000,
+            "affiliation_balance": 4000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -27419,8 +27419,8 @@
                 "VahDmzSCadc"
             ],
             "status": "active",
-            "countdown_start_time": "2026-01-26T23:55:32.892621",
-            "affiliation_balance": 7000,
+            "countdown_start_time": "2026-02-02T23:55:32.892621",
+            "affiliation_balance": 0,
             "plan": "Basique"
         },
         {
