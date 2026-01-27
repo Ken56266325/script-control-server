@@ -1997,7 +1997,8 @@
                 "RakotovAuKl6ip",
                 "SmaQxk7GhVl",
                 "Rovaj2huZ7wx",
-                "MiSoueMgN4wW3"
+                "MiSoueMgN4wW3",
+                "VahatraSxBYKzaf"
             ],
             "status": "inactive",
             "countdown_start_time": "2026-01-26T21:01:38.591494",
@@ -31339,6 +31340,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-01-28T02:30:11.914560",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "VahatraSxBYKzaf",
+            "android_id": "fb2176bb2ba38a92b734d417360edfab",
+            "referred_by": "Grav69130",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-01-28T02:50:12.980000",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
