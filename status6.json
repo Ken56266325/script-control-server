@@ -30843,7 +30843,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2026-01-28T10:31:12.562675",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -31246,7 +31246,7 @@
             "referred_by": "WinnerhFIMe6iO",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-01-27T14:10:42.982266",
+            "countdown_start_time": "2026-02-03T14:10:42.982266",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
