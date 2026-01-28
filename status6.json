@@ -31428,6 +31428,16 @@
             "countdown_start_time": "2026-01-29T03:27:08.172115",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Juliana4ckpPdhLUk",
+            "android_id": "591c2fba23af5d2b11480f913b37d58c",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-01-29T04:34:19.211069",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
