@@ -16755,7 +16755,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-08-26T17:25:39.617388",
-            "affiliation_balance": 6000,
+            "affiliation_balance": 7000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -18795,8 +18795,8 @@
                 "Harentsy1GL1qjWE",
                 "HarentsyzJW4bwAE"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-01-29T20:01:56.305385",
+            "status": "active",
+            "countdown_start_time": "2026-02-05T21:48:39.246654",
             "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
