@@ -1999,7 +1999,8 @@
                 "SmaQxk7GhVl",
                 "Rovaj2huZ7wx",
                 "MiSoueMgN4wW3",
-                "VahatraSxBYKzaf"
+                "VahatraSxBYKzaf",
+                "RovaPByWDoZ0"
             ],
             "status": "active",
             "countdown_start_time": "2026-02-03T21:31:17.260385",
@@ -31447,6 +31448,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-01-29T15:21:12.194375",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "RovaPByWDoZ0",
+            "android_id": "22d925fe8808369991ad42dd46502aba",
+            "referred_by": "Grav69130",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-01-29T18:11:55.278150",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
