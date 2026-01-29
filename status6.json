@@ -1852,7 +1852,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-11-02T16:37:18.123460",
-            "affiliation_balance": 12000,
+            "affiliation_balance": 13000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -3511,9 +3511,9 @@
                 "ZinniahtS9P3B5y",
                 "MandresyiUfsBCGT"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-01-27T20:47:09.764432",
-            "affiliation_balance": 9000,
+            "status": "active",
+            "countdown_start_time": "2026-02-05T19:30:22.675788",
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
