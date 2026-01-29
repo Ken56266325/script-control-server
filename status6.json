@@ -15468,7 +15468,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-12-19T23:14:35.354242",
-            "affiliation_balance": 5000,
+            "affiliation_balance": 6000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -30004,7 +30004,7 @@
             "referred_by": "PetersonclEqShIR",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-01-29T11:01:23.721894",
+            "countdown_start_time": "2026-02-05T11:17:05.149535",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
