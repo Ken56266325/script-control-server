@@ -31297,7 +31297,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2026-02-03T07:26:47.846758",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -31415,8 +31415,8 @@
             "android_id": "4135c1a9f1ec588b98f01ada3eceb666",
             "referred_by": "BotakelyfxIGGt27",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-01-29T03:10:15.854305",
+            "status": "active",
+            "countdown_start_time": "2026-02-05T10:09:59.382351",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
