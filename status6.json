@@ -27560,7 +27560,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2026-02-05T20:28:58.309374",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -31612,7 +31612,7 @@
             "referred_by": "TantelyOInPZG3X",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-01-31T20:05:57.985640",
+            "countdown_start_time": "2026-02-07T20:05:57.985640",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
