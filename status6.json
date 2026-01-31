@@ -19478,7 +19478,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2026-01-19T13:17:10.662462",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -31622,7 +31622,7 @@
             "referred_by": "MiranamialisoawzrKqfFg",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-01-31T21:12:15.886389",
+            "countdown_start_time": "2026-02-07T21:12:15.886389",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
