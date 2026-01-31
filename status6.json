@@ -15467,7 +15467,8 @@
                 "Pasy6PUaDJCM",
                 "DjamainnDqrPlOjP",
                 "GangAvfK1Yn1",
-                "Nafa4DWC4QmI"
+                "Nafa4DWC4QmI",
+                "Jax8KYXSBGs"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-12-19T23:14:35.354242",
@@ -31589,6 +31590,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-01-31T15:28:13.587503",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Jax8KYXSBGs",
+            "android_id": "6453e622ef44c9f058a50f621a7fba1d",
+            "referred_by": "PetersonclEqShIR",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-01-31T19:31:07.182661",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
