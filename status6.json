@@ -3407,7 +3407,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-12-11T11:04:35.873232",
-            "affiliation_balance": 12000,
+            "affiliation_balance": 13000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -3709,8 +3709,8 @@
             "referred_to": [
                 "AntonioL3Rir8Nc"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-12-27T20:27:19.366302",
+            "status": "active",
+            "countdown_start_time": "2026-02-07T21:16:59.001160",
             "affiliation_balance": 7000,
             "plan": "Basique",
             "countdown_paused": false
