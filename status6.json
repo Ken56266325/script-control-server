@@ -19479,7 +19479,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2026-01-19T13:17:10.662462",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -22108,8 +22108,8 @@
             "referred_to": [
                 "eliassefaliananH6cppMC"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-01T15:49:39.478440",
+            "status": "active",
+            "countdown_start_time": "2026-02-08T20:35:26.616856",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
