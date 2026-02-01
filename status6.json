@@ -19474,7 +19474,8 @@
                 "LalatianaU46U5Tmo",
                 "MialisoaNo7mH9VS",
                 "MialisoacgCPWNSL",
-                "MirantsoaOl2H6SfF"
+                "MirantsoaOl2H6SfF",
+                "LalatianamialyVcRQzRj6"
             ],
             "status": "inactive",
             "countdown_start_time": "2026-01-19T13:17:10.662462",
@@ -31675,6 +31676,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-02-01T17:45:45.715962",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "LalatianamialyVcRQzRj6",
+            "android_id": "59e4d97253536e988776dc1ce1c340d9",
+            "referred_by": "MiranamialisoawzrKqfFg",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-02-01T18:29:43.427497",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
