@@ -31657,6 +31657,16 @@
             "countdown_start_time": "2026-02-01T05:06:33.612907",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "HelloBzCiunV2",
+            "android_id": "6c8f1d41f4404753c94915da580c7e91",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-02-01T13:06:29.769009",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
