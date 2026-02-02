@@ -7595,7 +7595,7 @@
             "referred_to": [
                 "MichellotSCmI04wq"
             ],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-02-02T21:06:50.398005",
             "affiliation_balance": 4000,
             "plan": "Basique",
@@ -24407,7 +24407,7 @@
             "android_id": "e1d4631c0e1fa360341607a6cc63dc0b",
             "referred_by": "Andii69103",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-02-02T20:33:44.249367",
             "affiliation_balance": 0,
             "plan": "Basique",
@@ -26897,7 +26897,7 @@
             "android_id": "d728b959c47189b885f3b2b39deea696",
             "referred_by": "Cetone479580",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-02-02T22:14:47.060705",
             "affiliation_balance": 0,
             "plan": "Basique"
@@ -27377,7 +27377,7 @@
             "android_id": "973cd92389893adc6e159fd87205a8a9",
             "referred_by": null,
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-02-02T20:35:02.099211",
             "affiliation_balance": 0,
             "plan": "Basique"
@@ -28079,7 +28079,7 @@
             "android_id": "7308e889134e37c9b5d29a6fa1b3f070",
             "referred_by": "Joel68010",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-02-02T21:06:56.818008",
             "affiliation_balance": 0,
             "plan": "Basique"
@@ -29664,7 +29664,7 @@
             "referred_to": [
                 "eliassefifalindaqiRYKx0O"
             ],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-02-02T21:26:30.205214",
             "affiliation_balance": 1000,
             "plan": "Basique"
