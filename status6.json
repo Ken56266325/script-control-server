@@ -30405,7 +30405,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2026-02-09T20:15:08.149785",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique"
         },
         {
@@ -31307,7 +31307,7 @@
             "referred_by": "GangAvfK1Yn1",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-03T00:17:07.208381",
+            "countdown_start_time": "2026-02-10T00:17:07.208381",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
