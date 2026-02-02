@@ -4918,7 +4918,7 @@
                 "FANEVAw40iwvcT",
                 "AIMEvALdmKuK"
             ],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-02-03T01:04:26.214910",
             "affiliation_balance": 0,
             "plan": "Basique",
@@ -25916,7 +25916,7 @@
             "android_id": "42dc4f3af728a4f1ed03fb9918e18ff9",
             "referred_by": "Cetone479580",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-02-03T00:14:34.033549",
             "affiliation_balance": 0,
             "plan": "Basique"
@@ -27077,7 +27077,7 @@
             "android_id": "926b8076654297f54279b51a9800e610",
             "referred_by": "Cetone479580",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-02-03T00:14:07.001740",
             "affiliation_balance": 0,
             "plan": "Basique"
@@ -27387,7 +27387,7 @@
             "android_id": "eb1cde0d046d42287551655551a12184",
             "referred_by": "Cetone479580",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-02-03T00:14:18.709782",
             "affiliation_balance": 0,
             "plan": "Basique"
