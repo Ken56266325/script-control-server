@@ -9145,7 +9145,8 @@
                 "Sterios09S2B2bl",
                 "Tojoz3tGtR7I",
                 "Brido4SRQwEZA",
-                "Angell1vGFKqo"
+                "Angell1vGFKqo",
+                "TonyrhjliQR5"
             ],
             "status": "active",
             "countdown_start_time": "2026-02-05T21:37:57.665822",
@@ -31727,6 +31728,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-02-02T17:51:45.034482",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "TonyrhjliQR5",
+            "android_id": "82682ebf5202929623bdefe267ed0066",
+            "referred_by": "Alex7819e929",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-02-02T18:01:07.271705",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
