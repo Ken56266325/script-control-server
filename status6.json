@@ -31719,6 +31719,16 @@
             "countdown_start_time": "2026-02-02T05:03:14.077711",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Berthinoc5hkS8x7",
+            "android_id": "3e91cf7dc126ee979b16a04ee61b21cd",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-02-02T17:51:45.034482",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
