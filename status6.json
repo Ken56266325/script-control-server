@@ -21319,7 +21319,7 @@
             "android_id": "8f53a6bcc3ec9afd53dc2b691360743f",
             "referred_by": "Cetone479580",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-02-03T14:44:51.915266",
             "affiliation_balance": 0,
             "plan": "Basique",
@@ -25329,7 +25329,7 @@
             "android_id": "3ba87196cedfe540d2252f387211b73d",
             "referred_by": "Cetone479580",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-02-03T14:44:24.253151",
             "affiliation_balance": 0,
             "plan": "Basique",
@@ -26969,7 +26969,7 @@
             "android_id": "56f8f4834db030e34c14cb456aa3816d",
             "referred_by": "Cetone479580",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-02-03T14:43:17.564387",
             "affiliation_balance": 0,
             "plan": "Basique"
@@ -28291,7 +28291,7 @@
             "android_id": "ccfdebbb0ba5e78ccf7054b346977649",
             "referred_by": "Cetone479580",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-02-03T14:43:41.265852",
             "affiliation_balance": 0,
             "plan": "Basique"
@@ -30164,7 +30164,7 @@
             "android_id": "3bcc00b1e47dd5bfdc32826cedd7602c",
             "referred_by": null,
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-02-03T14:42:11.162385",
             "affiliation_balance": 0,
             "plan": "Basique"
@@ -31147,7 +31147,7 @@
             "android_id": "9827565f15e5ead98b5ca9f1ab0c8f9f",
             "referred_by": null,
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-02-03T14:41:00.029016",
             "affiliation_balance": 0,
             "plan": "Basique"
@@ -31217,7 +31217,7 @@
             "android_id": "1221def99e995a9e97063723aefd3085",
             "referred_by": null,
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-02-03T14:41:23.831024",
             "affiliation_balance": 0,
             "plan": "Basique"
@@ -31227,7 +31227,7 @@
             "android_id": "adc3002b7078ca7ad15a5dc1186249d6",
             "referred_by": null,
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-02-03T14:40:36.372076",
             "affiliation_balance": 0,
             "plan": "Basique"
@@ -31279,7 +31279,7 @@
             "referred_to": [
                 "BabyLlbrDMs5"
             ],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-02-03T14:10:42.982266",
             "affiliation_balance": 0,
             "plan": "Basique"
