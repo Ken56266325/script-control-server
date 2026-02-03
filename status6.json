@@ -6701,7 +6701,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-09-04T16:29:46.935806",
-            "affiliation_balance": 9000,
+            "affiliation_balance": 10000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -21476,7 +21476,7 @@
             "referred_by": "Tina6819201",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-03T09:07:20.559375",
+            "countdown_start_time": "2026-02-10T09:07:20.559375",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
