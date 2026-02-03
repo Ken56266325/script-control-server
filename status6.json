@@ -29108,7 +29108,8 @@
                 "v_puce1fG5zy3a7",
                 "@tsito1513hfPpEQtyRu",
                 "Njaka_rFaEUcRJ5",
-                "jr418bEUqB"
+                "jr418bEUqB",
+                "nico84fp3oiY"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-12-19T19:44:33.192035",
@@ -31784,6 +31785,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-02-03T18:43:08.812829",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "nico84fp3oiY",
+            "android_id": "2f37ad861e9fe54cacd21f2199014994",
+            "referred_by": "Rudy_ardmP9ICOIc",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-02-03T19:17:59.066410",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
