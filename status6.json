@@ -31824,7 +31824,8 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-02-10T15:29:32.790700",
-            "affiliation_balance": 0
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
