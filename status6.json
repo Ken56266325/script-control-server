@@ -19480,7 +19480,8 @@
                 "MialisoacgCPWNSL",
                 "MirantsoaOl2H6SfF",
                 "LalatianamialyVcRQzRj6",
-                "LeerazakGN2gmY1"
+                "LeerazakGN2gmY1",
+                "LeerazaoeskjJct"
             ],
             "status": "inactive",
             "countdown_start_time": "2026-01-19T13:17:10.662462",
@@ -31856,6 +31857,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-02-04T22:11:02.101095",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "LeerazaoeskjJct",
+            "android_id": "57d5ab45718258dcc7f52132e7151a6e",
+            "referred_by": "MiranamialisoawzrKqfFg",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-02-04T22:15:54.248768",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
