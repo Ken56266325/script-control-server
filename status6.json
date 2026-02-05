@@ -31912,6 +31912,15 @@
             "countdown_start_time": "2026-02-06T01:43:55.401346",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "eugene56363",
+            "android_id": "c5751cc27ef5b1ec93c9d22bf941b535",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-02-12T18:27:47.676104",
+            "affiliation_balance": 0
         }
     ],
     "references": {
