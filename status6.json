@@ -11879,7 +11879,8 @@
                 "RazafyijlcqWLe",
                 "Jostinotm53loAp",
                 "razafitSUgPv6y",
-                "Arnoldz3yxmQgv"
+                "Arnoldz3yxmQgv",
+                "Silvanot9EHz4aDl"
             ],
             "status": "inactive",
             "countdown_start_time": "2026-01-22T08:39:44.630157",
@@ -31878,6 +31879,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-02-12T02:27:07.677865",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Silvanot9EHz4aDl",
+            "android_id": "90bf92f4652ed63fc09e56c3e6dad7b8",
+            "referred_by": "PertinotlrajveKh",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-02-05T17:58:56.508466",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
