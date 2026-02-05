@@ -31818,7 +31818,8 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-02-10T15:18:05.057473",
-            "affiliation_balance": 0
+            "affiliation_balance": 0,
+            "plan": "Basique"
         },
         {
             "id": "Hery536262",
