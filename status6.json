@@ -31528,7 +31528,7 @@
             "android_id": "d30f1b60c5caaaae68297b0ceb8e2c47",
             "referred_by": "PertinotlrajveKh",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-02-06T02:12:58.778660",
             "affiliation_balance": 0,
             "plan": "Basique"
@@ -31918,7 +31918,7 @@
             "android_id": "c5751cc27ef5b1ec93c9d22bf941b535",
             "referred_by": null,
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-02-06T03:28:14.147511",
             "affiliation_balance": 0,
             "plan": "Basique"
