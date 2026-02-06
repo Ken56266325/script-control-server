@@ -2569,7 +2569,7 @@
             "referred_to": [
                 "Ando6819202"
             ],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-02-06T09:18:52.499261",
             "affiliation_balance": 0,
             "plan": "Basique",
@@ -11297,7 +11297,7 @@
             "android_id": "aedd3fc4bc38df161f53eb9f2b737135",
             "referred_by": "Cetone479580",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-02-06T08:57:00.177000",
             "affiliation_balance": 0,
             "plan": "Basique",
@@ -16310,7 +16310,7 @@
             "referred_to": [
                 "bienaimeLLcwbnRD"
             ],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-02-06T09:13:10.025360",
             "affiliation_balance": 0,
             "plan": "Basique",
