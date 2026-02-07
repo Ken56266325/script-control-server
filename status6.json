@@ -9076,7 +9076,8 @@
                 "TantelyrBeYCYFA",
                 "Nirina4VMrW1jQ",
                 "JoelsonnO94fab6",
-                "Fenitrajzc88nFe"
+                "Fenitrajzc88nFe",
+                "HasinaGGq9PwpR"
             ],
             "status": "inactive",
             "countdown_start_time": "2026-02-06T08:10:59.368579",
@@ -31994,6 +31995,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-02-07T16:12:50.018927",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "HasinaGGq9PwpR",
+            "android_id": "6c4cb3205cb36cd6922ac11d7b6a1476",
+            "referred_by": "Tolotra68199320",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-02-07T17:41:54.064999",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
