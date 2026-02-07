@@ -27500,7 +27500,7 @@
             "android_id": "2621e69bcf142d23d151317776d7d96a",
             "referred_by": "SquidPjkazdNC",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-02-07T11:29:00.615007",
             "affiliation_balance": 0,
             "plan": "Basique"
@@ -31027,7 +31027,7 @@
             "referred_to": [
                 "LaurenciaEBftcqc5"
             ],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-02-07T11:31:11.008180",
             "affiliation_balance": 0,
             "plan": "Basique"
