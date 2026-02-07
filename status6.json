@@ -13022,7 +13022,8 @@
                 "Haja6LaXxXlN",
                 "LeonardU64X1O0u",
                 "SambatraTZIxdvhY",
-                "Jesephekl98OqI"
+                "Jesephekl98OqI",
+                "NoutahhlGFCpX47"
             ],
             "status": "active",
             "countdown_start_time": "2026-02-10T08:38:58.532367",
@@ -32025,6 +32026,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-02-07T19:12:35.220907",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "NoutahhlGFCpX47",
+            "android_id": "ffc0a951829884c2144c2c8202f53209",
+            "referred_by": "Noutahtahy6rRaqvU",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-02-07T18:32:10.194968",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
