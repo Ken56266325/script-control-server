@@ -2366,7 +2366,8 @@
                 "OppooFqTGc9dB",
                 "Mbola7hshtQPw",
                 "ZETECX9Xk7QK",
-                "AlahadygHZke3PH"
+                "AlahadygHZke3PH",
+                "GrandgrVBxGOd"
             ],
             "status": "active",
             "countdown_start_time": "2026-02-09T22:21:33.615778",
@@ -32241,6 +32242,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-02-10T02:23:48.759324",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "GrandgrVBxGOd",
+            "android_id": "9f8cf9604dd0112e198564cc912a1ce9",
+            "referred_by": "RanofaAuto",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-02-10T04:16:11.955291",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
