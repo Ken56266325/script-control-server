@@ -25539,7 +25539,8 @@
                 "KevindahWHMLr",
                 "Ainac8xV2xA0",
                 "AliceBfR2lKbh",
-                "StalloneHUihA8dL"
+                "StalloneHUihA8dL",
+                "FlashKSnA0Zw8"
             ],
             "status": "active",
             "countdown_start_time": "2026-02-13T19:58:03.418730",
@@ -32187,6 +32188,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-02-09T15:26:47.185228",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "FlashKSnA0Zw8",
+            "android_id": "4e921b5dd5315ff82508858390ccb8cd",
+            "referred_by": "SquidPjkazdNC",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-02-09T15:33:22.211259",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
