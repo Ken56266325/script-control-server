@@ -32277,6 +32277,15 @@
             "countdown_start_time": "2026-02-17T16:09:22.672404",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "stefy52562",
+            "android_id": "54eb9ead71a2f2d20a58eb353cb2c397",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-02-17T19:07:40.653274",
+            "affiliation_balance": 0
         }
     ],
     "references": {
