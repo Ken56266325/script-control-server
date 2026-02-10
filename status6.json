@@ -32195,7 +32195,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2026-02-16T16:37:58.909656",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -32274,7 +32274,7 @@
             "referred_by": "BarhpLe84xF",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-10T16:09:22.672404",
+            "countdown_start_time": "2026-02-17T16:09:22.672404",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
