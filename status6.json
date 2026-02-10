@@ -19932,7 +19932,8 @@
                 "Joelledmn9lCKd",
                 "BotakelyfxIGGt27",
                 "Radix8wsn21Hi",
-                "NinatioranadhtPl6zu3r"
+                "NinatioranadhtPl6zu3r",
+                "RotsianaelisalFBbj71y"
             ],
             "status": "inactive",
             "countdown_start_time": "2026-02-09T10:12:04.422885",
@@ -32308,6 +32309,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-02-11T04:51:37.605479",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "RotsianaelisalFBbj71y",
+            "android_id": "a4c3bc110ea66fecc0ee6c0c20ddcaf3",
+            "referred_by": "NadiaxEHQNbby",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-02-11T04:53:26.983299",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
