@@ -30433,7 +30433,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2026-02-09T20:36:41.299618",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 3000,
             "plan": "Basique"
         },
         {
@@ -31334,8 +31334,8 @@
             "android_id": "6c558d7f05715709b10738e330cecea4",
             "referred_by": "GangAvfK1Yn1",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-10T00:17:07.208381",
+            "status": "active",
+            "countdown_start_time": "2026-02-17T15:12:08.240171",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
