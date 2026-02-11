@@ -31187,12 +31187,11 @@
             "android_id": "9827565f15e5ead98b5ca9f1ab0c8f9f",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-11T12:14:19.833281",
+            "status": "active",
+            "countdown_start_time": "2026-02-12T03:33:52.956192",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 16958,
-            "countdown_paused": true
+            "countdown_paused": false
         },
         {
             "id": "Jostinotm53loAp",
