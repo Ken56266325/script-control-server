@@ -569,11 +569,10 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-11T23:19:14.505239",
+            "countdown_start_time": "2026-06-07T08:30:32.284780",
             "affiliation_balance": 0,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "plan": "Basique",
-            "paused_remaining_time": 9969022,
             "pause_count": 1
         },
         {
