@@ -31565,12 +31565,11 @@
             "android_id": "d30f1b60c5caaaae68297b0ceb8e2c47",
             "referred_by": "PertinotlrajveKh",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-11T22:22:45.154603",
+            "status": "active",
+            "countdown_start_time": "2026-02-18T23:12:05.657453",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 604618,
-            "countdown_paused": true
+            "countdown_paused": false
         },
         {
             "id": "Njaka_rFaEUcRJ5",
