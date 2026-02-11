@@ -4924,7 +4924,8 @@
                 "FANEVAw40iwvcT",
                 "AIMEvALdmKuK",
                 "BeloloTG5auK0BF4w",
-                "TOKYOyKeLIhL"
+                "TOKYOyKeLIhL",
+                "AINAUj68RVRn"
             ],
             "status": "inactive",
             "countdown_start_time": "2026-02-10T16:06:58.613285",
@@ -32319,6 +32320,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-02-18T08:18:34.078194",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "AINAUj68RVRn",
+            "android_id": "ad80be6fd88f7a4093e4f8f09e4f56a1",
+            "referred_by": "Cetone479580",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-02-11T16:29:58.931414",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
