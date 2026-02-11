@@ -32109,9 +32109,11 @@
             "referred_by": "Soso79103",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-15T08:29:49.102797",
+            "countdown_start_time": "2026-02-11T14:58:24.058679",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 322285,
+            "countdown_paused": true
         },
         {
             "id": "TojoRandriaszRRCcvu",
