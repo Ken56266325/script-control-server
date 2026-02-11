@@ -569,10 +569,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-06-07T08:29:37.043499",
+            "countdown_start_time": "2026-02-11T23:19:14.505239",
             "affiliation_balance": 0,
-            "countdown_paused": false,
-            "plan": "Basique"
+            "countdown_paused": true,
+            "plan": "Basique",
+            "paused_remaining_time": 9969022,
+            "pause_count": 1
         },
         {
             "id": "Tatamo5394",
