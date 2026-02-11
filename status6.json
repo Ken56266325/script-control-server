@@ -568,12 +568,11 @@
             "android_id": "1a2e492d8d257b5014a49740653a9f65",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-11T10:39:00.355236",
+            "status": "active",
+            "countdown_start_time": "2026-06-07T08:29:37.043499",
             "affiliation_balance": 0,
-            "countdown_paused": true,
-            "plan": "Basique",
-            "paused_remaining_time": 9969054
+            "countdown_paused": false,
+            "plan": "Basique"
         },
         {
             "id": "Tatamo5394",
