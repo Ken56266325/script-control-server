@@ -25553,9 +25553,11 @@
                 "MaxvyhZcufF"
             ],
             "status": "active",
-            "countdown_start_time": "2026-02-13T19:58:03.418730",
+            "countdown_start_time": "2026-02-11T13:08:30.462569",
             "affiliation_balance": 6000,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 197372,
+            "countdown_paused": true
         },
         {
             "id": "Kagami7WTXfNxw",
