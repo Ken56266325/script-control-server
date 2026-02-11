@@ -29399,9 +29399,11 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-12T19:35:33.609304",
+            "countdown_start_time": "2026-02-11T22:28:32.627768",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 76020,
+            "countdown_paused": true
         },
         {
             "id": "jean341999gnDxxlHX",
