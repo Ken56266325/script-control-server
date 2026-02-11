@@ -32249,9 +32249,11 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-17T14:39:18.533910",
+            "countdown_start_time": "2026-02-11T22:41:30.299299",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 489468,
+            "countdown_paused": true
         },
         {
             "id": "ARDOSVDQJ2dSC",
