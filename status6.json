@@ -31567,9 +31567,11 @@
             "referred_by": "PertinotlrajveKh",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-18T22:19:43.899711",
+            "countdown_start_time": "2026-02-11T22:22:45.154603",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 604618,
+            "countdown_paused": true
         },
         {
             "id": "Njaka_rFaEUcRJ5",
