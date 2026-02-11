@@ -26928,12 +26928,11 @@
             "referred_to": [
                 "taloryzmD3imlf"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-11T12:13:53.324726",
+            "status": "active",
+            "countdown_start_time": "2026-02-12T09:39:42.488943",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 39656,
-            "countdown_paused": true
+            "countdown_paused": false
         },
         {
             "id": "5626634",
