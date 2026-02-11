@@ -27741,9 +27741,11 @@
                 "Vrai12125050"
             ],
             "status": "active",
-            "countdown_start_time": "2026-02-18T12:18:05.473087",
+            "countdown_start_time": "2026-02-11T23:32:57.713067",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 564307,
+            "countdown_paused": true
         },
         {
             "id": "Andriatsirefesy2CvYWldf",
