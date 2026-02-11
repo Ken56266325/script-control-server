@@ -31625,9 +31625,11 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-15T11:21:51.638305",
+            "countdown_start_time": "2026-02-11T16:15:56.137501",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 327955,
+            "countdown_paused": true
         },
         {
             "id": "InputVipZgZygGrm",
