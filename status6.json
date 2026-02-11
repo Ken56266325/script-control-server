@@ -3972,7 +3972,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2026-02-13T12:19:28.978234",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -13263,8 +13263,8 @@
             "referred_to": [
                 "Andrib502kg3o"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-08T16:52:42.021914",
+            "status": "active",
+            "countdown_start_time": "2026-02-18T08:24:42.144161",
             "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
