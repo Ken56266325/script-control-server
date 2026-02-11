@@ -31185,9 +31185,11 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-11T16:56:58.482637",
+            "countdown_start_time": "2026-02-11T12:14:19.833281",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 16958,
+            "countdown_paused": true
         },
         {
             "id": "Jostinotm53loAp",
