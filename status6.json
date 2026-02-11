@@ -27109,12 +27109,11 @@
             "android_id": "926b8076654297f54279b51a9800e610",
             "referred_by": "Cetone479580",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-11T12:14:03.019554",
+            "status": "active",
+            "countdown_start_time": "2026-02-12T04:33:40.795317",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 21282,
-            "countdown_paused": true
+            "countdown_paused": false
         },
         {
             "id": "MayaYa5exCRl",
