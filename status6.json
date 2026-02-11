@@ -27111,9 +27111,11 @@
             "referred_by": "Cetone479580",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-11T18:08:45.124370",
+            "countdown_start_time": "2026-02-11T12:14:03.019554",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 21282,
+            "countdown_paused": true
         },
         {
             "id": "MayaYa5exCRl",
