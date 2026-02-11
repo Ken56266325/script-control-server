@@ -32353,7 +32353,8 @@
             "status": "active",
             "countdown_start_time": "2026-02-11T19:44:26.718539",
             "affiliation_balance": 0,
-            "countdown_paused": false
+            "countdown_paused": false,
+            "plan": "Basique"
         }
     ],
     "references": {
