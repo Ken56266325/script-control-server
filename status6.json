@@ -22509,12 +22509,11 @@
             "android_id": "1af564e8eaed91d0fb8ee523e00e7352",
             "referred_by": "Elie69103580",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-12T14:22:19.792325",
+            "status": "active",
+            "countdown_start_time": "2026-02-18T20:47:10.732391",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 520519,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
