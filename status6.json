@@ -32139,12 +32139,11 @@
             "android_id": "fa6f60767b46e032f8ac0244f1f84edb",
             "referred_by": "Soso79103",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-11T14:58:24.058679",
+            "status": "active",
+            "countdown_start_time": "2026-02-16T02:26:35.121050",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 322285,
-            "countdown_paused": true
+            "countdown_paused": false
         },
         {
             "id": "TojoRandriaszRRCcvu",
