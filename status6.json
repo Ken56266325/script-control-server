@@ -25609,7 +25609,9 @@
             "id": "YoungSFVsh3wb6n",
             "android_id": "04e5d8f1f6a6916bb5ad8af605c580f3",
             "referred_by": "Grav69130",
-            "referred_to": [],
+            "referred_to": [
+                "RodiadYHI6aw7"
+            ],
             "status": "active",
             "countdown_start_time": "2026-02-16T13:26:10.021779",
             "affiliation_balance": 0,
@@ -32491,6 +32493,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-02-13T01:13:52.450566",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "RodiadYHI6aw7",
+            "android_id": "44049711cc0cddc6959731cfac72c527",
+            "referred_by": "YoungSFVsh3wb6n",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-02-13T02:13:56.281063",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
