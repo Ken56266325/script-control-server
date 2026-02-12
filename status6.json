@@ -25954,9 +25954,12 @@
             "referred_by": "Cetone479580",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-12T13:40:38.338402",
+            "countdown_start_time": "2026-02-12T08:18:47.099677",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 19311,
+            "countdown_paused": true,
+            "pause_count": 1
         },
         {
             "id": "UnohgAU559y3",
