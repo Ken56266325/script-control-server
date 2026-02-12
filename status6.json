@@ -32191,12 +32191,11 @@
             "referred_by": "SNeddie58103",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-12T16:10:25.457011",
+            "countdown_start_time": "2026-02-19T14:02:31.184894",
             "affiliation_balance": 0,
             "plan": "Basique",
             "pause_count": 0,
-            "paused_remaining_time": 597116,
-            "countdown_paused": true
+            "countdown_paused": false
         },
         {
             "id": "WalckerHeritinaADZejFQz",
