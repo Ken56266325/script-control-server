@@ -31319,9 +31319,12 @@
             "referred_by": "Mamymr4K8n6o",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-13T00:10:39.306633",
+            "countdown_start_time": "2026-02-12T07:07:02.779727",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 61416,
+            "countdown_paused": true,
+            "pause_count": 1
         },
         {
             "id": "MpanjakaPXPzBdqj",
