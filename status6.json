@@ -32118,12 +32118,11 @@
             "android_id": "934b074d35eef2358bb32428c019b85f",
             "referred_by": "ZANDRYBOTAIaa52qRj",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-12T08:03:36.472511",
+            "status": "active",
+            "countdown_start_time": "2026-02-13T07:31:28.978481",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 20166,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
