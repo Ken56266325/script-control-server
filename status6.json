@@ -29890,12 +29890,11 @@
             "referred_to": [
                 "AlexandreqrceVYTa"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-12T12:23:50.236751",
+            "status": "active",
+            "countdown_start_time": "2026-02-13T12:49:56.989225",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 75712,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
