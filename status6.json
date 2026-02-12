@@ -32277,9 +32277,11 @@
                 "BanniiBqq3Bdr8"
             ],
             "status": "active",
-            "countdown_start_time": "2026-02-16T16:37:58.909656",
+            "countdown_start_time": "2026-02-12T16:07:01.135238",
             "affiliation_balance": 1000,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 347457,
+            "countdown_paused": true
         },
         {
             "id": "FlashKSnA0Zw8",
