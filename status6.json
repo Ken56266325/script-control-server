@@ -31987,12 +31987,11 @@
             "android_id": "90bf92f4652ed63fc09e56c3e6dad7b8",
             "referred_by": "PertinotlrajveKh",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-12T09:50:23.027168",
+            "status": "active",
+            "countdown_start_time": "2026-02-14T07:41:54.533634",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 140173,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
