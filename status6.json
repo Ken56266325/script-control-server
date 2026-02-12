@@ -25816,12 +25816,11 @@
             "android_id": "dfb90565a4d5d55c099001dc3970d65f",
             "referred_by": "Velotsara681900",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-12T03:28:28.840954",
+            "status": "active",
+            "countdown_start_time": "2026-02-18T12:10:32.438847",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 507646,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
