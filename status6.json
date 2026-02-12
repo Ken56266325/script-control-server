@@ -28366,9 +28366,12 @@
             "referred_by": "Cetone479580",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-13T18:32:39.630499",
+            "countdown_start_time": "2026-02-12T22:16:55.773840",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 72943,
+            "countdown_paused": true,
+            "pause_count": 1
         },
         {
             "id": "TaskQLZumr52",
