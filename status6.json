@@ -31125,9 +31125,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-15T14:55:46.549154",
+            "countdown_start_time": "2026-02-12T16:25:08.693718",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 253837,
+            "countdown_paused": true,
+            "pause_count": 1
         },
         {
             "id": "Faniryzul5L1vy",
