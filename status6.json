@@ -29394,12 +29394,11 @@
             "android_id": "a177614624e2973eb2dadbe8047e96e2",
             "referred_by": "Claudin6189393",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-12T08:27:06.935371",
+            "status": "active",
+            "countdown_start_time": "2026-02-15T01:34:27.477547",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 228904,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
