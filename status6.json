@@ -27431,9 +27431,12 @@
             "referred_by": "Cetone479580",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-12T13:40:10.021033",
+            "countdown_start_time": "2026-02-12T08:16:59.517911",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 19390,
+            "countdown_paused": true,
+            "pause_count": 1
         },
         {
             "id": "Brinot3YpusKbP",
