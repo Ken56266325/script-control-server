@@ -31588,9 +31588,12 @@
             "referred_by": "Doda6920",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-14T15:21:41.811319",
+            "countdown_start_time": "2026-02-12T21:33:53.307758",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 150468,
+            "countdown_paused": true,
+            "pause_count": 1
         },
         {
             "id": "RovaPByWDoZ0",
