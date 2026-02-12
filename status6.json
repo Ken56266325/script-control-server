@@ -24603,7 +24603,8 @@
                 "task26272",
                 "Sedmmb62xh3",
                 "Levoanao11W2mwD",
-                "LevoanadpNM0hQK"
+                "LevoanadpNM0hQK",
+                "Frigap95GwPY7"
             ],
             "status": "inactive",
             "countdown_start_time": "2026-02-11T11:47:48.283052",
@@ -32478,6 +32479,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-02-12T23:10:05.375784",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Frigap95GwPY7",
+            "android_id": "62fd0c904516577ce5f75179cd69bc81",
+            "referred_by": "Ferenand53626",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-02-13T01:13:52.450566",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
