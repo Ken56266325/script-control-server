@@ -31625,12 +31625,11 @@
             "android_id": "d30f1b60c5caaaae68297b0ceb8e2c47",
             "referred_by": "PertinotlrajveKh",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-12T09:47:12.377936",
+            "status": "active",
+            "countdown_start_time": "2026-02-19T08:09:43.595241",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 566693,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
