@@ -31589,10 +31589,12 @@
             "referred_by": "PertinotlrajveKh",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-18T23:12:05.657453",
+            "countdown_start_time": "2026-02-12T09:47:12.377936",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 566693,
+            "pause_count": 1
         },
         {
             "id": "Njaka_rFaEUcRJ5",
