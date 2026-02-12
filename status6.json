@@ -31650,12 +31650,11 @@
             "android_id": "4ef5e00153a5c189c843b1d38db74207",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-11T16:15:56.137501",
+            "status": "active",
+            "countdown_start_time": "2026-02-16T04:19:27.564828",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 327955,
-            "countdown_paused": true
+            "countdown_paused": false
         },
         {
             "id": "InputVipZgZygGrm",
