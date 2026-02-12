@@ -29352,9 +29352,12 @@
             "referred_by": "Miahya3WCQ5sa",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-15T20:23:58.030907",
+            "countdown_start_time": "2026-02-12T15:58:03.299940",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 275154,
+            "countdown_paused": true,
+            "pause_count": 1
         },
         {
             "id": "TambyIm9lqmmI",
