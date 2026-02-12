@@ -31289,9 +31289,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-13T00:50:45.845144",
+            "countdown_start_time": "2026-02-12T12:46:25.343877",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 43460,
+            "countdown_paused": true,
+            "pause_count": 1
         },
         {
             "id": "NELSONOrdiUlDq",
