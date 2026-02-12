@@ -32045,9 +32045,12 @@
             "referred_by": "ZANDRYBOTAIaa52qRj",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-12T13:39:42.898399",
+            "countdown_start_time": "2026-02-12T08:03:36.472511",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 20166,
+            "countdown_paused": true,
+            "pause_count": 1
         },
         {
             "id": "HasinaGGq9PwpR",
