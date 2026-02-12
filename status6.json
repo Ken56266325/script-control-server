@@ -19324,12 +19324,11 @@
             "android_id": "e3c24bdd31f567415d0a5c5d3ba6ae48",
             "referred_by": "rolain6NmkRYYg",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-12T16:25:02.536873",
+            "status": "active",
+            "countdown_start_time": "2026-02-16T01:24:13.902177",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 265234,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
