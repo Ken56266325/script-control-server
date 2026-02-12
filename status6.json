@@ -32545,6 +32545,16 @@
             "countdown_start_time": "2026-02-13T05:49:46.244750",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "SantatrafTdnMwLB",
+            "android_id": "3706d49efbca3e59046dcd495e7285ee",
+            "referred_by": "37988562",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-02-13T08:51:31.196868",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
