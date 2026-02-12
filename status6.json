@@ -32318,9 +32318,12 @@
             "referred_by": "Velotsara681900",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-17T09:47:17.303090",
+            "countdown_start_time": "2026-02-12T14:25:11.814746",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 415325,
+            "countdown_paused": true,
+            "pause_count": 1
         },
         {
             "id": "NinatioranadhtPl6zu3r",
