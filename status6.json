@@ -32210,10 +32210,12 @@
             "referred_by": "Soso79103",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-16T02:26:35.121050",
+            "countdown_start_time": "2026-02-12T22:36:16.407451",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 273018,
+            "pause_count": 1
         },
         {
             "id": "TojoRandriaszRRCcvu",
