@@ -1697,10 +1697,12 @@
                 "Lapa0utQgM72"
             ],
             "status": "active",
-            "countdown_start_time": "2026-02-13T10:52:14.283573",
+            "countdown_start_time": "2026-02-12T16:17:16.874240",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 66897,
+            "pause_count": 1
         },
         {
             "id": "Nini60132",
