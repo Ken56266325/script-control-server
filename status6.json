@@ -9096,7 +9096,8 @@
                 "JoelsonnO94fab6",
                 "Fenitrajzc88nFe",
                 "HasinaGGq9PwpR",
-                "HasinapN2THnEz"
+                "HasinapN2THnEz",
+                "Francis1UbPGJ7s"
             ],
             "status": "inactive",
             "countdown_start_time": "2026-02-06T08:10:59.368579",
@@ -32525,6 +32526,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-02-13T02:13:56.281063",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Francis1UbPGJ7s",
+            "android_id": "13cf8b032dca95a7c65381660f2263b9",
+            "referred_by": "Tolotra68199320",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-02-13T05:49:46.244750",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
