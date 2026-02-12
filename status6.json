@@ -31302,9 +31302,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-13T01:50:20.236549",
+            "countdown_start_time": "2026-02-12T12:49:15.682834",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 46864,
+            "countdown_paused": true,
+            "pause_count": 1
         },
         {
             "id": "Angell1vGFKqo",
