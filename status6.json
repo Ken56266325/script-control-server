@@ -30605,9 +30605,12 @@
             "referred_by": "PertinotlrajveKh",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-15T18:38:12.476291",
+            "countdown_start_time": "2026-02-12T21:23:40.716970",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 249271,
+            "countdown_paused": true,
+            "pause_count": 1
         },
         {
             "id": "PertyYHzaCWsm",
