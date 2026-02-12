@@ -24784,10 +24784,11 @@
                 "RosiakoDCkS6o"
             ],
             "status": "active",
-            "countdown_start_time": "2026-02-14T11:32:29.147774",
+            "countdown_start_time": "2026-02-12T10:36:47.981026",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 176141
         },
         {
             "id": "NaomyE10lkrZB",
