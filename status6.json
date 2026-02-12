@@ -28043,9 +28043,12 @@
             "referred_by": "JassBoy58103",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-13T14:26:41.825071",
+            "countdown_start_time": "2026-02-12T17:42:32.108505",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 74649,
+            "countdown_paused": true,
+            "pause_count": 1
         },
         {
             "id": "XavierIscardi6q8cQzT0",
