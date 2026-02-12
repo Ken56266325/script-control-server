@@ -23767,10 +23767,12 @@
                 "BoandaKlhTvETN"
             ],
             "status": "active",
-            "countdown_start_time": "2026-02-14T21:42:19.780838",
+            "countdown_start_time": "2026-02-12T20:15:06.979125",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 178032,
+            "pause_count": 1
         },
         {
             "id": "Tody4TBAcnmI",
