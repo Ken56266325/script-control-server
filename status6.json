@@ -31219,10 +31219,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-13T03:51:26.822793",
+            "countdown_start_time": "2026-02-12T13:42:14.224016",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 50952,
+            "pause_count": 1
         },
         {
             "id": "Jostinotm53loAp",
