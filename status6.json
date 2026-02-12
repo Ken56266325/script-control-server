@@ -12046,11 +12046,12 @@
             "referred_by": "Joel681921",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-17T21:54:57.082005",
+            "countdown_start_time": "2026-02-12T20:51:53.315757",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 1
+            "countdown_paused": true,
+            "pause_count": 2,
+            "paused_remaining_time": 435783
         },
         {
             "id": "Oliv24aGx6CKmZ",
