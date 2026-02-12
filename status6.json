@@ -19318,10 +19318,12 @@
             "referred_by": "rolain6NmkRYYg",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-15T18:05:37.492487",
+            "countdown_start_time": "2026-02-12T16:25:02.536873",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 265234,
+            "pause_count": 1
         },
         {
             "id": "manantenaLpAjgzy6",
