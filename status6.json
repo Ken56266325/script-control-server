@@ -27436,13 +27436,12 @@
             "android_id": "973cd92389893adc6e159fd87205a8a9",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-12T14:12:00.534308",
+            "status": "active",
+            "countdown_start_time": "2026-02-15T16:06:00.356967",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 243999
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "YAMAL1sFuvqfr",
