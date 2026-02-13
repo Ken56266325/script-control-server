@@ -32217,12 +32217,11 @@
             "android_id": "4e5f55ad3d1f059048666ad32c0190ad",
             "referred_by": "Soso79103",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-11T12:18:49.125155",
+            "status": "active",
+            "countdown_start_time": "2026-02-19T10:50:20.458991",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 516436,
-            "countdown_paused": true
+            "countdown_paused": false
         },
         {
             "id": "Andriamiandrisoa5WiWRlYe",
