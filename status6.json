@@ -25578,7 +25578,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2026-02-13T19:58:14.012456",
-            "affiliation_balance": 7000,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -27914,10 +27914,11 @@
             "android_id": "75adc443d47027cbce4ff9befcc27335",
             "referred_by": "SquidPjkazdNC",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-12T19:34:58.580658",
+            "status": "active",
+            "countdown_start_time": "2026-02-20T05:03:07.508661",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "pause_count": 0
         },
         {
             "id": "keneetFLpey",
