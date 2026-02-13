@@ -32606,9 +32606,12 @@
             "referred_by": "Rudy_ardmP9ICOIc",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-13T20:13:36.686719",
+            "countdown_start_time": "2026-02-13T14:29:35.786977",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 20640,
+            "countdown_paused": true,
+            "pause_count": 1
         }
     ],
     "references": {
