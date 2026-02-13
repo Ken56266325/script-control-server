@@ -31889,9 +31889,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-18T16:18:27.908489",
+            "countdown_start_time": "2026-02-13T19:58:36.076201",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 418791,
+            "countdown_paused": true,
+            "pause_count": 1
         },
         {
             "id": "Berthinoc5hkS8x7",
