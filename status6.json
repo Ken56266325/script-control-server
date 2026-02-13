@@ -7978,10 +7978,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-14T23:37:05.721204",
+            "countdown_start_time": "2026-02-13T11:12:07.816771",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 131097,
+            "pause_count": 1
         },
         {
             "id": "Paul578193929",
