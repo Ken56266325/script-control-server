@@ -23887,12 +23887,11 @@
             "referred_to": [
                 "UpsnEBk1Ol"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-13T12:35:08.710897",
+            "status": "active",
+            "countdown_start_time": "2026-02-15T22:24:09.262499",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 188531,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
