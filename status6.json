@@ -31175,12 +31175,11 @@
             "android_id": "5c8de7dfd906275c43df30a07fbf5cae",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-12T16:25:08.693718",
+            "status": "active",
+            "countdown_start_time": "2026-02-16T18:03:34.512992",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 253837,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
