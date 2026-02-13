@@ -32208,12 +32208,11 @@
             "android_id": "fa6f60767b46e032f8ac0244f1f84edb",
             "referred_by": "Soso79103",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-12T22:36:16.407451",
+            "status": "active",
+            "countdown_start_time": "2026-02-16T10:48:28.930944",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 273018,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
