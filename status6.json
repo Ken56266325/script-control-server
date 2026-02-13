@@ -32394,12 +32394,11 @@
             "android_id": "9f8cf9604dd0112e198564cc912a1ce9",
             "referred_by": "RanofaAuto",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-11T16:15:44.136936",
+            "status": "active",
+            "countdown_start_time": "2026-02-18T22:59:22.252607",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 475962,
-            "countdown_paused": true
+            "countdown_paused": false
         },
         {
             "id": "miao2cqupBcJwl",
