@@ -1696,12 +1696,11 @@
                 "HyacintheRv9YXTYQ",
                 "Lapa0utQgM72"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-12T16:17:16.874240",
+            "status": "active",
+            "countdown_start_time": "2026-02-13T22:11:59.075304",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 66897,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
