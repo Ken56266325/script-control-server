@@ -32573,12 +32573,11 @@
             "android_id": "13cf8b032dca95a7c65381660f2263b9",
             "referred_by": "Tolotra68199320",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-13T12:29:40.659570",
+            "status": "active",
+            "countdown_start_time": "2026-02-14T13:46:24.374076",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 80122,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
