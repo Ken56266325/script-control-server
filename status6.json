@@ -12892,11 +12892,10 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-13T07:07:27.715199",
+            "countdown_start_time": "2026-02-17T23:27:49.988336",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 403868,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
