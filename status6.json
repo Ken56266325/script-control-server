@@ -30559,12 +30559,11 @@
             "android_id": "d67f2e163cbd34e13bee2095cdb64692",
             "referred_by": "YangodatsilaIZbGh1WZ",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-12T20:34:46.864269",
+            "status": "active",
+            "countdown_start_time": "2026-02-16T23:36:05.695733",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 316368,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
