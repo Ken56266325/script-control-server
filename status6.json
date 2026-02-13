@@ -2230,10 +2230,12 @@
                 "TeckakfNOECr4"
             ],
             "status": "active",
-            "countdown_start_time": "2026-02-18T21:46:26.432707",
+            "countdown_start_time": "2026-02-13T13:42:48.142256",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 461018,
+            "pause_count": 1
         },
         {
             "id": "Marie581032",
