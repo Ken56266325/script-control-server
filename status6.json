@@ -27736,9 +27736,12 @@
             "referred_by": "Cetone479580",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-21T12:57:40.498732",
+            "countdown_start_time": "2026-02-13T16:20:04.749367",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 679055,
+            "countdown_paused": true,
+            "pause_count": 1
         },
         {
             "id": "Mahefalanto2bmLKPep",
