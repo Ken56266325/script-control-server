@@ -32362,12 +32362,11 @@
             "android_id": "4dd6a09d86745f10de8fb911d213857f",
             "referred_by": "Velotsara681900",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-13T00:23:33.829237",
+            "status": "active",
+            "countdown_start_time": "2026-02-17T15:06:38.736492",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 379423,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
