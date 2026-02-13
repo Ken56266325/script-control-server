@@ -3310,11 +3310,10 @@
                 "RhianeebWDz9iu"
             ],
             "status": "inactive",
-            "countdown_start_time": "2026-02-12T02:56:08.310294",
+            "countdown_start_time": "2026-02-19T18:49:22.277488",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 24858,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
