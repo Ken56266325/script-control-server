@@ -2229,12 +2229,11 @@
                 "Cenioravoavylze7d4tH",
                 "TeckakfNOECr4"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-13T13:42:48.142256",
+            "status": "active",
+            "countdown_start_time": "2026-02-19T00:05:56.744212",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 461018,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
