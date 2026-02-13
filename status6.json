@@ -19962,11 +19962,10 @@
                 "RotsianaelisalFBbj71y"
             ],
             "status": "active",
-            "countdown_start_time": "2026-02-13T10:48:05.869935",
+            "countdown_start_time": "2026-02-20T09:24:55.972662",
             "affiliation_balance": 5000,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 599800
+            "countdown_paused": false
         },
         {
             "id": "TravyI3huG6IY",
