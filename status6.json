@@ -2262,12 +2262,11 @@
                 "rouRJu1waSw",
                 "amira3nbExdQd"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-12T17:44:16.975758",
+            "status": "active",
+            "countdown_start_time": "2026-02-14T04:34:59.922222",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 78111,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
