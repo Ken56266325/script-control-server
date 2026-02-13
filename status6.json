@@ -32619,12 +32619,11 @@
             "android_id": "98b05569704aaa6c5a1dfde070a9b482",
             "referred_by": "Rudy_ardmP9ICOIc",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-13T14:29:35.786977",
+            "status": "active",
+            "countdown_start_time": "2026-02-13T23:13:46.320884",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 20640,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1
         }
     ],
