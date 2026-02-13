@@ -3645,7 +3645,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-12-13T18:16:05.466443",
-            "affiliation_balance": 4000,
+            "affiliation_balance": 5000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -16792,11 +16792,12 @@
                 "Tafitasom6R1oQy04",
                 "OlyNvMSQmhH"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-08-26T17:25:39.617388",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2026-02-20T10:36:44.013048",
+            "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": false,
+            "pause_count": 0
         },
         {
             "id": "Alice00OMYXKE",
