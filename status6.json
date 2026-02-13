@@ -31259,12 +31259,11 @@
             "android_id": "9827565f15e5ead98b5ca9f1ab0c8f9f",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-12T13:42:14.224016",
+            "status": "active",
+            "countdown_start_time": "2026-02-13T20:30:02.192588",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 50952,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
