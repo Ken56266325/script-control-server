@@ -31177,11 +31177,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-16T18:03:34.512992",
+            "countdown_start_time": "2026-02-13T21:02:17.474902",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 1
+            "countdown_paused": true,
+            "pause_count": 2,
+            "paused_remaining_time": 248477
         },
         {
             "id": "Faniryzul5L1vy",
