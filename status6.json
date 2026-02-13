@@ -32041,11 +32041,12 @@
             "referred_by": "PertinotlrajveKh",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-14T07:41:54.533634",
+            "countdown_start_time": "2026-02-13T11:58:21.268773",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 1
+            "countdown_paused": true,
+            "pause_count": 2,
+            "paused_remaining_time": 71013
         },
         {
             "id": "JoelahparfaisQsQ5MtZ6",
