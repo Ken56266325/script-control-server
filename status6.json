@@ -30807,12 +30807,11 @@
             "android_id": "a5dbf1e7bb7a807e2b9e01263bf99fb3",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-12T11:08:33.046556",
+            "status": "active",
+            "countdown_start_time": "2026-02-20T13:36:28.306717",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 588540,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
