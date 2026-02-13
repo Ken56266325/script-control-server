@@ -3525,10 +3525,12 @@
                 "Andriamiandrisoa5WiWRlYe"
             ],
             "status": "active",
-            "countdown_start_time": "2026-02-15T15:36:11.888190",
+            "countdown_start_time": "2026-02-13T16:08:19.681816",
             "affiliation_balance": 5000,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 170872,
+            "pause_count": 1
         },
         {
             "id": "Hary79103",
