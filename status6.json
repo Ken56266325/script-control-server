@@ -25574,7 +25574,8 @@
                 "StalloneHUihA8dL",
                 "FlashKSnA0Zw8",
                 "PaskavjBdTymY",
-                "MaxvyhZcufF"
+                "MaxvyhZcufF",
+                "MikakelyuQMlOXm1"
             ],
             "status": "active",
             "countdown_start_time": "2026-02-13T19:58:14.012456",
@@ -32552,6 +32553,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-02-13T08:51:31.196868",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "MikakelyuQMlOXm1",
+            "android_id": "9a3deb12c2d17aeaf8b1e08aa159ce6c",
+            "referred_by": "SquidPjkazdNC",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-02-13T15:00:03.646352",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
