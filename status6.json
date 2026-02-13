@@ -30155,11 +30155,12 @@
             "referred_by": "YangodatsilaIZbGh1WZ",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-19T05:56:27.901941",
+            "countdown_start_time": "2026-02-13T17:03:56.298245",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 1
+            "countdown_paused": true,
+            "pause_count": 2,
+            "paused_remaining_time": 478351
         },
         {
             "id": "Dahalokevine10RKWf81Ab",
