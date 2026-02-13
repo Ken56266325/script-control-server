@@ -31304,9 +31304,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-14T11:14:22.277651",
+            "countdown_start_time": "2026-02-13T10:59:44.662292",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 87277,
+            "countdown_paused": true,
+            "pause_count": 1
         },
         {
             "id": "eliassefaliananH6cppMC",
