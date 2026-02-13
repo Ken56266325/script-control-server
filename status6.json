@@ -26818,12 +26818,11 @@
             "android_id": "e9a430ef167e4c8643a4c834bd5f4200",
             "referred_by": "YamaW4JS7U8S",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-13T05:27:02.858600",
+            "status": "active",
+            "countdown_start_time": "2026-02-18T06:15:16.291260",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 405629,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
