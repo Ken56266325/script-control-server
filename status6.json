@@ -25383,10 +25383,12 @@
             "referred_by": "Cetone479580",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-14T20:14:41.429237",
+            "countdown_start_time": "2026-02-13T10:33:22.964280",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 121278,
+            "pause_count": 1
         },
         {
             "id": "JerricoSteve4IoYn1Vo",
