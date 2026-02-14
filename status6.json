@@ -27704,12 +27704,11 @@
             "android_id": "fc12b07f1fcb342364cfa2c794366fa2",
             "referred_by": "Emmanuel1",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-13T21:51:35.881857",
+            "status": "active",
+            "countdown_start_time": "2026-02-16T06:17:29.453420",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 162636,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
