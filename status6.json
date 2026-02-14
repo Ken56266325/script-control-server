@@ -32241,10 +32241,12 @@
             "referred_by": "Soso79103",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-19T10:50:20.458991",
+            "countdown_start_time": "2026-02-14T14:24:17.366693",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 419163,
+            "pause_count": 1
         },
         {
             "id": "Andriamiandrisoa5WiWRlYe",
