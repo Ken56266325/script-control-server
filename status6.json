@@ -21530,12 +21530,11 @@
             "android_id": "aabe48e4608fb513ccc4a5a415a9eb8a",
             "referred_by": "Tina6819201",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-11T22:41:05.073175",
+            "status": "active",
+            "countdown_start_time": "2026-02-21T14:16:29.146604",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 585062
+            "countdown_paused": false
         },
         {
             "id": "BELOLOcQsrrdX0",
