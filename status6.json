@@ -31308,9 +31308,12 @@
             "referred_by": "PertinotlrajveKh",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-14T18:07:14.520118",
+            "countdown_start_time": "2026-02-14T13:18:52.955242",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 17301,
+            "countdown_paused": true,
+            "pause_count": 1
         },
         {
             "id": "SINITREJSUOD2cF",
