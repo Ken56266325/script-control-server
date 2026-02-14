@@ -11684,10 +11684,12 @@
                 "SphanjrVgJFpGaI"
             ],
             "status": "active",
-            "countdown_start_time": "2026-02-16T12:12:46.978510",
+            "countdown_start_time": "2026-02-14T14:53:42.990550",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 163143,
+            "pause_count": 1
         },
         {
             "id": "StephanThti5FP9",
