@@ -32436,12 +32436,11 @@
             "android_id": "9f8cf9604dd0112e198564cc912a1ce9",
             "referred_by": "RanofaAuto",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-14T09:48:41.959845",
+            "status": "active",
+            "countdown_start_time": "2026-02-19T09:15:09.505519",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 393040,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
