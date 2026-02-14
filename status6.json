@@ -32367,12 +32367,11 @@
             "referred_to": [
                 "BanniiBqq3Bdr8"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-12T16:07:01.135238",
+            "status": "active",
+            "countdown_start_time": "2026-02-18T23:01:35.433286",
             "affiliation_balance": 1000,
             "plan": "Basique",
-            "paused_remaining_time": 347457,
-            "countdown_paused": true
+            "countdown_paused": false
         },
         {
             "id": "FlashKSnA0Zw8",
