@@ -31670,12 +31670,11 @@
             "android_id": "9cbc3268fac5e4571fc39ddc86ea3042",
             "referred_by": "Grav69130",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-13T10:46:56.931167",
+            "status": "active",
+            "countdown_start_time": "2026-02-16T05:03:10.925353",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 156528,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
