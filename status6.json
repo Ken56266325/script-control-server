@@ -3310,11 +3310,12 @@
                 "RhianeebWDz9iu"
             ],
             "status": "active",
-            "countdown_start_time": "2026-02-19T18:49:22.277488",
+            "countdown_start_time": "2026-02-14T09:53:12.541317",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 1
+            "countdown_paused": true,
+            "pause_count": 2,
+            "paused_remaining_time": 464169
         },
         {
             "id": "Niaina90103",
