@@ -29486,12 +29486,11 @@
             "android_id": "a4d912153f910368da2c0b1895716ede",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-11T22:28:32.627768",
+            "status": "active",
+            "countdown_start_time": "2026-02-15T16:28:27.012947",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 76020,
-            "countdown_paused": true
+            "countdown_paused": false
         },
         {
             "id": "jean341999gnDxxlHX",
