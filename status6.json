@@ -18862,13 +18862,12 @@
             "android_id": "ee07d95ed2fa691074c35940b37c9f70",
             "referred_by": "SNeddie58103",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-13T13:26:00.790469",
+            "status": "active",
+            "countdown_start_time": "2026-02-20T05:08:15.225455",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 1,
-            "paused_remaining_time": 501792
+            "countdown_paused": false,
+            "pause_count": 1
         },
         {
             "id": "TsioryPgINzRaZ",
