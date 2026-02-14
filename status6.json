@@ -32559,9 +32559,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-20T14:08:24.602578",
+            "countdown_start_time": "2026-02-14T14:37:52.172939",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 516632,
+            "countdown_paused": true,
+            "pause_count": 1
         },
         {
             "id": "Frigap95GwPY7",
