@@ -30163,13 +30163,12 @@
             "android_id": "f5555fb8333d33310ba7cf326cc111e5",
             "referred_by": "YangodatsilaIZbGh1WZ",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-13T17:03:56.298245",
+            "status": "active",
+            "countdown_start_time": "2026-02-20T10:18:49.944690",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 478351
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "Dahalokevine10RKWf81Ab",
