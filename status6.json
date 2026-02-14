@@ -32247,12 +32247,11 @@
             "android_id": "4e5f55ad3d1f059048666ad32c0190ad",
             "referred_by": "Soso79103",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-14T14:24:17.366693",
+            "status": "active",
+            "countdown_start_time": "2026-02-19T15:22:52.069332",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 419163,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
