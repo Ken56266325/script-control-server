@@ -12776,10 +12776,12 @@
             "referred_by": "Mamitina791402",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-19T13:32:49.697198",
+            "countdown_start_time": "2026-02-14T19:17:06.713184",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 411342,
+            "pause_count": 1
         },
         {
             "id": "RovaZM27pyLd",
