@@ -7108,12 +7108,11 @@
             "referred_to": [
                 "stessieGOLvkSzH"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-14T09:29:41.570153",
+            "status": "active",
+            "countdown_start_time": "2026-02-18T12:44:53.706976",
             "affiliation_balance": 2000,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 343567,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
