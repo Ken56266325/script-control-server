@@ -32419,10 +32419,12 @@
             "referred_by": "RanofaAuto",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-18T22:59:22.252607",
+            "countdown_start_time": "2026-02-14T09:48:41.959845",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 393040,
+            "pause_count": 1
         },
         {
             "id": "miao2cqupBcJwl",
