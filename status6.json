@@ -32565,12 +32565,11 @@
             "android_id": "a935ac23800b5d2b32b3d7be02eda800",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-14T14:37:52.172939",
+            "status": "active",
+            "countdown_start_time": "2026-02-20T15:48:58.110968",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 516632,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
