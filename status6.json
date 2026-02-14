@@ -31362,11 +31362,10 @@
             "referred_by": null,
             "referred_to": [],
             "status": "inactive",
-            "countdown_start_time": "2026-02-12T12:46:25.343877",
+            "countdown_start_time": "2026-02-15T13:01:58.063253",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 43460,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
