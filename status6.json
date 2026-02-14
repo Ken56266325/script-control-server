@@ -32589,11 +32589,10 @@
             "referred_by": "37988562",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-14T11:07:32.739674",
+            "countdown_start_time": "2026-02-21T11:07:06.140419",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 604764,
-            "countdown_paused": true
+            "countdown_paused": false
         },
         {
             "id": "MikakelyuQMlOXm1",
