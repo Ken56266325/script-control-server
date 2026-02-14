@@ -31374,11 +31374,10 @@
             "referred_by": null,
             "referred_to": [],
             "status": "inactive",
-            "countdown_start_time": "2026-02-12T12:49:15.682834",
+            "countdown_start_time": "2026-02-16T02:02:25.158806",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 46864,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
