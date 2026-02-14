@@ -31474,9 +31474,12 @@
             "referred_by": "GangAvfK1Yn1",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-17T15:12:08.240171",
+            "countdown_start_time": "2026-02-14T16:43:30.968589",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 253717,
+            "countdown_paused": true,
+            "pause_count": 1
         },
         {
             "id": "BotakelyfxIGGt27",
