@@ -23894,11 +23894,12 @@
                 "UpsnEBk1Ol"
             ],
             "status": "active",
-            "countdown_start_time": "2026-02-15T22:24:09.262499",
+            "countdown_start_time": "2026-02-14T20:58:55.150994",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 1
+            "countdown_paused": true,
+            "pause_count": 2,
+            "paused_remaining_time": 91514
         },
         {
             "id": "tiavinaVQDs1VYo",
