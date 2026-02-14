@@ -32553,9 +32553,12 @@
             "referred_by": "Jack68193920",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-15T17:24:21.791527",
+            "countdown_start_time": "2026-02-14T15:52:58.554289",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 91883,
+            "countdown_paused": true,
+            "pause_count": 1
         },
         {
             "id": "FredotoniiPnYdakv9",
