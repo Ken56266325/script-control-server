@@ -28603,12 +28603,11 @@
             "android_id": "5a29d45dc6e7075d59f9895c39bf0a10",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-13T10:46:54.319912",
+            "status": "active",
+            "countdown_start_time": "2026-02-18T05:51:22.042992",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 294464,
-            "countdown_paused": true
+            "countdown_paused": false
         },
         {
             "id": "onyrak4cr0dOqM",
