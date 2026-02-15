@@ -32008,7 +32008,7 @@
             "android_id": "e45a3ff6eb2c7fe69842223d57cd3120",
             "referred_by": null,
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-02-15T02:54:32.137340",
             "affiliation_balance": 0,
             "plan": "Basique"
@@ -32652,7 +32652,7 @@
             "android_id": "8ade57b3f7335ba28fa874f3d2c80027",
             "referred_by": "florinPnQCoP4f",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-02-15T03:04:19.858378",
             "affiliation_balance": 0,
             "plan": "Basique"
