@@ -5740,13 +5740,12 @@
             "android_id": "e63ad5c166e6693ea4425be744df2a3e",
             "referred_by": "Mamitina791402",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-14T23:14:37.210477",
+            "status": "active",
+            "countdown_start_time": "2026-02-18T16:37:17.729260",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 281964
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "Razakanirina6819482",
