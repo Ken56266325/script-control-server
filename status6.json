@@ -12903,13 +12903,12 @@
             "android_id": "7364706d2d082101d3a626b3600f1847",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-14T19:19:57.965278",
+            "status": "active",
+            "countdown_start_time": "2026-02-18T20:09:14.969506",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 295079
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "RavonyCIFsjgJL",
