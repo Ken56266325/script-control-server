@@ -31392,11 +31392,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-16T02:02:25.158806",
+            "countdown_start_time": "2026-02-15T09:28:12.843871",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 1
+            "countdown_paused": true,
+            "pause_count": 2,
+            "paused_remaining_time": 59652
         },
         {
             "id": "Angell1vGFKqo",
