@@ -31267,11 +31267,12 @@
             "referred_by": "Soso79103",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-17T03:52:09.124542",
+            "countdown_start_time": "2026-02-15T12:14:52.237608",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 2
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 142636
         },
         {
             "id": "TanjonaniainagD9wy7GH",
