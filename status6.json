@@ -31308,13 +31308,12 @@
             "android_id": "9827565f15e5ead98b5ca9f1ab0c8f9f",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-15T09:26:54.773101",
+            "status": "active",
+            "countdown_start_time": "2026-02-15T22:38:56.392650",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 36513
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "Jostinotm53loAp",
