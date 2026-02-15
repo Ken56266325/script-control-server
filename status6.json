@@ -21533,12 +21533,11 @@
             "referred_to": [
                 "rostonaheS2NmBhD"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-15T12:38:37.118267",
+            "status": "active",
+            "countdown_start_time": "2026-02-21T18:43:51.764151",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 524272,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
