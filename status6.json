@@ -31698,11 +31698,12 @@
             "referred_by": "Grav69130",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-16T05:03:10.925353",
+            "countdown_start_time": "2026-02-15T12:20:25.710886",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 1
+            "countdown_paused": true,
+            "pause_count": 2,
+            "paused_remaining_time": 60165
         },
         {
             "id": "Arnoldz3yxmQgv",
