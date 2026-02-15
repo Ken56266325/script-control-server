@@ -32003,12 +32003,11 @@
                 "joel5363",
                 "Nico52727"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-15T13:39:20.948194",
+            "status": "active",
+            "countdown_start_time": "2026-02-17T15:56:07.749485",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 161082,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
