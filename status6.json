@@ -32187,11 +32187,12 @@
             "referred_by": "ZANDRYBOTAIaa52qRj",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-16T07:59:00.690253",
+            "countdown_start_time": "2026-02-15T11:25:07.551510",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 2
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 74033
         },
         {
             "id": "HasinaGGq9PwpR",
