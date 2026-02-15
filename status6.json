@@ -32175,13 +32175,12 @@
             "android_id": "934b074d35eef2358bb32428c019b85f",
             "referred_by": "ZANDRYBOTAIaa52qRj",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-14T13:40:05.341718",
+            "status": "active",
+            "countdown_start_time": "2026-02-16T07:59:00.690253",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 83495
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "HasinaGGq9PwpR",
