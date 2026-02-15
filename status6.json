@@ -21375,13 +21375,12 @@
             "android_id": "8f53a6bcc3ec9afd53dc2b691360743f",
             "referred_by": "Cetone479580",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-15T09:29:55.811191",
+            "status": "active",
+            "countdown_start_time": "2026-02-15T22:37:58.028522",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 35935
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "NiraG5JwbD2A",
