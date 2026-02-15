@@ -32284,11 +32284,12 @@
             "referred_by": "SNeddie58103",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-19T14:02:31.184894",
+            "countdown_start_time": "2026-02-15T07:06:13.013560",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "pause_count": 0,
-            "countdown_paused": false
+            "pause_count": 1,
+            "countdown_paused": true,
+            "paused_remaining_time": 370578
         },
         {
             "id": "WalckerHeritinaADZejFQz",
