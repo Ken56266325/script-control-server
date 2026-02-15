@@ -21429,10 +21429,12 @@
             "referred_by": "Airtel791628962",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-21T10:58:01.825876",
+            "countdown_start_time": "2026-02-15T21:07:36.844263",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 481824,
+            "pause_count": 1
         },
         {
             "id": "SSLl46cFRR",
