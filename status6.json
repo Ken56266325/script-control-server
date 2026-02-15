@@ -32619,11 +32619,12 @@
             "referred_by": "Tolotra68199320",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-16T20:32:48.783375",
+            "countdown_start_time": "2026-02-16T01:08:02.676269",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 2
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 69886
         },
         {
             "id": "SantatrafTdnMwLB",
