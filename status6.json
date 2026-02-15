@@ -30846,10 +30846,12 @@
             "referred_by": "UnohgAU559y3",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-19T12:34:19.077488",
+            "countdown_start_time": "2026-02-15T09:46:16.988665",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "pause_count": 0
+            "pause_count": 1,
+            "paused_remaining_time": 355682,
+            "countdown_paused": true
         },
         {
             "id": "Joachin3c1fsGTiRFh",
