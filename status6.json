@@ -2232,7 +2232,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2026-02-19T00:05:56.744212",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false,
             "pause_count": 1
@@ -7540,11 +7540,12 @@
             "android_id": "2ee5a8beb9c9a17b6e656776a9f97552",
             "referred_by": "YvanoChri581030",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-07T20:34:19.627415",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2026-02-22T10:39:34.893536",
+            "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": false,
+            "pause_count": 0
         },
         {
             "id": "Bambi68193020",
