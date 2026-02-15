@@ -32008,11 +32008,12 @@
                 "Nico52727"
             ],
             "status": "active",
-            "countdown_start_time": "2026-02-17T15:56:07.749485",
+            "countdown_start_time": "2026-02-15T22:19:43.810230",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 1
+            "countdown_paused": true,
+            "pause_count": 2,
+            "paused_remaining_time": 149783
         },
         {
             "id": "",
