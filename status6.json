@@ -20646,11 +20646,12 @@
             "referred_by": "JuscovvfF44pD",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-22T10:00:57.319787",
+            "countdown_start_time": "2026-02-15T10:48:06.645898",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 0
+            "countdown_paused": true,
+            "pause_count": 0,
+            "paused_remaining_time": 601970
         },
         {
             "id": "EliasP2my3BZK",
