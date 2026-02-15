@@ -24876,11 +24876,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-20T09:27:53.745182",
+            "countdown_start_time": "2026-02-15T15:26:16.965301",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 1
+            "countdown_paused": true,
+            "pause_count": 2,
+            "paused_remaining_time": 410496
         },
         {
             "id": "FlorentineRamanandraitsioryEGDZqsOe",
