@@ -3526,12 +3526,11 @@
                 "Andriamiandrisoa5WiWRlYe",
                 "FitahianaIf1CsOEw"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-13T16:08:19.681816",
+            "status": "active",
+            "countdown_start_time": "2026-02-18T18:48:03.125677",
             "affiliation_balance": 5000,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 170872,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
