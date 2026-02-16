@@ -32317,9 +32317,10 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-16T21:31:34.832838",
+            "countdown_start_time": "2026-02-23T21:31:34.832838",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "pause_count": 0
         },
         {
             "id": "NorairsYwuh2ax",
