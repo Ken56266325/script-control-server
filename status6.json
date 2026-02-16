@@ -32375,13 +32375,12 @@
             "android_id": "e6708cf3ff06debeff2e22d1a701bb9f",
             "referred_by": "RanofaAuto",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-16T13:14:48.852102",
+            "status": "active",
+            "countdown_start_time": "2026-02-21T22:23:23.008393",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 1,
-            "paused_remaining_time": 442754
+            "countdown_paused": false,
+            "pause_count": 1
         },
         {
             "id": "WillystivenTsDWsSbl",
