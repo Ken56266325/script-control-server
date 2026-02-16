@@ -27765,12 +27765,11 @@
             "android_id": "1a844c34cf6d60e3ddeca0e647d22555",
             "referred_by": "Cetone479580",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-13T16:20:04.749367",
+            "status": "active",
+            "countdown_start_time": "2026-02-24T15:37:11.861151",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 679055,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
