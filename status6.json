@@ -32018,13 +32018,12 @@
                 "joel5363",
                 "Nico52727"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-16T11:38:21.084449",
+            "status": "active",
+            "countdown_start_time": "2026-02-18T06:08:17.320940",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 138866
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "",
