@@ -11918,7 +11918,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2026-01-22T08:39:44.630157",
-            "affiliation_balance": 11000,
+            "affiliation_balance": 12000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -30679,11 +30679,11 @@
                 "AndryM5prk1Sg"
             ],
             "status": "active",
-            "countdown_start_time": "2026-02-17T00:33:58.738055",
+            "countdown_start_time": "2026-02-24T00:33:58.738055",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false,
-            "pause_count": 3
+            "pause_count": 0
         },
         {
             "id": "PertyYHzaCWsm",
