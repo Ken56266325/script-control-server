@@ -29944,10 +29944,12 @@
             "referred_by": "harsonielnBBuRIyG",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-23T18:23:46.815339",
+            "countdown_start_time": "2026-02-16T19:06:19.529340",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "pause_count": 0
+            "pause_count": 1,
+            "paused_remaining_time": 602247,
+            "countdown_paused": true
         },
         {
             "id": "Bobar201S3LtbJU0",
