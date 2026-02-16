@@ -32508,9 +32508,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-20T18:11:28.214307",
+            "countdown_start_time": "2026-02-16T17:58:20.330261",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 346387,
+            "countdown_paused": true,
+            "pause_count": 1
         },
         {
             "id": "SedyEJQOB5Ki",
