@@ -30679,11 +30679,12 @@
                 "AndryM5prk1Sg"
             ],
             "status": "active",
-            "countdown_start_time": "2026-02-24T00:33:58.738055",
+            "countdown_start_time": "2026-02-16T18:19:53.326260",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 0
+            "countdown_paused": true,
+            "pause_count": 1,
+            "paused_remaining_time": 627245
         },
         {
             "id": "PertyYHzaCWsm",
