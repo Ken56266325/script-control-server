@@ -31243,13 +31243,12 @@
             "referred_to": [
                 "IonintsoaTianaNyAinavMPiV6Hv"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-16T11:42:07.359611",
+            "status": "active",
+            "countdown_start_time": "2026-02-21T07:37:48.781508",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 408533
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "Jesephekl98OqI",
