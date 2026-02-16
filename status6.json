@@ -32773,11 +32773,12 @@
             "android_id": "5236dcd1f1ac28ef53297d21cde92d96",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-16T16:51:34.500306",
+            "status": "active",
+            "countdown_start_time": "2026-02-23T18:15:55.509272",
             "affiliation_balance": 0,
             "countdown_paused": false,
-            "plan": "Basique"
+            "plan": "Basique",
+            "pause_count": 0
         },
         {
             "id": "Brutal9100202",
