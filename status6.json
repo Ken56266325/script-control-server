@@ -31983,9 +31983,12 @@
             "referred_by": "Soso79103",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-18T22:25:47.922231",
+            "countdown_start_time": "2026-02-16T08:47:40.196065",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 221887,
+            "countdown_paused": true,
+            "pause_count": 1
         },
         {
             "id": "TanseZ9Jag4dp",
