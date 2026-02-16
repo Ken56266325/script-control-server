@@ -29346,10 +29346,12 @@
             "referred_by": "Grav69130",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-22T07:40:51.328208",
+            "countdown_start_time": "2026-02-16T08:20:24.756993",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "pause_count": 0
+            "pause_count": 1,
+            "paused_remaining_time": 516026,
+            "countdown_paused": true
         },
         {
             "id": "fitiavanaFQzyEsHp",
