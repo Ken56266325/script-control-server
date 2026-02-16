@@ -12652,11 +12652,12 @@
             "referred_by": "Velotsara681900",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-18T06:59:37.294557",
+            "countdown_start_time": "2026-02-16T13:53:51.961884",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 1
+            "countdown_paused": true,
+            "pause_count": 2,
+            "paused_remaining_time": 147945
         },
         {
             "id": "AritafitaLeonoXFCGCgQp",
