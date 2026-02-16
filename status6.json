@@ -21703,10 +21703,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-23T20:05:12.115463",
+            "countdown_start_time": "2026-02-16T20:55:55.941453",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 601756,
+            "pause_count": 1
         },
         {
             "id": "Bedo9Ae5Pgn6",
