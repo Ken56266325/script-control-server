@@ -32863,7 +32863,8 @@
             "status": "active",
             "countdown_start_time": "2026-02-23T20:55:17.020656",
             "affiliation_balance": 0,
-            "countdown_paused": false
+            "countdown_paused": false,
+            "plan": "Basique"
         }
     ],
     "references": {
