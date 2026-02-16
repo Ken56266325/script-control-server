@@ -32771,6 +32771,16 @@
             "affiliation_balance": 0,
             "countdown_paused": false,
             "plan": "Basique"
+        },
+        {
+            "id": "Brutal9100202",
+            "android_id": "7c09b9db748da6c997258ca7f245dac0",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-02-23T08:52:11.063475",
+            "affiliation_balance": 0,
+            "countdown_paused": false
         }
     ],
     "references": {
