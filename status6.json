@@ -32749,12 +32749,11 @@
             "android_id": "5b95b1141de787f9a0651a8634b90a0d",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-15T22:48:00.341996",
+            "status": "active",
+            "countdown_start_time": "2026-02-16T15:15:59.820204",
             "affiliation_balance": 0,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "plan": "Basique",
-            "paused_remaining_time": 25324,
             "pause_count": 1
         }
     ],
