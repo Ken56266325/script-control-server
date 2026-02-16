@@ -30677,13 +30677,12 @@
             "referred_to": [
                 "AndryM5prk1Sg"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-16T06:57:25.150545",
+            "status": "active",
+            "countdown_start_time": "2026-02-17T00:33:58.738055",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 42336
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "PertyYHzaCWsm",
