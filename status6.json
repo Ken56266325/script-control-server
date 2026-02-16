@@ -3982,7 +3982,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2026-02-20T12:26:07.810654",
-            "affiliation_balance": 4000,
+            "affiliation_balance": 5000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -15222,11 +15222,12 @@
             "android_id": "72214641074b84a5e0baab2d5f073822",
             "referred_by": "Randrianarivo68130",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2025-08-28T20:09:21.192402",
+            "status": "active",
+            "countdown_start_time": "2026-02-23T19:27:28.457902",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": false,
+            "pause_count": 0
         },
         {
             "id": "FanekenamVXL3gVp",
