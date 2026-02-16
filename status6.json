@@ -18873,12 +18873,11 @@
             "referred_by": "SNeddie58103",
             "referred_to": [],
             "status": "inactive",
-            "countdown_start_time": "2026-02-15T08:49:31.017437",
+            "countdown_start_time": "2026-02-16T18:59:43.569523",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 418724
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "TsioryPgINzRaZ",
