@@ -5130,12 +5130,11 @@
             "android_id": "78c969aedf600385d96cee80e1762802",
             "referred_by": "Germain5719\u20ac",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-16T01:50:48.379089",
+            "status": "active",
+            "countdown_start_time": "2026-02-17T11:15:18.679688",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 109447,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
