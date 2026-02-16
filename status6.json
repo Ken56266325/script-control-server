@@ -32468,12 +32468,11 @@
             "android_id": "edb06b0ef10f7f59a33499fbedb26cc2",
             "referred_by": "NadiaxEHQNbby",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-16T14:36:17.064716",
+            "status": "active",
+            "countdown_start_time": "2026-02-18T01:48:49.416477",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 106757,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
