@@ -22940,10 +22940,12 @@
             "referred_by": "Cetone479580",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-19T00:44:38.653635",
+            "countdown_start_time": "2026-02-16T20:36:10.047190",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 187708,
+            "pause_count": 1
         },
         {
             "id": "TantelyftfhcZ7D",
