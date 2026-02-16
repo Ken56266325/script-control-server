@@ -6812,12 +6812,11 @@
             "android_id": "811b9ff2def441ba9f3c3bc71f5bb71f",
             "referred_by": "Velotsara681900",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-16T19:39:11.452473",
+            "status": "active",
+            "countdown_start_time": "2026-02-17T11:06:16.813698",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 50287,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
