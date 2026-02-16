@@ -32632,13 +32632,12 @@
             "android_id": "13cf8b032dca95a7c65381660f2263b9",
             "referred_by": "Tolotra68199320",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-16T01:08:02.676269",
+            "status": "active",
+            "countdown_start_time": "2026-02-17T04:12:54.415581",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 69886
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "SantatrafTdnMwLB",
