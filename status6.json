@@ -31274,13 +31274,12 @@
             "android_id": "c348d2c652cfe511e19f0c666b4cdcdd",
             "referred_by": "Soso79103",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-15T12:14:52.237608",
+            "status": "active",
+            "countdown_start_time": "2026-02-17T23:51:05.571046",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 142636
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "TanjonaniainagD9wy7GH",
