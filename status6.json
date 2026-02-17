@@ -31659,12 +31659,11 @@
                 "miao2cqupBcJwl",
                 "ERO2CtvqO39HA"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-17T18:38:02.328177",
+            "status": "active",
+            "countdown_start_time": "2026-02-21T11:39:34.586317",
             "affiliation_balance": 2000,
             "plan": "Basique",
-            "paused_remaining_time": 317983,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
