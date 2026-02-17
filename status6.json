@@ -957,10 +957,12 @@
                 "Tanjona7919292"
             ],
             "status": "active",
-            "countdown_start_time": "2026-02-18T11:16:52.718179",
+            "countdown_start_time": "2026-02-17T09:56:43.949713",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 91208,
+            "pause_count": 1
         },
         {
             "id": "Vonjy51930",
