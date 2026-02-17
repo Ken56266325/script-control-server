@@ -19978,12 +19978,11 @@
                 "NinatioranadhtPl6zu3r",
                 "RotsianaelisalFBbj71y"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-16T20:45:31.458456",
+            "status": "active",
+            "countdown_start_time": "2026-02-20T20:14:02.772368",
             "affiliation_balance": 5000,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 304764,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
