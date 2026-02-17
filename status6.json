@@ -10392,11 +10392,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-24T03:07:06.380166",
+            "countdown_start_time": "2026-02-17T10:20:35.998497",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 0
+            "countdown_paused": true,
+            "pause_count": 1,
+            "paused_remaining_time": 578790
         },
         {
             "id": "YonnetteTDJ5A5qN",
