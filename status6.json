@@ -22547,13 +22547,12 @@
             "android_id": "1af564e8eaed91d0fb8ee523e00e7352",
             "referred_by": "Elie69103580",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-14T22:37:23.583448",
+            "status": "active",
+            "countdown_start_time": "2026-02-21T07:18:59.312372",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 338987
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "dovicNukCU0eR",
