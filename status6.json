@@ -32792,11 +32792,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-24T04:09:04.378911",
+            "countdown_start_time": "2026-02-17T10:10:47.770350",
             "affiliation_balance": 0,
-            "countdown_paused": false,
+            "countdown_paused": true,
             "plan": "Basique",
-            "pause_count": 1
+            "pause_count": 2,
+            "paused_remaining_time": 583096
         },
         {
             "id": "Brutal9100202",
