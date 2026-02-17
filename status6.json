@@ -2167,10 +2167,12 @@
                 "NorairsYwuh2ax"
             ],
             "status": "active",
-            "countdown_start_time": "2026-02-21T15:59:06.283047",
+            "countdown_start_time": "2026-02-17T09:55:49.027630",
             "affiliation_balance": 2000,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 367397,
+            "pause_count": 1
         },
         {
             "id": "Mampionona58103",
