@@ -13294,12 +13294,11 @@
             "referred_to": [
                 "Andrib502kg3o"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-16T19:17:39.890476",
+            "status": "active",
+            "countdown_start_time": "2026-02-18T19:27:57.482753",
             "affiliation_balance": 4000,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 133622,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
