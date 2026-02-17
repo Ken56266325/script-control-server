@@ -32611,13 +32611,12 @@
             "android_id": "a8b55e20e4400aa31c6630266818a6b1",
             "referred_by": "Jack68193920",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-17T11:38:00.703155",
+            "status": "active",
+            "countdown_start_time": "2026-02-18T03:14:20.892262",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 44851
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "FredotoniiPnYdakv9",
