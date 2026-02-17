@@ -32285,12 +32285,12 @@
             "android_id": "84ba15cec909af65aa178473f63861bf",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-16T23:20:57.220418",
+            "status": "active",
+            "countdown_start_time": "2026-02-24T06:25:55.215082",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false,
-            "pause_count": 1
+            "pause_count": 0
         },
         {
             "id": "Julienpf5oatcT",
