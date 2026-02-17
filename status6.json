@@ -9183,7 +9183,8 @@
                 "Tojoz3tGtR7I",
                 "Brido4SRQwEZA",
                 "Angell1vGFKqo",
-                "TonyrhjliQR5"
+                "TonyrhjliQR5",
+                "LalainazsDU8W1e"
             ],
             "status": "inactive",
             "countdown_start_time": "2026-02-05T21:37:57.665822",
@@ -32871,6 +32872,16 @@
             "countdown_start_time": "2026-02-17T05:56:03.825517",
             "affiliation_balance": 0,
             "countdown_paused": false,
+            "plan": "Basique"
+        },
+        {
+            "id": "LalainazsDU8W1e",
+            "android_id": "1e4345c87cb19d68c840e6ae0723eed2",
+            "referred_by": "Alex7819e929",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-02-17T19:45:15.822781",
+            "affiliation_balance": 0,
             "plan": "Basique"
         }
     ],
