@@ -32787,13 +32787,12 @@
             "android_id": "5236dcd1f1ac28ef53297d21cde92d96",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-16T20:27:35.692058",
+            "status": "active",
+            "countdown_start_time": "2026-02-24T04:09:04.378911",
             "affiliation_balance": 0,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "plan": "Basique",
-            "pause_count": 1,
-            "paused_remaining_time": 596899
+            "pause_count": 1
         },
         {
             "id": "Brutal9100202",
