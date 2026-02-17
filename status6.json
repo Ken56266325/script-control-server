@@ -31738,13 +31738,12 @@
             "android_id": "d30f1b60c5caaaae68297b0ceb8e2c47",
             "referred_by": "PertinotlrajveKh",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-17T08:53:22.182710",
+            "status": "active",
+            "countdown_start_time": "2026-02-24T08:47:58.832490",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 1,
-            "paused_remaining_time": 560106
+            "countdown_paused": false,
+            "pause_count": 1
         },
         {
             "id": "Njaka_rFaEUcRJ5",
