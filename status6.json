@@ -7546,13 +7546,12 @@
             "android_id": "2ee5a8beb9c9a17b6e656776a9f97552",
             "referred_by": "YvanoChri581030",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-17T07:01:18.049712",
+            "status": "active",
+            "countdown_start_time": "2026-02-22T13:57:31.909888",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 1,
-            "paused_remaining_time": 445096
+            "countdown_paused": false,
+            "pause_count": 1
         },
         {
             "id": "Bambi68193020",
