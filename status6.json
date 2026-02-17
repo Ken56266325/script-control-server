@@ -32516,12 +32516,11 @@
             "android_id": "54eb9ead71a2f2d20a58eb353cb2c397",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-16T18:06:54.427047",
+            "status": "active",
+            "countdown_start_time": "2026-02-17T06:42:42.046429",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 0,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 2
         },
         {
