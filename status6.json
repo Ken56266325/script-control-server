@@ -11694,12 +11694,11 @@
             "referred_to": [
                 "SphanjrVgJFpGaI"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-14T14:53:42.990550",
+            "status": "active",
+            "countdown_start_time": "2026-02-19T09:40:12.972740",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 163143,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
