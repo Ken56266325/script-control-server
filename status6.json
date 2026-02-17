@@ -31693,9 +31693,12 @@
             "referred_by": "Grav69130",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-24T13:15:50.390101",
+            "countdown_start_time": "2026-02-17T16:39:32.800460",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 592577,
+            "countdown_paused": true,
+            "pause_count": 1
         },
         {
             "id": "JEREMIA1dtE7s9u",
