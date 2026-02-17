@@ -32275,11 +32275,12 @@
             "referred_by": "Noutahtahy6rRaqvU",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-23T17:10:35.458669",
+            "countdown_start_time": "2026-02-17T15:09:09.230660",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 1
+            "countdown_paused": true,
+            "pause_count": 2,
+            "paused_remaining_time": 525686
         },
         {
             "id": "JoelHrMwhyy6",
