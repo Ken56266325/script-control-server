@@ -3532,11 +3532,12 @@
                 "FitahianaIf1CsOEw"
             ],
             "status": "active",
-            "countdown_start_time": "2026-02-19T01:01:09.928088",
+            "countdown_start_time": "2026-02-17T22:28:31.585450",
             "affiliation_balance": 5000,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 2
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 95558
         },
         {
             "id": "Hary79103",
