@@ -32478,13 +32478,12 @@
             "android_id": "edb06b0ef10f7f59a33499fbedb26cc2",
             "referred_by": "NadiaxEHQNbby",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-17T20:56:45.853315",
+            "status": "active",
+            "countdown_start_time": "2026-02-18T02:10:10.726681",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 17566
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "GrandgrVBxGOd",
