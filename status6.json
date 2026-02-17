@@ -7543,11 +7543,12 @@
             "referred_by": "YvanoChri581030",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-22T10:39:34.893536",
+            "countdown_start_time": "2026-02-17T07:01:18.049712",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 0
+            "countdown_paused": true,
+            "pause_count": 1,
+            "paused_remaining_time": 445096
         },
         {
             "id": "Bambi68193020",
