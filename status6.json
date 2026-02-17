@@ -31465,13 +31465,12 @@
             "android_id": "3dc3d0372d9bd542db245fa26b46d466",
             "referred_by": "Mamymr4K8n6o",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-13T06:54:30.243341",
+            "status": "active",
+            "countdown_start_time": "2026-02-18T03:46:58.440413",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 19089
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "MpanjakaPXPzBdqj",
