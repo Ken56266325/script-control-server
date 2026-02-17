@@ -31948,13 +31948,12 @@
             "android_id": "3d0a4e2fca9956ab7c9969476c0425f8",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-16T21:52:01.143529",
+            "status": "active",
+            "countdown_start_time": "2026-02-20T05:38:18.153345",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 200139
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "Berthinoc5hkS8x7",
