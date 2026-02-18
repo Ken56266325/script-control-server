@@ -29883,13 +29883,12 @@
             "android_id": "459cd5c5c7c08507f04b840e52e35339",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-18T13:57:54.922795",
+            "status": "active",
+            "countdown_start_time": "2026-02-20T21:56:13.702325",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 191933
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "Kalina9mfs86cy",
