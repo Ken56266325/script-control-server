@@ -23260,11 +23260,12 @@
             "referred_by": "MahefatinahajarivoaeJNpfdN",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-22T02:17:45.980014",
+            "countdown_start_time": "2026-02-18T19:50:19.455018",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 1
+            "countdown_paused": true,
+            "pause_count": 2,
+            "paused_remaining_time": 282446
         },
         {
             "id": "CAu6vkk6Ve",
