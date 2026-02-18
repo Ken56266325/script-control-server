@@ -8024,10 +8024,12 @@
             "referred_by": "Joel68010",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-24T21:00:38.571439",
+            "countdown_start_time": "2026-02-18T19:33:00.485361",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 523658,
+            "pause_count": 1
         },
         {
             "id": "Justine57199302",
