@@ -32553,12 +32553,11 @@
             "android_id": "20619b9370ff9056509b25a94dddbd88",
             "referred_by": "Cetone479580",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-18T15:09:45.809133",
+            "status": "active",
+            "countdown_start_time": "2026-02-19T07:35:12.285763",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 40159,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
