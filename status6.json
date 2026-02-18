@@ -12787,12 +12787,11 @@
             "android_id": "7114f05118f5b3ef3e22db5d709e3dec",
             "referred_by": "Mamitina791402",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-14T19:17:06.713184",
+            "status": "active",
+            "countdown_start_time": "2026-02-23T02:50:41.913514",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 411342,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
