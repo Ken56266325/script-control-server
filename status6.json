@@ -32552,9 +32552,12 @@
             "referred_by": "Cetone479580",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-19T02:19:04.892066",
+            "countdown_start_time": "2026-02-18T15:09:45.809133",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 40159,
+            "countdown_paused": true,
+            "pause_count": 1
         },
         {
             "id": "RotsianaelisalFBbj71y",
