@@ -5704,7 +5704,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-03-29T00:21:04.779692",
-            "affiliation_balance": 3000,
+            "affiliation_balance": 4000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -7115,11 +7115,11 @@
                 "stessieGOLvkSzH"
             ],
             "status": "active",
-            "countdown_start_time": "2026-02-18T12:44:53.706976",
+            "countdown_start_time": "2026-02-25T12:44:53.706976",
             "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false,
-            "pause_count": 1
+            "pause_count": 0
         },
         {
             "id": "Jeremie571e99",
