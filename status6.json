@@ -21549,13 +21549,12 @@
             "referred_to": [
                 "rostonaheS2NmBhD"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-16T08:41:40.662037",
+            "status": "active",
+            "countdown_start_time": "2026-02-23T20:11:07.617372",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 468131
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "BELOLOcQsrrdX0",
