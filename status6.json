@@ -4941,12 +4941,11 @@
                 "TOKYOyKeLIhL",
                 "AINAUj68RVRn"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-18T07:30:28.462532",
+            "status": "active",
+            "countdown_start_time": "2026-02-18T15:00:09.295255",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 18795,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
