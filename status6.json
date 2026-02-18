@@ -9185,7 +9185,8 @@
                 "Brido4SRQwEZA",
                 "Angell1vGFKqo",
                 "TonyrhjliQR5",
-                "LalainazsDU8W1e"
+                "LalainazsDU8W1e",
+                "RadoosxwccjD"
             ],
             "status": "inactive",
             "countdown_start_time": "2026-02-05T21:37:57.665822",
@@ -32890,6 +32891,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-02-18T15:33:57.279181",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "RadoosxwccjD",
+            "android_id": "b236f97884781de1bff67bb8fe39e5f9",
+            "referred_by": "Alex7819e929",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-02-18T16:39:12.634137",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
