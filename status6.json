@@ -13074,7 +13074,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2026-02-25T09:23:53.660220",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false,
             "pause_count": 1
@@ -31275,10 +31275,11 @@
             "android_id": "35ff6d182773e94137328a3cb137d7c9",
             "referred_by": "Noutahtahy6rRaqvU",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-01-31T01:17:01.355757",
+            "status": "active",
+            "countdown_start_time": "2026-02-25T15:08:38.886391",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "pause_count": 0
         },
         {
             "id": "RazafyijlcqWLe",
