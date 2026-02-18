@@ -8421,8 +8421,7 @@
                 "NathalieMgnKukWL",
                 "seizelE9iWYTq",
                 "tojokk3US6If",
-                "douzexTNY1cDd",
-                "SafidyqAfvdsV3"
+                "douzexTNY1cDd"
             ],
             "status": "inactive",
             "countdown_start_time": "2026-02-02T15:43:57.763017",
@@ -30664,8 +30663,8 @@
             "android_id": "f6565fdc22b3d4734edc19bf499818e8",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-11T19:56:11.595723",
+            "status": "active",
+            "countdown_start_time": "2026-02-25T14:05:40.440336",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
@@ -32908,16 +32907,6 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-02-18T16:39:12.634137",
-            "affiliation_balance": 0,
-            "plan": "Basique"
-        },
-        {
-            "id": "SafidyqAfvdsV3",
-            "android_id": "c87e953d282ab770de3a5701ab7cc517",
-            "referred_by": "Lionel56199302",
-            "referred_to": [],
-            "status": "active",
-            "countdown_start_time": "2026-02-18T22:04:39.384698",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
