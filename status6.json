@@ -19529,11 +19529,12 @@
             "referred_by": "Randrianarivo68130",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-19T13:15:28.145647",
+            "countdown_start_time": "2026-02-18T21:35:57.440506",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 0
+            "countdown_paused": true,
+            "pause_count": 1,
+            "paused_remaining_time": 56370
         },
         {
             "id": "MiranamialisoawzrKqfFg",
