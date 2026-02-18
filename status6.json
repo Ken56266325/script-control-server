@@ -8421,7 +8421,8 @@
                 "geldoa0LOLdF",
                 "NathalieMgnKukWL",
                 "seizelE9iWYTq",
-                "tojokk3US6If"
+                "tojokk3US6If",
+                "douzexTNY1cDd"
             ],
             "status": "inactive",
             "countdown_start_time": "2026-02-02T15:43:57.763017",
@@ -32881,6 +32882,16 @@
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2026-02-17T19:45:15.822781",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "douzexTNY1cDd",
+            "android_id": "de299b98a3de68898f3eee360c33ad55",
+            "referred_by": "Lionel56199302",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-02-18T15:33:57.279181",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
