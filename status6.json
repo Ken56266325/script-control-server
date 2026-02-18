@@ -19355,13 +19355,12 @@
             "android_id": "e3c24bdd31f567415d0a5c5d3ba6ae48",
             "referred_by": "rolain6NmkRYYg",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-15T14:20:50.914813",
+            "status": "active",
+            "countdown_start_time": "2026-02-19T23:06:10.504631",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 118483
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "manantenaLpAjgzy6",
