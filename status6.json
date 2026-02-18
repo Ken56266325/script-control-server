@@ -32854,12 +32854,11 @@
             "android_id": "a7064c653308e75fa471155831c97e99",
             "referred_by": "Stanne2cskcMR5M7Z",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-17T22:45:18.431119",
+            "status": "active",
+            "countdown_start_time": "2026-02-22T06:16:22.501236",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 306609,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
