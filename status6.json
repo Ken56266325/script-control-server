@@ -32295,13 +32295,12 @@
             "android_id": "84ba15cec909af65aa178473f63861bf",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-18T06:54:23.376726",
+            "status": "active",
+            "countdown_start_time": "2026-02-24T17:11:59.236989",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 1,
-            "paused_remaining_time": 516691
+            "countdown_paused": false,
+            "pause_count": 1
         },
         {
             "id": "Julienpf5oatcT",
