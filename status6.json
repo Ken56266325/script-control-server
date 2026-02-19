@@ -29731,11 +29731,10 @@
             "referred_by": "JEANNE12s6MkUHf9",
             "referred_to": [],
             "status": "inactive",
-            "countdown_start_time": "2026-02-18T13:47:09.613460",
+            "countdown_start_time": "2026-02-19T18:24:35.114504",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 583339,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
