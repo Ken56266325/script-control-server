@@ -3988,7 +3988,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2026-02-20T12:26:07.810654",
-            "affiliation_balance": 5000,
+            "affiliation_balance": 6000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -8945,11 +8945,12 @@
             "android_id": "cc9aa3b07ea2a28d644d48fe49f3d975",
             "referred_by": "Randrianarivo68130",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2025-09-01T23:07:45.918992",
+            "status": "active",
+            "countdown_start_time": "2026-02-26T16:23:29.051350",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": false,
+            "pause_count": 0
         },
         {
             "id": "Beste6819e830",
