@@ -29527,10 +29527,11 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-22T20:15:13.998514",
+            "countdown_start_time": "2026-02-19T10:21:13.182336",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 294840
         },
         {
             "id": "jean341999gnDxxlHX",
