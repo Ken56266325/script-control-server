@@ -957,12 +957,11 @@
                 "FanoyZkGbYyS",
                 "Tanjona7919292"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-17T09:56:43.949713",
+            "status": "active",
+            "countdown_start_time": "2026-02-20T12:39:35.933942",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 91208,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
