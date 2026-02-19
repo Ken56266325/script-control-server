@@ -5772,10 +5772,12 @@
                 "@TojoRianala5DsmYENo"
             ],
             "status": "active",
-            "countdown_start_time": "2026-02-25T19:09:20.709020",
+            "countdown_start_time": "2026-02-19T19:59:40.187226",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 515380,
+            "pause_count": 1
         },
         {
             "id": "rayanzo791039271",
