@@ -32985,6 +32985,16 @@
             "countdown_start_time": "2026-02-19T19:56:17.770659",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "SafidyqAfvdsV3",
+            "android_id": "c87e953d282ab770de3a5701ab7cc517",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-02-26T12:04:27.699795",
+            "affiliation_balance": 0,
+            "countdown_paused": false
         }
     ],
     "references": {
