@@ -31310,11 +31310,12 @@
             "referred_by": "Soso79103",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-25T19:11:38.495238",
+            "countdown_start_time": "2026-02-19T10:21:39.577350",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 3
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 550198
         },
         {
             "id": "TanjonaniainagD9wy7GH",
