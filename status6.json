@@ -32640,13 +32640,12 @@
             "referred_to": [
                 "Sarobidy4gkqJ4xG"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-19T16:21:44.526668",
+            "status": "active",
+            "countdown_start_time": "2026-02-20T06:20:06.216546",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 42860
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "FredotoniiPnYdakv9",
