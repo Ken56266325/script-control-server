@@ -33005,12 +33005,11 @@
             "android_id": "d8ce9a9d94f832ca4a3242aaeb1caeea",
             "referred_by": "stellanadixima4wmHuhUw",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-19T16:04:53.707626",
+            "status": "active",
+            "countdown_start_time": "2026-02-20T01:14:48.617523",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 21146,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
