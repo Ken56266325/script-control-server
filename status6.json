@@ -19528,13 +19528,12 @@
             "android_id": "83583ea285997cdeca7aa2a697ac3994",
             "referred_by": "Randrianarivo68130",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-18T21:35:57.440506",
+            "status": "active",
+            "countdown_start_time": "2026-02-20T06:37:28.296258",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 1,
-            "paused_remaining_time": 56370
+            "countdown_paused": false,
+            "pause_count": 1
         },
         {
             "id": "MiranamialisoawzrKqfFg",
