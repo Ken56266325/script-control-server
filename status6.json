@@ -29833,7 +29833,8 @@
             "android_id": "a629b978c04c067160e2a30554f689d9",
             "referred_by": null,
             "referred_to": [
-                "eliassefifalindaqiRYKx0O"
+                "eliassefifalindaqiRYKx0O",
+                "GabriellafitiaMhevcUDC"
             ],
             "status": "inactive",
             "countdown_start_time": "2026-02-10T20:06:06.244760",
@@ -32996,6 +32997,16 @@
             "countdown_start_time": "2026-02-19T21:05:02.767635",
             "affiliation_balance": 0,
             "countdown_paused": false,
+            "plan": "Basique"
+        },
+        {
+            "id": "GabriellafitiaMhevcUDC",
+            "android_id": "d8ce9a9d94f832ca4a3242aaeb1caeea",
+            "referred_by": "stellanadixima4wmHuhUw",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-02-19T21:57:20.409349",
+            "affiliation_balance": 0,
             "plan": "Basique"
         }
     ],
