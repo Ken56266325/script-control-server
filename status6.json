@@ -33006,9 +33006,12 @@
             "referred_by": "stellanadixima4wmHuhUw",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-19T21:57:20.409349",
+            "countdown_start_time": "2026-02-19T16:04:53.707626",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 21146,
+            "countdown_paused": true,
+            "pause_count": 1
         },
         {
             "id": "Sarobidy4gkqJ4xG",
