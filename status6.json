@@ -2516,10 +2516,12 @@
             "referred_by": "Wayne69193",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-20T10:45:52.409460",
+            "countdown_start_time": "2026-02-20T03:45:27.812751",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 25224,
+            "pause_count": 1
         },
         {
             "id": "Bakolimalala681910",
