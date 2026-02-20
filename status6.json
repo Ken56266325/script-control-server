@@ -29533,12 +29533,11 @@
             "android_id": "a4d912153f910368da2c0b1895716ede",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-19T10:21:13.182336",
+            "status": "active",
+            "countdown_start_time": "2026-02-24T04:09:03.002192",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 294840
+            "countdown_paused": false
         },
         {
             "id": "jean341999gnDxxlHX",
