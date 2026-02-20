@@ -9197,7 +9197,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2026-02-05T21:37:57.665822",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
