@@ -13085,11 +13085,12 @@
                 "NoutahhIdyFp2XB"
             ],
             "status": "active",
-            "countdown_start_time": "2026-02-25T20:41:35.767003",
+            "countdown_start_time": "2026-02-20T20:52:25.173461",
             "affiliation_balance": 1000,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 2
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 431350
         },
         {
             "id": "Fabiend8f8RIM2",
