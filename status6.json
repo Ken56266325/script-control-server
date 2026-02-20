@@ -32993,9 +32993,12 @@
             "referred_by": "MiranamialisoawzrKqfFg",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-23T20:18:28.015499",
+            "countdown_start_time": "2026-02-20T14:24:31.717671",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 280436,
+            "countdown_paused": true,
+            "pause_count": 1
         },
         {
             "id": "SafidyqAfvdsV3",
