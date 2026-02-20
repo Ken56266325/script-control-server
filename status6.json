@@ -24373,11 +24373,12 @@
             "referred_by": "HermanODwBrkLl",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-21T22:53:49.486669",
+            "countdown_start_time": "2026-02-20T21:03:12.893645",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 1
+            "countdown_paused": true,
+            "pause_count": 2,
+            "paused_remaining_time": 93036
         },
         {
             "id": "OdonmiadanaXV6Lxmou",
