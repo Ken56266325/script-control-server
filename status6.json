@@ -12019,13 +12019,12 @@
             "android_id": "7d82a8dacf75f1fc1aa353a10b2d6ae8",
             "referred_by": "Tanjona5738",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-20T07:56:00.106762",
+            "status": "active",
+            "countdown_start_time": "2026-02-21T03:36:37.844457",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 60964
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "MatelozahoMR1bvAlX",
