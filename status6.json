@@ -33022,7 +33022,9 @@
             "id": "GabriellafitiaMhevcUDC",
             "android_id": "d8ce9a9d94f832ca4a3242aaeb1caeea",
             "referred_by": "stellanadixima4wmHuhUw",
-            "referred_to": [],
+            "referred_to": [
+                "fanilonarindraIoQCHOU4"
+            ],
             "status": "active",
             "countdown_start_time": "2026-02-27T14:14:50.716477",
             "affiliation_balance": 0,
@@ -33069,6 +33071,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-02-20T21:26:42.753954",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "fanilonarindraIoQCHOU4",
+            "android_id": "37311af8aa2f0a4547a32e2eb62351a6",
+            "referred_by": "GabriellafitiaMhevcUDC",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-02-20T23:58:14.550249",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
