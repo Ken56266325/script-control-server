@@ -2514,13 +2514,12 @@
             "android_id": "00ca01d0df059365184d5b8a63e97cc0",
             "referred_by": "Wayne69193",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-20T07:20:00.178526",
+            "status": "active",
+            "countdown_start_time": "2026-02-20T20:20:50.705326",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 23530
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "Bakolimalala681910",
