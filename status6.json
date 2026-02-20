@@ -7120,11 +7120,12 @@
                 "stessieGOLvkSzH"
             ],
             "status": "active",
-            "countdown_start_time": "2026-02-25T12:44:53.706976",
+            "countdown_start_time": "2026-02-20T15:34:29.422773",
             "affiliation_balance": 2000,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 0
+            "countdown_paused": true,
+            "pause_count": 1,
+            "paused_remaining_time": 421824
         },
         {
             "id": "Jeremie571e99",
