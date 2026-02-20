@@ -32035,9 +32035,12 @@
             "referred_by": "PetersonclEqShIR",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-22T20:12:56.455370",
+            "countdown_start_time": "2026-02-20T14:49:11.116918",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 192225,
+            "countdown_paused": true,
+            "pause_count": 1
         },
         {
             "id": "nico84fp3oiY",
