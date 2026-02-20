@@ -32756,12 +32756,11 @@
             "android_id": "dd744e429cd06340578392ccf6159702",
             "referred_by": "GangAvfK1Yn1",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-15T09:38:57.300128",
+            "status": "active",
+            "countdown_start_time": "2026-02-20T23:31:33.569193",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 20335,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
