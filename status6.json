@@ -3988,7 +3988,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2026-02-20T12:26:07.810654",
-            "affiliation_balance": 6000,
+            "affiliation_balance": 7000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -6654,11 +6654,12 @@
             "android_id": "a686e2895275ed74049dd5991c62540c",
             "referred_by": "Randrianarivo68130",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2025-11-08T16:33:22.667362",
+            "status": "active",
+            "countdown_start_time": "2026-02-27T15:18:39.366262",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": false,
+            "pause_count": 0
         },
         {
             "id": "Sarobidy68921",
