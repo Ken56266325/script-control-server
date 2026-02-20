@@ -6823,11 +6823,12 @@
             "referred_by": "Velotsara681900",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-24T11:06:16.813698",
+            "countdown_start_time": "2026-02-20T20:24:06.285418",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 0
+            "countdown_paused": true,
+            "pause_count": 1,
+            "paused_remaining_time": 312130
         },
         {
             "id": "Sarah571932",
