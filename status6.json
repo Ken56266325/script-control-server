@@ -32998,11 +32998,12 @@
             "referred_by": "MiranamialisoawzrKqfFg",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-24T00:09:34.485281",
+            "countdown_start_time": "2026-02-20T19:04:59.845494",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 1
+            "countdown_paused": true,
+            "pause_count": 2,
+            "paused_remaining_time": 277474
         },
         {
             "id": "SafidyqAfvdsV3",
