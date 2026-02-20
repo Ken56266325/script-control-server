@@ -32764,9 +32764,12 @@
             "referred_by": "NantenainaBWZ3q7iY",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-23T20:05:55.912118",
+            "countdown_start_time": "2026-02-20T12:14:43.462878",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 287472,
+            "countdown_paused": true,
+            "pause_count": 1
         },
         {
             "id": "pamelah53626",
