@@ -32997,12 +32997,11 @@
             "android_id": "dd89414078da7d6f65ccbd25a939df4f",
             "referred_by": "MiranamialisoawzrKqfFg",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-20T14:24:31.717671",
+            "status": "active",
+            "countdown_start_time": "2026-02-24T00:09:34.485281",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 280436,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
