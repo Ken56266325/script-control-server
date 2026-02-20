@@ -32097,11 +32097,11 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-20T17:54:28.126145",
+            "countdown_start_time": "2026-02-27T17:54:28.126145",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false,
-            "pause_count": 2
+            "pause_count": 0
         },
         {
             "id": "VelomaxalOde",
