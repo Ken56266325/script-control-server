@@ -10927,11 +10927,12 @@
             "referred_by": "Jenny5681519",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-25T02:22:49.781308",
+            "countdown_start_time": "2026-02-20T17:24:14.200124",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 3
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 377915
         },
         {
             "id": "Oliv227o6M7Kcx",
