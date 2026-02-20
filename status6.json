@@ -13984,12 +13984,11 @@
                 "JacquesfqQTGRfk"
             ],
             "status": "inactive",
-            "countdown_start_time": "2026-02-16T10:02:56.881010",
+            "countdown_start_time": "2026-02-20T08:16:53.718638",
             "affiliation_balance": 1000,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 472550
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "HeritinatsilavinaXTqIquDs",
