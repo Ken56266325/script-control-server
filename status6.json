@@ -29535,12 +29535,11 @@
             "android_id": "a4d912153f910368da2c0b1895716ede",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-20T19:13:21.847397",
+            "status": "active",
+            "countdown_start_time": "2026-02-25T06:06:34.035866",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 291341,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
