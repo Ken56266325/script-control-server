@@ -28650,11 +28650,12 @@
             "android_id": "5a29d45dc6e7075d59f9895c39bf0a10",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-18T05:51:22.042992",
+            "status": "active",
+            "countdown_start_time": "2026-02-28T19:15:44.833362",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": false,
+            "pause_count": 0
         },
         {
             "id": "onyrak4cr0dOqM",
