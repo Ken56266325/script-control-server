@@ -33046,10 +33046,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-21T16:50:47.192458",
+            "countdown_start_time": "2026-02-21T09:37:12.905590",
             "affiliation_balance": 0,
-            "countdown_paused": false,
-            "plan": "Basique"
+            "countdown_paused": true,
+            "plan": "Basique",
+            "paused_remaining_time": 26014,
+            "pause_count": 1
         },
         {
             "id": "Sylvano5362",
