@@ -32860,11 +32860,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-23T19:39:35.999958",
+            "countdown_start_time": "2026-02-22T01:07:00.215185",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "pause_count": 1,
-            "countdown_paused": false
+            "pause_count": 2,
+            "countdown_paused": true,
+            "paused_remaining_time": 153155
         },
         {
             "id": "AlyqT53p0EA",
