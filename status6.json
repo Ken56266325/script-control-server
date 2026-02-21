@@ -24637,10 +24637,11 @@
                 "23342370ApkL8QqL"
             ],
             "status": "active",
-            "countdown_start_time": "2026-02-22T01:03:39.810855",
+            "countdown_start_time": "2026-02-21T19:13:39.856406",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 20999
         },
         {
             "id": "NIAVOuRxntJZm",
