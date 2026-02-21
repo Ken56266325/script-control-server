@@ -33044,11 +33044,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-21T20:05:33.829924",
+            "countdown_start_time": "2026-02-21T13:41:39.549727",
             "affiliation_balance": 0,
-            "countdown_paused": false,
+            "countdown_paused": true,
             "plan": "Basique",
-            "pause_count": 1
+            "pause_count": 2,
+            "paused_remaining_time": 23034
         },
         {
             "id": "Sylvano5362",
