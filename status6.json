@@ -31928,12 +31928,11 @@
             "android_id": "f90a29e5834ff9a6f9ec6e69af969a15",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-12T10:31:25.379029",
+            "status": "active",
+            "countdown_start_time": "2026-02-26T06:45:17.255325",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 422457,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
