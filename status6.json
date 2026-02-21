@@ -24368,13 +24368,12 @@
             "android_id": "d16b4b514358e0115d9e0a7788284cea",
             "referred_by": "HermanODwBrkLl",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-21T14:29:30.316569",
+            "status": "active",
+            "countdown_start_time": "2026-02-22T13:47:07.451642",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 63543
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "OdonmiadanaXV6Lxmou",
