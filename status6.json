@@ -32158,13 +32158,12 @@
             "android_id": "90bf92f4652ed63fc09e56c3e6dad7b8",
             "referred_by": "PertinotlrajveKh",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-17T08:54:04.010410",
+            "status": "active",
+            "countdown_start_time": "2026-02-24T08:48:32.811305",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 214077
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "JoelahparfaisQsQ5MtZ6",
