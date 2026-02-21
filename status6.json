@@ -1252,13 +1252,12 @@
             "android_id": "2f0dc10c0ccd37b3ebad70870bd6850f",
             "referred_by": "Emmanuel6837",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-19T07:21:21.052885",
+            "status": "active",
+            "countdown_start_time": "2026-02-24T01:11:12.487035",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 214950
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "Gaelode10361",
