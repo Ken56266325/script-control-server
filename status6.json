@@ -5281,7 +5281,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-10-27T20:26:02.493411",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -6466,11 +6466,12 @@
             "android_id": "74888c1cd368f72cd16c304f6e72508f",
             "referred_by": "Pass58190",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-18T10:47:22.919265",
+            "status": "active",
+            "countdown_start_time": "2026-02-28T16:31:12.418561",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": false,
+            "pause_count": 0
         },
         {
             "id": "Luciano001673901",
