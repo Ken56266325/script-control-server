@@ -27790,13 +27790,12 @@
             "android_id": "1a844c34cf6d60e3ddeca0e647d22555",
             "referred_by": "Cetone479580",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-17T08:38:09.165359",
+            "status": "active",
+            "countdown_start_time": "2026-02-28T17:35:52.388911",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 629942
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "Mahefalanto2bmLKPep",
