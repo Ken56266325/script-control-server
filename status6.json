@@ -33055,13 +33055,12 @@
             "android_id": "367e1722e00449e2ad96860a57e5e708",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-21T17:45:51.748636",
+            "status": "active",
+            "countdown_start_time": "2026-02-22T03:48:57.156624",
             "affiliation_balance": 0,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "plan": "Basique",
-            "pause_count": 3,
-            "paused_remaining_time": 20270
+            "pause_count": 3
         },
         {
             "id": "Sylvano5362",
