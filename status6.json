@@ -32859,10 +32859,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-23T19:38:01.597054",
+            "countdown_start_time": "2026-02-21T19:27:01.450022",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "pause_count": 0
+            "pause_count": 1,
+            "paused_remaining_time": 173460,
+            "countdown_paused": true
         },
         {
             "id": "AlyqT53p0EA",
