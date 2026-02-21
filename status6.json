@@ -32757,13 +32757,12 @@
             "android_id": "dd744e429cd06340578392ccf6159702",
             "referred_by": "GangAvfK1Yn1",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-20T21:20:36.483482",
+            "status": "active",
+            "countdown_start_time": "2026-02-28T08:50:03.378537",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 1,
-            "paused_remaining_time": 612657
+            "countdown_paused": false,
+            "pause_count": 1
         },
         {
             "id": "rostonaheS2NmBhD",
