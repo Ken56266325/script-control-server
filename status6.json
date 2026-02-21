@@ -31234,10 +31234,12 @@
             "referred_by": "MaximeespinolahcDIlFqR8",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-28T17:11:34.433873",
+            "countdown_start_time": "2026-02-21T21:08:07.408016",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "pause_count": 0
+            "pause_count": 1,
+            "paused_remaining_time": 590607,
+            "countdown_paused": true
         },
         {
             "id": "Cacaprice5VN1xHjU",
