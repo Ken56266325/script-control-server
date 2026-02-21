@@ -25637,7 +25637,8 @@
                 "PaskavjBdTymY",
                 "MaxvyhZcufF",
                 "MikakelyuQMlOXm1",
-                "Nambinina4fRcTU2Y"
+                "Nambinina4fRcTU2Y",
+                "lyfahu90RCsn9"
             ],
             "status": "active",
             "countdown_start_time": "2026-02-21T11:04:57.579577",
@@ -33079,6 +33080,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-02-28T09:13:34.000841",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "lyfahu90RCsn9",
+            "android_id": "2d45f5667809aeb87bed599b5f66a1e3",
+            "referred_by": "SquidPjkazdNC",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-02-21T18:59:20.806766",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
