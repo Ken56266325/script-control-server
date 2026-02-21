@@ -21457,12 +21457,11 @@
             "android_id": "da6d03ab47092c1a5c5091fc7d456f50",
             "referred_by": "Airtel791628962",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-15T21:07:36.844263",
+            "status": "active",
+            "countdown_start_time": "2026-02-27T06:23:39.341857",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 481824,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
