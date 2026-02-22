@@ -31236,13 +31236,12 @@
             "android_id": "45c1252254867d476d983beadafad972",
             "referred_by": "MaximeespinolahcDIlFqR8",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-22T06:22:35.311765",
+            "status": "active",
+            "countdown_start_time": "2026-03-01T07:09:13.138961",
             "affiliation_balance": 0,
             "plan": "Basique",
             "pause_count": 2,
-            "countdown_paused": true,
-            "paused_remaining_time": 566576
+            "countdown_paused": false
         },
         {
             "id": "Cacaprice5VN1xHjU",
