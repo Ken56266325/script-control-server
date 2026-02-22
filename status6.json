@@ -32080,7 +32080,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2026-02-26T12:31:55.797122",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false,
             "pause_count": 3
@@ -32819,11 +32819,12 @@
             "android_id": "037ae15eff3aa75a82902eff43c47309",
             "referred_by": "Sinia52772",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-16T02:26:17.521106",
+            "status": "active",
+            "countdown_start_time": "2026-03-01T14:23:10.855957",
             "affiliation_balance": 0,
             "countdown_paused": false,
-            "plan": "Basique"
+            "plan": "Basique",
+            "pause_count": 0
         },
         {
             "id": "Ferdinah63737",
