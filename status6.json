@@ -26161,10 +26161,12 @@
             "referred_by": "sitraka3637",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-28T13:41:13.804549",
+            "countdown_start_time": "2026-02-22T13:10:57.644764",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "pause_count": 0
+            "pause_count": 1,
+            "paused_remaining_time": 520216,
+            "countdown_paused": true
         },
         {
             "id": "NarindraHbYJr8mw",
