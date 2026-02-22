@@ -32863,13 +32863,12 @@
             "android_id": "854240c145306d0e33fb04cc68e9cec7",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-22T01:07:00.215185",
+            "status": "active",
+            "countdown_start_time": "2026-02-24T01:44:13.008397",
             "affiliation_balance": 0,
             "plan": "Basique",
             "pause_count": 2,
-            "countdown_paused": true,
-            "paused_remaining_time": 153155
+            "countdown_paused": false
         },
         {
             "id": "AlyqT53p0EA",
