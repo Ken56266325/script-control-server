@@ -33139,9 +33139,12 @@
             "referred_by": "Lanja2847",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-23T04:23:32.623208",
+            "countdown_start_time": "2026-02-22T20:53:05.184710",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 27027,
+            "countdown_paused": true,
+            "pause_count": 1
         }
     ],
     "references": {
