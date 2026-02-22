@@ -29859,9 +29859,12 @@
             "referred_by": "MahefatinahajarivoaeJNpfdN",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-26T07:22:14.653079",
+            "countdown_start_time": "2026-02-22T18:45:49.838445",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 304584,
+            "countdown_paused": true,
+            "pause_count": 1
         },
         {
             "id": "marianneCmksO47V",
