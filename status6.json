@@ -21461,11 +21461,12 @@
             "referred_by": "Airtel791628962",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-27T06:23:39.341857",
+            "countdown_start_time": "2026-02-22T20:26:02.039051",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 1
+            "countdown_paused": true,
+            "pause_count": 2,
+            "paused_remaining_time": 381457
         },
         {
             "id": "SSLl46cFRR",
