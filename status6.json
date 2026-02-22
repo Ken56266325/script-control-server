@@ -25035,12 +25035,11 @@
             "android_id": "63a08ed26f75253361a3d520e656d47a",
             "referred_by": "Cetone479580",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-21T22:55:17.039486",
+            "status": "active",
+            "countdown_start_time": "2026-02-23T10:46:34.851666",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 80994,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
