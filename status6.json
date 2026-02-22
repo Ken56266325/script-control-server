@@ -32660,8 +32660,8 @@
             "referred_to": [
                 "Sarobidy4gkqJ4xG"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-20T06:20:06.216546",
+            "status": "active",
+            "countdown_start_time": "2026-03-01T18:12:58.217203",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false,
@@ -33125,16 +33125,6 @@
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2026-02-22T14:18:05.078724",
-            "affiliation_balance": 0,
-            "plan": "Basique"
-        },
-        {
-            "id": "RazafitsiresitianaangiliosherbertNFfzaWNY",
-            "android_id": "943bc80f8ea58c817cc8c94d3c734564",
-            "referred_by": null,
-            "referred_to": [],
-            "status": "active",
-            "countdown_start_time": "2026-02-23T02:12:56.688210",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
