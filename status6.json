@@ -32830,11 +32830,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-25T08:42:37.711205",
+            "countdown_start_time": "2026-02-22T20:08:32.209093",
             "affiliation_balance": 0,
-            "countdown_paused": false,
+            "countdown_paused": true,
             "plan": "Basique",
-            "pause_count": 1
+            "pause_count": 2,
+            "paused_remaining_time": 218045
         },
         {
             "id": "Pamelah89193022",
