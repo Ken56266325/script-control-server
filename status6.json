@@ -13982,7 +13982,8 @@
             "referred_to": [
                 "RbwalkinQVvv82Pi",
                 "sitrakaGTZnXwh2",
-                "JacquesfqQTGRfk"
+                "JacquesfqQTGRfk",
+                "kimX7PpVRNp"
             ],
             "status": "inactive",
             "countdown_start_time": "2026-02-20T08:16:53.718638",
@@ -33113,6 +33114,16 @@
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2026-02-22T01:59:54.961705",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "kimX7PpVRNp",
+            "android_id": "03b06827415868bf454590ffcd7096ad",
+            "referred_by": "rolain6NmkRYYg",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-02-22T14:18:05.078724",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
