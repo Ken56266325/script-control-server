@@ -5418,12 +5418,11 @@
             "android_id": "57379f7388853efcf37842946d7fad21",
             "referred_by": "SNeddie58103",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-21T16:56:38.582540",
+            "status": "active",
+            "countdown_start_time": "2026-02-23T17:30:05.875470",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 80323
+            "countdown_paused": false
         },
         {
             "id": "Sergio81p3697",
