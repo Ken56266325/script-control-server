@@ -27782,12 +27782,11 @@
             "android_id": "bd43249ec17bd920f6a8823bc35896b5",
             "referred_by": "Cetone479580",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-21T22:56:03.455329",
+            "status": "active",
+            "countdown_start_time": "2026-02-24T09:46:10.669121",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 163716,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
