@@ -32809,10 +32809,12 @@
             "referred_by": "Sinia52772",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-03-01T14:36:40.771898",
+            "countdown_start_time": "2026-02-22T20:26:19.447332",
             "affiliation_balance": 0,
-            "countdown_paused": false,
-            "plan": "Basique"
+            "countdown_paused": true,
+            "plan": "Basique",
+            "paused_remaining_time": 583821,
+            "pause_count": 1
         },
         {
             "id": "Nico52727",
