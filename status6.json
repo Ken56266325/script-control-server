@@ -1252,7 +1252,9 @@
             "id": "Lanja2847",
             "android_id": "2f0dc10c0ccd37b3ebad70870bd6850f",
             "referred_by": "Emmanuel6837",
-            "referred_to": [],
+            "referred_to": [
+                "Tatafrqz9zcw"
+            ],
             "status": "active",
             "countdown_start_time": "2026-02-24T01:11:12.487035",
             "affiliation_balance": 0,
@@ -33126,6 +33128,16 @@
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2026-02-22T14:18:05.078724",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Tatafrqz9zcw",
+            "android_id": "7debcf66c391790c99c8f7904d6bb82e",
+            "referred_by": "Lanja2847",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-02-23T04:23:32.623208",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
