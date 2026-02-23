@@ -27040,7 +27040,7 @@
             "referred_to": [
                 "taloryzmD3imlf"
             ],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-02-23T23:04:01.975770",
             "affiliation_balance": 0,
             "plan": "Basique",
@@ -31371,7 +31371,7 @@
             "android_id": "9827565f15e5ead98b5ca9f1ab0c8f9f",
             "referred_by": null,
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-02-23T23:13:17.646449",
             "affiliation_balance": 0,
             "plan": "Basique",
