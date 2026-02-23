@@ -30726,13 +30726,12 @@
                 "AndryM5prk1Sg",
                 "Alfredo2PQq27G3"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-20T05:38:38.273502",
+            "status": "active",
+            "countdown_start_time": "2026-02-27T12:26:02.761718",
             "affiliation_balance": 1000,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 341120
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "PertyYHzaCWsm",
