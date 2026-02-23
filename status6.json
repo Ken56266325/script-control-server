@@ -32469,10 +32469,12 @@
                 "BoryyPmw9Ib0F"
             ],
             "status": "active",
-            "countdown_start_time": "2026-02-26T07:22:36.443295",
+            "countdown_start_time": "2026-02-23T10:49:20.843069",
             "affiliation_balance": 2000,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 246795,
+            "pause_count": 1
         },
         {
             "id": "FlashKSnA0Zw8",
