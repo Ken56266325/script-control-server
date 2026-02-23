@@ -32808,12 +32808,11 @@
             "android_id": "12d0f8212f089f462dfd10d98a54bba1",
             "referred_by": "Sinia52772",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-22T20:26:19.447332",
+            "status": "active",
+            "countdown_start_time": "2026-03-02T01:10:21.770141",
             "affiliation_balance": 0,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "plan": "Basique",
-            "paused_remaining_time": 583821,
             "pause_count": 1
         },
         {
