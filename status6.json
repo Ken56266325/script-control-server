@@ -32836,11 +32836,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-25T21:36:19.918233",
+            "countdown_start_time": "2026-02-23T14:22:42.805853",
             "affiliation_balance": 0,
-            "countdown_paused": false,
+            "countdown_paused": true,
             "plan": "Basique",
-            "pause_count": 2
+            "pause_count": 3,
+            "paused_remaining_time": 198817
         },
         {
             "id": "Pamelah89193022",
