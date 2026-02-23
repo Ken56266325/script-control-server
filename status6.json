@@ -24635,12 +24635,11 @@
             "referred_to": [
                 "23342370ApkL8QqL"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-23T13:53:22.481542",
+            "status": "active",
+            "countdown_start_time": "2026-02-23T22:12:20.026025",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 10994
+            "countdown_paused": false
         },
         {
             "id": "NIAVOuRxntJZm",
