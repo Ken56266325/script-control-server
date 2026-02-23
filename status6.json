@@ -31392,12 +31392,11 @@
             "android_id": "f634d0467b77178374cb670426ae8685",
             "referred_by": "PertinotlrajveKh",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-14T13:18:52.955242",
+            "status": "active",
+            "countdown_start_time": "2026-02-23T23:58:41.079459",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 17301,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
