@@ -31569,10 +31569,11 @@
             "android_id": "b7a69cc5364004c2332af6f2ef2b4cf7",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-03T11:48:23.609246",
+            "status": "active",
+            "countdown_start_time": "2026-03-02T20:03:03.232992",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "pause_count": 0
         },
         {
             "id": "Andry818932002",
