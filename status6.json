@@ -27539,13 +27539,12 @@
             "android_id": "eb1cde0d046d42287551655551a12184",
             "referred_by": "Cetone479580",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-23T07:26:33.607871",
+            "status": "active",
+            "countdown_start_time": "2026-02-23T21:02:27.532410",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 40402
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "Brinot3YpusKbP",
