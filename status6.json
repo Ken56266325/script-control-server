@@ -29345,7 +29345,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2026-02-13T22:08:54.977261",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique"
         },
         {
@@ -31922,11 +31922,11 @@
                 "stephanietw8cMcel"
             ],
             "status": "active",
-            "countdown_start_time": "2026-02-24T02:17:08.524287",
+            "countdown_start_time": "2026-03-03T02:17:08.524287",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false,
-            "pause_count": 2
+            "pause_count": 0
         },
         {
             "id": "HelloBzCiunV2",
