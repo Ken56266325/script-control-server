@@ -32124,10 +32124,12 @@
             "referred_by": "PetersonclEqShIR",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-25T12:55:02.220584",
+            "countdown_start_time": "2026-02-23T07:20:06.384623",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "pause_count": 0
+            "pause_count": 1,
+            "paused_remaining_time": 192895,
+            "countdown_paused": true
         },
         {
             "id": "LeerazakGN2gmY1",
