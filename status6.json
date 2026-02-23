@@ -32468,12 +32468,11 @@
                 "BanniiBqq3Bdr8",
                 "BoryyPmw9Ib0F"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-23T10:49:20.843069",
+            "status": "active",
+            "countdown_start_time": "2026-02-26T11:36:30.337126",
             "affiliation_balance": 2000,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 246795,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
