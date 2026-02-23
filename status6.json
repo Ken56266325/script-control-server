@@ -33154,12 +33154,11 @@
             "android_id": "943bc80f8ea58c817cc8c94d3c734564",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-23T10:07:37.958839",
+            "status": "active",
+            "countdown_start_time": "2026-02-23T17:48:39.124384",
             "affiliation_balance": 0,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "plan": "Basique",
-            "paused_remaining_time": 18794,
             "pause_count": 1
         }
     ],
