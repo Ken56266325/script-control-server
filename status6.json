@@ -33055,12 +33055,11 @@
             "android_id": "1c7220065d71b30d5bbd28aff207b357",
             "referred_by": "AlexandreqrceVYTa",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-23T14:12:57.626086",
+            "status": "active",
+            "countdown_start_time": "2026-03-02T16:59:43.432493",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 604028,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
