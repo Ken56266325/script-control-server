@@ -31641,9 +31641,12 @@
             "referred_by": "UnohgAU559y3",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-03-02T11:34:19.441962",
+            "countdown_start_time": "2026-02-23T13:07:30.916995",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 599208,
+            "countdown_paused": true,
+            "pause_count": 1
         },
         {
             "id": "BIENsgPMiQS4",
