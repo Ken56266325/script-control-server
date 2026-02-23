@@ -10574,7 +10574,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-10-10T13:33:48.342299",
-            "affiliation_balance": 11000,
+            "affiliation_balance": 12000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -13937,11 +13937,12 @@
                 "Cacaprice5VN1xHjU",
                 "BIENsgPMiQS4"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2025-12-10T17:44:37.179912",
+            "status": "active",
+            "countdown_start_time": "2026-03-02T21:19:46.427877",
             "affiliation_balance": 20000,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": false,
+            "pause_count": 0
         },
         {
             "id": "SedinahBFl7CG3J",
