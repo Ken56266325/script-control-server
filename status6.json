@@ -33222,9 +33222,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-25T06:36:45.191139",
+            "countdown_start_time": "2026-02-24T23:19:04.815328",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 26260,
+            "countdown_paused": true,
+            "pause_count": 1
         }
     ],
     "references": {
