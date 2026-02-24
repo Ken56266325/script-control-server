@@ -33001,13 +33001,12 @@
             "android_id": "63cd1f6d5e5996da078b1efb1d276d60",
             "referred_by": "florinPnQCoP4f",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-24T09:44:04.658976",
+            "status": "active",
+            "countdown_start_time": "2026-02-28T09:30:05.843349",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 318687
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "BoryyPmw9Ib0F",
