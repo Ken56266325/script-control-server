@@ -33104,12 +33104,11 @@
             "android_id": "37311af8aa2f0a4547a32e2eb62351a6",
             "referred_by": "GabriellafitiaMhevcUDC",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-24T05:36:39.938571",
+            "status": "active",
+            "countdown_start_time": "2026-02-28T15:06:55.299825",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 358614,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
