@@ -12673,13 +12673,12 @@
             "android_id": "4b578d85d0fe800c8378a5c4a0ab18f8",
             "referred_by": "Velotsara681900",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-19T18:25:02.648209",
+            "status": "active",
+            "countdown_start_time": "2026-03-02T06:06:45.466368",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 1,
-            "paused_remaining_time": 492643
+            "countdown_paused": false,
+            "pause_count": 1
         },
         {
             "id": "AritafitaLeonoXFCGCgQp",
