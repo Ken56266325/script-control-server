@@ -13088,7 +13088,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2026-02-27T10:54:36.538416",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false,
             "pause_count": 3
@@ -33190,9 +33190,10 @@
             "referred_by": "Noutahtahy6rRaqvU",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-24T21:17:06.390352",
+            "countdown_start_time": "2026-03-03T21:17:06.390352",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "pause_count": 0
         }
     ],
     "references": {
