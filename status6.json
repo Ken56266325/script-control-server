@@ -31844,13 +31844,12 @@
             "android_id": "4ef5e00153a5c189c843b1d38db74207",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-22T01:23:49.386313",
+            "status": "active",
+            "countdown_start_time": "2026-02-25T18:57:58.869867",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 89815
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "InputVipZgZygGrm",
