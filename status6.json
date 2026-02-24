@@ -2385,7 +2385,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2026-02-09T22:21:33.615778",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -32436,12 +32436,12 @@
             "referred_to": [
                 "secondAjBI9Ax2"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-21T22:23:23.008393",
+            "status": "active",
+            "countdown_start_time": "2026-03-03T08:58:37.748431",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false,
-            "pause_count": 1
+            "pause_count": 0
         },
         {
             "id": "WillystivenTsDWsSbl",
