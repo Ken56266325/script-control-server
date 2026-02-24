@@ -27766,12 +27766,11 @@
             "referred_by": "Emmanuel1",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-24T16:32:54.441225",
+            "countdown_start_time": "2026-02-26T15:06:19.276496",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 166532
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "FanoyZkGbYyS",
