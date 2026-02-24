@@ -32864,11 +32864,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-03-03T10:45:32.330874",
+            "countdown_start_time": "2026-02-24T23:10:33.789586",
             "affiliation_balance": 0,
-            "countdown_paused": false,
+            "countdown_paused": true,
             "plan": "Basique",
-            "pause_count": 0
+            "pause_count": 1,
+            "paused_remaining_time": 560098
         },
         {
             "id": "Brutal9100202",
