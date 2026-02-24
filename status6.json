@@ -30729,11 +30729,12 @@
                 "Alfredo2PQq27G3"
             ],
             "status": "active",
-            "countdown_start_time": "2026-02-27T12:26:02.761718",
+            "countdown_start_time": "2026-02-24T16:59:21.371873",
             "affiliation_balance": 1000,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 2
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 242801
         },
         {
             "id": "PertyYHzaCWsm",
