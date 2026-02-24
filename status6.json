@@ -27458,9 +27458,11 @@
             "referred_by": "Andry5718e0",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-03-02T11:06:53.736367",
+            "countdown_start_time": "2026-02-24T17:05:09.274367",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 496904,
+            "countdown_paused": true
         },
         {
             "id": "Narindra68193929",
