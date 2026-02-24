@@ -5182,7 +5182,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-05-25T20:36:25.935183",
-            "affiliation_balance": 15000,
+            "affiliation_balance": 16000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -8862,11 +8862,12 @@
             "referred_to": [
                 "Thierry R'andriiUSHsTvmS"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-09T14:01:39.830706",
+            "status": "active",
+            "countdown_start_time": "2026-03-03T18:37:17.980544",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": false,
+            "pause_count": 0
         },
         {
             "id": "Adriane899932904",
