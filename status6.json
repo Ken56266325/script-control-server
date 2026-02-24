@@ -33076,11 +33076,12 @@
             "referred_by": "AlexandreqrceVYTa",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-03-02T16:59:43.432493",
+            "countdown_start_time": "2026-02-24T23:26:16.645207",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 1
+            "countdown_paused": true,
+            "pause_count": 2,
+            "paused_remaining_time": 495206
         },
         {
             "id": "fanantenana2662",
