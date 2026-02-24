@@ -26048,11 +26048,12 @@
             "referred_by": "Cetone479580",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-25T11:46:04.356852",
+            "countdown_start_time": "2026-02-24T13:30:38.370795",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 2
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 80125
         },
         {
             "id": "UnohgAU559y3",
