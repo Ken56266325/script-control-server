@@ -27768,13 +27768,12 @@
             "android_id": "fc12b07f1fcb342364cfa2c794366fa2",
             "referred_by": "Emmanuel1",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-24T17:01:32.633946",
+            "status": "active",
+            "countdown_start_time": "2026-02-26T16:07:32.140528",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 165886
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "FanoyZkGbYyS",
