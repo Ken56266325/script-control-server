@@ -24304,7 +24304,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2026-02-28T17:07:31.586658",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false,
             "pause_count": 3
