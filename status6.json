@@ -32054,13 +32054,12 @@
             "android_id": "df2c905097400a1c0b33c3afa4f140ab",
             "referred_by": "Soso79103",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-19T07:25:34.883852",
+            "status": "active",
+            "countdown_start_time": "2026-02-26T23:00:21.535971",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 139594
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "TanseZ9Jag4dp",
