@@ -33278,6 +33278,16 @@
             "countdown_start_time": "2026-02-26T03:21:22.137943",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "tel2csugd0a0le",
+            "android_id": "0e9bc8d200349928d3919ae82aebcf0f",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-02-26T05:22:00.879341",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
