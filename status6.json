@@ -7123,13 +7123,12 @@
             "referred_to": [
                 "stessieGOLvkSzH"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-25T12:12:46.355331",
+            "status": "active",
+            "countdown_start_time": "2026-02-25T19:50:19.200783",
             "affiliation_balance": 2000,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 16613
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "Jeremie571e99",
