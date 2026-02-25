@@ -27284,9 +27284,12 @@
             "referred_by": "TalboteyFvTphnm",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-26T18:26:36.215547",
+            "countdown_start_time": "2026-02-25T20:08:52.834130",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 80263,
+            "countdown_paused": true,
+            "pause_count": 1
         },
         {
             "id": "DassyUdTmKEGT",
