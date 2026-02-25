@@ -7127,7 +7127,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2026-02-25T19:50:19.200783",
-            "affiliation_balance": 2000,
+            "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": false,
             "pause_count": 2
@@ -10933,11 +10933,11 @@
             "referred_by": "Jenny5681519",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-25T18:11:51.162072",
+            "countdown_start_time": "2026-03-04T18:39:51.489013",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false,
-            "pause_count": 3
+            "pause_count": 0
         },
         {
             "id": "Oliv227o6M7Kcx",
