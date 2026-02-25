@@ -28261,9 +28261,12 @@
             "referred_by": "Joel68010",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-27T20:16:37.164483",
+            "countdown_start_time": "2026-02-25T18:10:44.427212",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 180352,
+            "countdown_paused": true,
+            "pause_count": 1
         },
         {
             "id": "NarutoEhIDnTQu",
