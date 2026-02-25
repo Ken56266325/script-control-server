@@ -25909,13 +25909,12 @@
             "android_id": "dfb90565a4d5d55c099001dc3970d65f",
             "referred_by": "Velotsara681900",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-22T08:16:51.458750",
+            "status": "active",
+            "countdown_start_time": "2026-03-01T16:04:46.992712",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 364025
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "ClaireAfjicFcp",
