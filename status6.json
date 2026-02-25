@@ -11351,10 +11351,12 @@
             "referred_by": "Cetone479580",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-26T18:59:30.221015",
+            "countdown_start_time": "2026-02-25T17:59:18.817713",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 90011,
+            "pause_count": 1
         },
         {
             "id": "Lail5iF5k4vc",
