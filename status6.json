@@ -5774,13 +5774,12 @@
                 "AndoniainaUkIi3Hjp",
                 "@TojoRianala5DsmYENo"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-23T20:50:57.461521",
+            "status": "active",
+            "countdown_start_time": "2026-02-27T13:43:39.384651",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 192703
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "rayanzo791039271",
