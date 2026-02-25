@@ -10933,13 +10933,12 @@
             "android_id": "c3ea84e7b8c00c027de5f59a736be62d",
             "referred_by": "Jenny5681519",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-25T18:51:14.457567",
+            "status": "active",
+            "countdown_start_time": "2026-03-04T22:03:03.496057",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 1,
-            "paused_remaining_time": 604117
+            "countdown_paused": false,
+            "pause_count": 1
         },
         {
             "id": "Oliv227o6M7Kcx",
