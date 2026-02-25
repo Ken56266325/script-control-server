@@ -33212,12 +33212,11 @@
             "android_id": "7c1ba917634c3dc70f71c018ad47ab47",
             "referred_by": "Manun7pigSsT",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-25T07:54:48.387848",
+            "status": "active",
+            "countdown_start_time": "2026-02-26T05:55:51.690938",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 75353,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
