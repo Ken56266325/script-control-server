@@ -20010,7 +20010,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2026-02-20T20:14:02.772368",
-            "affiliation_balance": 5000,
+            "affiliation_balance": 6000,
             "plan": "Basique",
             "countdown_paused": false,
             "pause_count": 1
@@ -31586,10 +31586,11 @@
             "referred_to": [
                 "LezomarXceq76M"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-24T22:14:21.316432",
+            "status": "active",
+            "countdown_start_time": "2026-03-04T18:11:51.159804",
             "affiliation_balance": 1000,
-            "plan": "Basique"
+            "plan": "Basique",
+            "pause_count": 0
         },
         {
             "id": "lucioaldwanEWBzmj9a",
