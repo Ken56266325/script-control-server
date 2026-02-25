@@ -32511,12 +32511,11 @@
                 "BoryyPmw9Ib0F"
             ],
             "status": "active",
-            "countdown_start_time": "2026-02-25T21:20:41.650576",
+            "countdown_start_time": "2026-02-26T15:11:12.671187",
             "affiliation_balance": 2000,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 64085
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "FlashKSnA0Zw8",
