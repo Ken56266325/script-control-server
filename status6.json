@@ -33027,10 +33027,12 @@
             "referred_by": "BarhpLe84xF",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-26T19:47:19.359419",
+            "countdown_start_time": "2026-02-25T10:37:46.157505",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "pause_count": 0
+            "pause_count": 1,
+            "paused_remaining_time": 119373,
+            "countdown_paused": true
         },
         {
             "id": "LeeolscenekMrVAQ5j",
