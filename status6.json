@@ -32269,12 +32269,11 @@
             "android_id": "dc995cd602a17b55ec290578fe354643",
             "referred_by": "Cetone479580",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-24T22:53:02.820928",
+            "status": "active",
+            "countdown_start_time": "2026-02-26T05:32:21.449383",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 81355,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
