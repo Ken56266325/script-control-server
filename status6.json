@@ -21734,10 +21734,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-03-04T08:42:13.264562",
+            "countdown_start_time": "2026-02-25T22:13:56.093233",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 556097,
+            "pause_count": 1
         },
         {
             "id": "Bedo9Ae5Pgn6",
