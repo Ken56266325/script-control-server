@@ -30048,7 +30048,7 @@
             "referred_to": [
                 "AlexandreqrceVYTa"
             ],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-02-25T22:25:19.941291",
             "affiliation_balance": 0,
             "plan": "Basique",
@@ -33265,7 +33265,7 @@
             "android_id": "6e8094d1ed9d602708eff8b7a681025c",
             "referred_by": null,
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-02-25T23:04:09.234678",
             "affiliation_balance": 0,
             "plan": "Basique"
