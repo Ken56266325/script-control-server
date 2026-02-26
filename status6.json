@@ -32906,13 +32906,12 @@
             "android_id": "7c09b9db748da6c997258ca7f245dac0",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-26T14:16:26.775100",
+            "status": "active",
+            "countdown_start_time": "2026-03-05T12:22:08.392352",
             "affiliation_balance": 0,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "plan": "Basique",
-            "pause_count": 3,
-            "paused_remaining_time": 592941
+            "pause_count": 3
         },
         {
             "id": "IlovonjyJXObxkUt",
