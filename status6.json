@@ -26900,13 +26900,12 @@
             "android_id": "e9a430ef167e4c8643a4c834bd5f4200",
             "referred_by": "YamaW4JS7U8S",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-26T13:17:21.380297",
+            "status": "active",
+            "countdown_start_time": "2026-02-27T05:16:59.402604",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 26663
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "NOMENAJzImS7Ty",
