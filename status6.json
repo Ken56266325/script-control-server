@@ -21472,13 +21472,12 @@
             "android_id": "da6d03ab47092c1a5c5091fc7d456f50",
             "referred_by": "Airtel791628962",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-24T17:14:45.887010",
+            "status": "active",
+            "countdown_start_time": "2026-03-02T12:09:19.464497",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 309208
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "SSLl46cFRR",
