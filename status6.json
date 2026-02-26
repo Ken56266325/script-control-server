@@ -25053,13 +25053,12 @@
             "android_id": "63a08ed26f75253361a3d520e656d47a",
             "referred_by": "Cetone479580",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-25T14:58:35.934713",
+            "status": "active",
+            "countdown_start_time": "2026-02-26T14:22:42.223571",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 23445
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "YannickJ3BajsRL",
