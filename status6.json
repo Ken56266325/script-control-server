@@ -32153,12 +32153,11 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-26T21:08:25.462612",
+            "countdown_start_time": "2026-02-28T02:57:45.357675",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 107294
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "VelomaxalOde",
