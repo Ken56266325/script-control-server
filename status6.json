@@ -32908,11 +32908,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-03-05T10:58:48.603343",
+            "countdown_start_time": "2026-02-26T14:16:26.775100",
             "affiliation_balance": 0,
-            "countdown_paused": false,
+            "countdown_paused": true,
             "plan": "Basique",
-            "pause_count": 2
+            "pause_count": 3,
+            "paused_remaining_time": 592941
         },
         {
             "id": "IlovonjyJXObxkUt",
