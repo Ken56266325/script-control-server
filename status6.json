@@ -19491,10 +19491,11 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-27T22:24:49.018896",
+            "countdown_start_time": "2026-02-26T07:39:52.962173",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 139496
         },
         {
             "id": "Mario234562",
