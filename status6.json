@@ -33207,11 +33207,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-03-01T18:30:18.546653",
+            "countdown_start_time": "2026-02-26T08:13:34.827940",
             "affiliation_balance": 0,
-            "countdown_paused": false,
+            "countdown_paused": true,
             "plan": "Basique",
-            "pause_count": 1
+            "pause_count": 2,
+            "paused_remaining_time": 296203
         },
         {
             "id": "sakura2ib0MfI8",
