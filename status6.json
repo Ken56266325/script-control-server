@@ -25656,7 +25656,8 @@
                 "MikakelyuQMlOXm1",
                 "Nambinina4fRcTU2Y",
                 "lyfahu90RCsn9",
-                "sakura2ib0MfI8"
+                "sakura2ib0MfI8",
+                "FiniavanabueFgZBW"
             ],
             "status": "active",
             "countdown_start_time": "2026-02-28T15:20:44.827364",
@@ -33306,6 +33307,16 @@
             "countdown_start_time": "2026-02-26T20:01:18.966094",
             "affiliation_balance": 0,
             "countdown_paused": false,
+            "plan": "Basique"
+        },
+        {
+            "id": "FiniavanabueFgZBW",
+            "android_id": "c2651e0aa75a27b0a1f3a68e6e6c4758",
+            "referred_by": "SquidPjkazdNC",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-02-27T01:33:00.066868",
+            "affiliation_balance": 0,
             "plan": "Basique"
         }
     ],
