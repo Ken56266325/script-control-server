@@ -30048,11 +30048,12 @@
                 "AlexandreqrceVYTa"
             ],
             "status": "active",
-            "countdown_start_time": "2026-02-28T13:50:21.038500",
+            "countdown_start_time": "2026-02-28T00:14:47.840236",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 1
+            "countdown_paused": true,
+            "pause_count": 2,
+            "paused_remaining_time": 48933
         },
         {
             "id": "IaryshTzH5Ha",
