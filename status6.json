@@ -29885,7 +29885,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2026-02-10T20:06:06.244760",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique"
         },
         {
@@ -33097,12 +33097,12 @@
             "referred_to": [
                 "fanilonarindraIoQCHOU4"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-27T14:14:50.716477",
+            "status": "active",
+            "countdown_start_time": "2026-03-06T15:36:43.615077",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false,
-            "pause_count": 1
+            "pause_count": 0
         },
         {
             "id": "Sarobidy4gkqJ4xG",
