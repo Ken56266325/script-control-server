@@ -25453,13 +25453,12 @@
             "android_id": "3ba87196cedfe540d2252f387211b73d",
             "referred_by": "Cetone479580",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-27T07:44:17.338374",
+            "status": "active",
+            "countdown_start_time": "2026-02-28T11:02:46.659022",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 62818
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "JerricoSteve4IoYn1Vo",
