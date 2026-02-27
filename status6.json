@@ -17780,10 +17780,12 @@
             "referred_by": "Timote689901",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-03-03T17:13:57.727885",
+            "countdown_start_time": "2026-02-27T12:32:25.960497",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 362491,
+            "pause_count": 1
         },
         {
             "id": "Walter1237fuEfvqMz",
