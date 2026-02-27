@@ -21417,11 +21417,12 @@
             "referred_by": "Cetone479580",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-27T23:11:04.941935",
+            "countdown_start_time": "2026-02-27T07:44:06.402280",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 3
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 55618
         },
         {
             "id": "NiraG5JwbD2A",
