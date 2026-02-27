@@ -33212,13 +33212,12 @@
             "android_id": "943bc80f8ea58c817cc8c94d3c734564",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-26T18:38:56.139204",
+            "status": "active",
+            "countdown_start_time": "2026-03-02T14:32:14.759094",
             "affiliation_balance": 0,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "plan": "Basique",
-            "pause_count": 3,
-            "paused_remaining_time": 269942
+            "pause_count": 3
         },
         {
             "id": "sakura2ib0MfI8",
