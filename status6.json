@@ -12031,7 +12031,7 @@
             "referred_to": [
                 "olviaHyHshQ44"
             ],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-02-27T02:09:28.435911",
             "affiliation_balance": 0,
             "plan": "Basique",
@@ -33325,7 +33325,7 @@
             "android_id": "42e83487c0d3a21dce700ebae739ba88",
             "referred_by": null,
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-02-27T02:38:38.678556",
             "affiliation_balance": 0,
             "plan": "Basique"
