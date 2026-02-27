@@ -11713,12 +11713,11 @@
                 "SphanjrVgJFpGaI"
             ],
             "status": "inactive",
-            "countdown_start_time": "2026-02-17T16:37:27.761313",
+            "countdown_start_time": "2026-02-27T15:06:59.837756",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 147765
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "StephanThti5FP9",
