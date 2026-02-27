@@ -27130,13 +27130,12 @@
             "android_id": "56f8f4834db030e34c14cb456aa3816d",
             "referred_by": "Cetone479580",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-27T07:44:26.467079",
+            "status": "active",
+            "countdown_start_time": "2026-02-28T10:02:58.593785",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 59221
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "ZoKlRz04fw",
