@@ -12031,13 +12031,12 @@
             "referred_to": [
                 "olviaHyHshQ44"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-28T13:16:54.770131",
+            "status": "active",
+            "countdown_start_time": "2026-03-01T12:08:55.456055",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 67477
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "MatelozahoMR1bvAlX",
