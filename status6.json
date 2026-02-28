@@ -1704,11 +1704,12 @@
                 "Lapa0utQgM72"
             ],
             "status": "active",
-            "countdown_start_time": "2026-03-01T12:36:35.502377",
+            "countdown_start_time": "2026-02-28T12:45:10.424117",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 3
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 85885
         },
         {
             "id": "Nini60132",
