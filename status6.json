@@ -31569,9 +31569,11 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-03-05T13:48:23.437362",
+            "countdown_start_time": "2026-02-28T19:13:41.171666",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 412482,
+            "countdown_paused": true
         },
         {
             "id": "rjfrancois907vvEbW",
