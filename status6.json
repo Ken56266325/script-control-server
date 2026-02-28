@@ -32425,13 +32425,12 @@
             "android_id": "f169b99b6a01dd146f404dc81c83bf0d",
             "referred_by": "SNeddie58103",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-22T06:56:37.894516",
+            "status": "active",
+            "countdown_start_time": "2026-02-28T23:43:02.559294",
             "affiliation_balance": 0,
             "plan": "Basique",
             "pause_count": 2,
-            "countdown_paused": true,
-            "paused_remaining_time": 52962
+            "countdown_paused": false
         },
         {
             "id": "WalckerHeritinaADZejFQz",
