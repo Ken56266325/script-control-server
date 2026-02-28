@@ -21654,7 +21654,8 @@
                 "HeritinatsilaI1ElqoDX",
                 "Heritina17Tsilae97Fm0LD",
                 "JoelahparfaisQsQ5MtZ6",
-                "WalckerHeritinaADZejFQz"
+                "WalckerHeritinaADZejFQz",
+                "EddycendrenDtNr69oV"
             ],
             "status": "inactive",
             "countdown_start_time": "2026-02-04T11:29:49.783919",
@@ -33355,6 +33356,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-02-28T23:44:47.974916",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "EddycendrenDtNr69oV",
+            "android_id": "95f442a488d0df2c6fcaca61ced561fd",
+            "referred_by": "YangodatsilaIZbGh1WZ",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-03-01T02:27:05.865688",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
