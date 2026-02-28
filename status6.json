@@ -33358,9 +33358,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-02-28T23:44:47.974916",
+            "countdown_start_time": "2026-02-28T19:25:21.783294",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 15566,
+            "countdown_paused": true,
+            "pause_count": 1
         },
         {
             "id": "EddycendrenDtNr69oV",
