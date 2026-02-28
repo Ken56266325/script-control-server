@@ -33296,10 +33296,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-03-05T12:54:52.101285",
+            "countdown_start_time": "2026-03-01T02:03:12.066817",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "pause_count": 0
+            "pause_count": 1,
+            "paused_remaining_time": 384700,
+            "countdown_paused": true
         },
         {
             "id": "Dada53673",
