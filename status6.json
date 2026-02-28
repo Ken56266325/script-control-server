@@ -32216,9 +32216,12 @@
             "referred_by": "YangodatsilaIZbGh1WZ",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-03-05T19:13:08.728648",
+            "countdown_start_time": "2026-02-28T08:36:06.242539",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 470222,
+            "countdown_paused": true,
+            "pause_count": 1
         },
         {
             "id": "RodRiguezCx49BKVj",
