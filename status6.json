@@ -27059,11 +27059,12 @@
                 "taloryzmD3imlf"
             ],
             "status": "active",
-            "countdown_start_time": "2026-02-28T15:30:34.549005",
+            "countdown_start_time": "2026-02-28T10:02:49.010270",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 2
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 19665
         },
         {
             "id": "5626634",
