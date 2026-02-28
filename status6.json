@@ -32639,13 +32639,12 @@
             "android_id": "20619b9370ff9056509b25a94dddbd88",
             "referred_by": "Cetone479580",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-28T09:13:52.109126",
+            "status": "active",
+            "countdown_start_time": "2026-03-01T01:22:06.695053",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 52464
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "RotsianaelisalFBbj71y",
