@@ -33245,13 +33245,12 @@
             "android_id": "30fc6663f7ccf25abad33acf0fa6c903",
             "referred_by": "Noutahtahy6rRaqvU",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-26T16:14:23.926854",
+            "status": "active",
+            "countdown_start_time": "2026-03-06T20:07:47.562754",
             "affiliation_balance": 0,
             "plan": "Basique",
             "pause_count": 1,
-            "paused_remaining_time": 450162,
-            "countdown_paused": true
+            "countdown_paused": false
         },
         {
             "id": "olviaHyHshQ44",
