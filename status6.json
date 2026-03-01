@@ -11358,13 +11358,12 @@
             "android_id": "aedd3fc4bc38df161f53eb9f2b737135",
             "referred_by": "Cetone479580",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-03-01T06:22:05.823216",
+            "status": "active",
+            "countdown_start_time": "2026-03-01T17:44:03.394439",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 22303
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "Lail5iF5k4vc",
