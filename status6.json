@@ -32673,13 +32673,12 @@
             "android_id": "ad80be6fd88f7a4093e4f8f09e4f56a1",
             "referred_by": "Cetone479580",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-03-01T06:20:23.370965",
+            "status": "active",
+            "countdown_start_time": "2026-03-01T14:57:49.430967",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 15239
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "MaxvyhZcufF",
