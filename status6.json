@@ -33361,12 +33361,11 @@
             "android_id": "1496860c8380bb7318a660b85d6cc636",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-28T19:25:21.783294",
+            "status": "active",
+            "countdown_start_time": "2026-03-01T10:32:34.792297",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 15566,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
