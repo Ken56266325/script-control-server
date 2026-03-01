@@ -31887,11 +31887,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-03-04T20:42:27.968495",
+            "countdown_start_time": "2026-03-01T10:01:54.667339",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 0
+            "countdown_paused": true,
+            "pause_count": 1,
+            "paused_remaining_time": 297633
         },
         {
             "id": "InputVipZgZygGrm",
