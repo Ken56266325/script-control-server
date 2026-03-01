@@ -27897,13 +27897,12 @@
             "referred_to": [
                 "Vrai12125050"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-25T07:44:40.791212",
+            "status": "active",
+            "countdown_start_time": "2026-03-04T17:08:05.785805",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 266864
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "Andriatsirefesy2CvYWldf",
