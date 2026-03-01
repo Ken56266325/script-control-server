@@ -31844,12 +31844,11 @@
             "android_id": "7f41a5605ec8c2cdc7339425ff7141c5",
             "referred_by": "Cetone479580",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-03-01T06:25:35.857917",
+            "status": "active",
+            "countdown_start_time": "2026-03-01T15:54:14.349426",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 18549,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
