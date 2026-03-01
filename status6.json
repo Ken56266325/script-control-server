@@ -4952,11 +4952,12 @@
                 "AINAUj68RVRn"
             ],
             "status": "active",
-            "countdown_start_time": "2026-03-01T12:34:00.942321",
+            "countdown_start_time": "2026-03-01T06:19:27.578035",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 2
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 22473
         },
         {
             "id": "Ronaldin217569",
