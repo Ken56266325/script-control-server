@@ -7082,12 +7082,11 @@
                 "Jeremiek4dNl2EE",
                 "ramainty3k0eljDz"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-03-01T10:35:27.587331",
+            "status": "active",
+            "countdown_start_time": "2026-03-05T23:06:11.670532",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 357184,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
