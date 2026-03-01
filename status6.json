@@ -27068,13 +27068,12 @@
             "referred_to": [
                 "taloryzmD3imlf"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-28T10:02:49.010270",
+            "status": "active",
+            "countdown_start_time": "2026-03-01T16:27:51.632891",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 19665
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "5626634",
