@@ -31969,11 +31969,12 @@
                 "stephanietw8cMcel"
             ],
             "status": "active",
-            "countdown_start_time": "2026-03-03T02:17:08.524287",
+            "countdown_start_time": "2026-03-01T13:56:32.080720",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 0
+            "countdown_paused": true,
+            "pause_count": 1,
+            "paused_remaining_time": 130836
         },
         {
             "id": "HelloBzCiunV2",
