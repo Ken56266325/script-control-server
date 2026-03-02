@@ -33440,7 +33440,8 @@
             "status": "active",
             "countdown_start_time": "2026-03-09T18:11:07.264693",
             "affiliation_balance": 0,
-            "countdown_paused": false
+            "countdown_paused": false,
+            "plan": "Basique"
         }
     ],
     "references": {
