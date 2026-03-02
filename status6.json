@@ -32486,11 +32486,12 @@
                 "secondAjBI9Ax2"
             ],
             "status": "active",
-            "countdown_start_time": "2026-03-07T23:13:17.099067",
+            "countdown_start_time": "2026-03-02T07:24:04.154221",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 1
+            "countdown_paused": true,
+            "pause_count": 2,
+            "paused_remaining_time": 488952
         },
         {
             "id": "WillystivenTsDWsSbl",
