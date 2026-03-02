@@ -33150,10 +33150,11 @@
             "referred_by": "NadiaxEHQNbby",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-03-08T14:57:21.339245",
+            "countdown_start_time": "2026-03-02T09:09:24.517168",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 539276
         },
         {
             "id": "fanilonarindraIoQCHOU4",
