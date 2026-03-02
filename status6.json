@@ -12810,13 +12810,12 @@
             "android_id": "7114f05118f5b3ef3e22db5d709e3dec",
             "referred_by": "Mamitina791402",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-03-01T06:23:30.176549",
+            "status": "active",
+            "countdown_start_time": "2026-03-05T23:18:21.801009",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 318159
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "RovaZM27pyLd",
