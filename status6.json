@@ -26087,7 +26087,8 @@
                 "SylvanyVerstappen9HjRVC2M",
                 "MbolatianaSedrickaMijnKbUD",
                 "WilliamFanirianaOHYWJuIH",
-                "NervaRasoaGWzRYHp8"
+                "NervaRasoaGWzRYHp8",
+                "VanahaJokaRifHefgE"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-11-26T18:09:07.463197",
@@ -33403,6 +33404,16 @@
             "countdown_start_time": "2026-03-02T00:03:38.647217",
             "affiliation_balance": 0,
             "countdown_paused": false,
+            "plan": "Basique"
+        },
+        {
+            "id": "VanahaJokaRifHefgE",
+            "android_id": "dc0925cf7d674186bdad7aaba68173ca",
+            "referred_by": "UnohgAU559y3",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-03-02T17:18:06.212624",
+            "affiliation_balance": 0,
             "plan": "Basique"
         }
     ],
