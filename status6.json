@@ -32737,13 +32737,12 @@
             "android_id": "a935ac23800b5d2b32b3d7be02eda800",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-27T15:11:17.155997",
+            "status": "active",
+            "countdown_start_time": "2026-03-04T16:49:44.362312",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 169991
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "Frigap95GwPY7",
