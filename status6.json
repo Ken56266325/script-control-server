@@ -26906,11 +26906,12 @@
             "referred_by": "YamaW4JS7U8S",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-03-06T11:39:29.230932",
+            "countdown_start_time": "2026-03-02T23:08:23.152255",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 2
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 304266
         },
         {
             "id": "NOMENAJzImS7Ty",
