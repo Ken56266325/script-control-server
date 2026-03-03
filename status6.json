@@ -32864,10 +32864,12 @@
             "referred_by": "Sinia52772",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-03-08T20:08:12.562175",
+            "countdown_start_time": "2026-03-03T07:47:55.629034",
             "affiliation_balance": 0,
-            "countdown_paused": false,
-            "plan": "Basique"
+            "countdown_paused": true,
+            "plan": "Basique",
+            "paused_remaining_time": 476416,
+            "pause_count": 1
         },
         {
             "id": "joel5363",
