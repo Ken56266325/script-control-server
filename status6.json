@@ -26349,9 +26349,11 @@
             "referred_by": "Andry5718e0",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-03-08T16:50:06.503959",
+            "countdown_start_time": "2026-03-03T07:39:09.443794",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 465057,
+            "countdown_paused": true
         },
         {
             "id": "GhostefgiKBZHc",
