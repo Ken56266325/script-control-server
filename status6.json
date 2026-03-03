@@ -33157,13 +33157,12 @@
             "android_id": "31ff004099c74f2b12f60be10e8922fe",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-03-03T12:01:05.914565",
+            "status": "active",
+            "countdown_start_time": "2026-03-06T19:34:46.293155",
             "affiliation_balance": 0,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "plan": "Basique",
-            "pause_count": 2,
-            "paused_remaining_time": 265350
+            "pause_count": 2
         },
         {
             "id": "Fenorivoy4bc4CQq",
