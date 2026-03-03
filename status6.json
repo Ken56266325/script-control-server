@@ -31983,13 +31983,12 @@
             "referred_to": [
                 "stephanietw8cMcel"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-03-03T14:35:56.650182",
+            "status": "active",
+            "countdown_start_time": "2026-03-10T12:32:10.600664",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 1,
-            "paused_remaining_time": 588067
+            "countdown_paused": false,
+            "pause_count": 1
         },
         {
             "id": "HelloBzCiunV2",
