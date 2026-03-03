@@ -31777,11 +31777,12 @@
             "referred_by": "Grav69130",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-03-08T13:50:23.532867",
+            "countdown_start_time": "2026-03-03T06:51:33.299021",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 2
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 457130
         },
         {
             "id": "JEREMIA1dtE7s9u",
