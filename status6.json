@@ -22788,13 +22788,12 @@
             "android_id": "e297adb08a2f98b5638f7e52cf9e6e98",
             "referred_by": "Maharongatry1ysCar4h",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-03-03T10:20:38.000776",
+            "status": "active",
+            "countdown_start_time": "2026-03-09T00:46:37.250585",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 462622
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "geldoa0LOLdF",
