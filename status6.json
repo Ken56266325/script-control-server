@@ -31601,13 +31601,12 @@
             "referred_to": [
                 "LezomarXceq76M"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-26T10:59:35.424076",
+            "status": "active",
+            "countdown_start_time": "2026-03-09T13:35:33.558257",
             "affiliation_balance": 1000,
             "plan": "Basique",
             "pause_count": 0,
-            "paused_remaining_time": 544335,
-            "countdown_paused": true
+            "countdown_paused": false
         },
         {
             "id": "lucioaldwanEWBzmj9a",
