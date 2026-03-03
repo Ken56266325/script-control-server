@@ -29107,12 +29107,11 @@
             "android_id": "0792899749b30a45a7b6a36f04a888b1",
             "referred_by": "ondriphavipw5TC96WT",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-03-01T19:42:09.822475",
+            "status": "active",
+            "countdown_start_time": "2026-03-07T14:13:00.176884",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 335677,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
