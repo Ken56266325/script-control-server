@@ -33153,11 +33153,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-03-06T13:43:36.723115",
+            "countdown_start_time": "2026-03-03T12:01:05.914565",
             "affiliation_balance": 0,
-            "countdown_paused": false,
+            "countdown_paused": true,
             "plan": "Basique",
-            "pause_count": 1
+            "pause_count": 2,
+            "paused_remaining_time": 265350
         },
         {
             "id": "Fenorivoy4bc4CQq",
