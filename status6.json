@@ -29909,11 +29909,12 @@
             "referred_by": "MahefatinahajarivoaeJNpfdN",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-03-09T20:05:51.433617",
+            "countdown_start_time": "2026-03-04T19:09:10.005090",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 1
+            "countdown_paused": true,
+            "pause_count": 2,
+            "paused_remaining_time": 435401
         },
         {
             "id": "marianneCmksO47V",
