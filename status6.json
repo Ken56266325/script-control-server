@@ -33182,10 +33182,12 @@
             "referred_by": "NadiaxEHQNbby",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-03-11T04:40:17.828609",
+            "countdown_start_time": "2026-03-04T23:03:41.768587",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 538596,
+            "pause_count": 1
         },
         {
             "id": "fanilonarindraIoQCHOU4",
