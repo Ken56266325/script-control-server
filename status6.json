@@ -10413,13 +10413,12 @@
             "android_id": "4576ab42b0a4a55ca132249627ac28eb",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-03-04T07:45:21.444195",
+            "status": "active",
+            "countdown_start_time": "2026-03-06T00:43:14.604633",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 93209
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "YonnetteTDJ5A5qN",
