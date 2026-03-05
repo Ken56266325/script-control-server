@@ -32199,13 +32199,12 @@
             "android_id": "a25ed04bff3f8f2a7c00ee107a37e17a",
             "referred_by": "PetersonclEqShIR",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-23T07:20:06.384623",
+            "status": "active",
+            "countdown_start_time": "2026-03-07T23:47:40.857525",
             "affiliation_balance": 0,
             "plan": "Basique",
             "pause_count": 1,
-            "paused_remaining_time": 192895,
-            "countdown_paused": true
+            "countdown_paused": false
         },
         {
             "id": "LeerazakGN2gmY1",
