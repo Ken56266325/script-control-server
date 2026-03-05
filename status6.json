@@ -31502,13 +31502,12 @@
             "android_id": "1221def99e995a9e97063723aefd3085",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-03-02T14:42:43.047426",
+            "status": "active",
+            "countdown_start_time": "2026-03-05T21:18:14.976158",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 25886
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "NELSONOrdiUlDq",
