@@ -33427,12 +33427,11 @@
             "android_id": "14a9a966f98439282eb5167d0034a125",
             "referred_by": "fanilonarindraIoQCHOU4",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-03-03T21:46:10.512309",
+            "status": "active",
+            "countdown_start_time": "2026-03-10T02:37:50.342641",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 398450,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
