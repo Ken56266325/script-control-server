@@ -31772,12 +31772,11 @@
             "android_id": "6c74a97ff3b2efb153e25ae993d1a7ea",
             "referred_by": "Doda6920",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-12T21:33:53.307758",
+            "status": "active",
+            "countdown_start_time": "2026-03-08T11:34:09.592878",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 150468,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
