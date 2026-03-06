@@ -25960,13 +25960,12 @@
             "android_id": "32d3891743c91eca4814c07727002027",
             "referred_by": "SNeddie58103",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-03-05T13:36:46.287923",
+            "status": "active",
+            "countdown_start_time": "2026-03-06T22:52:18.966168",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 58280
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "RodiiiDNfn2SwL",
