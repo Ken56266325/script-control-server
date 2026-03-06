@@ -31905,11 +31905,12 @@
                 "SadaMdg3H58v"
             ],
             "status": "active",
-            "countdown_start_time": "2026-03-08T05:40:51.667061",
+            "countdown_start_time": "2026-03-07T02:18:14.824041",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 2
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 98556
         },
         {
             "id": "InputVipZgZygGrm",
