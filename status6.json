@@ -21663,7 +21663,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2026-02-04T11:29:49.783919",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -33410,10 +33410,11 @@
             "android_id": "95f442a488d0df2c6fcaca61ced561fd",
             "referred_by": "YangodatsilaIZbGh1WZ",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-03-01T02:27:05.865688",
+            "status": "active",
+            "countdown_start_time": "2026-03-13T18:50:38.670995",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "pause_count": 0
         },
         {
             "id": "DiamondrafanjaNWSw4eul",
