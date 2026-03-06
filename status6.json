@@ -31792,13 +31792,12 @@
             "android_id": "22d925fe8808369991ad42dd46502aba",
             "referred_by": "Grav69130",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-03-05T21:00:09.818328",
+            "status": "active",
+            "countdown_start_time": "2026-03-10T18:05:31.588581",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 354687
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "JEREMIA1dtE7s9u",
