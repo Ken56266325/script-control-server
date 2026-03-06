@@ -31444,11 +31444,10 @@
             "referred_by": "PertinotlrajveKh",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-03-06T17:18:24.048729",
+            "countdown_start_time": "2026-03-06T11:32:40.303597",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 17301,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 0
         },
         {
