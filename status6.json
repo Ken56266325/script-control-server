@@ -27725,9 +27725,12 @@
             "referred_by": "JassBoy58103",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-03-08T18:47:21.980762",
+            "countdown_start_time": "2026-03-06T21:52:09.222693",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 161712,
+            "countdown_paused": true,
+            "pause_count": 1
         },
         {
             "id": "ArielaAriellaHhV9Fw6T",
