@@ -33542,11 +33542,10 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-03-06T21:04:34.350244",
+            "countdown_start_time": "2026-03-07T03:20:23.292067",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 22428,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1
         }
     ],
