@@ -32652,11 +32652,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-03-10T08:55:11.835296",
+            "countdown_start_time": "2026-03-06T09:27:36.146564",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 3
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 343655
         },
         {
             "id": "SedyEJQOB5Ki",
