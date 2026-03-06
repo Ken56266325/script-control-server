@@ -33411,10 +33411,12 @@
             "referred_by": "YangodatsilaIZbGh1WZ",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-03-13T18:50:38.670995",
+            "countdown_start_time": "2026-03-06T19:01:23.656626",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "pause_count": 0
+            "pause_count": 1,
+            "paused_remaining_time": 604155,
+            "countdown_paused": true
         },
         {
             "id": "DiamondrafanjaNWSw4eul",
