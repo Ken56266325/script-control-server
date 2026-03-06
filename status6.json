@@ -31901,13 +31901,12 @@
                 "TailandedvO3vU52",
                 "SadaMdg3H58v"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-03-03T14:13:18.523620",
+            "status": "active",
+            "countdown_start_time": "2026-03-08T05:40:51.667061",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 113805
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "InputVipZgZygGrm",
