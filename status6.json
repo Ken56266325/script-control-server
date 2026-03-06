@@ -24599,10 +24599,12 @@
             "referred_by": "Andry5718e0",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-03-13T19:54:43.888886",
+            "countdown_start_time": "2026-03-06T20:51:22.789043",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 601401,
+            "pause_count": 1
         },
         {
             "id": "Tah3360WtDvu844",
