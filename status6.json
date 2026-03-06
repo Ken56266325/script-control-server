@@ -7934,10 +7934,12 @@
             "referred_by": "Andry5718e0",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-03-13T22:56:57.986557",
+            "countdown_start_time": "2026-03-06T23:02:59.213561",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 604438,
+            "pause_count": 1
         },
         {
             "id": "Smmboss58194920",
