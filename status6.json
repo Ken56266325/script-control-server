@@ -32292,9 +32292,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-03-12T08:46:36.612868",
+            "countdown_start_time": "2026-03-06T11:54:12.540504",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 507144,
+            "countdown_paused": true,
+            "pause_count": 1
         },
         {
             "id": "Din526262",
