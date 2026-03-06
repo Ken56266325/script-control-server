@@ -33044,11 +33044,12 @@
             "referred_by": "Sinia52772",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-03-13T16:33:37.891245",
+            "countdown_start_time": "2026-03-06T17:14:03.004939",
             "affiliation_balance": 0,
-            "countdown_paused": false,
+            "countdown_paused": true,
             "plan": "Basique",
-            "pause_count": 0
+            "pause_count": 1,
+            "paused_remaining_time": 602374
         },
         {
             "id": "kennygQDlP4rZ",
