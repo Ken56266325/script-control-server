@@ -33511,12 +33511,11 @@
             "android_id": "97f160f4d99e049e167fd5f93185da9c",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-03-05T21:26:35.363349",
+            "status": "active",
+            "countdown_start_time": "2026-03-06T12:30:36.431939",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 20399,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
