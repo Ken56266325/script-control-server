@@ -8035,13 +8035,12 @@
             "android_id": "8e4bbc29b024fe053f9d588ccfda9ad8",
             "referred_by": "Joel68010",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-03-04T08:36:06.059462",
+            "status": "active",
+            "countdown_start_time": "2026-03-11T06:21:30.471107",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 387645
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "Justine57199302",
