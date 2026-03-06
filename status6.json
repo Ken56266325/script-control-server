@@ -32277,12 +32277,11 @@
             "android_id": "f9bb1ddc5fce9ef40cbca8f734473f50",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-03-06T16:54:11.256136",
+            "status": "active",
+            "countdown_start_time": "2026-03-10T23:10:17.276861",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 345018,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
