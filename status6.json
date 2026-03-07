@@ -11951,7 +11951,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2026-01-22T08:39:44.630157",
-            "affiliation_balance": 15000,
+            "affiliation_balance": 16000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -19582,11 +19582,12 @@
                 "LeerazaoeskjJct",
                 "LeeolscenekMrVAQ5j"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-01-19T13:17:10.662462",
+            "status": "active",
+            "countdown_start_time": "2026-03-14T16:02:00.411115",
             "affiliation_balance": 3000,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": false,
+            "pause_count": 0
         },
         {
             "id": "Narindra6D6bokJU",
