@@ -31924,13 +31924,12 @@
                 "TailandedvO3vU52",
                 "SadaMdg3H58v"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-03-07T02:18:14.824041",
+            "status": "active",
+            "countdown_start_time": "2026-03-08T19:52:31.814049",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 98556
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "InputVipZgZygGrm",
