@@ -32727,11 +32727,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-03-10T16:50:11.210339",
+            "countdown_start_time": "2026-03-07T08:14:55.454728",
             "affiliation_balance": 0,
-            "countdown_paused": false,
+            "countdown_paused": true,
             "plan": "Basique",
-            "pause_count": 3
+            "pause_count": 3,
+            "paused_remaining_time": 290115
         },
         {
             "id": "doue5svHwNCd",
