@@ -4836,11 +4836,12 @@
                 "MinoArisoav7bTI2iE"
             ],
             "status": "active",
-            "countdown_start_time": "2026-03-11T03:31:05.265376",
+            "countdown_start_time": "2026-03-07T11:06:56.969614",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 2
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 318248
         },
         {
             "id": "Nindograc24801030",
