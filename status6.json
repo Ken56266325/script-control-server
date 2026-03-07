@@ -32933,11 +32933,12 @@
             "referred_by": "Sinia52772",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-03-14T01:16:28.347743",
+            "countdown_start_time": "2026-03-07T19:26:18.522577",
             "affiliation_balance": 0,
-            "countdown_paused": false,
+            "countdown_paused": true,
             "plan": "Basique",
-            "pause_count": 1
+            "pause_count": 2,
+            "paused_remaining_time": 539409
         },
         {
             "id": "Ferdinah63737",
