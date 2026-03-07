@@ -12297,12 +12297,11 @@
             "android_id": "ddb2c7d368d461a056a9f1dedeb81221",
             "referred_by": "Emile5819392",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-03-07T07:03:38.979021",
+            "status": "active",
+            "countdown_start_time": "2026-03-13T23:04:40.309173",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 561520,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
