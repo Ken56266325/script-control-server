@@ -11111,11 +11111,12 @@
             "referred_by": "Cetone479580",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-03-07T17:12:02.917887",
+            "countdown_start_time": "2026-03-07T10:16:38.495031",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 1
+            "countdown_paused": true,
+            "pause_count": 1,
+            "paused_remaining_time": 24924
         },
         {
             "id": "RolloucxwONRo",
