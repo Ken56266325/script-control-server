@@ -33565,11 +33565,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-03-08T04:07:07.804900",
+            "countdown_start_time": "2026-03-07T09:14:43.275701",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 1
+            "countdown_paused": true,
+            "pause_count": 2,
+            "paused_remaining_time": 67944
         },
         {
             "id": "EmilleandryCLT1rI4M",
