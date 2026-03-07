@@ -12297,10 +12297,12 @@
             "referred_by": "Emile5819392",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-03-13T19:02:19.608482",
+            "countdown_start_time": "2026-03-07T07:03:38.979021",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 561520,
+            "pause_count": 1
         },
         {
             "id": "TodisoaGhu69cEk",
