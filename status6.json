@@ -32935,13 +32935,12 @@
             "android_id": "037ae15eff3aa75a82902eff43c47309",
             "referred_by": "Sinia52772",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-03-07T07:02:26.598647",
+            "status": "active",
+            "countdown_start_time": "2026-03-14T01:16:28.347743",
             "affiliation_balance": 0,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "plan": "Basique",
-            "pause_count": 1,
-            "paused_remaining_time": 549698
+            "pause_count": 1
         },
         {
             "id": "Ferdinah63737",
