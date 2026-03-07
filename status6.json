@@ -32887,11 +32887,12 @@
             "referred_by": "GangAvfK1Yn1",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-03-11T01:35:09.865633",
+            "countdown_start_time": "2026-03-07T22:25:32.958567",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 3
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 270576
         },
         {
             "id": "rostonaheS2NmBhD",
