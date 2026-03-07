@@ -32278,10 +32278,11 @@
             "android_id": "c4e45326928df66f15a968d98a410a32",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-13T20:46:18.266737",
+            "status": "active",
+            "countdown_start_time": "2026-03-14T15:38:27.556761",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "pause_count": 0
         },
         {
             "id": "eugene56363",
