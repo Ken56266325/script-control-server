@@ -31601,11 +31601,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-03-11T17:41:49.573154",
+            "countdown_start_time": "2026-03-07T16:54:06.304507",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 1
+            "countdown_paused": true,
+            "pause_count": 2,
+            "paused_remaining_time": 348463
         },
         {
             "id": "rjfrancois907vvEbW",
