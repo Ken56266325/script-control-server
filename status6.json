@@ -32694,13 +32694,12 @@
             "android_id": "20619b9370ff9056509b25a94dddbd88",
             "referred_by": "Cetone479580",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-03-07T10:17:07.896662",
+            "status": "active",
+            "countdown_start_time": "2026-03-07T21:35:21.775827",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 24988
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "RotsianaelisalFBbj71y",
