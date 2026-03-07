@@ -33389,13 +33389,12 @@
             "android_id": "2b11ff6b42d1937adf352dc9754d4b07",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-03-07T02:17:20.830778",
+            "status": "active",
+            "countdown_start_time": "2026-03-07T14:12:32.115607",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 28010
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "AngelinepDPC36oP",
