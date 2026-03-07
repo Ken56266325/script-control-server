@@ -26216,11 +26216,12 @@
             "referred_by": "Cetone479580",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-03-07T17:12:35.109913",
+            "countdown_start_time": "2026-03-07T10:16:49.223564",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 3
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 24945
         },
         {
             "id": "JeannyKanthyZ4fwlmtw",
