@@ -6237,7 +6237,8 @@
                 "SANDRAC6K2zb4g",
                 "C\u00c9LINAWW4ge8zp",
                 "ANDONASOLOG8vTykpd",
-                "ARDOSVDQJ2dSC"
+                "ARDOSVDQJ2dSC",
+                "FANIRYHAITTOQqNHCCjU"
             ],
             "status": "inactive",
             "countdown_start_time": "2026-02-19T04:30:21.796808",
@@ -33596,6 +33597,16 @@
             "paused_remaining_time": 565304,
             "countdown_paused": true,
             "pause_count": 1
+        },
+        {
+            "id": "FANIRYHAITTOQqNHCCjU",
+            "android_id": "cb18c5c5f9fa15503a98cea06b37d874",
+            "referred_by": "Velotsara681900",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-03-08T03:23:05.606270",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
