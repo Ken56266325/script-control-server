@@ -33507,11 +33507,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-03-10T00:13:07.011557",
+            "countdown_start_time": "2026-03-07T20:54:35.210347",
             "affiliation_balance": 0,
-            "countdown_paused": false,
+            "countdown_paused": true,
             "plan": "Basique",
-            "pause_count": 1
+            "pause_count": 2,
+            "paused_remaining_time": 184711
         },
         {
             "id": "Tiana1BwmuRbO",
