@@ -5148,11 +5148,12 @@
             "referred_by": "Germain5719\u20ac",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-03-10T03:07:16.322486",
+            "countdown_start_time": "2026-03-08T22:26:43.159087",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 2
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 103233
         },
         {
             "id": "Maka78103",
