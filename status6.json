@@ -7202,8 +7202,8 @@
             "referred_to": [
                 "yyg"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-03-07T19:31:06.601320",
+            "status": "active",
+            "countdown_start_time": "2026-03-15T11:13:51.984711",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false,
@@ -24612,12 +24612,11 @@
             "referred_by": "Andry5718e0",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-03-08T11:13:48.249343",
+            "countdown_start_time": "2026-03-14T08:36:10.311556",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 508942
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "Tah3360WtDvu844",
