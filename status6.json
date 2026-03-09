@@ -33364,11 +33364,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-03-14T00:17:43.793988",
+            "countdown_start_time": "2026-03-09T21:19:27.127076",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 2
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 356296
         },
         {
             "id": "tel2csc3atWwKL",
