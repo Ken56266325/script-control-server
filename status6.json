@@ -6238,7 +6238,8 @@
                 "C\u00c9LINAWW4ge8zp",
                 "ANDONASOLOG8vTykpd",
                 "ARDOSVDQJ2dSC",
-                "FANIRYHAITTOQqNHCCjU"
+                "FANIRYHAITTOQqNHCCjU",
+                "TOJOFUqaBO69ec"
             ],
             "status": "inactive",
             "countdown_start_time": "2026-02-19T04:30:21.796808",
@@ -33675,6 +33676,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-03-09T21:36:19.727730",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "TOJOFUqaBO69ec",
+            "android_id": "3b4e4f6d4b388840b83fd597b4a5b36c",
+            "referred_by": "Velotsara681900",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-03-10T00:51:22.943906",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
