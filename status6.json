@@ -33662,9 +33662,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-03-09T18:40:10.889097",
+            "countdown_start_time": "2026-03-09T11:47:07.548561",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 24783,
+            "countdown_paused": true,
+            "pause_count": 1
         }
     ],
     "references": {
