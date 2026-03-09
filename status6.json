@@ -11422,11 +11422,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-03-13T17:48:55.275316",
+            "countdown_start_time": "2026-03-09T07:23:50.639450",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 0
+            "countdown_paused": true,
+            "pause_count": 0,
+            "paused_remaining_time": 383104
         },
         {
             "id": "FandresenaoNjiow86",
