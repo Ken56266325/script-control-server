@@ -32270,11 +32270,12 @@
             "referred_by": "PertinotlrajveKh",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-03-14T13:58:18.701275",
+            "countdown_start_time": "2026-03-09T21:25:23.320411",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 3
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 405175
         },
         {
             "id": "JoelahparfaisQsQ5MtZ6",
