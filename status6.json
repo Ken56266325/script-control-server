@@ -13107,7 +13107,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2026-03-14T17:42:40.668511",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false,
             "pause_count": 3
