@@ -33363,13 +33363,12 @@
             "android_id": "6e8094d1ed9d602708eff8b7a681025c",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-03-08T09:09:47.209545",
+            "status": "active",
+            "countdown_start_time": "2026-03-14T00:17:43.793988",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 365070
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "tel2csc3atWwKL",
