@@ -33755,6 +33755,16 @@
             "plan": "Basique",
             "countdown_paused": false,
             "pause_count": 1
+        },
+        {
+            "id": "Trustg50nWi18",
+            "android_id": "536e54c821f05e9c60d0742477463d4a",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-03-11T06:36:44.960490",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
