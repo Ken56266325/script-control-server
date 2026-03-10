@@ -33521,13 +33521,12 @@
             "android_id": "863d1cb8904e13a2977955f7f5a76836",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-03-07T20:54:35.210347",
+            "status": "active",
+            "countdown_start_time": "2026-03-12T22:22:54.254622",
             "affiliation_balance": 0,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "plan": "Basique",
-            "pause_count": 2,
-            "paused_remaining_time": 184711
+            "pause_count": 2
         },
         {
             "id": "Tiana1BwmuRbO",
