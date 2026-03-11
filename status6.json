@@ -31389,10 +31389,12 @@
             "referred_by": "Noutahtahy6rRaqvU",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-03-16T15:01:51.879867",
+            "countdown_start_time": "2026-03-11T21:09:33.729079",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "pause_count": 0
+            "pause_count": 0,
+            "paused_remaining_time": 409938,
+            "countdown_paused": true
         },
         {
             "id": "RazafyijlcqWLe",
