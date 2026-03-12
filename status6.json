@@ -33823,6 +33823,16 @@
             "plan": "Basique",
             "countdown_paused": false,
             "pause_count": 1
+        },
+        {
+            "id": "fredymannes6MjInRSb",
+            "android_id": "51e5a28dfe97cf38ef1df3bc8da38e59",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-03-12T16:25:33.391466",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
