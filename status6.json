@@ -26210,13 +26210,12 @@
             "android_id": "fec7cdeea1bc1047286fd47d9e502400",
             "referred_by": "sitraka3637",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-03-11T09:21:21.036204",
+            "status": "active",
+            "countdown_start_time": "2026-03-17T22:43:09.180980",
             "affiliation_balance": 0,
             "plan": "Basique",
             "pause_count": 3,
-            "countdown_paused": true,
-            "paused_remaining_time": 385537
+            "countdown_paused": false
         },
         {
             "id": "NarindraHbYJr8mw",
