@@ -4695,7 +4695,7 @@
                 "Mbappe78032",
                 "Zandrykely791032680"
             ],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-03-13T09:38:49.127527",
             "affiliation_balance": 0,
             "plan": "Basique",
@@ -31083,7 +31083,7 @@
             "android_id": "8191f6e4b94225f9446f43867dd5e6dd",
             "referred_by": "TojolmsWdjIUBSX",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-03-13T08:49:00.971490",
             "affiliation_balance": 0,
             "plan": "Basique",
@@ -33861,7 +33861,7 @@
             "android_id": "aef195e0b7f1b68a0029742436913002",
             "referred_by": null,
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-03-13T09:48:04.037549",
             "affiliation_balance": 0,
             "plan": "Basique"
