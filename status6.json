@@ -32487,13 +32487,12 @@
             "android_id": "76b0fca9da59a4581c0f3b981af6543e",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-03-08T15:24:13.679563",
+            "status": "active",
+            "countdown_start_time": "2026-03-19T19:10:50.590214",
             "affiliation_balance": 0,
             "plan": "Basique",
             "pause_count": 2,
-            "countdown_paused": true,
-            "paused_remaining_time": 429612
+            "countdown_paused": false
         },
         {
             "id": "NorairsYwuh2ax",
