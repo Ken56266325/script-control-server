@@ -32521,7 +32521,9 @@
             "id": "stephanietw8cMcel",
             "android_id": "157a158a34ff9768fd41a6dce352b1fb",
             "referred_by": "RndrmlX4tFcA",
-            "referred_to": [],
+            "referred_to": [
+                "RoxICTbGWNa"
+            ],
             "status": "inactive",
             "countdown_start_time": "2026-02-08T03:29:19.557397",
             "affiliation_balance": 0,
@@ -33912,6 +33914,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-03-14T20:40:55.578285",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "RoxICTbGWNa",
+            "android_id": "508236ed6b4161f362bd16c18045edce",
+            "referred_by": "stephanietw8cMcel",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-03-14T21:36:10.241521",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
