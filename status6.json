@@ -33934,12 +33934,11 @@
             "android_id": "3ae1f7b60d51dd749f303aaf1156cfeb",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-03-15T00:14:47.094855",
+            "status": "active",
+            "countdown_start_time": "2026-03-15T01:14:44.182234",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 0,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 2
         }
     ],
