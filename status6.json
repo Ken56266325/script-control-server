@@ -33929,6 +33929,16 @@
             "paused_remaining_time": 27176,
             "countdown_paused": true,
             "pause_count": 1
+        },
+        {
+            "id": "PapajSNgYUvL",
+            "android_id": "3ae1f7b60d51dd749f303aaf1156cfeb",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-03-15T03:44:16.772960",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
