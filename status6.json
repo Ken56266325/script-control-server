@@ -3993,7 +3993,7 @@
                 "ZafitalI7V0bH0p",
                 "GangmanolvQEO5W"
             ],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-03-14T14:33:51.584842",
             "affiliation_balance": 1000,
             "plan": "Basique",
@@ -27082,7 +27082,7 @@
             "android_id": "a3b41b1562e5c31b5700a4dc7896a7ee",
             "referred_by": "Christian189103",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-03-14T15:27:31.512079",
             "affiliation_balance": 0,
             "plan": "Basique",
