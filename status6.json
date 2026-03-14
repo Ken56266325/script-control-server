@@ -33921,12 +33921,11 @@
             "android_id": "508236ed6b4161f362bd16c18045edce",
             "referred_by": "stephanietw8cMcel",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-03-14T14:03:13.362255",
+            "status": "active",
+            "countdown_start_time": "2026-03-15T03:52:59.348625",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 27176,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
