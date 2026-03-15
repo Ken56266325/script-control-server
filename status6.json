@@ -33952,6 +33952,16 @@
             "plan": "Basique",
             "countdown_paused": false,
             "pause_count": 2
+        },
+        {
+            "id": "gustave3457138WbUo80",
+            "android_id": "cdab4eae78d2d23e7263ff7f06c6bcb1",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-03-16T05:08:44.903440",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
