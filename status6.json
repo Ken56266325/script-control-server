@@ -33947,9 +33947,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-03-15T14:36:50.096015",
+            "countdown_start_time": "2026-03-15T07:47:51.136385",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 24538,
+            "countdown_paused": true,
+            "pause_count": 1
         }
     ],
     "references": {
