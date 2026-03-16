@@ -33702,12 +33702,11 @@
             "android_id": "d5f34c1f02cd59ae93e75ee17eb384d7",
             "referred_by": "SquidPjkazdNC",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-03-16T11:10:52.993143",
+            "status": "active",
+            "countdown_start_time": "2026-03-17T15:22:52.293604",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 79705,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
