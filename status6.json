@@ -34014,12 +34014,11 @@
             "android_id": "36e9f9c6139f46d37702c8b55bd939ac",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-03-18T08:45:25.037710",
+            "status": "active",
+            "countdown_start_time": "2026-03-18T17:46:30.112989",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 20527,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
