@@ -34005,6 +34005,16 @@
             "plan": "Basique",
             "countdown_paused": false,
             "pause_count": 1
+        },
+        {
+            "id": "miliert22asMR3TJWyC",
+            "android_id": "36e9f9c6139f46d37702c8b55bd939ac",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-03-18T14:27:32.954269",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
