@@ -33245,13 +33245,12 @@
             "android_id": "3e98a87c423ddab1bf03a6c92b894f64",
             "referred_by": "NadiaxEHQNbby",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-03-17T21:49:36.038685",
+            "status": "active",
+            "countdown_start_time": "2026-03-23T13:17:53.047071",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 417624
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "fanilonarindraIoQCHOU4",
