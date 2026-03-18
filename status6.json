@@ -34041,6 +34041,16 @@
             "countdown_start_time": "2026-03-18T19:15:36.883472",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "bosco4476OPCYDfmq",
+            "android_id": "5fa6960af67751b1457a93a192344280",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-03-19T03:54:15.046514",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
