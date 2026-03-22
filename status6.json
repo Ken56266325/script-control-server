@@ -34099,6 +34099,16 @@
             "affiliation_balance": 0,
             "countdown_paused": false,
             "plan": "Basique"
+        },
+        {
+            "id": "RicardoMTIYkaPG",
+            "android_id": "15c102ea5d0dab7791ce8a0a80d44df1",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-03-23T00:35:35.368845",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
