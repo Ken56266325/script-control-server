@@ -34083,11 +34083,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-03-22T23:17:31.609261",
+            "countdown_start_time": "2026-03-22T17:28:44.009846",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 2
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 20927
         },
         {
             "id": "LovasoawqkRkqc",
