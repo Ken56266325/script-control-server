@@ -34082,13 +34082,12 @@
             "android_id": "a6f46a4ae01fc6d4b72651787d9f8244",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-03-20T01:41:43.012316",
+            "status": "active",
+            "countdown_start_time": "2026-03-22T23:17:31.609261",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 26681
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "LovasoawqkRkqc",
