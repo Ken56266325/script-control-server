@@ -29933,13 +29933,12 @@
             "android_id": "947cfe93ab84be3d06abae02577fa1c4",
             "referred_by": "MahefatinahajarivoaeJNpfdN",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-03-17T09:15:46.933456",
+            "status": "active",
+            "countdown_start_time": "2026-03-29T02:37:54.173732",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 462996
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "marianneCmksO47V",
