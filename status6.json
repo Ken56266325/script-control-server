@@ -32962,13 +32962,12 @@
             "android_id": "037ae15eff3aa75a82902eff43c47309",
             "referred_by": "Sinia52772",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-03-07T19:26:18.522577",
+            "status": "active",
+            "countdown_start_time": "2026-03-29T21:20:59.583264",
             "affiliation_balance": 0,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "plan": "Basique",
-            "pause_count": 2,
-            "paused_remaining_time": 539409
+            "pause_count": 2
         },
         {
             "id": "Ferdinah63737",
