@@ -32974,13 +32974,12 @@
             "android_id": "5b95b1141de787f9a0651a8634b90a0d",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-03-07T22:25:05.944065",
+            "status": "active",
+            "countdown_start_time": "2026-03-29T12:45:00.282050",
             "affiliation_balance": 0,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "plan": "Basique",
-            "pause_count": 3,
-            "paused_remaining_time": 508197
+            "pause_count": 3
         },
         {
             "id": "Pamelah89193022",
