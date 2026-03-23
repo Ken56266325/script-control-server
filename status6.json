@@ -22999,13 +22999,12 @@
             "android_id": "7a8fecedaddcea95a89d9dd0366e144d",
             "referred_by": "Cetone479580",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-03-08T11:07:56.640021",
+            "status": "active",
+            "countdown_start_time": "2026-03-28T21:44:28.312911",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 449605
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "TantelyftfhcZ7D",
