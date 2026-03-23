@@ -11426,13 +11426,12 @@
             "android_id": "823484f985fbba89625b7f983262bdef",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-03-09T07:23:50.639450",
+            "status": "active",
+            "countdown_start_time": "2026-03-28T04:08:54.500773",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 0,
-            "paused_remaining_time": 383104
+            "countdown_paused": false,
+            "pause_count": 0
         },
         {
             "id": "FandresenaoNjiow86",
