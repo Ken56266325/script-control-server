@@ -31621,13 +31621,12 @@
             "android_id": "a6e4c84ad77eca3b0e32d1970647e05f",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-03-07T16:54:06.304507",
+            "status": "active",
+            "countdown_start_time": "2026-03-27T17:56:27.107698",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 348463
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "rjfrancois907vvEbW",
