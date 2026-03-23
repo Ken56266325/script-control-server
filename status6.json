@@ -30312,13 +30312,12 @@
             "android_id": "f5555fb8333d33310ba7cf326cc111e5",
             "referred_by": "YangodatsilaIZbGh1WZ",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-03-08T09:21:07.451864",
+            "status": "active",
+            "countdown_start_time": "2026-03-26T20:44:09.499277",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 273596
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "Dahalokevine10RKWf81Ab",
