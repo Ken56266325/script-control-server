@@ -29985,12 +29985,11 @@
             "referred_by": null,
             "referred_to": [],
             "status": "inactive",
-            "countdown_start_time": "2026-03-06T15:24:33.299389",
+            "countdown_start_time": "2026-03-23T19:42:28.530083",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 206675
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "Kalina9mfs86cy",
