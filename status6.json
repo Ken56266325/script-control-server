@@ -26231,13 +26231,12 @@
             "android_id": "2f64d65931122a09d08279b3ab3cd1a5",
             "referred_by": "Cetone479580",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-03-07T10:16:49.223564",
+            "status": "active",
+            "countdown_start_time": "2026-03-24T00:21:12.422092",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 24945
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "JeannyKanthyZ4fwlmtw",
