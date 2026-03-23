@@ -31892,13 +31892,12 @@
             "android_id": "7f41a5605ec8c2cdc7339425ff7141c5",
             "referred_by": "Cetone479580",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-03-07T10:16:26.102437",
+            "status": "active",
+            "countdown_start_time": "2026-03-24T00:21:47.620930",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 1,
-            "paused_remaining_time": 24906
+            "countdown_paused": false,
+            "pause_count": 1
         },
         {
             "id": "jr418bEUqB",
