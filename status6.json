@@ -7945,13 +7945,12 @@
             "android_id": "8c66664dd1fd197740e47eadca1543e8",
             "referred_by": "Andry5718e0",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-03-08T11:15:35.751903",
+            "status": "active",
+            "countdown_start_time": "2026-03-29T20:08:22.456412",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 530452
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "Smmboss58194920",
