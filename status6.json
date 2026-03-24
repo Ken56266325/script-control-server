@@ -32652,13 +32652,12 @@
             "android_id": "9f8cf9604dd0112e198564cc912a1ce9",
             "referred_by": "RanofaAuto",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-03-04T13:28:29.714423",
+            "status": "active",
+            "countdown_start_time": "2026-03-29T09:46:35.547111",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 441173
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "miao2cqupBcJwl",
