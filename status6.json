@@ -31627,13 +31627,12 @@
             "android_id": "6c558d7f05715709b10738e330cecea4",
             "referred_by": "GangAvfK1Yn1",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-03-01T15:00:35.111112",
+            "status": "active",
+            "countdown_start_time": "2026-03-30T04:34:48.534885",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 498985
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "BotakelyfxIGGt27",
