@@ -32198,9 +32198,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-03-31T08:28:35.824833",
+            "countdown_start_time": "2026-03-24T13:16:27.111708",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 587528,
+            "countdown_paused": true,
+            "pause_count": 1
         },
         {
             "id": "sylvain52662",
