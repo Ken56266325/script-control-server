@@ -32516,13 +32516,12 @@
             "referred_to": [
                 "RoxICTbGWNa"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-03-24T17:36:35.699453",
+            "status": "active",
+            "countdown_start_time": "2026-03-31T11:24:48.536397",
             "affiliation_balance": 0,
             "plan": "Basique",
             "pause_count": 1,
-            "paused_remaining_time": 574264,
-            "countdown_paused": true
+            "countdown_paused": false
         },
         {
             "id": "StalloneHUihA8dL",
