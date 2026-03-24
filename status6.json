@@ -1703,13 +1703,12 @@
                 "HyacintheRv9YXTYQ",
                 "Lapa0utQgM72"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-28T12:45:10.424117",
+            "status": "active",
+            "countdown_start_time": "2026-03-25T13:22:18.790116",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 85885
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "Nini60132",
