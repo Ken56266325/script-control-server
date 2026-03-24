@@ -2271,7 +2271,8 @@
                 "rovasoafyFhhE9k",
                 "dollarUdErVLtH",
                 "rouRJu1waSw",
-                "amira3nbExdQd"
+                "amira3nbExdQd",
+                "fyM71Nnn93"
             ],
             "status": "active",
             "countdown_start_time": "2026-03-25T19:56:11.267829",
@@ -34183,6 +34184,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-03-24T22:59:54.760993",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "fyM71Nnn93",
+            "android_id": "7c352254ef9a2e54b2014a31b4156ee8",
+            "referred_by": "JassBoy58103",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-03-25T04:56:27.585472",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
