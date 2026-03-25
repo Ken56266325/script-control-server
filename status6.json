@@ -31389,13 +31389,12 @@
             "android_id": "35ff6d182773e94137328a3cb137d7c9",
             "referred_by": "Noutahtahy6rRaqvU",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-03-11T21:09:33.729079",
+            "status": "active",
+            "countdown_start_time": "2026-03-30T08:36:00.033093",
             "affiliation_balance": 0,
             "plan": "Basique",
             "pause_count": 0,
-            "paused_remaining_time": 409938,
-            "countdown_paused": true
+            "countdown_paused": false
         },
         {
             "id": "RazafyijlcqWLe",
