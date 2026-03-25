@@ -30792,11 +30792,12 @@
                 "Ravakajr8O9Xr2vM"
             ],
             "status": "active",
-            "countdown_start_time": "2026-03-31T06:54:56.940110",
+            "countdown_start_time": "2026-03-25T21:31:38.142666",
             "affiliation_balance": 0,
             "plan": "Basique",
             "pause_count": 1,
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 465798
         },
         {
             "id": "florinPnQCoP4f",
