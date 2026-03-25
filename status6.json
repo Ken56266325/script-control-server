@@ -24781,11 +24781,10 @@
                 "CarolinewLVTKDj3"
             ],
             "status": "active",
-            "countdown_start_time": "2026-03-25T19:43:21.246681",
+            "countdown_start_time": "2026-03-26T19:44:08.127840",
             "affiliation_balance": 5000,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 85811,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
