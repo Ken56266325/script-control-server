@@ -31620,11 +31620,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-03-27T17:56:27.107698",
+            "countdown_start_time": "2026-03-25T09:54:43.708336",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 2
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 201703
         },
         {
             "id": "rjfrancois907vvEbW",
