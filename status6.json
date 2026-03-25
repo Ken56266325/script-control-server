@@ -34228,6 +34228,16 @@
             "countdown_start_time": "2026-03-25T21:56:18.344651",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "gehz",
+            "android_id": "jzjz",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "inactive",
+            "countdown_start_time": "2026-04-01T19:05:23.075083",
+            "affiliation_balance": 0,
+            "countdown_paused": false
         }
     ],
     "references": {
