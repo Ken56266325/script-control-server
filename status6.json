@@ -23853,11 +23853,12 @@
                 "HariI1os4ZrW"
             ],
             "status": "active",
-            "countdown_start_time": "2026-03-31T10:31:20.923031",
+            "countdown_start_time": "2026-03-25T21:21:39.290292",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 3
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 479381
         },
         {
             "id": "HantaXIMg7rD8",
