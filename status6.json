@@ -31487,13 +31487,12 @@
             "android_id": "764471f8f44e964970043281a61fc484",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-03-07T08:16:06.118474",
+            "status": "active",
+            "countdown_start_time": "2026-03-26T08:49:54.243075",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 48922
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "eliassefaliananH6cppMC",
