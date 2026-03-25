@@ -34037,9 +34037,11 @@
             "referred_by": "RomualdVkgjeCpi",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-03-27T17:37:41.993448",
+            "countdown_start_time": "2026-03-25T21:15:58.029348",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 159703,
+            "countdown_paused": true
         },
         {
             "id": "Vip8ccsBysXF0Y4",
