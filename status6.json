@@ -22804,13 +22804,12 @@
             "referred_to": [
                 "LovasoawqkRkqca"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-03-25T09:22:22.586634",
+            "status": "active",
+            "countdown_start_time": "2026-03-29T03:26:41.045420",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 207897
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "geldoa0LOLdF",
