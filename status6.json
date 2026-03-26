@@ -34180,9 +34180,12 @@
             "referred_by": "PertinotlrajveKh",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-03-29T10:36:13.156418",
+            "countdown_start_time": "2026-03-26T09:19:23.290161",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 263809,
+            "countdown_paused": true,
+            "pause_count": 1
         },
         {
             "id": "AndoniainaGQaiE8CG",
