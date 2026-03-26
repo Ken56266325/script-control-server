@@ -24903,11 +24903,12 @@
                 "RosiakoDCkS6o"
             ],
             "status": "active",
-            "countdown_start_time": "2026-03-29T08:42:50.681591",
+            "countdown_start_time": "2026-03-26T14:05:01.118233",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 3
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 239869
         },
         {
             "id": "NaomyE10lkrZB",
