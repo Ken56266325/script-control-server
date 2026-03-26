@@ -27267,9 +27267,12 @@
             "referred_by": "Cetone479580",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-03-27T10:54:35.580788",
+            "countdown_start_time": "2026-03-26T15:28:22.901112",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 69972,
+            "countdown_paused": true,
+            "pause_count": 1
         },
         {
             "id": "32786248",
