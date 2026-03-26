@@ -12697,7 +12697,9 @@
             "id": "FaniryElVRklB0NY",
             "android_id": "4b578d85d0fe800c8378a5c4a0ab18f8",
             "referred_by": "Velotsara681900",
-            "referred_to": [],
+            "referred_to": [
+                "faniryafWJi54Oz3"
+            ],
             "status": "inactive",
             "countdown_start_time": "2026-03-03T06:37:28.461323",
             "affiliation_balance": 0,
@@ -34339,6 +34341,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-03-27T03:41:24.705094",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "faniryafWJi54Oz3",
+            "android_id": "ebc1161b7166a5e91e57c1f36154fe52",
+            "referred_by": "FaniryElVRklB0NY",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-03-27T04:26:42.099879",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
