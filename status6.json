@@ -2385,7 +2385,8 @@
                 "Mbola7hshtQPw",
                 "ZETECX9Xk7QK",
                 "AlahadygHZke3PH",
-                "GrandgrVBxGOd"
+                "GrandgrVBxGOd",
+                "BannedNTlRR8O4"
             ],
             "status": "inactive",
             "countdown_start_time": "2026-02-09T22:21:33.615778",
@@ -34320,6 +34321,16 @@
             "countdown_paused": true,
             "pause_count": 2,
             "paused_remaining_time": 28654
+        },
+        {
+            "id": "BannedNTlRR8O4",
+            "android_id": "a596eb92cc30444b2c40f9df4d1a45b2",
+            "referred_by": "RanofaAuto",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-03-27T03:19:30.787722",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
