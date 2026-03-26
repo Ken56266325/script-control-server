@@ -32332,11 +32332,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-04-01T16:36:30.133291",
+            "countdown_start_time": "2026-03-26T08:09:23.015579",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 3
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 548827
         },
         {
             "id": "Din526262",
