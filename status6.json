@@ -34353,12 +34353,11 @@
             "android_id": "ebc1161b7166a5e91e57c1f36154fe52",
             "referred_by": "FaniryElVRklB0NY",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-03-26T21:12:56.790351",
+            "status": "active",
+            "countdown_start_time": "2026-03-27T16:39:27.013983",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 26025,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
