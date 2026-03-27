@@ -34236,12 +34236,11 @@
             "android_id": "64e549df39b9b3b169c16395d1add9f4",
             "referred_by": "BELOLOnhVqwQuG",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-03-24T21:56:26.395300",
+            "status": "active",
+            "countdown_start_time": "2026-03-27T21:20:04.560926",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 28455,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
