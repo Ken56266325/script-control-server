@@ -34266,9 +34266,11 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-04-02T08:09:39.524353",
+            "countdown_start_time": "2026-03-27T08:37:44.648329",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 516714,
+            "countdown_paused": true
         },
         {
             "id": "Bestie9TfUZkw7",
