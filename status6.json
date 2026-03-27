@@ -25914,9 +25914,12 @@
             "referred_by": "Andii69103",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-03-31T12:36:20.440726",
+            "countdown_start_time": "2026-03-27T22:00:46.298510",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 311734,
+            "countdown_paused": true,
+            "pause_count": 1
         },
         {
             "id": "MarievrCrIHF9",
