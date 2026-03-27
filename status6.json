@@ -34246,9 +34246,11 @@
             "referred_by": "faneva01kBgIlTHX",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-04-03T09:55:06.596103",
+            "countdown_start_time": "2026-03-27T21:19:17.874558",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 563748,
+            "countdown_paused": true
         },
         {
             "id": "gehz",
