@@ -32537,7 +32537,8 @@
                 "RoxICTbGWNa",
                 "KembaFgIbyioV",
                 "WalademrvdiIF9g",
-                "TojoFBrP3Xqt"
+                "TojoFBrP3Xqt",
+                "GoulouC9FlxZx9"
             ],
             "status": "active",
             "countdown_start_time": "2026-03-31T14:24:35.172411",
@@ -34404,6 +34405,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-03-27T14:57:33.065208",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "GoulouC9FlxZx9",
+            "android_id": "12a7e4beacba38144315110f6231c4ca",
+            "referred_by": "stephanietw8cMcel",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-03-27T15:37:30.217456",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
