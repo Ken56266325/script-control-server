@@ -34428,6 +34428,16 @@
             "countdown_start_time": "2026-03-27T18:55:27.112616",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "SeverenexKGJegu1",
+            "android_id": "f1f5c488d7958884b29560c9d3476ec1",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-03-28T02:26:44.665617",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
