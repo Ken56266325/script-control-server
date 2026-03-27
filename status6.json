@@ -31886,13 +31886,12 @@
             "android_id": "d30f1b60c5caaaae68297b0ceb8e2c47",
             "referred_by": "PertinotlrajveKh",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-03-26T18:56:46.865336",
+            "status": "active",
+            "countdown_start_time": "2026-04-03T02:22:10.061776",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 556504
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "Njaka_rFaEUcRJ5",
