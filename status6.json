@@ -30319,7 +30319,9 @@
             "id": "HeritinagastrienFnv7QWmg",
             "android_id": "f5555fb8333d33310ba7cf326cc111e5",
             "referred_by": "YangodatsilaIZbGh1WZ",
-            "referred_to": [],
+            "referred_to": [
+                "EddyyRxzPQ26"
+            ],
             "status": "active",
             "countdown_start_time": "2026-04-02T21:35:28.682597",
             "affiliation_balance": 0,
@@ -34468,6 +34470,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-03-28T04:48:25.628776",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "EddyyRxzPQ26",
+            "android_id": "89e8f35ef5960b945d86f3bc2f844bf5",
+            "referred_by": "HeritinagastrienFnv7QWmg",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-03-28T05:32:19.991630",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
