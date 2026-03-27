@@ -34437,6 +34437,16 @@
             "countdown_start_time": "2026-03-28T02:26:44.665617",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "\u0018",
+            "android_id": "jejz",
+            "referred_by": "jejz",
+            "referred_to": [],
+            "status": "inactive",
+            "countdown_start_time": "2026-04-03T20:00:27.242306",
+            "affiliation_balance": 0,
+            "countdown_paused": false
         }
     ],
     "references": {
