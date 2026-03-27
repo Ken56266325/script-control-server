@@ -34269,12 +34269,11 @@
             "android_id": "95b95ec19211382c2c726947b5986a0d",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-03-27T08:37:44.648329",
+            "status": "active",
+            "countdown_start_time": "2026-04-02T11:55:43.409718",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 516714,
-            "countdown_paused": true
+            "countdown_paused": false
         },
         {
             "id": "Bestie9TfUZkw7",
