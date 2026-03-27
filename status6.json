@@ -34511,6 +34511,16 @@
             "countdown_start_time": "2026-03-28T06:53:11.502146",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "rocksanesr6ibzpvm",
+            "android_id": "5df0b05a434f7e2c5c1cef88a0b0b234",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-03-28T10:00:01.677243",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
