@@ -26290,9 +26290,12 @@
             "referred_by": "Andii69103",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-04-01T13:11:08.842966",
+            "countdown_start_time": "2026-03-27T22:01:31.266885",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 400177,
+            "countdown_paused": true,
+            "pause_count": 1
         },
         {
             "id": "COCOTTEhcD0Wqei",
