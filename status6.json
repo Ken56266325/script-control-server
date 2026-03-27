@@ -13507,10 +13507,12 @@
                 "ZoKlRz04fw"
             ],
             "status": "active",
-            "countdown_start_time": "2026-04-01T12:32:55.494334",
+            "countdown_start_time": "2026-03-27T10:14:33.646138",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 440301,
+            "pause_count": 1
         },
         {
             "id": "Judicael1voTQX6T",
