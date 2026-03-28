@@ -26133,7 +26133,8 @@
                 "WilliamFanirianaOHYWJuIH",
                 "NervaRasoaGWzRYHp8",
                 "VanahaJokaRifHefgE",
-                "ParfaitRandrianirinatv7ZMkh3"
+                "ParfaitRandrianirinatv7ZMkh3",
+                "RavanaoaYwna8lA0pmYd"
             ],
             "status": "inactive",
             "countdown_start_time": "2025-11-26T18:09:07.463197",
@@ -34552,6 +34553,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-03-28T19:58:08.180097",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "RavanaoaYwna8lA0pmYd",
+            "android_id": "97562fe09eb8299c1d98acc31955d36f",
+            "referred_by": "UnohgAU559y3",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-03-28T23:11:12.914727",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
