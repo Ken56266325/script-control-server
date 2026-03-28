@@ -21756,13 +21756,12 @@
             "android_id": "b432704d670f8acaff4e930d6a8216f6",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-03-08T12:36:30.859367",
+            "status": "active",
+            "countdown_start_time": "2026-04-03T10:29:01.214854",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 514210
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "Bedo9Ae5Pgn6",
