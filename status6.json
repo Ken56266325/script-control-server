@@ -6246,7 +6246,8 @@
                 "VIPSHARA6XKQaF4h",
                 "VIP5LATbWEZzlxd",
                 "DONALGyxfHafZ",
-                "VIP6xZziNWbX"
+                "VIP6xZziNWbX",
+                "VIP66YoPHV7MC"
             ],
             "status": "inactive",
             "countdown_start_time": "2026-02-19T04:30:21.796808",
@@ -34577,6 +34578,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-03-29T02:42:27.031284",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "VIP66YoPHV7MC",
+            "android_id": "29839b47a792410161ba1ab86c4aa2cc",
+            "referred_by": "Velotsara681900",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-03-29T04:09:46.206220",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
