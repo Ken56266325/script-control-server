@@ -732,7 +732,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-09-12T16:25:29.511038",
-            "affiliation_balance": 4000,
+            "affiliation_balance": 5000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -4840,12 +4840,12 @@
                 "bodoa9R4sAhW",
                 "MinoArisoav7bTI2iE"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-03-25T13:31:20.283482",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2026-04-04T07:40:41.407248",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false,
-            "pause_count": 3
+            "pause_count": 0
         },
         {
             "id": "Nindograc24801030",
