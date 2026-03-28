@@ -18255,12 +18255,11 @@
                 "AldaigYvjxiO",
                 "/start/OwXURasy"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-03-28T13:02:24.638109",
+            "status": "active",
+            "countdown_start_time": "2026-03-30T17:09:31.305762",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 177695,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
