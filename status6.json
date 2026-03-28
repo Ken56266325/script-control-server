@@ -21756,12 +21756,13 @@
             "android_id": "b432704d670f8acaff4e930d6a8216f6",
             "referred_by": null,
             "referred_to": [],
-            "status": "active",
-            "countdown_start_time": "2026-04-03T10:29:01.214854",
+            "status": "inactive",
+            "countdown_start_time": "2026-03-08T12:36:30.859367",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 3
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 514210
         },
         {
             "id": "Bedo9Ae5Pgn6",
@@ -32205,7 +32206,7 @@
                 "Andry53637"
             ],
             "status": "active",
-            "countdown_start_time": "2026-03-29T23:01:55.473294",
+            "countdown_start_time": "2026-04-04T23:38:52.414992",
             "affiliation_balance": 6000,
             "plan": "Basique",
             "countdown_paused": false,
