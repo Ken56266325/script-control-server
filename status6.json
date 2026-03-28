@@ -25913,12 +25913,11 @@
             "android_id": "c96e50d950701ffa471159391a2362c3",
             "referred_by": "Andii69103",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-03-27T22:00:46.298510",
+            "status": "active",
+            "countdown_start_time": "2026-03-31T21:57:58.408183",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 311734,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
