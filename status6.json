@@ -23002,7 +23002,7 @@
             "referred_by": "Cetone479580",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-06T15:00:00.379004",
+            "countdown_start_time": "2028-12-22T15:00:12.263560",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false,
@@ -33478,12 +33478,11 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-03-28T15:00:10.374828",
+            "countdown_start_time": "2026-04-01T13:43:05.171971",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 340974
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "EddycendrenDtNr69oV",
