@@ -26290,11 +26290,10 @@
             "referred_by": "Andii69103",
             "referred_to": [],
             "status": "inactive",
-            "countdown_start_time": "2026-03-27T22:01:31.266885",
+            "countdown_start_time": "2026-03-28T07:23:05.908350",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 400177,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
