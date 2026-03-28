@@ -34570,6 +34570,16 @@
             "countdown_start_time": "2026-03-28T23:11:12.914727",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "ARICERAMxnvrlWjn",
+            "android_id": "35f5e41540bcd2abd03010e0e4e8d202",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-03-29T02:42:27.031284",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
