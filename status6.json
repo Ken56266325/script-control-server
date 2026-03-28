@@ -22609,11 +22609,12 @@
             "referred_by": "Elie69103580",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-03-31T23:06:54.812640",
+            "countdown_start_time": "2026-03-28T22:34:56.829755",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 2
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 261117
         },
         {
             "id": "dovicNukCU0eR",
