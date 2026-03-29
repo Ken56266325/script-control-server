@@ -23862,13 +23862,12 @@
                 "JahlmanYVEEGDYX",
                 "HariI1os4ZrW"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-03-29T11:44:14.088479",
+            "status": "active",
+            "countdown_start_time": "2026-04-01T08:40:05.163659",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 221149
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "HantaXIMg7rD8",
