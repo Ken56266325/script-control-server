@@ -32558,7 +32558,8 @@
                 "WalademrvdiIF9g",
                 "TojoFBrP3Xqt",
                 "GoulouC9FlxZx9",
-                "DiasOjf9aBEp"
+                "DiasOjf9aBEp",
+                "Revyf9K5tmPA"
             ],
             "status": "active",
             "countdown_start_time": "2026-03-31T14:24:35.172411",
@@ -34662,6 +34663,16 @@
             "countdown_start_time": "2027-08-11T12:35:47.550913",
             "affiliation_balance": 0,
             "countdown_paused": false,
+            "plan": "Basique"
+        },
+        {
+            "id": "Revyf9K5tmPA",
+            "android_id": "a4ac18f7620d6dc8fb885442b0c03513",
+            "referred_by": "stephanietw8cMcel",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-03-29T20:45:40.554878",
+            "affiliation_balance": 0,
             "plan": "Basique"
         }
     ],
