@@ -25705,7 +25705,8 @@
                 "AndoniainaGQaiE8CG",
                 "CarolleE44B81HZ",
                 "vololonina9e42Jv4R",
-                "aliceb74Se7yl"
+                "aliceb74Se7yl",
+                "maheryOsGfme36"
             ],
             "status": "active",
             "countdown_start_time": "2026-04-02T01:45:38.397524",
@@ -34693,6 +34694,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-03-30T00:57:44.173157",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "maheryOsGfme36",
+            "android_id": "6fa2f61504f5699c5c1f7119901e374f",
+            "referred_by": "SquidPjkazdNC",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-03-30T05:00:42.202478",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
