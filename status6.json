@@ -31903,7 +31903,8 @@
             "android_id": "d30f1b60c5caaaae68297b0ceb8e2c47",
             "referred_by": "PertinotlrajveKh",
             "referred_to": [
-                "sergiorobertzHJQZpAB"
+                "sergiorobertzHJQZpAB",
+                "joellaparfaiteWVPPup2c"
             ],
             "status": "active",
             "countdown_start_time": "2026-04-03T02:22:10.061776",
@@ -34672,6 +34673,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-03-29T20:45:40.554878",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "joellaparfaiteWVPPup2c",
+            "android_id": "c3523f49148c4afb514e88450ef30cb7",
+            "referred_by": "Arnoldz3yxmQgv",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-03-29T21:12:14.793883",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
