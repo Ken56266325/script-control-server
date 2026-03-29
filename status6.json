@@ -34587,7 +34587,7 @@
             "android_id": "29839b47a792410161ba1ab86c4aa2cc",
             "referred_by": "Velotsara681900",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-03-29T04:09:46.206220",
             "affiliation_balance": 0,
             "plan": "Basique"
@@ -34597,7 +34597,7 @@
             "android_id": "7eab5cfb2c8c882f4e63bffbb57bd680",
             "referred_by": null,
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-03-29T05:06:13.664061",
             "affiliation_balance": 0,
             "plan": "Basique"
