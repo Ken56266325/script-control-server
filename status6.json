@@ -28579,10 +28579,11 @@
                 "VancCbvQxyL",
                 "FitahianjanaharygdyR7Jye"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-11T13:39:36.267024",
+            "status": "active",
+            "countdown_start_time": "2026-04-05T11:09:54.327342",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "pause_count": 0
         },
         {
             "id": "rouRJu1waSw",
