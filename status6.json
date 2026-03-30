@@ -34777,12 +34777,11 @@
             "android_id": "2d261f842b9276eced9cb77caf562c4c",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-03-30T15:32:42.743317",
+            "status": "active",
+            "countdown_start_time": "2026-03-31T02:52:29.735202",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 27201,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
