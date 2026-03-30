@@ -31348,9 +31348,12 @@
                 "LaurenciaEBftcqc5"
             ],
             "status": "active",
-            "countdown_start_time": "2026-04-05T16:21:08.603060",
+            "countdown_start_time": "2026-03-30T09:45:23.958045",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 542144,
+            "countdown_paused": true,
+            "pause_count": 1
         },
         {
             "id": "nalisoaGO3pW59W",
