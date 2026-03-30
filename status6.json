@@ -34490,12 +34490,11 @@
             "android_id": "0cb88de48530840cf93e9c66ff4bc5c0",
             "referred_by": "stephanietw8cMcel",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-03-30T14:51:35.484111",
+            "status": "active",
+            "countdown_start_time": "2026-04-04T13:29:34.133330",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 415820,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
