@@ -14292,12 +14292,11 @@
             "referred_to": [
                 "PedriHClTKquF"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-02-28T22:30:19.609712",
+            "status": "active",
+            "countdown_start_time": "2026-03-30T22:56:39.843757",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 38232,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
