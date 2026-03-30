@@ -34490,9 +34490,12 @@
             "referred_by": "stephanietw8cMcel",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-04-04T10:21:56.114283",
+            "countdown_start_time": "2026-03-30T14:51:35.484111",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 415820,
+            "countdown_paused": true,
+            "pause_count": 1
         },
         {
             "id": "Tomanr1HMGaA1",
