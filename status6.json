@@ -34771,6 +34771,16 @@
             "countdown_start_time": "2026-03-30T22:49:15.479380",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "DanielN9J47eZF",
+            "android_id": "2d261f842b9276eced9cb77caf562c4c",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-03-30T23:06:03.996735",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
