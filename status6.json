@@ -2388,7 +2388,8 @@
                 "AlahadygHZke3PH",
                 "GrandgrVBxGOd",
                 "BannedNTlRR8O4",
-                "NOFAZSafPbs1"
+                "NOFAZSafPbs1",
+                "NOFA2LPuKIaiz"
             ],
             "status": "inactive",
             "countdown_start_time": "2026-02-09T22:21:33.615778",
@@ -34716,6 +34717,16 @@
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2026-03-30T05:03:25.825750",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "NOFA2LPuKIaiz",
+            "android_id": "61003c47930cf02a4fc284cef5c06202",
+            "referred_by": "RanofaAuto",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-03-30T15:51:48.597577",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
