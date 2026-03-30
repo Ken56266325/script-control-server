@@ -25709,7 +25709,8 @@
                 "vololonina9e42Jv4R",
                 "aliceb74Se7yl",
                 "maheryOsGfme36",
-                "honoreQ3iPew02"
+                "honoreQ3iPew02",
+                "MarcelZbrS0DT4"
             ],
             "status": "active",
             "countdown_start_time": "2026-04-02T01:45:38.397524",
@@ -34755,6 +34756,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-03-30T21:56:34.935759",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "MarcelZbrS0DT4",
+            "android_id": "cd56dc20c7a12c6e7e9ca3d96171a645",
+            "referred_by": "SquidPjkazdNC",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-03-30T22:49:15.479380",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
