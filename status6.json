@@ -31349,12 +31349,11 @@
             "referred_to": [
                 "LaurenciaEBftcqc5"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-03-30T09:45:23.958045",
+            "status": "active",
+            "countdown_start_time": "2026-04-06T00:25:47.053707",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 542144,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
