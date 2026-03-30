@@ -34439,9 +34439,12 @@
             "referred_by": "stephanietw8cMcel",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-04-03T16:40:34.486315",
+            "countdown_start_time": "2026-03-30T07:05:12.880475",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 380121,
+            "countdown_paused": true,
+            "pause_count": 1
         },
         {
             "id": "NirinaandreasuMM20pNj",
