@@ -34681,9 +34681,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-04-07T14:58:28.562182",
+            "countdown_start_time": "2026-03-31T18:44:35.801691",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 591232,
+            "countdown_paused": true,
+            "pause_count": 1
         },
         {
             "id": "Dija637282",
