@@ -34503,13 +34503,12 @@
             "android_id": "0cb88de48530840cf93e9c66ff4bc5c0",
             "referred_by": "stephanietw8cMcel",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-03-31T16:45:53.634933",
+            "status": "active",
+            "countdown_start_time": "2026-04-04T16:44:00.212918",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 333820
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "Tomanr1HMGaA1",
