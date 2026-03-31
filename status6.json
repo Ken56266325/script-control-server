@@ -34857,6 +34857,16 @@
             "countdown_start_time": "2026-04-01T01:25:03.027530",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Luimahtj72e3Mg",
+            "android_id": "5e1824cacbaa3c7f6329b46fae04f319",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-04-01T08:37:17.707182",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
