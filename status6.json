@@ -32580,13 +32580,12 @@
                 "DiasOjf9aBEp",
                 "Revyf9K5tmPA"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-03-31T08:01:57.067071",
+            "status": "active",
+            "countdown_start_time": "2026-03-31T17:15:36.211709",
             "affiliation_balance": 0,
             "plan": "Basique",
             "pause_count": 3,
-            "countdown_paused": true,
-            "paused_remaining_time": 22958
+            "countdown_paused": false
         },
         {
             "id": "StalloneHUihA8dL",
