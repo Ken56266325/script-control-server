@@ -7147,7 +7147,8 @@
             "referred_by": "Ashley69103710",
             "referred_to": [
                 "stessieGOLvkSzH",
-                "dahaloflipvIo2F7OP"
+                "dahaloflipvIo2F7OP",
+                "karenia0XR2hs"
             ],
             "status": "active",
             "countdown_start_time": "2026-04-06T21:16:47.129979",
@@ -34822,6 +34823,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-03-31T14:29:13.508310",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "karenia0XR2hs",
+            "android_id": "6b15407bf3fe702a9a101da463d6a820",
+            "referred_by": "Jenny5681519",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-03-31T21:08:49.037107",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
