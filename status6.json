@@ -34549,11 +34549,10 @@
             "referred_by": "Arnoldz3yxmQgv",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-04-01T01:08:51.726211",
+            "countdown_start_time": "2026-04-06T07:43:32.649411",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 453125,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
