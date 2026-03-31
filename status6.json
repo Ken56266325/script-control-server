@@ -31719,10 +31719,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-04-02T11:02:36.459424",
+            "countdown_start_time": "2026-03-31T09:27:14.166566",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "pause_count": 0
+            "pause_count": 1,
+            "paused_remaining_time": 178522,
+            "countdown_paused": true
         },
         {
             "id": "Tanjona7919292",
