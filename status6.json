@@ -33151,13 +33151,12 @@
             "android_id": "1394ed462688ede9037bc275f4e33d03",
             "referred_by": "Sinia52772",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-03-30T16:46:24.824277",
+            "status": "active",
+            "countdown_start_time": "2026-04-07T13:37:23.693764",
             "affiliation_balance": 0,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "plan": "Basique",
-            "pause_count": 3,
-            "paused_remaining_time": 585006
+            "pause_count": 3
         },
         {
             "id": "kennygQDlP4rZ",
