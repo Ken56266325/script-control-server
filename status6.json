@@ -16135,12 +16135,11 @@
             "android_id": "c9942c5d4a4138fdd3735b13c59978b5",
             "referred_by": "RanofaAuto",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-03-31T14:24:52.080243",
+            "status": "active",
+            "countdown_start_time": "2026-04-03T15:00:30.165982",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 244734,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
