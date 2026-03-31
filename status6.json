@@ -33663,11 +33663,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-04-06T11:16:13.612932",
+            "countdown_start_time": "2026-03-31T09:38:52.622791",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 1
+            "countdown_paused": true,
+            "pause_count": 2,
+            "paused_remaining_time": 524240
         },
         {
             "id": "FANIRYHAITTOQqNHCCjU",
