@@ -34324,13 +34324,12 @@
             "android_id": "838f70e755f010f7b0ff8ffc26e0e381",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-03-28T19:33:58.982859",
+            "status": "active",
+            "countdown_start_time": "2026-04-01T17:25:00.422986",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 20144
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "CarolleE44B81HZ",
