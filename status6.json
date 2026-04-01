@@ -32959,13 +32959,12 @@
             "android_id": "dd744e429cd06340578392ccf6159702",
             "referred_by": "GangAvfK1Yn1",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-03-07T22:25:32.958567",
+            "status": "active",
+            "countdown_start_time": "2026-04-04T10:50:58.502284",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 270576
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "rostonaheS2NmBhD",
