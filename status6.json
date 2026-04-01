@@ -34097,12 +34097,11 @@
             "android_id": "8a4147a271d28782d594aaed50acdc5e",
             "referred_by": "RomualdVkgjeCpi",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-03-25T21:15:58.029348",
+            "status": "active",
+            "countdown_start_time": "2026-04-03T16:24:22.634807",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 159703,
-            "countdown_paused": true
+            "countdown_paused": false
         },
         {
             "id": "Vip8ccsBysXF0Y4",
