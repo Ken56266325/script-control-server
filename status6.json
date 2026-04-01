@@ -1534,11 +1534,12 @@
                 "florette122235",
                 "boss56274"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-01-29T18:57:22.935615",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2026-04-08T10:16:38.542588",
+            "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": false,
+            "pause_count": 0
         },
         {
             "id": "Shogun581930",
