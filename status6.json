@@ -34546,13 +34546,12 @@
             "android_id": "e7f69e4547f9528b1c1af21ee76d0e73",
             "referred_by": "Arnoldz3yxmQgv",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-01T07:19:05.882635",
+            "status": "active",
+            "countdown_start_time": "2026-04-06T15:20:15.027202",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 433466
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "rocksanesr6ibzpvm",
