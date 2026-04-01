@@ -24970,13 +24970,12 @@
             "android_id": "7e6cba1b99519f5f1d072b979b984dba",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-03-25T19:07:28.626699",
+            "status": "active",
+            "countdown_start_time": "2026-04-07T08:19:22.659292",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 511634
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "FlorentineRamanandraitsioryEGDZqsOe",
