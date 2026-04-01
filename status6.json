@@ -16136,13 +16136,12 @@
             "android_id": "c9942c5d4a4138fdd3735b13c59978b5",
             "referred_by": "RanofaAuto",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-01T12:23:38.229855",
+            "status": "active",
+            "countdown_start_time": "2026-04-03T20:44:54.097277",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 182211
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "TinoZcZMiFWS",
