@@ -34992,6 +34992,16 @@
             "affiliation_balance": 0,
             "plan": "Basique",
             "pause_count": 0
+        },
+        {
+            "id": "Madjiin473sqiWZTLW",
+            "android_id": "b4ce0565b11ef4f5bc562011a7cbaaf2",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-04-03T01:36:07.678831",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
