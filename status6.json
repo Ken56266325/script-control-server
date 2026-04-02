@@ -34991,6 +34991,16 @@
             "affiliation_balance": 0,
             "plan": "Basique",
             "pause_count": 0
+        },
+        {
+            "id": "Dona6dOX6x5Q",
+            "android_id": "db95f08dde0fa50b7e1ea2469b4fa467",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-04-03T02:02:48.958849",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
