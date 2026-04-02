@@ -32997,11 +32997,12 @@
             "referred_by": "Sinia52772",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-04-06T21:56:12.342018",
+            "countdown_start_time": "2026-04-02T05:26:28.535578",
             "affiliation_balance": 0,
-            "countdown_paused": false,
+            "countdown_paused": true,
             "plan": "Basique",
-            "pause_count": 3
+            "pause_count": 3,
+            "paused_remaining_time": 404983
         },
         {
             "id": "Nico52727",
