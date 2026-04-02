@@ -34875,9 +34875,12 @@
             "referred_by": "RanofaAuto",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-04-09T15:31:35.263695",
+            "countdown_start_time": "2026-04-02T20:36:45.537181",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 586489,
+            "countdown_paused": true,
+            "pause_count": 1
         },
         {
             "id": "MickaeluzreQYbW",
