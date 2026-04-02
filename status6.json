@@ -34947,6 +34947,16 @@
             "paused_remaining_time": 24080,
             "countdown_paused": true,
             "pause_count": 1
+        },
+        {
+            "id": "Minah335YARBoTsw",
+            "android_id": "21b4a7991c78c9c54ff368f96473fd68",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-04-02T15:34:52.244936",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
