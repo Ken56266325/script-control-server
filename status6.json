@@ -34204,11 +34204,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-04-06T00:24:47.592930",
+            "countdown_start_time": "2026-04-02T20:12:09.975045",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 1
+            "countdown_paused": true,
+            "pause_count": 2,
+            "paused_remaining_time": 274357
         },
         {
             "id": "VIP6xZziNWbX",
