@@ -34516,13 +34516,12 @@
             "android_id": "975552eb69768627b7a6210894116919",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-02T09:37:18.319883",
+            "status": "active",
+            "countdown_start_time": "2026-04-05T01:08:17.681346",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 217468
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "EddyyRxzPQ26",
