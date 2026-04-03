@@ -34554,13 +34554,12 @@
             "referred_to": [
                 "SylvanotmanankeryGazf7VC6"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-03T10:03:25.424113",
+            "status": "active",
+            "countdown_start_time": "2026-04-06T22:41:25.825288",
             "affiliation_balance": 1000,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 278209
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "rocksanesr6ibzpvm",
