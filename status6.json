@@ -34875,12 +34875,11 @@
             "android_id": "8f7303e02275239d11c6da4aced13517",
             "referred_by": "RanofaAuto",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-02T20:36:45.537181",
+            "status": "active",
+            "countdown_start_time": "2026-04-09T23:03:57.444371",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 586489,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
