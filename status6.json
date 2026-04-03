@@ -34635,9 +34635,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-04-04T20:24:48.342376",
+            "countdown_start_time": "2026-04-03T09:19:12.463954",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 126335,
+            "countdown_paused": true,
+            "pause_count": 1
         },
         {
             "id": "NOFAZSafPbs1",
