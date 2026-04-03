@@ -34479,9 +34479,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-04-03T21:19:37.229695",
+            "countdown_start_time": "2026-04-03T11:25:29.880878",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 35647,
+            "countdown_paused": true,
+            "pause_count": 1
         },
         {
             "id": "SeverenexKGJegu1",
