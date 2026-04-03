@@ -2279,7 +2279,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2026-04-04T23:59:59.073252",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false,
             "pause_count": 1
@@ -23874,12 +23874,12 @@
                 "JahlmanYVEEGDYX",
                 "HariI1os4ZrW"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-01T08:40:05.163659",
+            "status": "active",
+            "countdown_start_time": "2026-04-10T09:36:28.486484",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false,
-            "pause_count": 3
+            "pause_count": 0
         },
         {
             "id": "HantaXIMg7rD8",
