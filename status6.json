@@ -31927,13 +31927,12 @@
                 "sergiorobertzHJQZpAB",
                 "joellaparfaiteWVPPup2c"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-03T10:07:45.622719",
+            "status": "active",
+            "countdown_start_time": "2026-04-07T13:48:31.329388",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 1,
-            "paused_remaining_time": 320329
+            "countdown_paused": false,
+            "pause_count": 1
         },
         {
             "id": "Njaka_rFaEUcRJ5",
