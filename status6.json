@@ -20051,11 +20051,12 @@
                 "Fenorivoy4bc4CQq"
             ],
             "status": "active",
-            "countdown_start_time": "2026-04-03T20:30:43.403545",
+            "countdown_start_time": "2026-04-03T05:30:22.801121",
             "affiliation_balance": 6000,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 2
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 54020
         },
         {
             "id": "TravyI3huG6IY",
