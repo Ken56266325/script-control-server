@@ -18187,13 +18187,12 @@
             "android_id": "920067a853e2fb6754478cb4133c5cbf",
             "referred_by": "Itsimindrana",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-01T22:27:43.086688",
+            "status": "active",
+            "countdown_start_time": "2026-04-08T13:38:09.902561",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 315261
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "SitrakatvKUIp5N",
