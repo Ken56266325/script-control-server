@@ -30838,11 +30838,12 @@
                 "Faneva0021zbO3lLt"
             ],
             "status": "active",
-            "countdown_start_time": "2026-04-07T05:07:33.485116",
+            "countdown_start_time": "2026-04-04T09:41:38.602903",
             "affiliation_balance": 0,
             "plan": "Basique",
             "pause_count": 1,
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 242754
         },
         {
             "id": "florinPnQCoP4f",
