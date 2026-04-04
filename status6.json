@@ -34651,13 +34651,12 @@
             "android_id": "f2a603cccb9c024c61320262e09c39b9",
             "referred_by": "RanofaAuto",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-03T21:09:03.142069",
+            "status": "active",
+            "countdown_start_time": "2026-04-06T12:39:32.609555",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 195858
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "Belolotg9NyzpqPg7",
