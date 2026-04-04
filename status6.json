@@ -18271,11 +18271,12 @@
                 "/start/OwXURasy"
             ],
             "status": "active",
-            "countdown_start_time": "2026-04-08T20:02:48.857919",
+            "countdown_start_time": "2026-04-04T09:41:57.684016",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 3
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 382851
         },
         {
             "id": "Marianoh12ckgEypz3",
