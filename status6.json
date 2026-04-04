@@ -25724,7 +25724,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2026-04-09T14:52:24.669054",
-            "affiliation_balance": 4000,
+            "affiliation_balance": 5000,
             "plan": "Basique",
             "countdown_paused": false,
             "pause_count": 0
@@ -32925,10 +32925,11 @@
             "android_id": "9a3deb12c2d17aeaf8b1e08aa159ce6c",
             "referred_by": "SquidPjkazdNC",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-02T15:34:30.749018",
+            "status": "active",
+            "countdown_start_time": "2026-04-11T20:07:10.871650",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "pause_count": 0
         },
         {
             "id": "Nambinina4fRcTU2Y",
