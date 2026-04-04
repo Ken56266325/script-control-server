@@ -27873,11 +27873,12 @@
             "referred_by": "Emmanuel1",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-04-06T08:22:36.123124",
+            "countdown_start_time": "2026-04-04T09:40:48.962360",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 3
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 168107
         },
         {
             "id": "FanoyZkGbYyS",
