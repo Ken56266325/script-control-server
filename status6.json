@@ -32549,11 +32549,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-04-09T06:36:32.621820",
+            "countdown_start_time": "2026-04-05T06:45:47.705909",
             "affiliation_balance": 0,
             "plan": "Basique",
             "pause_count": 3,
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 345044
         },
         {
             "id": "NorairsYwuh2ax",
