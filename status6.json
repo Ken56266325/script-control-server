@@ -26662,10 +26662,11 @@
                 "Vip1ZshWPfo3",
                 "TaskQLZumr52"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-01-26T11:28:40.372061",
+            "status": "active",
+            "countdown_start_time": "2026-04-12T13:38:59.409760",
             "affiliation_balance": 1000,
-            "plan": "Basique"
+            "plan": "Basique",
+            "pause_count": 0
         },
         {
             "id": "@DinoalfredRSh3fre7",
