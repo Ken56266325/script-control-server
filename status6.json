@@ -34661,12 +34661,11 @@
             "referred_to": [
                 "FranqNo11k7Ie"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-03T09:19:12.463954",
+            "status": "active",
+            "countdown_start_time": "2026-04-07T08:31:41.492001",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 126335,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
