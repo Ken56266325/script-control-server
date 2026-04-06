@@ -34399,13 +34399,12 @@
             "android_id": "a596eb92cc30444b2c40f9df4d1a45b2",
             "referred_by": "RanofaAuto",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-03T05:06:52.477885",
+            "status": "active",
+            "countdown_start_time": "2026-04-10T16:26:25.301710",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 329107
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "WalademrvdiIF9g",
