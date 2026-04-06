@@ -31776,13 +31776,12 @@
             "android_id": "fb2176bb2ba38a92b734d417360edfab",
             "referred_by": "Grav69130",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-06T12:10:17.418103",
+            "status": "active",
+            "countdown_start_time": "2026-04-09T13:07:58.686431",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 246762
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "WilliamFanirianaOHYWJuIH",
