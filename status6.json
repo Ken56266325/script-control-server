@@ -35309,6 +35309,16 @@
             "plan": "Basique",
             "countdown_paused": false,
             "pause_count": 1
+        },
+        {
+            "id": "JsikziqEdD3O8X",
+            "android_id": "Jsjjsjsjsjs",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-04-07T00:23:21.631047",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
