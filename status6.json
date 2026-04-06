@@ -33634,7 +33634,8 @@
                 "OhrhLMty7IWF",
                 "EmuhfCMP6PVUu",
                 "RekgxA5qBeFV",
-                "TahigZCxxmwqj"
+                "TahigZCxxmwqj",
+                "HadjuxJ34YUxH"
             ],
             "status": "inactive",
             "countdown_start_time": "2026-03-05T23:26:40.729795",
@@ -35287,6 +35288,16 @@
             "countdown_paused": true,
             "pause_count": 2,
             "paused_remaining_time": 24878
+        },
+        {
+            "id": "HadjuxJ34YUxH",
+            "android_id": "2c186cb2b4abd238dd258d3430b97e4d",
+            "referred_by": "SadaMdg3H58v",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-04-07T01:05:38.204436",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
