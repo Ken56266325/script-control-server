@@ -35286,11 +35286,12 @@
             "referred_by": "SadaMdg3H58v",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-04-06T22:33:22.975744",
+            "countdown_start_time": "2026-04-06T15:38:44.202594",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 1
+            "countdown_paused": true,
+            "pause_count": 2,
+            "paused_remaining_time": 24878
         }
     ],
     "references": {
