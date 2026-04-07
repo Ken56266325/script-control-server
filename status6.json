@@ -34688,12 +34688,11 @@
             "android_id": "14dd037abde3f0671a07426720b44903",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-07T15:08:21.056644",
+            "status": "active",
+            "countdown_start_time": "2026-04-07T21:24:46.796667",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 15068,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
