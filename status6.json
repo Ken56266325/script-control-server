@@ -32050,10 +32050,12 @@
             "referred_by": "TantelyOInPZG3X",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-04-14T14:15:41.634090",
+            "countdown_start_time": "2026-04-07T14:58:46.292539",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "pause_count": 0
+            "pause_count": 1,
+            "paused_remaining_time": 602215,
+            "countdown_paused": true
         },
         {
             "id": "MirantsoaOl2H6SfF",
