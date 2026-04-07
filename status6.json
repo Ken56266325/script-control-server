@@ -33633,7 +33633,8 @@
                 "RekgxA5qBeFV",
                 "TahigZCxxmwqj",
                 "HadjuxJ34YUxH",
-                "TayBCbakYaL"
+                "TayBCbakYaL",
+                "Kgkfu1qPKEfr"
             ],
             "status": "inactive",
             "countdown_start_time": "2026-03-05T23:26:40.729795",
@@ -35345,6 +35346,16 @@
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2026-04-07T07:15:07.574769",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Kgkfu1qPKEfr",
+            "android_id": "2ba2b42b212b4bb6c6abdb98efff00f8",
+            "referred_by": "SadaMdg3H58v",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-04-07T12:46:14.071860",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
