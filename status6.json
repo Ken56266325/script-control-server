@@ -7586,7 +7586,7 @@
             "android_id": "2ee5a8beb9c9a17b6e656776a9f97552",
             "referred_by": "YvanoChri581030",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-04-08T00:01:02.779696",
             "affiliation_balance": 0,
             "plan": "Basique",
@@ -32602,7 +32602,7 @@
                 "DiasOjf9aBEp",
                 "Revyf9K5tmPA"
             ],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-04-08T00:11:05.135682",
             "affiliation_balance": 0,
             "plan": "Basique",
