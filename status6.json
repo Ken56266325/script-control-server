@@ -13522,13 +13522,12 @@
                 "NarindraHbYJr8mw",
                 "ZoKlRz04fw"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-05T19:35:29.306447",
+            "status": "active",
+            "countdown_start_time": "2026-04-11T07:03:24.082928",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 311123
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "Judicael1voTQX6T",
