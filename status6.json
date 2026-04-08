@@ -34423,13 +34423,12 @@
             "android_id": "ebc1161b7166a5e91e57c1f36154fe52",
             "referred_by": "FaniryElVRklB0NY",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-05T09:18:19.307919",
+            "status": "active",
+            "countdown_start_time": "2026-04-15T21:04:32.233450",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 604644
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "TanjonaouneQe7q",
