@@ -32636,13 +32636,12 @@
             "referred_to": [
                 "secondAjBI9Ax2"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-06T05:28:02.626530",
+            "status": "active",
+            "countdown_start_time": "2026-04-11T15:35:29.725861",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 284712
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "WillystivenTsDWsSbl",
