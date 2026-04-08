@@ -33055,11 +33055,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-04-08T15:08:38.169473",
+            "countdown_start_time": "2026-04-08T08:01:39.533028",
             "affiliation_balance": 0,
-            "countdown_paused": false,
+            "countdown_paused": true,
             "plan": "Basique",
-            "pause_count": 3
+            "pause_count": 3,
+            "paused_remaining_time": 25618
         },
         {
             "id": "Brutal9100202",
