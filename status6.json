@@ -7221,7 +7221,7 @@
             "referred_to": [
                 "yyg"
             ],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-04-08T13:11:46.084760",
             "affiliation_balance": 0,
             "plan": "Basique",
@@ -33028,7 +33028,7 @@
             "android_id": "037ae15eff3aa75a82902eff43c47309",
             "referred_by": "Sinia52772",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-04-08T12:57:18.145725",
             "affiliation_balance": 0,
             "countdown_paused": false,
