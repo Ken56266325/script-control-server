@@ -32976,11 +32976,12 @@
             "referred_by": "GangAvfK1Yn1",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-04-14T19:14:21.248216",
+            "countdown_start_time": "2026-04-08T18:25:12.055463",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 3
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 521349
         },
         {
             "id": "rostonaheS2NmBhD",
