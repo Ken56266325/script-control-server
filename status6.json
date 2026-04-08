@@ -34173,13 +34173,12 @@
             "android_id": "15c102ea5d0dab7791ce8a0a80d44df1",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-03-22T18:54:49.474484",
+            "status": "active",
+            "countdown_start_time": "2026-04-08T16:06:20.286766",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 21391
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "DONALGyxfHafZ",
