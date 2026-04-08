@@ -14028,13 +14028,12 @@
                 "JacquesfqQTGRfk",
                 "kimX7PpVRNp"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-03T19:04:31.689027",
+            "status": "active",
+            "countdown_start_time": "2026-04-14T03:02:49.819979",
             "affiliation_balance": 1000,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 456036
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "HeritinatsilavinaXTqIquDs",
