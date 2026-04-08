@@ -20050,13 +20050,12 @@
                 "RotsianaelisalFBbj71y",
                 "Fenorivoy4bc4CQq"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-08T05:18:08.425390",
+            "status": "active",
+            "countdown_start_time": "2026-04-14T10:59:14.812625",
             "affiliation_balance": 6000,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 498128
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "TravyI3huG6IY",
