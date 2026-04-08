@@ -32289,13 +32289,12 @@
             "android_id": "9054f6dcdd095e5f80eb6c0f129933d8",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-08T13:20:19.610421",
+            "status": "active",
+            "countdown_start_time": "2026-04-14T19:50:56.760076",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 532299
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "VelomaxalOde",
