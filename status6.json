@@ -7222,13 +7222,12 @@
             "referred_to": [
                 "yyg"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-07T09:01:22.706565",
+            "status": "active",
+            "countdown_start_time": "2026-04-08T13:11:46.084760",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 1,
-            "paused_remaining_time": 26341
+            "countdown_paused": false,
+            "pause_count": 1
         },
         {
             "id": "Diaryson57193",
