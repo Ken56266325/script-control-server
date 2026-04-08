@@ -31730,13 +31730,12 @@
             "android_id": "67ca3ec3aebcfa9723df30bfafb1a5ca",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-01T15:04:21.178974",
+            "status": "active",
+            "countdown_start_time": "2026-04-10T18:53:01.943552",
             "affiliation_balance": 0,
             "plan": "Basique",
             "pause_count": 2,
-            "countdown_paused": true,
-            "paused_remaining_time": 177714
+            "countdown_paused": false
         },
         {
             "id": "Tanjona7919292",
