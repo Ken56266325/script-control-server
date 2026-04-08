@@ -32274,13 +32274,12 @@
             "android_id": "e45a3ff6eb2c7fe69842223d57cd3120",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-08T11:04:24.453417",
+            "status": "active",
+            "countdown_start_time": "2026-04-11T15:17:46.171343",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 248443
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "sylvain52662",
