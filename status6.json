@@ -28603,7 +28603,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2026-04-16T18:28:54.256581",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "pause_count": 2,
             "countdown_paused": false
@@ -30116,11 +30116,11 @@
             "android_id": "53afac7857730ccba96bc533ddf7a23c",
             "referred_by": "harsonielnBBuRIyG",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-05T19:58:53.630682",
+            "status": "active",
+            "countdown_start_time": "2026-04-16T19:46:59.548852",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "pause_count": 2,
+            "pause_count": 0,
             "countdown_paused": false
         },
         {
