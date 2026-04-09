@@ -34499,13 +34499,12 @@
             "android_id": "75847c9ffefb6276383e0592696680ba",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-09T11:41:23.139698",
+            "status": "active",
+            "countdown_start_time": "2026-04-13T13:40:04.476262",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 318697
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "SeverenexKGJegu1",
