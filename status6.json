@@ -2930,11 +2930,12 @@
             "referred_by": "SNeddie58103",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-04-15T09:44:10.720477",
+            "countdown_start_time": "2026-04-09T11:06:10.166263",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 1
+            "countdown_paused": true,
+            "pause_count": 2,
+            "paused_remaining_time": 513480
         },
         {
             "id": "Tsitohaina581932",
