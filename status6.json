@@ -27637,7 +27637,9 @@
             "id": "TynoBusiness7UkgO0PA",
             "android_id": "973cd92389893adc6e159fd87205a8a9",
             "referred_by": null,
-            "referred_to": [],
+            "referred_to": [
+                "TrafavaYbanoNgKrVcRk"
+            ],
             "status": "active",
             "countdown_start_time": "2026-04-15T18:26:54.026418",
             "affiliation_balance": 0,
@@ -35403,6 +35405,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-04-10T00:54:57.488877",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "TrafavaYbanoNgKrVcRk",
+            "android_id": "a9974c8c189838b84af692fd2920d68c",
+            "referred_by": "TynoBusiness7UkgO0PA",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-04-10T02:08:35.778583",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
