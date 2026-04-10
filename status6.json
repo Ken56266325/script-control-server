@@ -32888,12 +32888,12 @@
             "android_id": "a935ac23800b5d2b32b3d7be02eda800",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-03-31T18:58:44.531035",
+            "status": "active",
+            "countdown_start_time": "2026-04-17T17:51:29.797048",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false,
-            "pause_count": 1
+            "pause_count": 0
         },
         {
             "id": "Frigap95GwPY7",
