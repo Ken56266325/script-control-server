@@ -18279,13 +18279,12 @@
                 "AldaigYvjxiO",
                 "/start/OwXURasy"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-05T10:02:32.351595",
+            "status": "active",
+            "countdown_start_time": "2026-04-14T13:19:45.289958",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 324004
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "Marianoh12ckgEypz3",
