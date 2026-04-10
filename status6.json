@@ -6497,7 +6497,8 @@
             "referred_to": [
                 "FrauhWt4NIQ9",
                 "Kristophelq7GGKiy",
-                "RandrianirinalucientDvC7uf6"
+                "RandrianirinalucientDvC7uf6",
+                "RollandlW6BXdlU"
             ],
             "status": "inactive",
             "countdown_start_time": "2026-03-01T03:26:48.046533",
@@ -35511,6 +35512,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-04-10T22:02:44.762822",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "RollandlW6BXdlU",
+            "android_id": "fe2e58d6bb55c90a6e1ae8e7b55ac774",
+            "referred_by": "Patty5831570",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-04-10T22:31:26.415331",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
