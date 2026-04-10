@@ -6494,7 +6494,9 @@
             "id": "Patty5831570",
             "android_id": "74888c1cd368f72cd16c304f6e72508f",
             "referred_by": "Pass58190",
-            "referred_to": [],
+            "referred_to": [
+                "FrauhWt4NIQ9"
+            ],
             "status": "inactive",
             "countdown_start_time": "2026-03-01T03:26:48.046533",
             "affiliation_balance": 0,
@@ -35435,6 +35437,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-04-10T12:48:35.918083",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "FrauhWt4NIQ9",
+            "android_id": "b3e1f7f0ed79a87c550bca1704711615",
+            "referred_by": "Patty5831570",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-04-10T13:26:56.645547",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
