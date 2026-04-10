@@ -34775,12 +34775,11 @@
             "android_id": "6fa2f61504f5699c5c1f7119901e374f",
             "referred_by": "SquidPjkazdNC",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-09T07:34:23.386746",
+            "status": "active",
+            "countdown_start_time": "2026-04-16T14:41:26.604113",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 560296,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
