@@ -35529,7 +35529,7 @@
             "android_id": "78f378065068918cc7aeb847006bf08e",
             "referred_by": "RomualdVkgjeCpi",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-04-11T01:27:47.783081",
             "affiliation_balance": 0,
             "plan": "Basique"
@@ -35539,7 +35539,7 @@
             "android_id": "a96d8924ab1e363bc49ec494f90794d5",
             "referred_by": null,
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-04-11T02:20:34.996072",
             "affiliation_balance": 0,
             "plan": "Basique"
