@@ -23338,11 +23338,12 @@
             "referred_by": "MahefatinahajarivoaeJNpfdN",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-04-14T02:30:28.731696",
+            "countdown_start_time": "2026-04-10T21:11:37.304427",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 2
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 278331
         },
         {
             "id": "CAu6vkk6Ve",
