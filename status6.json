@@ -2399,7 +2399,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2026-02-09T22:21:33.615778",
-            "affiliation_balance": 5000,
+            "affiliation_balance": 6000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -34409,11 +34409,11 @@
             "referred_by": "RanofaAuto",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-04-10T16:26:25.301710",
+            "countdown_start_time": "2026-04-17T16:26:25.301710",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false,
-            "pause_count": 3
+            "pause_count": 0
         },
         {
             "id": "WalademrvdiIF9g",
