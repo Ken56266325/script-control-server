@@ -35205,9 +35205,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-04-13T16:59:40.208275",
+            "countdown_start_time": "2026-04-11T20:52:51.675164",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 158808,
+            "countdown_paused": true,
+            "pause_count": 1
         },
         {
             "id": "NasandratraBf3FU8eM",
