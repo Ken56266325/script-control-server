@@ -34806,11 +34806,12 @@
             "referred_by": "RanofaAuto",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-04-15T05:40:05.634086",
+            "countdown_start_time": "2026-04-11T06:03:21.748251",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 2
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 344203
         },
         {
             "id": "Iary15ZJbHG5kt",
