@@ -34799,11 +34799,12 @@
             "referred_by": "SquidPjkazdNC",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-04-16T14:41:26.604113",
+            "countdown_start_time": "2026-04-11T08:52:34.522377",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 1
+            "countdown_paused": true,
+            "pause_count": 2,
+            "paused_remaining_time": 452932
         },
         {
             "id": "honoreQ3iPew02",
