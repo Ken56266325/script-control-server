@@ -34460,11 +34460,12 @@
             "referred_by": "FaniryElVRklB0NY",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-04-15T21:04:32.233450",
+            "countdown_start_time": "2026-04-11T15:10:22.779595",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 2
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 366849
         },
         {
             "id": "TanjonaouneQe7q",
