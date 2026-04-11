@@ -30139,11 +30139,12 @@
             "referred_by": "harsonielnBBuRIyG",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-04-16T19:57:36.297274",
+            "countdown_start_time": "2026-04-11T17:13:01.233552",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "pause_count": 1,
-            "countdown_paused": false
+            "pause_count": 2,
+            "countdown_paused": true,
+            "paused_remaining_time": 441875
         },
         {
             "id": "Bobar201S3LtbJU0",
