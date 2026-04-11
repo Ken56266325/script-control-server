@@ -31569,11 +31569,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-04-11T15:49:05.772845",
+            "countdown_start_time": "2026-04-11T09:38:03.918594",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 3
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 22261
         },
         {
             "id": "eliassefaliananH6cppMC",
