@@ -2279,7 +2279,7 @@
                 "amira3nbExdQd",
                 "fyM71Nnn93"
             ],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-04-12T00:08:05.472442",
             "affiliation_balance": 0,
             "plan": "Basique",
@@ -35619,7 +35619,7 @@
             "android_id": "7cfb072ef1c292b4faa5bee56f3ae74f",
             "referred_by": null,
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-04-12T00:27:23.436062",
             "affiliation_balance": 0,
             "plan": "Basique"
