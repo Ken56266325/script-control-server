@@ -33099,11 +33099,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-04-16T22:47:50.313044",
+            "countdown_start_time": "2026-04-11T08:43:16.255680",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "pause_count": 1,
-            "countdown_paused": false
+            "pause_count": 2,
+            "countdown_paused": true,
+            "paused_remaining_time": 482674
         },
         {
             "id": "AlyqT53p0EA",
