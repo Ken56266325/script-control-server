@@ -24655,11 +24655,12 @@
             "referred_by": "Andry5718e0",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-04-15T07:44:07.894051",
+            "countdown_start_time": "2026-04-11T08:25:26.993717",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 3
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 343120
         },
         {
             "id": "Tah3360WtDvu844",
