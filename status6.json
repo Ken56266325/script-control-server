@@ -35064,11 +35064,12 @@
             "referred_by": "sergiorobertzHJQZpAB",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-04-17T14:17:23.091907",
+            "countdown_start_time": "2026-04-11T14:38:03.879616",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "pause_count": 0,
-            "countdown_paused": false
+            "pause_count": 1,
+            "countdown_paused": true,
+            "paused_remaining_time": 517159
         },
         {
             "id": "Dona6dOX6x5Q",
