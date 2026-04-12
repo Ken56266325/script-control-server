@@ -35075,13 +35075,12 @@
             "android_id": "8e9745b01f0f14a2cd37049725884442",
             "referred_by": "sergiorobertzHJQZpAB",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-11T22:52:36.546561",
+            "status": "active",
+            "countdown_start_time": "2026-04-18T08:58:02.689764",
             "affiliation_balance": 0,
             "plan": "Basique",
             "pause_count": 2,
-            "countdown_paused": true,
-            "paused_remaining_time": 509091
+            "countdown_paused": false
         },
         {
             "id": "Dona6dOX6x5Q",
