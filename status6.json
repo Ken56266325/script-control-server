@@ -32481,13 +32481,12 @@
             "referred_to": [
                 "Belolotg6NO8JkNi1"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-11T09:59:38.673515",
+            "status": "active",
+            "countdown_start_time": "2026-04-14T12:36:57.941139",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 35380
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "taloryzmD3imlf",
