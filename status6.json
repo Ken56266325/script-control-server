@@ -32544,13 +32544,12 @@
             "android_id": "ffc0a951829884c2144c2c8202f53209",
             "referred_by": "Noutahtahy6rRaqvU",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-07T16:27:10.268110",
+            "status": "active",
+            "countdown_start_time": "2026-04-20T04:05:00.711614",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 598502
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "JoelHrMwhyy6",
