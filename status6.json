@@ -35434,9 +35434,11 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-04-19T15:19:35.867424",
+            "countdown_start_time": "2026-04-13T18:44:17.190528",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 506118,
+            "countdown_paused": true
         },
         {
             "id": "Larissae34ejAlXWGH",
