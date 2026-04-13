@@ -28539,9 +28539,11 @@
             "referred_by": "Andry5718e0",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-04-21T06:36:04.758421",
+            "countdown_start_time": "2026-04-13T18:44:08.671821",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 647516,
+            "countdown_paused": true
         },
         {
             "id": "Frede2c6VxAqpUmP",
