@@ -34728,13 +34728,12 @@
             "android_id": "14dd037abde3f0671a07426720b44903",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-11T08:19:14.250532",
+            "status": "active",
+            "countdown_start_time": "2026-04-14T15:57:57.003605",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 47394
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "eliedebonsWJMrdwnd",
