@@ -7964,13 +7964,12 @@
             "android_id": "8c66664dd1fd197740e47eadca1543e8",
             "referred_by": "Andry5718e0",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-11T08:25:06.309358",
+            "status": "active",
+            "countdown_start_time": "2026-04-18T08:27:58.288328",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 343132
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "Smmboss58194920",
