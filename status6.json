@@ -35659,6 +35659,16 @@
             "countdown_start_time": "2026-04-14T14:23:26.521878",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Belolotg3_117fxdGU4Rp",
+            "android_id": "cc1b2b16dd1c002409ad13b46e6e8fd5",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-04-14T14:27:03.996215",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
