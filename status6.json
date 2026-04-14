@@ -22432,11 +22432,12 @@
                 "JudichaelVnTMz8kH"
             ],
             "status": "active",
-            "countdown_start_time": "2026-04-19T21:30:53.974033",
+            "countdown_start_time": "2026-04-14T17:38:47.272267",
             "affiliation_balance": 3000,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 2
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 445926
         },
         {
             "id": "BastazcS1UiYx",
