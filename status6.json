@@ -33081,12 +33081,13 @@
             "android_id": "5236dcd1f1ac28ef53297d21cde92d96",
             "referred_by": null,
             "referred_to": [],
-            "status": "active",
-            "countdown_start_time": "2026-04-19T03:47:40.532803",
+            "status": "inactive",
+            "countdown_start_time": "2026-04-11T06:47:55.609999",
             "affiliation_balance": 0,
-            "countdown_paused": false,
+            "countdown_paused": true,
             "plan": "Basique",
-            "pause_count": 0
+            "pause_count": 0,
+            "paused_remaining_time": 415718
         },
         {
             "id": "Brutal9100202",
@@ -34885,7 +34886,7 @@
             "referred_by": "Mamour5626",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-04-21T08:18:53.096788",
+            "countdown_start_time": "2026-04-16T08:20:04.993847",
             "affiliation_balance": 0,
             "plan": "Basique"
         },
