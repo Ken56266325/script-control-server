@@ -22431,13 +22431,12 @@
                 "Jarad0JVWZyI4",
                 "JudichaelVnTMz8kH"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-11T20:10:49.039555",
+            "status": "active",
+            "countdown_start_time": "2026-04-19T21:30:53.974033",
             "affiliation_balance": 3000,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 473544
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "BastazcS1UiYx",
