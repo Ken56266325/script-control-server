@@ -35418,12 +35418,11 @@
             "android_id": "7bbddbb6fdd8811bd99780571b89b981",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-13T18:44:17.190528",
+            "status": "active",
+            "countdown_start_time": "2026-04-20T03:36:51.247673",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 506118,
-            "countdown_paused": true
+            "countdown_paused": false
         },
         {
             "id": "Larissae34ejAlXWGH",
