@@ -34343,13 +34343,12 @@
             "android_id": "64e549df39b9b3b169c16395d1add9f4",
             "referred_by": "BELOLOnhVqwQuG",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-11T08:20:37.197914",
+            "status": "active",
+            "countdown_start_time": "2026-04-14T16:10:00.527257",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 46938
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "Ravakajr8O9Xr2vM",
