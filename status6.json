@@ -34833,13 +34833,12 @@
             "android_id": "61003c47930cf02a4fc284cef5c06202",
             "referred_by": "RanofaAuto",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-11T06:03:21.748251",
+            "status": "active",
+            "countdown_start_time": "2026-04-18T04:47:33.306521",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 344203
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "Iary15ZJbHG5kt",
