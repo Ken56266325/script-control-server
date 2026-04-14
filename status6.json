@@ -34950,13 +34950,12 @@
             "android_id": "8f7303e02275239d11c6da4aced13517",
             "referred_by": "RanofaAuto",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-11T22:44:28.896300",
+            "status": "active",
+            "countdown_start_time": "2026-04-19T13:42:45.660196",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 462693
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "MickaeluzreQYbW",
