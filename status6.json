@@ -32634,7 +32634,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2026-04-08T00:11:05.135682",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "pause_count": 1,
             "countdown_paused": false
@@ -34777,10 +34777,11 @@
             "android_id": "a4ac18f7620d6dc8fb885442b0c03513",
             "referred_by": "stephanietw8cMcel",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-13T12:12:56.570785",
+            "status": "active",
+            "countdown_start_time": "2026-04-21T07:15:45.559172",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "pause_count": 0
         },
         {
             "id": "joellaparfaiteWVPPup2c",
