@@ -34885,9 +34885,11 @@
             "referred_by": "Mamour5626",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-04-16T08:20:04.993847",
+            "countdown_start_time": "2026-04-14T19:29:40.569702",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 132624,
+            "countdown_paused": true
         },
         {
             "id": "AliciaC5tJAV1w",
