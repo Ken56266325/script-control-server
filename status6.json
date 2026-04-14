@@ -34772,10 +34772,12 @@
             "referred_by": "stephanietw8cMcel",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-04-21T07:15:45.559172",
+            "countdown_start_time": "2026-04-14T12:35:26.016601",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "pause_count": 0
+            "pause_count": 1,
+            "paused_remaining_time": 585619,
+            "countdown_paused": true
         },
         {
             "id": "joellaparfaiteWVPPup2c",
