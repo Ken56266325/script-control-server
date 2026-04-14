@@ -34438,13 +34438,12 @@
             "android_id": "a596eb92cc30444b2c40f9df4d1a45b2",
             "referred_by": "RanofaAuto",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-11T06:02:45.682570",
+            "status": "active",
+            "countdown_start_time": "2026-04-20T15:33:55.756973",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 1,
-            "paused_remaining_time": 555819
+            "countdown_paused": false,
+            "pause_count": 1
         },
         {
             "id": "WalademrvdiIF9g",
