@@ -28624,13 +28624,12 @@
                 "VancCbvQxyL",
                 "FitahianjanaharygdyR7Jye"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-12T13:33:07.397637",
+            "status": "active",
+            "countdown_start_time": "2026-04-18T13:13:33.599211",
             "affiliation_balance": 1000,
             "plan": "Basique",
             "pause_count": 3,
-            "countdown_paused": true,
-            "paused_remaining_time": 363346
+            "countdown_paused": false
         },
         {
             "id": "rouRJu1waSw",
