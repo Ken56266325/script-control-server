@@ -30175,13 +30175,12 @@
             "referred_to": [
                 "AlexandreqrceVYTa"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-06T12:10:10.638173",
+            "status": "active",
+            "countdown_start_time": "2026-04-15T15:52:19.251365",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 114734
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "IaryshTzH5Ha",
