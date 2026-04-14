@@ -30847,9 +30847,11 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-04-26T10:54:48.841911",
+            "countdown_start_time": "2026-04-14T09:32:29.751804",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 1041739,
+            "countdown_paused": true
         },
         {
             "id": "AsakoRngyyeIR",
