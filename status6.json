@@ -32909,13 +32909,12 @@
             "android_id": "a935ac23800b5d2b32b3d7be02eda800",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-11T09:21:37.377309",
+            "status": "active",
+            "countdown_start_time": "2026-04-20T14:43:15.455283",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 1,
-            "paused_remaining_time": 548992
+            "countdown_paused": false,
+            "pause_count": 1
         },
         {
             "id": "Frigap95GwPY7",
