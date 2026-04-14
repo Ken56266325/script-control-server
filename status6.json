@@ -25742,7 +25742,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2026-04-09T14:52:24.669054",
-            "affiliation_balance": 6000,
+            "affiliation_balance": 7000,
             "plan": "Basique",
             "countdown_paused": false,
             "pause_count": 0
@@ -32962,8 +32962,8 @@
             "android_id": "9a3deb12c2d17aeaf8b1e08aa159ce6c",
             "referred_by": "SquidPjkazdNC",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-11T20:07:10.871650",
+            "status": "active",
+            "countdown_start_time": "2026-04-21T08:07:09.486977",
             "affiliation_balance": 0,
             "plan": "Basique",
             "pause_count": 0
