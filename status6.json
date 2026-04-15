@@ -18201,11 +18201,12 @@
             "referred_by": "Itsimindrana",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-04-22T08:17:24.220371",
+            "countdown_start_time": "2026-04-15T11:04:18.963621",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 0
+            "countdown_paused": true,
+            "pause_count": 1,
+            "paused_remaining_time": 594785
         },
         {
             "id": "SitrakatvKUIp5N",
