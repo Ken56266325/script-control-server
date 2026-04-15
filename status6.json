@@ -35575,11 +35575,12 @@
             "referred_by": "RomualdVkgjeCpi",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-04-19T10:26:23.182075",
+            "countdown_start_time": "2026-04-15T18:22:00.282554",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "pause_count": 2,
-            "countdown_paused": false
+            "pause_count": 3,
+            "countdown_paused": true,
+            "paused_remaining_time": 317062
         },
         {
             "id": "AsmirageXz5Sdo",
