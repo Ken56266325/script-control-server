@@ -23702,13 +23702,12 @@
                 "TalboteyFvTphnm",
                 "PelaMxsYNfhw"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-03-27T13:26:33.619142",
+            "status": "active",
+            "countdown_start_time": "2026-04-17T04:47:19.281522",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 1,
-            "paused_remaining_time": 155200
+            "countdown_paused": false,
+            "pause_count": 1
         },
         {
             "id": "HerinirainyaWBbURF2",
