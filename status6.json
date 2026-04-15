@@ -30138,13 +30138,12 @@
             "android_id": "53afac7857730ccba96bc533ddf7a23c",
             "referred_by": "harsonielnBBuRIyG",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-11T17:13:01.233552",
+            "status": "active",
+            "countdown_start_time": "2026-04-20T21:47:41.322901",
             "affiliation_balance": 0,
             "plan": "Basique",
             "pause_count": 2,
-            "countdown_paused": true,
-            "paused_remaining_time": 441875
+            "countdown_paused": false
         },
         {
             "id": "Bobar201S3LtbJU0",
