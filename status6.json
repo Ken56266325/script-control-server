@@ -7487,7 +7487,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2026-01-21T12:22:17.442449",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -18200,12 +18200,12 @@
             "android_id": "920067a853e2fb6754478cb4133c5cbf",
             "referred_by": "Itsimindrana",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-08T13:38:09.902561",
+            "status": "active",
+            "countdown_start_time": "2026-04-22T08:17:24.220371",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false,
-            "pause_count": 3
+            "pause_count": 0
         },
         {
             "id": "SitrakatvKUIp5N",
