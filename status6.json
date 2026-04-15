@@ -33208,11 +33208,12 @@
             "referred_by": "Sinia52772",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-04-19T07:23:46.478731",
+            "countdown_start_time": "2026-04-15T13:05:02.385017",
             "affiliation_balance": 0,
-            "countdown_paused": false,
+            "countdown_paused": true,
             "plan": "Basique",
-            "pause_count": 3
+            "pause_count": 3,
+            "paused_remaining_time": 325124
         },
         {
             "id": "kennygQDlP4rZ",
