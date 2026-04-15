@@ -33472,11 +33472,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-04-20T14:45:35.368792",
+            "countdown_start_time": "2026-04-15T14:45:58.242099",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 3
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 431977
         },
         {
             "id": "tel2csc3atWwKL",
