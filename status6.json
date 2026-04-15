@@ -7162,7 +7162,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2026-04-14T11:21:28.884294",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false,
             "pause_count": 0
@@ -34923,9 +34923,10 @@
             "referred_by": "Jenny5681519",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-04-15T10:10:16.411045",
+            "countdown_start_time": "2026-04-22T10:10:16.411045",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "pause_count": 0
         },
         {
             "id": "ArnohRGGKSuoZ",
