@@ -32869,12 +32869,11 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-04-15T09:41:01.278272",
+            "countdown_start_time": "2026-04-16T09:28:49.868936",
             "affiliation_balance": 0,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "plan": "Basique",
-            "pause_count": 3,
-            "paused_remaining_time": 85640
+            "pause_count": 3
         },
         {
             "id": "doue5svHwNCd",
