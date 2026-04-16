@@ -6498,7 +6498,8 @@
                 "Kristophelq7GGKiy",
                 "RandrianirinalucientDvC7uf6",
                 "RollandlW6BXdlU",
-                "FanomezanayEmSx8Fs"
+                "FanomezanayEmSx8Fs",
+                "NarutobOTsXcFv"
             ],
             "status": "inactive",
             "countdown_start_time": "2026-03-01T03:26:48.046533",
@@ -35763,6 +35764,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-04-16T18:49:59.185093",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "NarutobOTsXcFv",
+            "android_id": "c2f9a83072e93a85a7591104dcf38c2f",
+            "referred_by": "Patty5831570",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-04-16T19:03:32.468444",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
