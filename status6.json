@@ -34936,10 +34936,12 @@
             "referred_by": "Jenny5681519",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-04-22T10:10:16.411045",
+            "countdown_start_time": "2026-04-21T23:30:58.339324",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "pause_count": 0
+            "pause_count": 1,
+            "paused_remaining_time": 38358,
+            "countdown_paused": true
         },
         {
             "id": "ArnohRGGKSuoZ",
