@@ -33729,13 +33729,12 @@
             "android_id": "17e8878714e66183928ad10aeb25948b",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-15T13:04:52.780124",
+            "status": "active",
+            "countdown_start_time": "2026-04-30T15:21:42.299814",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 491627
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "FANIRYHAITTOQqNHCCjU",
