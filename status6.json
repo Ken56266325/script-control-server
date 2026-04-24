@@ -33205,13 +33205,12 @@
             "android_id": "1394ed462688ede9037bc275f4e33d03",
             "referred_by": "Sinia52772",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-15T13:05:02.385017",
+            "status": "active",
+            "countdown_start_time": "2026-04-28T17:14:05.686727",
             "affiliation_balance": 0,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "plan": "Basique",
-            "pause_count": 3,
-            "paused_remaining_time": 325124
+            "pause_count": 3
         },
         {
             "id": "kennygQDlP4rZ",
