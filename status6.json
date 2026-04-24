@@ -33036,13 +33036,12 @@
             "android_id": "cac5f8be0533c626d686e234b35deb08",
             "referred_by": "Sinia52772",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-10T19:15:39.632549",
+            "status": "active",
+            "countdown_start_time": "2026-04-30T14:56:06.000780",
             "affiliation_balance": 0,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "plan": "Basique",
-            "pause_count": 2,
-            "paused_remaining_time": 487781
+            "pause_count": 2
         },
         {
             "id": "joel5363",
