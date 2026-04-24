@@ -15185,12 +15185,11 @@
             "android_id": "7b4e0bde9ec4bd9c27e9c898a27b213b",
             "referred_by": "Andry5718e0",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-11T08:07:13.386212",
+            "status": "active",
+            "countdown_start_time": "2026-04-29T05:43:15.059289",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 370414,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
