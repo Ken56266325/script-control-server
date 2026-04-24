@@ -15186,11 +15186,12 @@
             "referred_by": "Andry5718e0",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-04-29T05:43:15.059289",
+            "countdown_start_time": "2026-04-24T23:09:04.033448",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 1
+            "countdown_paused": true,
+            "pause_count": 2,
+            "paused_remaining_time": 369251
         },
         {
             "id": "MadaraRJDv2oZw",
