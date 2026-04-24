@@ -34781,13 +34781,12 @@
             "android_id": "a4ac18f7620d6dc8fb885442b0c03513",
             "referred_by": "stephanietw8cMcel",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-17T11:52:11.308654",
+            "status": "active",
+            "countdown_start_time": "2026-04-29T01:02:22.997102",
             "affiliation_balance": 0,
             "plan": "Basique",
             "pause_count": 2,
-            "countdown_paused": true,
-            "paused_remaining_time": 351761
+            "countdown_paused": false
         },
         {
             "id": "joellaparfaiteWVPPup2c",
