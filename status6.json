@@ -34592,13 +34592,12 @@
             "android_id": "a87c13bb7ab91a425866cb7a6ba73f1d",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-25T20:38:13.255314",
+            "status": "active",
+            "countdown_start_time": "2026-04-26T15:02:46.703147",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 58738
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "sergiorobertzHJQZpAB",
