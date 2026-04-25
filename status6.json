@@ -31490,11 +31490,12 @@
             "referred_by": "Soso79103",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-05-01T04:55:56.651951",
+            "countdown_start_time": "2026-04-25T16:32:57.721183",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 3
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 476578
         },
         {
             "id": "TanjonaniainagD9wy7GH",
