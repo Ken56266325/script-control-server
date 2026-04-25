@@ -34501,13 +34501,12 @@
             "android_id": "47a11f6c837f730b895b63025a51e83a",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-25T20:38:37.033739",
+            "status": "active",
+            "countdown_start_time": "2026-04-26T11:22:16.177813",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 45479
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "GoulouC9FlxZx9",
