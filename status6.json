@@ -28531,12 +28531,11 @@
             "android_id": "2a0bb065ad2fba0ce9cd10224efbc743",
             "referred_by": "Andry5718e0",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-17T17:55:57.943096",
+            "status": "active",
+            "countdown_start_time": "2026-04-29T08:34:15.283879",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 349043
+            "countdown_paused": false
         },
         {
             "id": "Frede2c6VxAqpUmP",
