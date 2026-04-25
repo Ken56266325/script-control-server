@@ -3551,13 +3551,12 @@
                 "Andriamiandrisoa5WiWRlYe",
                 "FitahianaIf1CsOEw"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-25T16:33:15.401437",
+            "status": "active",
+            "countdown_start_time": "2026-04-30T23:04:13.146464",
             "affiliation_balance": 5000,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 426106
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "Hary79103",
