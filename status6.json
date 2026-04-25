@@ -34507,9 +34507,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-04-26T06:38:45.229431",
+            "countdown_start_time": "2026-04-25T07:47:22.650256",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 82282,
+            "countdown_paused": true,
+            "pause_count": 1
         },
         {
             "id": "GoulouC9FlxZx9",
