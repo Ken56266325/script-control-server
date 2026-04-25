@@ -34805,13 +34805,12 @@
             "android_id": "6fa2f61504f5699c5c1f7119901e374f",
             "referred_by": "SquidPjkazdNC",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-15T06:54:01.771953",
+            "status": "active",
+            "countdown_start_time": "2026-04-30T01:42:51.147428",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 410812
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "honoreQ3iPew02",
