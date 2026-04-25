@@ -12127,11 +12127,12 @@
             "referred_by": "Joel681921",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-04-30T16:55:40.443561",
+            "countdown_start_time": "2026-04-25T15:28:23.805893",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 3
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 437236
         },
         {
             "id": "Oliv24aGx6CKmZ",
