@@ -34595,9 +34595,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-04-26T06:39:08.995763",
+            "countdown_start_time": "2026-04-25T07:46:15.987273",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 82373,
+            "countdown_paused": true,
+            "pause_count": 1
         },
         {
             "id": "sergiorobertzHJQZpAB",
