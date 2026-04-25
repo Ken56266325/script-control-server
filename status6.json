@@ -22429,13 +22429,12 @@
                 "Jarad0JVWZyI4",
                 "JudichaelVnTMz8kH"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-14T17:38:47.272267",
+            "status": "active",
+            "countdown_start_time": "2026-04-30T17:51:36.157257",
             "affiliation_balance": 3000,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 445926
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "BastazcS1UiYx",
