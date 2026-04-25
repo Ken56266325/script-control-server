@@ -2277,7 +2277,8 @@
                 "dollarUdErVLtH",
                 "rouRJu1waSw",
                 "amira3nbExdQd",
-                "fyM71Nnn93"
+                "fyM71Nnn93",
+                "lunahJGMZlv1W"
             ],
             "status": "active",
             "countdown_start_time": "2026-04-26T06:40:22.635848",
@@ -35822,6 +35823,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-04-25T19:22:07.010880",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "lunahJGMZlv1W",
+            "android_id": "6888fdb86f8c14d1f98e705632e85d83",
+            "referred_by": "JassBoy58103",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-04-25T22:26:33.908956",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
