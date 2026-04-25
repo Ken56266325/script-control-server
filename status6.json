@@ -31953,13 +31953,12 @@
                 "joellaparfaiteWVPPup2c",
                 "Arnoldjohnatan67guy2ToFb"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-14T17:10:37.523276",
+            "status": "active",
+            "countdown_start_time": "2026-04-28T00:24:15.109947",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 207377
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "Njaka_rFaEUcRJ5",
