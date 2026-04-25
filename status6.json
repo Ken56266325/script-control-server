@@ -32575,13 +32575,12 @@
             "android_id": "76b0fca9da59a4581c0f3b981af6543e",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-05T06:45:47.705909",
+            "status": "active",
+            "countdown_start_time": "2026-04-29T11:55:53.734221",
             "affiliation_balance": 0,
             "plan": "Basique",
             "pause_count": 3,
-            "countdown_paused": true,
-            "paused_remaining_time": 345044
+            "countdown_paused": false
         },
         {
             "id": "NorairsYwuh2ax",
