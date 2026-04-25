@@ -2183,7 +2183,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2026-02-24T10:03:30.626839",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false,
             "pause_count": 2
@@ -7230,12 +7230,12 @@
             "referred_to": [
                 "yyg"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-16T15:40:27.257924",
-            "affiliation_balance": 7000,
+            "status": "active",
+            "countdown_start_time": "2026-05-02T06:11:39.553874",
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false,
-            "pause_count": 3
+            "pause_count": 0
         },
         {
             "id": "Diaryson57193",
