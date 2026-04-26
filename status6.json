@@ -33708,11 +33708,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-04-30T15:21:42.299814",
+            "countdown_start_time": "2026-04-26T13:10:42.634663",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 3
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 353459
         },
         {
             "id": "FANIRYHAITTOQqNHCCjU",
