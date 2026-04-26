@@ -34831,11 +34831,12 @@
             "referred_by": "RabarptKRuvLy",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-05-03T15:23:16.452283",
+            "countdown_start_time": "2026-04-26T16:20:02.595280",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "pause_count": 0,
-            "countdown_paused": false
+            "pause_count": 1,
+            "countdown_paused": true,
+            "paused_remaining_time": 601393
         },
         {
             "id": "jefeA6ioeMTX",
