@@ -17584,7 +17584,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2025-09-16T17:39:03.302254",
-            "affiliation_balance": 9000,
+            "affiliation_balance": 10000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -22843,11 +22843,11 @@
                 "JosenQPGQkeD"
             ],
             "status": "active",
-            "countdown_start_time": "2026-04-26T17:16:12.655524",
+            "countdown_start_time": "2026-05-03T17:16:12.655524",
             "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false,
-            "pause_count": 3
+            "pause_count": 0
         },
         {
             "id": "geldoa0LOLdF",
