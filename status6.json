@@ -32936,13 +32936,12 @@
             "android_id": "3706d49efbca3e59046dcd495e7285ee",
             "referred_by": "37988562",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-27T01:08:05.114455",
+            "status": "active",
+            "countdown_start_time": "2026-05-04T06:46:45.405793",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 1,
-            "paused_remaining_time": 560545
+            "countdown_paused": false,
+            "pause_count": 1
         },
         {
             "id": "MikakelyuQMlOXm1",
