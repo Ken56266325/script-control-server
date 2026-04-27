@@ -35327,13 +35327,12 @@
             "android_id": "2c186cb2b4abd238dd258d3430b97e4d",
             "referred_by": "SadaMdg3H58v",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-14T07:20:45.846045",
+            "status": "active",
+            "countdown_start_time": "2026-04-29T01:42:53.114161",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 139027
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "TayBCbakYaL",
