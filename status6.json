@@ -35916,6 +35916,16 @@
             "countdown_start_time": "2026-04-27T19:24:50.053638",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "KintanaZP8EqLZI",
+            "android_id": "4210e4b6808a6d790dc6df4828791e0d",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-04-27T20:06:28.686912",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
