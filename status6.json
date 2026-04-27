@@ -33034,11 +33034,12 @@
             "referred_by": "Sinia52772",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-05-02T09:27:28.190451",
+            "countdown_start_time": "2026-04-27T09:08:12.352761",
             "affiliation_balance": 0,
-            "countdown_paused": false,
+            "countdown_paused": true,
             "plan": "Basique",
-            "pause_count": 3
+            "pause_count": 3,
+            "paused_remaining_time": 433155
         },
         {
             "id": "Nico52727",
