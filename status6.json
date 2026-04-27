@@ -35587,9 +35587,12 @@
             "referred_by": "Patty5831570",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-05-03T07:40:37.459717",
+            "countdown_start_time": "2026-04-27T11:18:00.320822",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 505357,
+            "countdown_paused": true,
+            "pause_count": 1
         },
         {
             "id": "TetefSzQqbz7m",
