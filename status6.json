@@ -35840,9 +35840,12 @@
             "referred_by": "SNeddie58103",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-04-28T09:17:38.143403",
+            "countdown_start_time": "2026-04-27T10:18:18.772595",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 82759,
+            "countdown_paused": true,
+            "pause_count": 1
         },
         {
             "id": "BeloloTg5_117uTnyrCsz",
