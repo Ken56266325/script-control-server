@@ -35899,6 +35899,16 @@
             "countdown_start_time": "2026-04-27T03:11:16.703253",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "FerdinadoYnugHS0y",
+            "android_id": "85e808b89fc21642df9df62752f72ed4",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-04-27T16:04:06.140629",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
