@@ -35923,9 +35923,10 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-04-27T20:06:28.686912",
+            "countdown_start_time": "2026-05-04T20:06:28.686912",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "pause_count": 0
         },
         {
             "id": "Octane79192901",
