@@ -34265,7 +34265,9 @@
             "id": "SmaEQZ8CG9t",
             "android_id": "a86293ad9184fd44ea2c610c29c9ef05",
             "referred_by": null,
-            "referred_to": [],
+            "referred_to": [
+                "AntoineHS43QMNV"
+            ],
             "status": "active",
             "countdown_start_time": "2026-04-30T06:47:41.340671",
             "affiliation_balance": 0,
@@ -35904,6 +35906,16 @@
             "affiliation_balance": 0,
             "plan": "Basique",
             "pause_count": 0
+        },
+        {
+            "id": "AntoineHS43QMNV",
+            "android_id": "1b92267c1e8fe2d614fed2e7df07d687",
+            "referred_by": "SmaEQZ8CG9t",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-04-27T19:24:50.053638",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
