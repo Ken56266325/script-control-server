@@ -34190,11 +34190,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-05-02T16:13:38.294449",
+            "countdown_start_time": "2026-04-27T06:57:24.075315",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 0
+            "countdown_paused": true,
+            "pause_count": 1,
+            "paused_remaining_time": 465374
         },
         {
             "id": "DONALGyxfHafZ",
