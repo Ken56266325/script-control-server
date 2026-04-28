@@ -35963,6 +35963,16 @@
             "countdown_start_time": "2029-03-06T04:37:06.416876",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Senteras3rQalj6d",
+            "android_id": "ef7a9abefa03fc6fc27ceb9dc7e654eb",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-04-28T23:03:32.826433",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
