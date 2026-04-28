@@ -34744,12 +34744,11 @@
             "android_id": "707d8416a4c16278f48042dc648afd7a",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-03-31T18:44:35.801691",
+            "status": "active",
+            "countdown_start_time": "2026-05-05T16:48:18.713797",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 591232,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
