@@ -2401,7 +2401,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2026-02-09T22:21:33.615778",
-            "affiliation_balance": 6000,
+            "affiliation_balance": 7000,
             "plan": "Basique",
             "countdown_paused": false
         },
@@ -34700,12 +34700,12 @@
             "android_id": "f2a603cccb9c024c61320262e09c39b9",
             "referred_by": "RanofaAuto",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-06T12:39:32.609555",
+            "status": "active",
+            "countdown_start_time": "2026-05-05T11:11:49.845522",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false,
-            "pause_count": 3
+            "pause_count": 0
         },
         {
             "id": "Belolotg9NyzpqPg7",
