@@ -26022,12 +26022,12 @@
             "android_id": "40925a438d23bfd9a036fb070dedc3c1",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-28T18:55:22.420157",
+            "status": "active",
+            "countdown_start_time": "2026-05-05T20:14:48.026009",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false,
-            "pause_count": 3
+            "pause_count": 0
         },
         {
             "id": "RANOFRAbkYTYgSb",
