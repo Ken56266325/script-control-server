@@ -33610,11 +33610,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-04-29T20:43:22.395883",
+            "countdown_start_time": "2026-04-28T18:14:41.680197",
             "affiliation_balance": 0,
-            "countdown_paused": false,
+            "countdown_paused": true,
             "plan": "Basique",
-            "pause_count": 3
+            "pause_count": 3,
+            "paused_remaining_time": 95320
         },
         {
             "id": "Tiana1BwmuRbO",
