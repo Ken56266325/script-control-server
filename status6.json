@@ -35926,13 +35926,12 @@
             "android_id": "4210e4b6808a6d790dc6df4828791e0d",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-28T00:24:44.504656",
+            "status": "active",
+            "countdown_start_time": "2026-05-05T03:45:26.680948",
             "affiliation_balance": 0,
             "plan": "Basique",
             "pause_count": 1,
-            "paused_remaining_time": 589383,
-            "countdown_paused": true
+            "countdown_paused": false
         },
         {
             "id": "Octane79192901",
