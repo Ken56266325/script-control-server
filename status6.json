@@ -35944,6 +35944,16 @@
             "affiliation_balance": 0,
             "countdown_paused": false,
             "plan": "Basique"
+        },
+        {
+            "id": "Amoriaaaf3g6wlYE",
+            "android_id": "b3504bbf6d29aaabb8c165f7689617db",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-04-28T15:30:13.052447",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
