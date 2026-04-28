@@ -33338,7 +33338,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2026-03-30T18:30:37.191634",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false,
             "pause_count": 3
@@ -33566,12 +33566,12 @@
             "android_id": "14a9a966f98439282eb5167d0034a125",
             "referred_by": "fanilonarindraIoQCHOU4",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-09T15:17:54.129255",
+            "status": "active",
+            "countdown_start_time": "2026-05-05T16:35:43.921529",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false,
-            "pause_count": 3
+            "pause_count": 0
         },
         {
             "id": "Yas",
