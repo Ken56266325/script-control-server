@@ -35867,10 +35867,11 @@
             "android_id": "96e483be8dbc2e9b506c302d8ca6b687",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-26T22:58:13.868637",
+            "status": "active",
+            "countdown_start_time": "2026-05-05T11:27:10.151290",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "pause_count": 0
         },
         {
             "id": "TendryJoelNwIPi2di",
