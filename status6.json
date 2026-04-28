@@ -35973,6 +35973,16 @@
             "countdown_start_time": "2026-04-28T23:03:32.826433",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "JuscoEIgkmbZV",
+            "android_id": "47650080f94eaa2ce1d8de5083fbd1e7",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-04-28T23:13:06.008179",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
