@@ -22844,11 +22844,12 @@
                 "JosenQPGQkeD"
             ],
             "status": "active",
-            "countdown_start_time": "2026-05-03T17:16:12.655524",
+            "countdown_start_time": "2026-04-28T04:57:04.412955",
             "affiliation_balance": 1000,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 0
+            "countdown_paused": true,
+            "pause_count": 1,
+            "paused_remaining_time": 476348
         },
         {
             "id": "geldoa0LOLdF",
