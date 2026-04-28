@@ -30384,7 +30384,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2026-04-09T21:36:15.300998",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false,
             "pause_count": 3
@@ -34579,10 +34579,11 @@
             "android_id": "89e8f35ef5960b945d86f3bc2f844bf5",
             "referred_by": "HeritinagastrienFnv7QWmg",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-03-28T05:32:19.991630",
+            "status": "active",
+            "countdown_start_time": "2026-05-05T13:11:12.011754",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "pause_count": 0
         },
         {
             "id": "Belolotg8cfsrWCrc",
