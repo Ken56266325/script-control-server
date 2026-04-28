@@ -34791,12 +34791,11 @@
             "android_id": "9f848841b77039f63b28a788aeba2752",
             "referred_by": "Stephan8qC8pOPG",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-28T06:40:46.280197",
+            "status": "active",
+            "countdown_start_time": "2026-04-28T23:59:45.107342",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 43816,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
