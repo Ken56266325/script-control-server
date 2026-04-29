@@ -32275,11 +32275,12 @@
                 "Andry53637"
             ],
             "status": "active",
-            "countdown_start_time": "2026-05-02T17:04:05.162085",
+            "countdown_start_time": "2026-04-29T20:37:31.454167",
             "affiliation_balance": 20000,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 3
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 246393
         },
         {
             "id": "",
