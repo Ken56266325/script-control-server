@@ -36077,9 +36077,10 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-04-29T23:15:24.882880",
+            "countdown_start_time": "2026-05-06T23:15:24.882880",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "pause_count": 0
         }
     ],
     "references": {
