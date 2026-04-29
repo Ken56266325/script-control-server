@@ -35961,12 +35961,11 @@
             "android_id": "b3504bbf6d29aaabb8c165f7689617db",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-29T11:16:49.096871",
+            "status": "active",
+            "countdown_start_time": "2026-05-02T18:49:55.219343",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 275465,
-            "countdown_paused": true
+            "countdown_paused": false
         },
         {
             "id": "CarlosnbsXVNis",
