@@ -36039,6 +36039,16 @@
             "affiliation_balance": 0,
             "plan": "Basique",
             "pause_count": 0
+        },
+        {
+            "id": "jyjje",
+            "android_id": "yeueu",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "inactive",
+            "countdown_start_time": "2026-05-06T18:36:33.854469",
+            "affiliation_balance": 0,
+            "countdown_paused": false
         }
     ],
     "references": {
