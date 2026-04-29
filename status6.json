@@ -35854,12 +35854,11 @@
             "android_id": "972a3cc2d160d2a6527226023fcf75c6",
             "referred_by": "SNeddie58103",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-29T15:52:34.279748",
+            "status": "active",
+            "countdown_start_time": "2026-04-30T15:40:53.142527",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 74223,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
