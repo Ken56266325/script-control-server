@@ -25741,7 +25741,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2026-04-27T22:52:11.210977",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": false,
             "pause_count": 2
@@ -34810,11 +34810,11 @@
             "referred_by": "SquidPjkazdNC",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-04-30T01:42:51.147428",
+            "countdown_start_time": "2026-05-07T01:42:51.147428",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false,
-            "pause_count": 3
+            "pause_count": 0
         },
         {
             "id": "honoreQ3iPew02",
