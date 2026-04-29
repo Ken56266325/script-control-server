@@ -26944,11 +26944,12 @@
             "referred_by": "Soso79103",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-05-04T09:31:03.549601",
+            "countdown_start_time": "2026-04-29T08:39:12.841933",
             "affiliation_balance": 0,
             "plan": "Basique",
             "pause_count": 1,
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 435110
         },
         {
             "id": "Nofainaw4eDqJmu",
