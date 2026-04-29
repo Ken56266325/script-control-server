@@ -35836,9 +35836,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-04-30T19:39:06.768335",
+            "countdown_start_time": "2026-04-29T20:53:00.220686",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 81966,
+            "countdown_paused": true,
+            "pause_count": 1
         },
         {
             "id": "FaibleoTCuYb0i",
