@@ -34425,7 +34425,8 @@
             "android_id": "a596eb92cc30444b2c40f9df4d1a45b2",
             "referred_by": "RanofaAuto",
             "referred_to": [
-                "SATATRAuVJ8XwNs"
+                "SATATRAuVJ8XwNs",
+                "VALISOAWQNnOQjd"
             ],
             "status": "active",
             "countdown_start_time": "2026-04-30T07:06:33.455980",
@@ -36028,6 +36029,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-04-29T18:54:20.884216",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "VALISOAWQNnOQjd",
+            "android_id": "a1c1fd21ff457a9220dff66b46efe58d",
+            "referred_by": "BannedNTlRR8O4",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-04-29T18:55:40.957488",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
