@@ -36005,9 +36005,11 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-05-02T23:03:49.244887",
+            "countdown_start_time": "2026-04-30T12:05:13.937812",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 212315,
+            "countdown_paused": true
         },
         {
             "id": "JuscoEIgkmbZV",
