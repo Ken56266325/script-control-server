@@ -34256,11 +34256,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-05-02T14:01:20.659936",
+            "countdown_start_time": "2026-04-30T14:51:09.228818",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 2
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 169811
         },
         {
             "id": "VIP6xZziNWbX",
