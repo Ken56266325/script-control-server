@@ -33199,11 +33199,12 @@
             "referred_by": "Sinia52772",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-05-05T18:41:30.539165",
+            "countdown_start_time": "2026-04-30T14:29:51.917469",
             "affiliation_balance": 0,
-            "countdown_paused": false,
+            "countdown_paused": true,
             "plan": "Basique",
-            "pause_count": 0
+            "pause_count": 1,
+            "paused_remaining_time": 447098
         },
         {
             "id": "kennygQDlP4rZ",
