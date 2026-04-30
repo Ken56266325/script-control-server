@@ -35867,11 +35867,12 @@
             "referred_by": "SNeddie58103",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-05-01T03:03:30.077047",
+            "countdown_start_time": "2026-04-30T06:45:04.777023",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 2
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 73105
         },
         {
             "id": "BeloloTg5_117uTnyrCsz",
