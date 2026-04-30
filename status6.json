@@ -34602,10 +34602,12 @@
             "referred_by": "HeritinagastrienFnv7QWmg",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-05-05T13:11:12.011754",
+            "countdown_start_time": "2026-04-30T16:49:48.793936",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "pause_count": 0
+            "pause_count": 1,
+            "paused_remaining_time": 418883,
+            "countdown_paused": true
         },
         {
             "id": "Belolotg8cfsrWCrc",
