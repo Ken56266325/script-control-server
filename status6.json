@@ -35945,13 +35945,12 @@
             "android_id": "85e808b89fc21642df9df62752f72ed4",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-30T15:11:33.516215",
+            "status": "active",
+            "countdown_start_time": "2026-05-05T04:07:16.757718",
             "affiliation_balance": 0,
             "plan": "Basique",
             "pause_count": 1,
-            "paused_remaining_time": 349668,
-            "countdown_paused": true
+            "countdown_paused": false
         },
         {
             "id": "AntoineHS43QMNV",
