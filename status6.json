@@ -32420,13 +32420,12 @@
             "android_id": "f9bb1ddc5fce9ef40cbca8f734473f50",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-30T19:13:45.356964",
+            "status": "active",
+            "countdown_start_time": "2026-05-02T13:53:39.149706",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 143223
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "NdazaFJR9mFvz",
