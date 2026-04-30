@@ -25956,13 +25956,12 @@
             "android_id": "c96e50d950701ffa471159391a2362c3",
             "referred_by": "Andii69103",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-30T11:11:47.876866",
+            "status": "active",
+            "countdown_start_time": "2026-05-06T01:16:18.975893",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 449696
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "MarievrCrIHF9",
