@@ -28802,13 +28802,12 @@
             "android_id": "5a29d45dc6e7075d59f9895c39bf0a10",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-30T20:11:57.874741",
+            "status": "active",
+            "countdown_start_time": "2026-05-02T10:13:50.775096",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 1,
-            "paused_remaining_time": 126227
+            "countdown_paused": false,
+            "pause_count": 1
         },
         {
             "id": "onyrak4cr0dOqM",
