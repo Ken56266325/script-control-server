@@ -35866,13 +35866,12 @@
             "android_id": "972a3cc2d160d2a6527226023fcf75c6",
             "referred_by": "SNeddie58103",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-29T19:11:52.520795",
+            "status": "active",
+            "countdown_start_time": "2026-05-01T02:51:03.268667",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 73740
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "BeloloTg5_117uTnyrCsz",
