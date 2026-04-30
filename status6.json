@@ -36082,10 +36082,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-05-06T23:15:24.882880",
+            "countdown_start_time": "2026-04-30T07:52:53.366014",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "pause_count": 0
+            "pause_count": 1,
+            "paused_remaining_time": 573751,
+            "countdown_paused": true
         }
     ],
     "references": {
