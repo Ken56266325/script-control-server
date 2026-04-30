@@ -36095,10 +36095,12 @@
             "referred_by": "BannedNTlRR8O4",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-05-06T18:55:40.957488",
+            "countdown_start_time": "2026-04-30T20:43:04.753749",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "pause_count": 0
+            "pause_count": 1,
+            "paused_remaining_time": 511956,
+            "countdown_paused": true
         },
         {
             "id": "jyjje",
