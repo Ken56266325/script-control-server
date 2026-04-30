@@ -32559,13 +32559,12 @@
             "android_id": "4e5f55ad3d1f059048666ad32c0190ad",
             "referred_by": "Soso79103",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-30T12:21:01.332371",
+            "status": "active",
+            "countdown_start_time": "2026-05-02T19:22:55.868154",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 153923
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "Andriamiandrisoa5WiWRlYe",
