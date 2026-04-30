@@ -36026,12 +36026,11 @@
             "android_id": "ef7a9abefa03fc6fc27ceb9dc7e654eb",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-30T12:05:13.937812",
+            "status": "active",
+            "countdown_start_time": "2026-05-03T09:11:30.732626",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 212315,
-            "countdown_paused": true
+            "countdown_paused": false
         },
         {
             "id": "JuscoEIgkmbZV",
