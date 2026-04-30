@@ -32285,13 +32285,12 @@
                 "Nico52727",
                 "Andry53637"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-30T08:08:48.871689",
+            "status": "active",
+            "countdown_start_time": "2026-05-03T14:46:06.616014",
             "affiliation_balance": 21000,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 232990
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "",
