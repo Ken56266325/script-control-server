@@ -32872,13 +32872,12 @@
             "android_id": "5c4a1de82744713eaab676bc8ed5644f",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-30T19:13:36.895206",
+            "status": "active",
+            "countdown_start_time": "2026-05-01T22:25:21.575900",
             "affiliation_balance": 0,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "plan": "Basique",
-            "pause_count": 3,
-            "paused_remaining_time": 87567
+            "pause_count": 3
         },
         {
             "id": "doue5svHwNCd",
