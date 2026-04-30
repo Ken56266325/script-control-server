@@ -33116,11 +33116,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-05-05T23:07:54.754108",
+            "countdown_start_time": "2026-04-30T21:04:52.718660",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "pause_count": 1,
-            "countdown_paused": false
+            "pause_count": 2,
+            "countdown_paused": true,
+            "paused_remaining_time": 439382
         },
         {
             "id": "AlyqT53p0EA",
