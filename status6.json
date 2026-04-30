@@ -31495,11 +31495,12 @@
             "referred_by": "Soso79103",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-05-02T04:43:19.963138",
+            "countdown_start_time": "2026-04-30T12:21:18.099490",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 3
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 145321
         },
         {
             "id": "TanjonaniainagD9wy7GH",
