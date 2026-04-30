@@ -32944,11 +32944,12 @@
             "referred_by": "37988562",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-05-04T12:43:33.791287",
+            "countdown_start_time": "2026-04-30T12:21:33.483716",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 2
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 346920
         },
         {
             "id": "MikakelyuQMlOXm1",
