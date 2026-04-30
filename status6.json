@@ -31500,13 +31500,12 @@
             "android_id": "c348d2c652cfe511e19f0c666b4cdcdd",
             "referred_by": "Soso79103",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-30T12:21:18.099490",
+            "status": "active",
+            "countdown_start_time": "2026-05-02T16:55:34.026586",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 145321
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "TanjonaniainagD9wy7GH",
