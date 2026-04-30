@@ -7115,11 +7115,12 @@
                 "ramainty3k0eljDz"
             ],
             "status": "active",
-            "countdown_start_time": "2026-05-07T04:06:13.129510",
+            "countdown_start_time": "2026-04-30T20:03:39.889507",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 3
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 547353
         },
         {
             "id": "Jackeline5789",
