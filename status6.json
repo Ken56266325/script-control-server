@@ -36094,6 +36094,16 @@
             "pause_count": 1,
             "paused_remaining_time": 573751,
             "countdown_paused": true
+        },
+        {
+            "id": "AsminahL4U8mrdn",
+            "android_id": "77182e55b6ba5cef885a7bd9e513a98f",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-04-30T14:47:06.865705",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
