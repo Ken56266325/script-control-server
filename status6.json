@@ -30008,9 +30008,12 @@
                 "GabriellafitiaMhevcUDC"
             ],
             "status": "active",
-            "countdown_start_time": "2026-05-03T14:43:43.386287",
+            "countdown_start_time": "2026-04-30T20:40:12.349394",
             "affiliation_balance": 2000,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 237811,
+            "countdown_paused": true,
+            "pause_count": 1
         },
         {
             "id": "RLlc6ZBOMK",
