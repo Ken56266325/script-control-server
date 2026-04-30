@@ -33090,13 +33090,12 @@
             "android_id": "7c09b9db748da6c997258ca7f245dac0",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-30T13:45:48.312098",
+            "status": "active",
+            "countdown_start_time": "2026-05-03T18:53:19.373276",
             "affiliation_balance": 0,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "plan": "Basique",
-            "pause_count": 3,
-            "paused_remaining_time": 233188
+            "pause_count": 3
         },
         {
             "id": "IlovonjyJXObxkUt",
