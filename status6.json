@@ -30005,12 +30005,11 @@
                 "eliassefifalindaqiRYKx0O",
                 "GabriellafitiaMhevcUDC"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-30T20:40:12.349394",
+            "status": "active",
+            "countdown_start_time": "2026-05-03T22:04:33.774136",
             "affiliation_balance": 2000,
             "plan": "Basique",
-            "paused_remaining_time": 237811,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
