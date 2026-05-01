@@ -31463,13 +31463,12 @@
             "android_id": "c348d2c652cfe511e19f0c666b4cdcdd",
             "referred_by": "Soso79103",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-05-01T07:41:00.836636",
+            "status": "active",
+            "countdown_start_time": "2026-05-03T07:00:50.615547",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 119673
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "TanjonaniainagD9wy7GH",
