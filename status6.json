@@ -32379,11 +32379,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-05-02T13:53:39.149706",
+            "countdown_start_time": "2026-05-01T16:31:10.118684",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 2
+            "countdown_paused": true,
+            "pause_count": 2,
+            "paused_remaining_time": 76949
         },
         {
             "id": "NdazaFJR9mFvz",
