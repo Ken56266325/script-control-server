@@ -34853,13 +34853,12 @@
             "android_id": "2fbe3b371fc30e6e91f7d84bd158c582",
             "referred_by": "RabarptKRuvLy",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-26T16:20:02.595280",
+            "status": "active",
+            "countdown_start_time": "2026-05-08T06:28:34.017678",
             "affiliation_balance": 0,
             "plan": "Basique",
             "pause_count": 1,
-            "countdown_paused": true,
-            "paused_remaining_time": 601393
+            "countdown_paused": false
         },
         {
             "id": "jefeA6ioeMTX",
