@@ -32659,13 +32659,12 @@
             "referred_to": [
                 "secondAjBI9Ax2"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-30T19:14:21.182687",
+            "status": "active",
+            "countdown_start_time": "2026-05-03T15:21:38.691412",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 211292
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "WillystivenTsDWsSbl",
