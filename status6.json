@@ -36009,12 +36009,11 @@
             "android_id": "ef7a9abefa03fc6fc27ceb9dc7e654eb",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-30T22:43:34.521373",
+            "status": "active",
+            "countdown_start_time": "2026-05-03T17:08:44.625461",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 210998,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
