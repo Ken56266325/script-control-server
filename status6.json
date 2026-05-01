@@ -32292,10 +32292,11 @@
             "referred_by": null,
             "referred_to": [],
             "status": "inactive",
-            "countdown_start_time": "2026-04-10T09:31:59.286437",
+            "countdown_start_time": "2026-05-01T08:57:21.025495",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 0
         },
         {
             "id": "Hery536262",
