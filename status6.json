@@ -33194,13 +33194,12 @@
             "android_id": "1394ed462688ede9037bc275f4e33d03",
             "referred_by": "Sinia52772",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-30T14:29:51.917469",
+            "status": "active",
+            "countdown_start_time": "2026-05-06T11:37:43.124125",
             "affiliation_balance": 0,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "plan": "Basique",
-            "pause_count": 1,
-            "paused_remaining_time": 447098
+            "pause_count": 1
         },
         {
             "id": "kennygQDlP4rZ",
