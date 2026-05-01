@@ -35974,11 +35974,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-05-03T17:08:44.625461",
+            "countdown_start_time": "2026-05-01T16:03:41.150267",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 1
+            "countdown_paused": true,
+            "pause_count": 1,
+            "paused_remaining_time": 176703
         },
         {
             "id": "JuscoEIgkmbZV",
