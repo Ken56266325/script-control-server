@@ -36000,10 +36000,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-05-06T15:42:10.857973",
+            "countdown_start_time": "2026-05-01T18:26:25.100546",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "pause_count": 0
+            "pause_count": 1,
+            "paused_remaining_time": 422145,
+            "countdown_paused": true
         },
         {
             "id": "Solja6y0uUO9l",
