@@ -35203,11 +35203,12 @@
             "referred_by": "Arnoldz3yxmQgv",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-05-05T21:15:58.145807",
+            "countdown_start_time": "2026-05-01T18:20:21.283804",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 1
+            "countdown_paused": true,
+            "pause_count": 2,
+            "paused_remaining_time": 356136
         },
         {
             "id": "At373727",
