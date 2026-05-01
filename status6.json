@@ -36108,6 +36108,16 @@
             "affiliation_balance": 0,
             "countdown_paused": false,
             "plan": "Basique"
+        },
+        {
+            "id": "Jamess21VAQGdb",
+            "android_id": "3a778e0bf8ad11e33d5572816790c0ea",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-05-01T16:26:29.421774",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
