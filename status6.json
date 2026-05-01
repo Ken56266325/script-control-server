@@ -36111,12 +36111,11 @@
             "android_id": "77182e55b6ba5cef885a7bd9e513a98f",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-30T12:05:36.946077",
+            "status": "active",
+            "countdown_start_time": "2026-05-01T09:14:56.623731",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 9689,
-            "countdown_paused": true
+            "countdown_paused": false
         },
         {
             "id": "NordMfqEFMlh",
