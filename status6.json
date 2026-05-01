@@ -34222,13 +34222,12 @@
             "android_id": "d541eeba504edcfbb3969b7024d40f42",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-05-01T16:03:59.199578",
+            "status": "active",
+            "countdown_start_time": "2026-05-03T01:39:48.938564",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 105003
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "VIP6xZziNWbX",
