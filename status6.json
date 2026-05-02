@@ -36130,9 +36130,12 @@
             "referred_by": "Razakanirina6819482",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-05-04T18:54:03.047898",
+            "countdown_start_time": "2026-05-02T21:16:22.028291",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 164261,
+            "countdown_paused": true,
+            "pause_count": 1
         },
         {
             "id": "BinsClGCz035",
