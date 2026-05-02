@@ -36146,6 +36146,16 @@
             "affiliation_balance": 0,
             "plan": "Basique",
             "pause_count": 0
+        },
+        {
+            "id": "Belolotg22_117ghkgnKuF",
+            "android_id": "af46c48a044ffa4d635e93747988063e",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-05-02T23:32:12.702866",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
