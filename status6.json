@@ -30835,7 +30835,8 @@
             "referred_to": [
                 "lovasoa012j3VWPZ3o",
                 "Ravakajr8O9Xr2vM",
-                "Faneva0021zbO3lLt"
+                "Faneva0021zbO3lLt",
+                "FanevafrancklinlL5fb6CG"
             ],
             "status": "inactive",
             "countdown_start_time": "2026-04-12T13:55:13.957577",
@@ -36154,6 +36155,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-05-02T23:32:12.702866",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "FanevafrancklinlL5fb6CG",
+            "android_id": "f4e5163b2417fc770bd5495165dcfd72",
+            "referred_by": "faneva01kBgIlTHX",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-05-02T23:34:56.824615",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
