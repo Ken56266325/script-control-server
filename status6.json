@@ -35999,13 +35999,12 @@
             "android_id": "e276cd6f44ed20114f4e4f722cefd360",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-05-01T18:26:25.100546",
+            "status": "active",
+            "countdown_start_time": "2026-05-07T14:15:09.244703",
             "affiliation_balance": 0,
             "plan": "Basique",
             "pause_count": 1,
-            "paused_remaining_time": 422145,
-            "countdown_paused": true
+            "countdown_paused": false
         },
         {
             "id": "Solja6y0uUO9l",
