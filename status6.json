@@ -35952,10 +35952,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-05-03T09:29:42.282820",
+            "countdown_start_time": "2026-05-02T05:50:08.855843",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 99573,
+            "pause_count": 1
         },
         {
             "id": "CarlosnbsXVNis",
