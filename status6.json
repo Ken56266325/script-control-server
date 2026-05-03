@@ -36076,13 +36076,12 @@
             "android_id": "77182e55b6ba5cef885a7bd9e513a98f",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-05-02T05:48:37.707006",
+            "status": "active",
+            "countdown_start_time": "2026-05-05T16:59:31.351946",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 196292
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "NordMfqEFMlh",
