@@ -31925,7 +31925,8 @@
             "referred_to": [
                 "sergiorobertzHJQZpAB",
                 "joellaparfaiteWVPPup2c",
-                "Arnoldjohnatan67guy2ToFb"
+                "Arnoldjohnatan67guy2ToFb",
+                "randrianantenaina4gBUZLl4"
             ],
             "status": "active",
             "countdown_start_time": "2026-05-10T12:55:04.299721",
@@ -36198,6 +36199,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-05-03T19:27:33.513442",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "randrianantenaina4gBUZLl4",
+            "android_id": "6aeb77d833ab8338fa741049b073a35e",
+            "referred_by": "Arnoldz3yxmQgv",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-05-03T19:41:43.146237",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
