@@ -22809,13 +22809,12 @@
                 "LovasoawqkRkqca",
                 "JosenQPGQkeD"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-05-03T09:55:43.603465",
+            "status": "active",
+            "countdown_start_time": "2026-05-11T11:17:22.009942",
             "affiliation_balance": 1000,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 1,
-            "paused_remaining_time": 676721
+            "countdown_paused": false,
+            "pause_count": 1
         },
         {
             "id": "geldoa0LOLdF",
