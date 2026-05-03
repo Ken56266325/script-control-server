@@ -33162,11 +33162,12 @@
             "referred_by": "Sinia52772",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-05-06T11:37:43.124125",
+            "countdown_start_time": "2026-05-03T08:04:28.127424",
             "affiliation_balance": 0,
-            "countdown_paused": false,
+            "countdown_paused": true,
             "plan": "Basique",
-            "pause_count": 1
+            "pause_count": 2,
+            "paused_remaining_time": 271994
         },
         {
             "id": "kennygQDlP4rZ",
