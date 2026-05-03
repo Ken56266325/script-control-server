@@ -36175,6 +36175,16 @@
             "countdown_start_time": "2026-05-03T15:18:37.488335",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Faly719930202",
+            "android_id": "3d715c2d38484664505f9875e55b93ef",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-05-10T14:12:25.222472",
+            "affiliation_balance": 0,
+            "countdown_paused": false
         }
     ],
     "references": {
