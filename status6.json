@@ -36153,11 +36153,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-05-04T15:59:18.045695",
+            "countdown_start_time": "2026-05-04T01:01:32.860916",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 1
+            "countdown_paused": true,
+            "pause_count": 2,
+            "paused_remaining_time": 53865
         },
         {
             "id": "FanevafrancklinlL5fb6CG",
