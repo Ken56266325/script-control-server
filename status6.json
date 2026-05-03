@@ -35529,12 +35529,11 @@
             "android_id": "fe2e58d6bb55c90a6e1ae8e7b55ac774",
             "referred_by": "Patty5831570",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-29T08:20:15.300839",
+            "status": "active",
+            "countdown_start_time": "2026-05-08T06:56:42.588760",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 419991,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
