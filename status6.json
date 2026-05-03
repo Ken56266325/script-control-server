@@ -33042,13 +33042,12 @@
             "android_id": "5236dcd1f1ac28ef53297d21cde92d96",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-05-03T07:28:21.582691",
+            "status": "active",
+            "countdown_start_time": "2026-05-05T17:39:54.723190",
             "affiliation_balance": 0,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "plan": "Basique",
-            "pause_count": 0,
-            "paused_remaining_time": 208603
+            "pause_count": 0
         },
         {
             "id": "Brutal9100202",
