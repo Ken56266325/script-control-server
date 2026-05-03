@@ -35660,11 +35660,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-05-04T15:59:38.986901",
+            "countdown_start_time": "2026-05-04T01:01:58.745064",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 2
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 53860
         },
         {
             "id": "Donner43E1JraTfD",
