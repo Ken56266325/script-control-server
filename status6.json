@@ -36190,6 +36190,16 @@
             "affiliation_balance": 0,
             "countdown_paused": false,
             "plan": "Basique"
+        },
+        {
+            "id": "Nene1kBVO0tH",
+            "android_id": "e8ca167b7118f90a200ce588a9032351",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-05-03T19:27:33.513442",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
