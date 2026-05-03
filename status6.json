@@ -32202,13 +32202,12 @@
             "android_id": "df2c905097400a1c0b33c3afa4f140ab",
             "referred_by": "Soso79103",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-29T08:38:58.316720",
+            "status": "active",
+            "countdown_start_time": "2026-05-08T11:25:21.290482",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 433832
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "TanseZ9Jag4dp",
