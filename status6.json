@@ -35661,13 +35661,12 @@
             "android_id": "cc1b2b16dd1c002409ad13b46e6e8fd5",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-05-04T01:01:58.745064",
+            "status": "active",
+            "countdown_start_time": "2026-05-04T20:51:37.365461",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 53860
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "Donner43E1JraTfD",
