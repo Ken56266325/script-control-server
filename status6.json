@@ -28105,10 +28105,12 @@
             "referred_by": "SquidPjkazdNC",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-05-06T13:40:51.021931",
+            "countdown_start_time": "2026-05-04T07:27:34.386872",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "pause_count": 0
+            "pause_count": 1,
+            "paused_remaining_time": 195196,
+            "countdown_paused": true
         },
         {
             "id": "keneetFLpey",
