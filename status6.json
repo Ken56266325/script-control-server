@@ -31884,7 +31884,7 @@
             "referred_by": "Grav69130",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-05-11T09:51:43.921436",
+            "countdown_start_time": "2026-05-06T09:53:05.844987",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false,
@@ -36080,12 +36080,13 @@
             "android_id": "77182e55b6ba5cef885a7bd9e513a98f",
             "referred_by": null,
             "referred_to": [],
-            "status": "active",
-            "countdown_start_time": "2026-05-06T06:44:29.153786",
+            "status": "inactive",
+            "countdown_start_time": "2026-05-03T20:07:05.659926",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 3
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 161545
         },
         {
             "id": "NordMfqEFMlh",
