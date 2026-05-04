@@ -3550,7 +3550,8 @@
                 "Zinnia1bsZ4j9es",
                 "Julienpf5oatcT",
                 "Andriamiandrisoa5WiWRlYe",
-                "FitahianaIf1CsOEw"
+                "FitahianaIf1CsOEw",
+                "Zinnia3XR6wtHEF"
             ],
             "status": "inactive",
             "countdown_start_time": "2026-05-04T05:54:05.971997",
@@ -36227,6 +36228,16 @@
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2026-05-04T02:21:35.380405",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Zinnia3XR6wtHEF",
+            "android_id": "26a63a7eba4a68a52ab17653a7eb95de",
+            "referred_by": "Soso79103",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-05-04T20:51:38.391581",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
