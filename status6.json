@@ -36153,13 +36153,12 @@
             "android_id": "af46c48a044ffa4d635e93747988063e",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-05-04T01:01:32.860916",
+            "status": "active",
+            "countdown_start_time": "2026-05-04T20:51:14.347566",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 53865
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "FanevafrancklinlL5fb6CG",
