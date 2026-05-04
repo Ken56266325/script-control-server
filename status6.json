@@ -26912,13 +26912,12 @@
             "android_id": "27252e74b692ea4df670d61e8f90f00c",
             "referred_by": "Soso79103",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-29T08:39:12.841933",
+            "status": "active",
+            "countdown_start_time": "2026-05-09T11:06:08.183202",
             "affiliation_balance": 0,
             "plan": "Basique",
             "pause_count": 1,
-            "countdown_paused": true,
-            "paused_remaining_time": 435110
+            "countdown_paused": false
         },
         {
             "id": "Nofainaw4eDqJmu",
