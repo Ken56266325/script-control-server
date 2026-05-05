@@ -35918,11 +35918,11 @@
             "android_id": "85e808b89fc21642df9df62752f72ed4",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-05-05T04:07:16.757718",
+            "status": "active",
+            "countdown_start_time": "2026-05-12T07:25:25.529284",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "pause_count": 1,
+            "pause_count": 0,
             "countdown_paused": false
         },
         {
