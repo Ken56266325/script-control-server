@@ -36039,13 +36039,12 @@
             "android_id": "a1c1fd21ff457a9220dff66b46efe58d",
             "referred_by": "BannedNTlRR8O4",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-05-03T09:42:06.374149",
+            "status": "active",
+            "countdown_start_time": "2026-05-16T07:16:06.995479",
             "affiliation_balance": 0,
             "plan": "Basique",
             "pause_count": 3,
-            "countdown_paused": true,
-            "paused_remaining_time": 914615
+            "countdown_paused": false
         },
         {
             "id": "jyjje",
