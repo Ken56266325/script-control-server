@@ -36063,11 +36063,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-05-09T05:33:08.203208",
+            "countdown_start_time": "2026-05-05T12:36:19.406303",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 2
+            "countdown_paused": true,
+            "pause_count": 2,
+            "paused_remaining_time": 320208
         },
         {
             "id": "OlinaholivMcdhHZN6",
