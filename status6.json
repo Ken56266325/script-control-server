@@ -3553,13 +3553,12 @@
                 "FitahianaIf1CsOEw",
                 "Zinnia3XR6wtHEF"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-05-05T12:36:37.427310",
+            "status": "active",
+            "countdown_start_time": "2026-05-08T02:08:54.219366",
             "affiliation_balance": 6000,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 202023
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "Hary79103",
