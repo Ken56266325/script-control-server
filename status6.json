@@ -24621,13 +24621,12 @@
             "android_id": "1b7b8cbcdaef21edd99ac48ee18d872b",
             "referred_by": "Andry5718e0",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-04-30T20:03:29.091672",
+            "status": "active",
+            "countdown_start_time": "2026-05-08T18:22:19.137206",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 254281
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "Tah3360WtDvu844",
@@ -35962,11 +35961,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-05-06T23:04:23.481908",
+            "countdown_start_time": "2026-05-05T19:34:34.079478",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 1
+            "countdown_paused": true,
+            "pause_count": 1,
+            "paused_remaining_time": 98416
         },
         {
             "id": "CarlosnbsXVNis",
