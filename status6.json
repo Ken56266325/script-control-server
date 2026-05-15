@@ -36523,13 +36523,12 @@
             "android_id": "f9fc80d3243820867f2643e99527ce58",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-05-14T19:32:24.826812",
+            "status": "active",
+            "countdown_start_time": "2026-05-15T20:09:09.662562",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 46718
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "M\u00e9lodie73skoFcp",
