@@ -34870,12 +34870,11 @@
             "android_id": "2d37a9e7f0853abbe5cc3af36678c5ed",
             "referred_by": "Mamour5626",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-05-15T05:49:51.100884",
+            "status": "active",
+            "countdown_start_time": "2026-05-17T07:22:05.914127",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 137242
+            "countdown_paused": false
         },
         {
             "id": "AliciaC5tJAV1w",
