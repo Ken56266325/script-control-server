@@ -31713,11 +31713,12 @@
                 "LezomarXceq76M"
             ],
             "status": "active",
-            "countdown_start_time": "2026-05-17T07:58:22.763913",
+            "countdown_start_time": "2026-05-15T18:44:45.043105",
             "affiliation_balance": 1000,
             "plan": "Basique",
             "pause_count": 2,
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 134017
         },
         {
             "id": "lucioaldwanEWBzmj9a",
