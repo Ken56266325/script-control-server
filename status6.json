@@ -36269,13 +36269,12 @@
             "android_id": "8f57557a2b0f119ea3690716a6f17849",
             "referred_by": "DafahhS0i4amK",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-05-15T11:46:38.251667",
+            "status": "active",
+            "countdown_start_time": "2026-05-17T11:49:16.245751",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 171392
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "ZezikabeNajBYeE1",
