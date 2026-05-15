@@ -33431,11 +33431,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-05-21T07:56:29.141599",
+            "countdown_start_time": "2026-05-15T21:47:06.260160",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 0
+            "countdown_paused": true,
+            "pause_count": 1,
+            "paused_remaining_time": 468562
         },
         {
             "id": "tel2csc3atWwKL",
