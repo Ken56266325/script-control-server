@@ -36555,9 +36555,12 @@
             "referred_by": "Arnoldz3yxmQgv",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-05-21T16:36:57.872179",
+            "countdown_start_time": "2026-05-15T21:16:07.373302",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 501650,
+            "countdown_paused": true,
+            "pause_count": 1
         },
         {
             "id": "Sambatrajafn7fKt8",
