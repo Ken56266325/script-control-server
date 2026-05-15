@@ -36335,9 +36335,11 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-05-18T06:52:04.903415",
+            "countdown_start_time": "2026-05-15T11:11:14.319371",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 243650,
+            "countdown_paused": true
         },
         {
             "id": "EllahqapDfQ7W",
