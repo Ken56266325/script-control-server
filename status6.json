@@ -35850,13 +35850,12 @@
             "referred_to": [
                 "LamarrU9qjFnG"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-05-13T11:21:26.097166",
+            "status": "active",
+            "countdown_start_time": "2026-05-16T06:54:14.120787",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 71002
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "BeloloTg5_117uTnyrCsz",
