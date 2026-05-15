@@ -36222,13 +36222,12 @@
             "android_id": "6aeb77d833ab8338fa741049b073a35e",
             "referred_by": "Arnoldz3yxmQgv",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-05-15T06:45:34.849539",
+            "status": "active",
+            "countdown_start_time": "2026-05-22T03:26:35.711100",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 552279
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "BavylpcsL05F",
