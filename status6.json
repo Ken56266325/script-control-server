@@ -25942,9 +25942,12 @@
             "referred_by": "HermanODwBrkLl",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-05-18T10:53:26.829179",
+            "countdown_start_time": "2026-05-16T11:34:07.506118",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 170359,
+            "countdown_paused": true,
+            "pause_count": 1
         },
         {
             "id": "Vezoocarbonele80J3yES",
