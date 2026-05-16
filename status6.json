@@ -17291,11 +17291,10 @@
                 "Samuelrasoa5SC7qOTZ"
             ],
             "status": "active",
-            "countdown_start_time": "2026-05-16T20:40:05.272308",
+            "countdown_start_time": "2026-05-17T01:59:02.177180",
             "affiliation_balance": 1000,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 17246,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
