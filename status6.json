@@ -25943,13 +25943,12 @@
             "android_id": "572b1b8adaa96c5e072d3b1453e4d7d2",
             "referred_by": "HermanODwBrkLl",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-05-16T17:04:44.768607",
+            "status": "active",
+            "countdown_start_time": "2026-05-18T15:11:20.481588",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 151790
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "Vezoocarbonele80J3yES",
