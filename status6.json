@@ -36581,9 +36581,12 @@
             "referred_by": "",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-05-19T13:14:52.307304",
+            "countdown_start_time": "2026-05-16T14:44:48.562611",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 253803,
+            "countdown_paused": true,
+            "pause_count": 1
         },
         {
             "id": "FenokelyJguay8OX",
