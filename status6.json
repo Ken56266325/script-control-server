@@ -36643,12 +36643,11 @@
             "android_id": "f91830ac44ba777f8dfdc3a552216e7c",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-05-17T16:34:00.035054",
+            "status": "active",
+            "countdown_start_time": "2026-05-17T23:25:36.610856",
             "affiliation_balance": 0,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "plan": "Basique",
-            "paused_remaining_time": 14846,
             "pause_count": 1
         }
     ],
