@@ -22735,10 +22735,12 @@
             "referred_by": "Amadou681036190",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-05-23T11:10:55.864404",
+            "countdown_start_time": "2026-05-17T08:28:33.719574",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 528142,
+            "pause_count": 1
         },
         {
             "id": "Lauristeunoi0nET68WQjuYS",
