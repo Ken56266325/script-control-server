@@ -32385,11 +32385,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "inactive",
-            "countdown_start_time": "2026-05-17T06:22:37.323894",
+            "countdown_start_time": "2026-05-17T16:34:32.638680",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 2
+            "countdown_paused": true,
+            "pause_count": 2,
+            "paused_remaining_time": 0
         },
         {
             "id": "NdazaFJR9mFvz",
