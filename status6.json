@@ -13112,11 +13112,12 @@
                 "Sambatrajafn7fKt8"
             ],
             "status": "active",
-            "countdown_start_time": "2026-05-21T19:12:31.888597",
+            "countdown_start_time": "2026-05-17T18:09:03.566198",
             "affiliation_balance": 8000,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 0
+            "countdown_paused": true,
+            "pause_count": 1,
+            "paused_remaining_time": 349408
         },
         {
             "id": "Fabiend8f8RIM2",
