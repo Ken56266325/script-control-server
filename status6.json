@@ -31655,13 +31655,12 @@
             "referred_to": [
                 "ZidaNdsC3tweSwA"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-05-15T06:33:32.433420",
+            "status": "active",
+            "countdown_start_time": "2026-05-21T03:06:26.330432",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 187496
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "MpanjakaPXPzBdqj",
