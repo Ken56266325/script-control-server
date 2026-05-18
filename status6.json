@@ -36564,12 +36564,11 @@
             "android_id": "fb933c3414f4751a5f14a1d00f95dcd2",
             "referred_by": "Arnoldz3yxmQgv",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-05-15T21:16:07.373302",
+            "status": "active",
+            "countdown_start_time": "2026-05-24T19:03:12.802659",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 501650,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
