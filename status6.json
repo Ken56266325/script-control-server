@@ -36233,11 +36233,12 @@
             "referred_by": "Arnoldz3yxmQgv",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-05-23T08:36:17.520514",
+            "countdown_start_time": "2026-05-18T17:50:54.455693",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 2
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 398723
         },
         {
             "id": "BavylpcsL05F",
