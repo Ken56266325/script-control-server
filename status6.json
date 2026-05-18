@@ -34788,11 +34788,12 @@
             "referred_by": "Stephan8qC8pOPG",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-05-19T17:39:22.621901",
+            "countdown_start_time": "2026-05-18T18:49:41.888215",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 3
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 82180
         },
         {
             "id": "maheryOsGfme36",
