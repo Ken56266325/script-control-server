@@ -3556,11 +3556,12 @@
                 "Zinnia9fh9VRNKG"
             ],
             "status": "active",
-            "countdown_start_time": "2026-05-23T15:34:49.977126",
+            "countdown_start_time": "2026-05-18T14:20:37.972277",
             "affiliation_balance": 6000,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 3
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 436452
         },
         {
             "id": "Hary79103",
