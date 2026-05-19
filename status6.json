@@ -23677,7 +23677,8 @@
             "referred_by": "Joliib78AX95c",
             "referred_to": [
                 "TalboteyFvTphnm",
-                "PelaMxsYNfhw"
+                "PelaMxsYNfhw",
+                "JosioNAXAvfyj"
             ],
             "status": "active",
             "countdown_start_time": "2026-05-22T04:48:39.608062",
@@ -36695,6 +36696,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-05-19T23:42:54.184423",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "JosioNAXAvfyj",
+            "android_id": "32754325",
+            "referred_by": "ondriphavipw5TC96WT",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-05-20T00:26:08.297676",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
