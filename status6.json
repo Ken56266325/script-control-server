@@ -36231,13 +36231,12 @@
             "android_id": "6aeb77d833ab8338fa741049b073a35e",
             "referred_by": "Arnoldz3yxmQgv",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-05-18T17:50:54.455693",
+            "status": "active",
+            "countdown_start_time": "2026-05-24T04:07:42.551525",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 398723
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "BavylpcsL05F",
