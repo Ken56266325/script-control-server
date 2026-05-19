@@ -28605,7 +28605,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2026-05-02T11:14:17.640998",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "pause_count": 3,
             "countdown_paused": false
@@ -31375,11 +31375,11 @@
                 "LaurenciaEBftcqc5"
             ],
             "status": "active",
-            "countdown_start_time": "2026-05-26T20:28:02.235242",
+            "countdown_start_time": "2026-06-02T20:28:02.235242",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false,
-            "pause_count": 3
+            "pause_count": 0
         },
         {
             "id": "nalisoaGO3pW59W",
