@@ -38077,11 +38077,12 @@
             "referred_by": "Fitiavanafinona0M6sRnL7",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-06-23T21:50:34.842486",
+            "countdown_start_time": "2026-06-21T09:20:40.327984",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 1
+            "countdown_paused": true,
+            "pause_count": 2,
+            "paused_remaining_time": 217794
         },
         {
             "id": "kennypuEY7Dy7",
