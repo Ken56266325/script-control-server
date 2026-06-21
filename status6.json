@@ -32231,11 +32231,12 @@
                 "Velontsara1EBszCjf"
             ],
             "status": "active",
-            "countdown_start_time": "2026-06-25T18:47:38.432290",
+            "countdown_start_time": "2026-06-21T07:58:43.564534",
             "affiliation_balance": 1000,
             "plan": "Basique",
             "pause_count": 3,
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 384534
         },
         {
             "id": "lucioaldwanEWBzmj9a",
