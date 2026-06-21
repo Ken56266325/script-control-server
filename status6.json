@@ -26224,12 +26224,11 @@
             "android_id": "d0316aabe42e2dae1913dd2a5ab1af69",
             "referred_by": "MaximeespinolahcDIlFqR8",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-06-20T15:19:53.527489",
+            "status": "active",
+            "countdown_start_time": "2026-06-28T04:56:59.116000",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 593871,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
