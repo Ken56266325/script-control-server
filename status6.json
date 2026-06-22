@@ -38285,7 +38285,8 @@
             "status": "active",
             "countdown_start_time": "2026-06-29T17:05:14.556086",
             "affiliation_balance": 0,
-            "countdown_paused": false
+            "countdown_paused": false,
+            "plan": "Basique"
         }
     ],
     "references": {
