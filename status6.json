@@ -36482,12 +36482,13 @@
             "android_id": "1d4d6e8c27f1463dc1e31ce3b4c80181",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-06-16T23:22:51.653436",
+            "status": "active",
+            "countdown_start_time": "2026-06-29T18:39:27.918325",
             "affiliation_balance": 0,
-            "plan": "Basique",
+            "plan": "Semaine",
             "countdown_paused": false,
-            "pause_count": 3
+            "pause_count": 0,
+            "max_pauses": 3
         },
         {
             "id": "Belolotg4_117v5b5bYj0",
