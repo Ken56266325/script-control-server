@@ -37584,13 +37584,12 @@
             "android_id": "894910361de8fba80a68a7a9ac85a167",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-06-17T10:27:05.084453",
+            "status": "active",
+            "countdown_start_time": "2026-06-23T17:57:46.005704",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 89407
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "JPwP8T7MIN",
