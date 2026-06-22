@@ -38240,13 +38240,12 @@
             "android_id": "413f34a3793e8f047f8860ff5b63708f",
             "referred_by": "Noutahtahy6rRaqvU",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-06-22T06:49:41.950682",
+            "status": "active",
+            "countdown_start_time": "2026-06-26T10:49:51.600383",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 343456
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "HaingoAbov9p9k",
