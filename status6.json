@@ -28864,13 +28864,12 @@
                 "MelostepmAnYRpr",
                 "dahalohbLuA1t4s"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-06-22T10:58:03.674851",
+            "status": "active",
+            "countdown_start_time": "2026-06-23T19:53:55.630668",
             "affiliation_balance": 0,
             "plan": "Basique",
             "pause_count": 3,
-            "countdown_paused": true,
-            "paused_remaining_time": 113178
+            "countdown_paused": false
         },
         {
             "id": "rouRJu1waSw",
