@@ -32233,13 +32233,12 @@
                 "AyanftTSVcec",
                 "Velontsara1EBszCjf"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-06-21T07:58:43.564534",
+            "status": "active",
+            "countdown_start_time": "2026-06-27T05:15:43.038379",
             "affiliation_balance": 1000,
             "plan": "Basique",
             "pause_count": 3,
-            "countdown_paused": true,
-            "paused_remaining_time": 384534
+            "countdown_paused": false
         },
         {
             "id": "lucioaldwanEWBzmj9a",
