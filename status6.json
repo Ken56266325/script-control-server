@@ -32842,13 +32842,12 @@
             "android_id": "a25ed04bff3f8f2a7c00ee107a37e17a",
             "referred_by": "PetersonclEqShIR",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-06-18T17:32:32.838700",
+            "status": "active",
+            "countdown_start_time": "2026-06-28T03:44:11.564814",
             "affiliation_balance": 0,
             "plan": "Basique",
             "pause_count": 4,
-            "countdown_paused": true,
-            "paused_remaining_time": 500312
+            "countdown_paused": false
         },
         {
             "id": "LeerazakGN2gmY1",
