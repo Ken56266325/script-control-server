@@ -34825,11 +34825,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-06-24T08:00:46.765327",
+            "countdown_start_time": "2026-06-22T19:38:38.883817",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 3
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 130927
         },
         {
             "id": "VIP6xZziNWbX",
