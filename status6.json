@@ -2932,13 +2932,12 @@
             "android_id": "53b25b4d79f248bd19eed30c1930622b",
             "referred_by": "SNeddie58103",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-06-14T09:14:21.097607",
+            "status": "active",
+            "countdown_start_time": "2026-06-22T22:33:43.083038",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 14797
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "Tsitohaina581932",
