@@ -38276,6 +38276,16 @@
             "countdown_start_time": "2026-06-20T12:34:26.417533",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Jean791932030",
+            "android_id": "6e3d8cbfb828c509dd25fa16dfab5b13",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-06-29T17:05:14.556086",
+            "affiliation_balance": 0,
+            "countdown_paused": false
         }
     ],
     "references": {
