@@ -36603,10 +36603,10 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-06-23T18:41:52.655345",
+            "countdown_start_time": "2026-06-30T18:41:52.655345",
             "affiliation_balance": 0,
-            "plan": "Basique",
-            "pause_count": 2,
+            "plan": "Semaine",
+            "pause_count": 0,
             "countdown_paused": false,
             "max_pauses": 3
         },
