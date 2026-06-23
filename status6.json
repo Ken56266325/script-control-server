@@ -37954,12 +37954,11 @@
                 "Andryy7TZvfkru",
                 "HaingoAbov9p9k"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-06-23T09:03:01.015484",
+            "status": "active",
+            "countdown_start_time": "2026-06-24T21:53:24.871677",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 125560,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
