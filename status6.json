@@ -33999,12 +33999,12 @@
             "android_id": "6e8094d1ed9d602708eff8b7a681025c",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-06-23T07:11:59.842820",
+            "status": "active",
+            "countdown_start_time": "2026-06-30T09:06:02.145603",
             "affiliation_balance": 0,
-            "plan": "Basique",
+            "plan": "Semaine",
             "countdown_paused": false,
-            "pause_count": 4,
+            "pause_count": 0,
             "max_pauses": 3
         },
         {
