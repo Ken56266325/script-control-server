@@ -33631,13 +33631,12 @@
             "android_id": "854240c145306d0e33fb04cc68e9cec7",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-06-22T15:19:20.234341",
+            "status": "active",
+            "countdown_start_time": "2026-06-25T16:42:08.295777",
             "affiliation_balance": 0,
             "plan": "Basique",
             "pause_count": 3,
-            "countdown_paused": true,
-            "paused_remaining_time": 158620
+            "countdown_paused": false
         },
         {
             "id": "AlyqT53p0EA",
