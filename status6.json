@@ -37956,9 +37956,12 @@
                 "HaingoAbov9p9k"
             ],
             "status": "active",
-            "countdown_start_time": "2026-06-24T19:55:41.657423",
+            "countdown_start_time": "2026-06-23T09:03:01.015484",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 125560,
+            "countdown_paused": true,
+            "pause_count": 1
         },
         {
             "id": "Zinnia7jX2vCjFr",
