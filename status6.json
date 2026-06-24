@@ -38289,6 +38289,16 @@
             "affiliation_balance": 0,
             "countdown_paused": false,
             "plan": "Basique"
+        },
+        {
+            "id": "Lanja83QEdBpN",
+            "android_id": "271434f1920e94fb1db52876dc1472b4",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-06-24T10:51:55.789507",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
