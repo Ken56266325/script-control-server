@@ -38262,12 +38262,11 @@
             "android_id": "50f473934a7959e91803d2bfb38e0948",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-06-23T20:29:48.502898",
+            "status": "active",
+            "countdown_start_time": "2026-06-29T10:06:11.903979",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 393094,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
