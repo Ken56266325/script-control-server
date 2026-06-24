@@ -1260,13 +1260,12 @@
             "referred_to": [
                 "Tatafrqz9zcw"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-06-17T11:09:57.358541",
+            "status": "active",
+            "countdown_start_time": "2026-07-01T22:41:51.708835",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 655023
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "Gaelode10361",
