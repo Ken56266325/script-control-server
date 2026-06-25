@@ -38259,11 +38259,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-06-29T13:45:31.316294",
+            "countdown_start_time": "2026-06-25T15:37:38.929581",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 2
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 338872
         },
         {
             "id": "Fairer8MpauHg",
