@@ -37124,12 +37124,11 @@
             "android_id": "652dc68a0c40e2855d92b7b1238b2bcf",
             "referred_by": "Soso79103",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-06-17T07:58:08.378580",
+            "status": "active",
+            "countdown_start_time": "2026-07-01T06:04:01.265948",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 511361,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
