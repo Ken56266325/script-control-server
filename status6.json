@@ -37960,13 +37960,12 @@
             "android_id": "c929845d533966bbe78db64fbce54304",
             "referred_by": "Soso79103",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-06-24T02:21:51.518679",
+            "status": "active",
+            "countdown_start_time": "2026-06-28T10:08:45.350137",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 260816
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "Ferdinofly3lAb1",
