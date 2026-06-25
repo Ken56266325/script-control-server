@@ -7208,11 +7208,12 @@
                 "yyg"
             ],
             "status": "active",
-            "countdown_start_time": "2026-06-26T10:13:29.076927",
+            "countdown_start_time": "2026-06-25T16:08:14.508443",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 3
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 65114
         },
         {
             "id": "Diaryson57193",
