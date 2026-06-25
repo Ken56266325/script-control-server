@@ -33057,14 +33057,13 @@
             "android_id": "ffc0a951829884c2144c2c8202f53209",
             "referred_by": "Noutahtahy6rRaqvU",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-06-25T10:18:35.800412",
+            "status": "active",
+            "countdown_start_time": "2026-06-29T18:27:45.405266",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1,
-            "max_pauses": 3,
-            "paused_remaining_time": 348013
+            "max_pauses": 3
         },
         {
             "id": "JoelHrMwhyy6",
