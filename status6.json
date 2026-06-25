@@ -31281,10 +31281,11 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-06-25T19:15:35.492204",
+            "countdown_start_time": "2026-06-25T10:27:20.697709",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 31694
         },
         {
             "id": "AsakoRngyyeIR",
