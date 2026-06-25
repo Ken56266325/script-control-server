@@ -7207,13 +7207,12 @@
             "referred_to": [
                 "yyg"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-06-23T08:02:55.703993",
+            "status": "active",
+            "countdown_start_time": "2026-06-26T10:13:29.076927",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 89031
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "Diaryson57193",
