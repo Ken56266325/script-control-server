@@ -32798,13 +32798,12 @@
                 "Nico52727",
                 "Andry53637"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-06-25T21:16:51.614472",
+            "status": "active",
+            "countdown_start_time": "2026-06-29T09:40:47.194024",
             "affiliation_balance": 2500,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 249151
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "Hery536262",
