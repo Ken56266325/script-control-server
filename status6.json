@@ -35856,12 +35856,11 @@
             "android_id": "d8d66f3cded6beeb5b71f25e64c0f01d",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-06-23T19:19:12.897848",
+            "status": "active",
+            "countdown_start_time": "2026-06-27T02:53:07.187288",
             "affiliation_balance": 0,
-            "countdown_paused": true,
-            "plan": "Basique",
-            "paused_remaining_time": 70983
+            "countdown_paused": false,
+            "plan": "Basique"
         },
         {
             "id": "FranqNo11k7Ie",
