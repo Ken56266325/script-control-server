@@ -31279,12 +31279,11 @@
             "android_id": "f6565fdc22b3d4734edc19bf499818e8",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-06-25T10:27:20.697709",
+            "status": "active",
+            "countdown_start_time": "2026-06-28T00:44:49.182777",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 31694
+            "countdown_paused": false
         },
         {
             "id": "AsakoRngyyeIR",
