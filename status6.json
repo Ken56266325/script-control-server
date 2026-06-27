@@ -32228,7 +32228,8 @@
                 "LezomarXceq76M",
                 "ElyseJ97sFvhJ",
                 "AyanftTSVcec",
-                "Velontsara1EBszCjf"
+                "Velontsara1EBszCjf",
+                "ElyseeeNSLgNwY5"
             ],
             "status": "inactive",
             "countdown_start_time": "2026-06-27T05:15:43.038379",
@@ -38325,6 +38326,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-06-27T14:42:58.305315",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "ElyseeeNSLgNwY5",
+            "android_id": "625696c0cc426caca1ec5395c510b994",
+            "referred_by": "BotakelyfxIGGt27",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-06-27T16:49:09.843214",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
