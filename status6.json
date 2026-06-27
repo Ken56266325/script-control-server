@@ -3365,12 +3365,12 @@
                 "rovisabatier8J84XBM7"
             ],
             "status": "active",
-            "countdown_start_time": "2026-06-27T20:50:45.736884",
+            "countdown_start_time": "2026-06-27T20:54:45.817027",
             "affiliation_balance": 3000,
             "plan": "Basique",
             "countdown_paused": true,
-            "paused_remaining_time": 577536,
-            "pause_count": 1
+            "paused_remaining_time": 0,
+            "pause_count": 2
         },
         {
             "id": "Julio9203",
