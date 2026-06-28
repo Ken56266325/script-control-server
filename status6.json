@@ -31282,10 +31282,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-05T06:52:35.253789",
+            "countdown_start_time": "2026-06-28T15:49:22.828299",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 572592,
+            "pause_count": 1
         },
         {
             "id": "AsakoRngyyeIR",
