@@ -32167,11 +32167,12 @@
                 "ZidaNdsC3tweSwA"
             ],
             "status": "active",
-            "countdown_start_time": "2026-06-30T12:09:10.851807",
+            "countdown_start_time": "2026-06-28T07:19:11.980800",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 3
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 190198
         },
         {
             "id": "MpanjakaPXPzBdqj",
