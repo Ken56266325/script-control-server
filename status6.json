@@ -31285,12 +31285,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-06-28T23:33:22.564163",
+            "countdown_start_time": "2026-06-28T23:41:49.910662",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 556441
+            "pause_count": 4,
+            "paused_remaining_time": 0
         },
         {
             "id": "AsakoRngyyeIR",
