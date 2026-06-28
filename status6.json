@@ -37125,13 +37125,12 @@
             "android_id": "652dc68a0c40e2855d92b7b1238b2bcf",
             "referred_by": "Soso79103",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-06-25T19:24:47.775166",
+            "status": "active",
+            "countdown_start_time": "2026-07-03T17:56:42.755847",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 470353
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "BabeojPc6ud0",
