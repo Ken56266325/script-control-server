@@ -28868,7 +28868,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2026-07-04T08:47:51.438741",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "pause_count": 3,
             "countdown_paused": false
@@ -31880,7 +31880,7 @@
                 "LaurenciaEBftcqc5"
             ],
             "status": "active",
-            "countdown_start_time": "2026-07-06T09:32:29.018656",
+            "countdown_start_time": "2026-07-13T09:32:29.018656",
             "affiliation_balance": 0,
             "plan": "Semaine",
             "countdown_paused": false,
