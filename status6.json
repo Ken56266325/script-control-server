@@ -14026,13 +14026,12 @@
                 "kimX7PpVRNp",
                 "elinahoDNUYvJ5"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-06-21T10:03:46.526301",
+            "status": "active",
+            "countdown_start_time": "2026-07-05T13:08:01.762360",
             "affiliation_balance": 1000,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 525879
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "HeritinatsilavinaXTqIquDs",
