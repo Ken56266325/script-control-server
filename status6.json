@@ -38340,9 +38340,12 @@
             "referred_by": "BotakelyfxIGGt27",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-05T14:48:02.510923",
+            "countdown_start_time": "2026-06-29T08:59:14.967954",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 539327,
+            "countdown_paused": true,
+            "pause_count": 1
         },
         {
             "id": "lifamTA2BbXS",
