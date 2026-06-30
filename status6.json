@@ -24371,7 +24371,7 @@
                 "RaharyRzJrcm3m",
                 "JEREMIA1dtE7s9u"
             ],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-06-30T15:27:48.679101",
             "affiliation_balance": 1000,
             "plan": "Basique",
@@ -33598,7 +33598,7 @@
             "android_id": "037ae15eff3aa75a82902eff43c47309",
             "referred_by": "Sinia52772",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-06-30T15:40:01.907436",
             "affiliation_balance": 0,
             "countdown_paused": false,
