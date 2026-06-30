@@ -7209,11 +7209,12 @@
                 "yyg"
             ],
             "status": "active",
-            "countdown_start_time": "2026-06-30T14:50:31.210671",
+            "countdown_start_time": "2026-06-30T08:13:25.572608",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 3
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 23825
         },
         {
             "id": "Diaryson57193",
