@@ -1478,7 +1478,7 @@
                 "lovasCyakBpM",
                 "RadoiuKPUkMI"
             ],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-07-01T18:09:05.922129",
             "affiliation_balance": 0,
             "plan": "Basique",
@@ -26399,7 +26399,7 @@
             "android_id": "e68bef2785c9dab88527cc122d5299d7",
             "referred_by": "Cetone479580",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-07-01T17:49:23.782216",
             "affiliation_balance": 0,
             "plan": "Basique",
