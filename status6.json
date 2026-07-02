@@ -38368,9 +38368,12 @@
             "referred_by": "IonintsoaTianaNyAinavMPiV6Hv",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-09T18:03:57.340740",
+            "countdown_start_time": "2026-07-02T21:34:35.590940",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 592161,
+            "countdown_paused": true,
+            "pause_count": 1
         },
         {
             "id": "0cad83f8f944b7d0caf561571c67816313XVwzwR",
