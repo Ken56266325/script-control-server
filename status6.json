@@ -33636,11 +33636,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-03T04:17:28.937229",
+            "countdown_start_time": "2026-07-10T04:17:28.937229",
             "affiliation_balance": 0,
-            "plan": "Basique",
-            "pause_count": 3,
-            "countdown_paused": false
+            "plan": "Semaine",
+            "pause_count": 0,
+            "countdown_paused": false,
+            "max_pauses": 3
         },
         {
             "id": "AlyqT53p0EA",
