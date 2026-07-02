@@ -33623,11 +33623,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-05T06:31:00.818044",
+            "countdown_start_time": "2026-07-02T19:11:50.288564",
             "affiliation_balance": 0,
-            "countdown_paused": false,
+            "countdown_paused": true,
             "plan": "Basique",
-            "pause_count": 3
+            "pause_count": 3,
+            "paused_remaining_time": 213550
         },
         {
             "id": "IlovonjyJXObxkUt",
