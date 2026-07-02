@@ -38298,10 +38298,12 @@
             "android_id": "271434f1920e94fb1db52876dc1472b4",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-02T00:48:16.694803",
+            "status": "active",
+            "countdown_start_time": "2026-07-09T09:33:39.746897",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Semaine",
+            "pause_count": 0,
+            "max_pauses": 3
         },
         {
             "id": "DieuEOyBpWre",
