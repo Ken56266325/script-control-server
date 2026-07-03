@@ -33065,12 +33065,13 @@
             "referred_by": "Noutahtahy6rRaqvU",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-10T02:54:00.706740",
+            "countdown_start_time": "2026-07-03T14:05:43.520139",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 1,
-            "max_pauses": 3
+            "countdown_paused": true,
+            "pause_count": 2,
+            "max_pauses": 3,
+            "paused_remaining_time": 564497
         },
         {
             "id": "JoelHrMwhyy6",
