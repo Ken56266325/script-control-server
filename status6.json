@@ -37945,13 +37945,12 @@
             "android_id": "54d374d4055ef260c858ce41b3ad1d37",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-05T10:26:04.330294",
+            "status": "active",
+            "countdown_start_time": "2026-07-07T03:51:50.643168",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 106187
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "TOKYYQ1PpZWWF",
