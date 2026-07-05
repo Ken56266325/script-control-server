@@ -25751,7 +25751,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2026-05-25T20:39:31.299710",
-            "affiliation_balance": 7000,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false,
             "pause_count": 2
@@ -28331,12 +28331,13 @@
             "android_id": "75adc443d47027cbce4ff9befcc27335",
             "referred_by": "SquidPjkazdNC",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-06-16T11:51:31.473468",
+            "status": "active",
+            "countdown_start_time": "2026-07-12T21:17:43.027870",
             "affiliation_balance": 0,
-            "plan": "Basique",
-            "pause_count": 4,
-            "countdown_paused": false
+            "plan": "Semaine",
+            "pause_count": 0,
+            "countdown_paused": false,
+            "max_pauses": 3
         },
         {
             "id": "keneetFLpey",
