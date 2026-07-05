@@ -33598,11 +33598,12 @@
             "referred_by": "Sinia52772",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-10T10:24:57.079226",
+            "countdown_start_time": "2026-07-05T07:08:12.585851",
             "affiliation_balance": 0,
-            "countdown_paused": false,
+            "countdown_paused": true,
             "plan": "Basique",
-            "pause_count": 3
+            "pause_count": 3,
+            "paused_remaining_time": 443804
         },
         {
             "id": "Pamelah89193022",
