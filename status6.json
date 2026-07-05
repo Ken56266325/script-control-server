@@ -33635,12 +33635,13 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-10T07:20:09.458930",
+            "countdown_start_time": "2026-07-05T18:32:26.110991",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "pause_count": 1,
-            "countdown_paused": false,
-            "max_pauses": 3
+            "pause_count": 2,
+            "countdown_paused": true,
+            "max_pauses": 3,
+            "paused_remaining_time": 391663
         },
         {
             "id": "AlyqT53p0EA",
