@@ -38416,10 +38416,12 @@
             "android_id": "1d96c9388590b11c9c12fc7a6d8b1565",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-02T19:51:06.542785",
+            "status": "active",
+            "countdown_start_time": "2026-07-13T17:00:31.315555",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Semaine",
+            "pause_count": 0,
+            "max_pauses": 3
         },
         {
             "id": "RovahasinaC2iGysbu",
