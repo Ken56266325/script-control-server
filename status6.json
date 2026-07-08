@@ -38499,6 +38499,16 @@
             "countdown_start_time": "2026-07-06T19:23:03.756497",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "fahuAGegkSI",
+            "android_id": "da661878b4ce9b4836a2312258b9bc89",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-07-08T19:04:07.267967",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
