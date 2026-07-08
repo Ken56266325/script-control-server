@@ -36616,10 +36616,10 @@
             "android_id": "85e808b89fc21642df9df62752f72ed4",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-08T03:35:38.812731",
+            "status": "active",
+            "countdown_start_time": "2026-07-15T07:31:53.387961",
             "affiliation_balance": 0,
-            "plan": "Basique",
+            "plan": "Semaine",
             "pause_count": 0,
             "countdown_paused": false,
             "max_pauses": 3
