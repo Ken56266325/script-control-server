@@ -38508,6 +38508,16 @@
             "countdown_start_time": "2026-07-08T19:04:07.267967",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "AbelosOqZgLlrp",
+            "android_id": "14fdad73f64f0482d88e599def05dcde",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-07-08T22:35:04.634449",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
