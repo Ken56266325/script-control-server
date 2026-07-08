@@ -12808,12 +12808,13 @@
             "referred_to": [
                 "Armele3YGfR2e"
             ],
-            "status": "active",
-            "countdown_start_time": "2026-07-08T07:36:41.774237",
+            "status": "inactive",
+            "countdown_start_time": "2026-07-07T23:46:46.514017",
             "affiliation_balance": 1000,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 4
+            "countdown_paused": true,
+            "pause_count": 4,
+            "paused_remaining_time": 0
         },
         {
             "id": "SitrakaX2ktvrvY",
@@ -36618,7 +36619,7 @@
             "status": "active",
             "countdown_start_time": "2026-07-15T07:31:53.387961",
             "affiliation_balance": 0,
-            "plan": "Semaine",
+            "plan": "Basique",
             "pause_count": 0,
             "countdown_paused": false,
             "max_pauses": 3
