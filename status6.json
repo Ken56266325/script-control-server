@@ -34009,12 +34009,13 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-14T10:46:19.336584",
+            "countdown_start_time": "2026-07-09T16:16:00.782205",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 0,
-            "max_pauses": 3
+            "countdown_paused": true,
+            "pause_count": 1,
+            "max_pauses": 3,
+            "paused_remaining_time": 412218
         },
         {
             "id": "tel2csc3atWwKL",
