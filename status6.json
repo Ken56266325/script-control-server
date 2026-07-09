@@ -37359,10 +37359,12 @@
             "referred_by": "SquidPjkazdNC",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-15T21:06:30.515898",
+            "countdown_start_time": "2026-07-09T07:39:21.704017",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 566828,
+            "pause_count": 1
         },
         {
             "id": "TinahS0j3WvV0",
