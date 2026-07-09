@@ -28335,14 +28335,13 @@
             "android_id": "75adc443d47027cbce4ff9befcc27335",
             "referred_by": "SquidPjkazdNC",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-09T05:31:27.099111",
+            "status": "active",
+            "countdown_start_time": "2026-07-13T22:04:06.311201",
             "affiliation_balance": 0,
             "plan": "Basique",
             "pause_count": 2,
-            "countdown_paused": true,
-            "max_pauses": 3,
-            "paused_remaining_time": 342849
+            "countdown_paused": false,
+            "max_pauses": 3
         },
         {
             "id": "keneetFLpey",
