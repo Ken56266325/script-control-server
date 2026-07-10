@@ -38421,13 +38421,13 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-10T19:47:10.615008",
+            "countdown_start_time": "2026-07-10T19:48:49.870794",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "pause_count": 3,
+            "pause_count": 4,
             "max_pauses": 3,
             "countdown_paused": true,
-            "paused_remaining_time": 278339
+            "paused_remaining_time": 0
         },
         {
             "id": "RovahasinaC2iGysbu",
