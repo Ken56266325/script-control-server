@@ -38502,9 +38502,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-17T19:34:45.056958",
+            "countdown_start_time": "2026-07-11T02:10:35.135088",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 581049,
+            "countdown_paused": true,
+            "pause_count": 1
         },
         {
             "id": "AbelosOqZgLlrp",
