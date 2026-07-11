@@ -36833,13 +36833,12 @@
             "android_id": "3a778e0bf8ad11e33d5572816790c0ea",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-11T13:49:01.893027",
+            "status": "active",
+            "countdown_start_time": "2026-07-14T00:59:20.448116",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 193577
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "DafahhS0i4amK",
