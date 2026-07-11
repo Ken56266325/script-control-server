@@ -36953,13 +36953,12 @@
             "android_id": "26a63a7eba4a68a52ab17653a7eb95de",
             "referred_by": "Soso79103",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-10T13:52:31.077164",
+            "status": "active",
+            "countdown_start_time": "2026-07-13T20:05:27.499959",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 192688
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "Lalato7TWkaV",
