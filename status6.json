@@ -30069,11 +30069,12 @@
                 "Iary15ZJbHG5kt"
             ],
             "status": "active",
-            "countdown_start_time": "2026-07-14T21:19:48.275399",
+            "countdown_start_time": "2026-07-11T10:05:21.771446",
             "affiliation_balance": 0,
             "plan": "Basique",
             "pause_count": 3,
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 299666
         },
         {
             "id": "asavc3oIDFP",
