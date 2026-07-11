@@ -32177,13 +32177,12 @@
                 "Yuri2.0ZXRvnHYw",
                 "Yuri5.0lx4T00Ap"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-11T17:22:58.933027",
+            "status": "active",
+            "countdown_start_time": "2026-07-15T19:48:04.475959",
             "affiliation_balance": 1000,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 338801
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "MpanjakaPXPzBdqj",
