@@ -38540,6 +38540,16 @@
             "countdown_start_time": "2026-07-10T02:13:43.153319",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "JovaneUuf1x72g",
+            "android_id": "bfbab8e4d69dcb87d034ce3f61384b52",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-07-12T00:48:03.741827",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
