@@ -13123,7 +13123,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2026-07-09T16:44:28.632972",
-            "affiliation_balance": 7000,
+            "affiliation_balance": 8000,
             "plan": "Basique",
             "countdown_paused": false,
             "pause_count": 4,
@@ -33073,11 +33073,11 @@
             "referred_by": "Noutahtahy6rRaqvU",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-11T21:38:54.818350",
+            "countdown_start_time": "2026-07-18T21:38:54.818350",
             "affiliation_balance": 0,
-            "plan": "Basique",
+            "plan": "Semaine",
             "countdown_paused": false,
-            "pause_count": 4,
+            "pause_count": 0,
             "max_pauses": 3
         },
         {
