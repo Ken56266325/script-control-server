@@ -28869,7 +28869,8 @@
                 "MelostepmAnYRpr",
                 "dahalohbLuA1t4s",
                 "jelorXQe09PnV",
-                "RadoluciengJlO6hjE"
+                "RadoluciengJlO6hjE",
+                "bosseLcecMxrT"
             ],
             "status": "active",
             "countdown_start_time": "2026-07-13T16:50:51.484914",
@@ -38574,6 +38575,16 @@
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2026-07-12T18:55:48.181740",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "bosseLcecMxrT",
+            "android_id": "193dedbda37d53659a83448cb8add3c2",
+            "referred_by": "harsonielnBBuRIyG",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-07-12T23:31:01.999924",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
