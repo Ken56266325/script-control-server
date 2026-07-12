@@ -28836,13 +28836,12 @@
             "android_id": "ccfdebbb0ba5e78ccf7054b346977649",
             "referred_by": "Cetone479580",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-08T06:23:34.307898",
+            "status": "active",
+            "countdown_start_time": "2026-07-13T10:06:07.822777",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 50617
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "TaskQLZumr52",
