@@ -1539,7 +1539,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2026-05-25T20:39:31.226853",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false,
             "pause_count": 0
@@ -7476,11 +7476,13 @@
             "android_id": "6d36859effbb726a7d7eb7a7db5a695f",
             "referred_by": "Germain5719\u20ac",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-05-25T20:39:31.247669",
+            "status": "active",
+            "countdown_start_time": "2026-07-19T13:32:01.096440",
             "affiliation_balance": 0,
-            "plan": "Basique",
-            "countdown_paused": false
+            "plan": "Semaine",
+            "countdown_paused": false,
+            "pause_count": 0,
+            "max_pauses": 3
         },
         {
             "id": "Bevtt68192920",
