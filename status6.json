@@ -38135,13 +38135,12 @@
             "android_id": "84caa879af6910cdc151aee938bde4fa",
             "referred_by": "36888296",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-12T07:50:09.526941",
+            "status": "active",
+            "countdown_start_time": "2026-07-15T05:24:26.670382",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 219280
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "NiryzY3gWWzA",
