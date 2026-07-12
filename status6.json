@@ -38555,6 +38555,16 @@
             "countdown_start_time": "2026-07-12T13:49:09.726026",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Arnaudzl5oZFQT",
+            "android_id": "f5fb8291f5612e82dce491c08f17e045",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-07-12T15:24:39.118969",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
