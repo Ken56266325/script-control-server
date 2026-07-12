@@ -27362,13 +27362,12 @@
             "android_id": "56f8f4834db030e34c14cb456aa3816d",
             "referred_by": "Cetone479580",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-08T06:23:22.555453",
+            "status": "active",
+            "countdown_start_time": "2026-07-13T08:48:34.901783",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 47799
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "ZoKlRz04fw",
