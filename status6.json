@@ -38486,11 +38486,12 @@
             "referred_by": "IonintsoaTianaNyAinavMPiV6Hv",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-18T22:37:47.246691",
+            "countdown_start_time": "2026-07-12T18:39:38.324153",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 1
+            "countdown_paused": true,
+            "pause_count": 2,
+            "paused_remaining_time": 532688
         },
         {
             "id": "RadoluciengJlO6hjE",
