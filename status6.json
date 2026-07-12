@@ -25999,13 +25999,12 @@
             "android_id": "572b1b8adaa96c5e072d3b1453e4d7d2",
             "referred_by": "HermanODwBrkLl",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-12T10:57:56.107030",
+            "status": "active",
+            "countdown_start_time": "2026-07-13T10:14:03.071431",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 58120
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "Vezoocarbonele80J3yES",
