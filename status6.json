@@ -13124,12 +13124,12 @@
                 "Rayanah5coOa3Zr",
                 "NoutahinaZRJqhDPR"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-09T16:44:28.632972",
-            "affiliation_balance": 9000,
-            "plan": "Basique",
+            "status": "active",
+            "countdown_start_time": "2026-07-20T14:26:33.193201",
+            "affiliation_balance": 2000,
+            "plan": "Semaine",
             "countdown_paused": false,
-            "pause_count": 4,
+            "pause_count": 0,
             "max_pauses": 3
         },
         {
