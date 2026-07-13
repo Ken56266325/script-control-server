@@ -34013,14 +34013,13 @@
             "android_id": "6e8094d1ed9d602708eff8b7a681025c",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-13T09:08:03.298376",
+            "status": "active",
+            "countdown_start_time": "2026-07-14T18:49:58.873760",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 2,
-            "max_pauses": 3,
-            "paused_remaining_time": 103201
+            "max_pauses": 3
         },
         {
             "id": "tel2csc3atWwKL",
