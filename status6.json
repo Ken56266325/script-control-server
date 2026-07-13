@@ -33829,13 +33829,12 @@
             "referred_to": [
                 "fanilonarindraIoQCHOU4"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-13T08:32:04.350657",
+            "status": "active",
+            "countdown_start_time": "2026-07-14T04:52:39.134901",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 35947
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "Sarobidy4gkqJ4xG",
