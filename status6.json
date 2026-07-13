@@ -3555,7 +3555,8 @@
                 "Zinnia3XR6wtHEF",
                 "Zinnia9fh9VRNKG",
                 "Zinnia7jX2vCjFr",
-                "Zinnia4w4MdphGO"
+                "Zinnia4w4MdphGO",
+                "Livasoagr1uRK2t"
             ],
             "status": "inactive",
             "countdown_start_time": "2026-06-09T15:57:50.979703",
@@ -38584,6 +38585,16 @@
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2026-07-12T23:31:01.999924",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Livasoagr1uRK2t",
+            "android_id": "d10f0cfa58bb1adce39b520b46514e75",
+            "referred_by": "Soso79103",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-07-13T15:18:03.606302",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
