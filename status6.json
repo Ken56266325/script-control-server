@@ -38468,9 +38468,12 @@
             "referred_by": "TOKYYQ1PpZWWF",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-15T15:38:19.994767",
+            "countdown_start_time": "2026-07-14T17:53:07.955843",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 78312,
+            "countdown_paused": true,
+            "pause_count": 1
         },
         {
             "id": "PriscalvLItNX3",
