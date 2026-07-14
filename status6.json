@@ -33640,14 +33640,13 @@
             "android_id": "854240c145306d0e33fb04cc68e9cec7",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-14T11:51:31.786072",
+            "status": "active",
+            "countdown_start_time": "2026-07-18T06:52:57.637453",
             "affiliation_balance": 0,
             "plan": "Basique",
             "pause_count": 2,
-            "countdown_paused": true,
-            "max_pauses": 3,
-            "paused_remaining_time": 293071
+            "countdown_paused": false,
+            "max_pauses": 3
         },
         {
             "id": "AlyqT53p0EA",
