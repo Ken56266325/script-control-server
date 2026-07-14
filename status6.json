@@ -38434,9 +38434,12 @@
             "referred_by": "TOKYYQ1PpZWWF",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-15T14:38:09.728571",
+            "countdown_start_time": "2026-07-14T14:23:15.005602",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 87294,
+            "countdown_paused": true,
+            "pause_count": 1
         },
         {
             "id": "FabienNantenainauUBS6D7b",
