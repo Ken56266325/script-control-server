@@ -38616,6 +38616,16 @@
             "countdown_start_time": "2026-07-14T11:39:12.871193",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Andry2Dg2Wi3FL",
+            "android_id": "28520785",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-07-14T17:02:26.918297",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
