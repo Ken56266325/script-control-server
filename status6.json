@@ -13125,12 +13125,13 @@
                 "NoutahinaZRJqhDPR"
             ],
             "status": "active",
-            "countdown_start_time": "2026-07-20T14:26:33.193201",
+            "countdown_start_time": "2026-07-14T14:49:00.632856",
             "affiliation_balance": 3000,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 0,
-            "max_pauses": 3
+            "countdown_paused": true,
+            "pause_count": 1,
+            "max_pauses": 3,
+            "paused_remaining_time": 517052
         },
         {
             "id": "Fabiend8f8RIM2",
