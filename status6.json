@@ -38677,6 +38677,16 @@
             "countdown_start_time": "2026-07-22T20:57:17.191059",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "StanneyTXbGAKd",
+            "android_id": "ebda42f3b1a6193729baa13ce5ceb8bc",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-07-15T22:39:07.371223",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
