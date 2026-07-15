@@ -34837,12 +34837,13 @@
             "android_id": "d541eeba504edcfbb3969b7024d40f42",
             "referred_by": null,
             "referred_to": [],
-            "status": "active",
-            "countdown_start_time": "2026-07-17T17:45:30.049891",
+            "status": "inactive",
+            "countdown_start_time": "2026-07-15T07:21:37.451946",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 3
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 165151
         },
         {
             "id": "VIP6xZziNWbX",
@@ -38683,7 +38684,7 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-15T22:39:07.371223",
+            "countdown_start_time": "2026-07-20T22:48:32.409148",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
