@@ -38172,11 +38172,12 @@
             "referred_by": "Soso79103",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-21T02:23:05.094120",
+            "countdown_start_time": "2026-07-15T09:00:09.756079",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 2
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 494575
         },
         {
             "id": "Rayanah5coOa3Zr",
