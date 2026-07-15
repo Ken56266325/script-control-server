@@ -34837,11 +34837,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-17T05:14:09.363212",
+            "countdown_start_time": "2026-07-15T07:21:37.451946",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 3
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 165151
         },
         {
             "id": "VIP6xZziNWbX",
