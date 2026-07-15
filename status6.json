@@ -1478,13 +1478,12 @@
                 "lovasCyakBpM",
                 "RadoiuKPUkMI"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-15T09:14:29.562378",
+            "status": "active",
+            "countdown_start_time": "2026-07-16T01:58:29.398769",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 51011
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "Olivoliv57152",
