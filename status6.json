@@ -38432,12 +38432,11 @@
             "android_id": "23843ebc70ff9724c0aee2b2e623ca1a",
             "referred_by": "TOKYYQ1PpZWWF",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-14T14:23:15.005602",
+            "status": "active",
+            "countdown_start_time": "2026-07-16T07:11:59.256629",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 87294,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
