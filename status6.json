@@ -38633,14 +38633,13 @@
             "android_id": "c561a68be48daf2ead34183d5eb1dbf1",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-16T16:17:51.352019",
+            "status": "active",
+            "countdown_start_time": "2026-07-21T22:46:46.304923",
             "affiliation_balance": 0,
             "plan": "Basique",
             "pause_count": 1,
             "max_pauses": 3,
-            "paused_remaining_time": 439600,
-            "countdown_paused": true
+            "countdown_paused": false
         },
         {
             "id": "Andry2Dg2Wi3FL",
