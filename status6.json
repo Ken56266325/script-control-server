@@ -38610,9 +38610,12 @@
             "referred_by": "Soso79103",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-20T17:09:29.325216",
+            "countdown_start_time": "2026-07-16T10:29:50.508280",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 369578,
+            "countdown_paused": true,
+            "pause_count": 1
         },
         {
             "id": "BruceZd9QkM2F",
