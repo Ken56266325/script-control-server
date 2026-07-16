@@ -38522,12 +38522,11 @@
             "android_id": "da661878b4ce9b4836a2312258b9bc89",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-11T02:10:35.135088",
+            "status": "active",
+            "countdown_start_time": "2026-07-23T05:15:22.246271",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 581049,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
