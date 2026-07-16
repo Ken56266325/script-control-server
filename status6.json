@@ -38679,12 +38679,11 @@
             "android_id": "4670b6d25d06841036f372c816477615",
             "referred_by": "Soso79103",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-16T08:21:15.830763",
+            "status": "active",
+            "countdown_start_time": "2026-07-23T02:35:36.244620",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 563761,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
