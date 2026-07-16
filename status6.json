@@ -38489,9 +38489,12 @@
             "referred_by": "TOKYYQ1PpZWWF",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-18T19:34:40.613755",
+            "countdown_start_time": "2026-07-16T20:28:59.782707",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 169540,
+            "countdown_paused": true,
+            "pause_count": 1
         },
         {
             "id": "Yuri5.0lx4T00Ap",
