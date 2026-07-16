@@ -33611,13 +33611,12 @@
             "android_id": "037ae15eff3aa75a82902eff43c47309",
             "referred_by": "Sinia52772",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-16T10:44:16.792825",
+            "status": "active",
+            "countdown_start_time": "2026-07-19T23:24:30.902258",
             "affiliation_balance": 0,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "plan": "Basique",
-            "pause_count": 3,
-            "paused_remaining_time": 291528
+            "pause_count": 3
         },
         {
             "id": "Pamelah89193022",
