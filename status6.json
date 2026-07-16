@@ -38630,11 +38630,13 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-21T18:24:32.168937",
+            "countdown_start_time": "2026-07-16T16:17:51.352019",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "pause_count": 0,
-            "max_pauses": 3
+            "pause_count": 1,
+            "max_pauses": 3,
+            "paused_remaining_time": 439600,
+            "countdown_paused": true
         },
         {
             "id": "Andry2Dg2Wi3FL",
