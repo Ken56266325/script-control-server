@@ -15505,10 +15505,12 @@
             "referred_by": "Timote689901",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-23T08:37:50.452000",
+            "countdown_start_time": "2026-07-16T09:51:56.540150",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 600353,
+            "pause_count": 1
         },
         {
             "id": "Armele3YGfR2e",
