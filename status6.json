@@ -38764,6 +38764,16 @@
             "countdown_start_time": "2026-07-17T21:26:11.262797",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "julienNAUNZZgE",
+            "android_id": "0b05d45b496ce8af3b2f61c2b11d43c1",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-07-17T22:53:46.433729",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
