@@ -24825,7 +24825,8 @@
                 "CarolinewLVTKDj3",
                 "JasmineUQxmGmpH",
                 "NejicEDBBPS1",
-                "FanomezaOFn65GBp"
+                "FanomezaOFn65GBp",
+                "LovasoaWlfkGQNF"
             ],
             "status": "inactive",
             "countdown_start_time": "2026-05-25T20:39:31.298566",
@@ -38772,6 +38773,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-07-17T22:53:46.433729",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "LovasoaWlfkGQNF",
+            "android_id": "e07a4f385608d7d25820eddbbaf60d59",
+            "referred_by": "ManahiraA8bhcX0M",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-07-17T23:41:29.644608",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
