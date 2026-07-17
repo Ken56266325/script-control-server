@@ -20903,10 +20903,12 @@
                 "TOKYYQ1PpZWWF"
             ],
             "status": "active",
-            "countdown_start_time": "2026-07-18T21:30:01.815823",
+            "countdown_start_time": "2026-07-17T20:34:59.165676",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 89702,
+            "pause_count": 1
         },
         {
             "id": "Rovantsoax61zAGre",
