@@ -38736,6 +38736,16 @@
             "countdown_start_time": "2026-07-17T02:18:30.322398",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Kambana68193",
+            "android_id": "fedd43fe3c9250874725cd3820146f3e",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-07-24T15:42:47.570199",
+            "affiliation_balance": 0,
+            "countdown_paused": false
         }
     ],
     "references": {
