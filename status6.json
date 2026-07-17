@@ -38716,9 +38716,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-23T12:09:22.426795",
+            "countdown_start_time": "2026-07-17T17:35:57.529985",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 498804,
+            "countdown_paused": true,
+            "pause_count": 1
         },
         {
             "id": "JeanyjC08vSfn",
