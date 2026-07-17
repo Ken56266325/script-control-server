@@ -38423,12 +38423,11 @@
             "android_id": "2d32647095396f02b21da1314a3d937c",
             "referred_by": "Ghost0ygJSA6l",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-16T17:33:23.047955",
+            "status": "active",
+            "countdown_start_time": "2026-07-20T08:38:51.635550",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 231231,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
