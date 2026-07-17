@@ -26066,13 +26066,12 @@
             "android_id": "40925a438d23bfd9a036fb070dedc3c1",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-17T11:07:59.771053",
+            "status": "active",
+            "countdown_start_time": "2026-07-18T23:21:11.436066",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 104562
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "RANOFRAbkYTYgSb",
