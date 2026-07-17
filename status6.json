@@ -38753,6 +38753,16 @@
             "affiliation_balance": 0,
             "countdown_paused": false,
             "plan": "Basique"
+        },
+        {
+            "id": "tahintsoaYur2sLeR",
+            "android_id": "35f717a1e2b4b7d30ea61a33e4514d02",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-07-17T21:26:11.262797",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
