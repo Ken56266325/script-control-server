@@ -37822,12 +37822,11 @@
             "android_id": "04991582c4877062018b15f11b119700",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-18T09:39:05.820918",
+            "status": "active",
+            "countdown_start_time": "2026-07-25T00:06:36.412725",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 547991,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
