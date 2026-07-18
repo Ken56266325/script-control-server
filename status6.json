@@ -38785,6 +38785,16 @@
             "countdown_start_time": "2026-07-25T14:34:17.002791",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "drovaraa9P3QMMh",
+            "android_id": "a049822692ba8702c5d1cf10140e5e99",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-07-19T01:06:16.868793",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
