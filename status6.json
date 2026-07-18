@@ -38296,13 +38296,12 @@
             "android_id": "50f473934a7959e91803d2bfb38e0948",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-18T10:46:33.134971",
+            "status": "active",
+            "countdown_start_time": "2026-07-24T19:10:02.300204",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 543342
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "Fairer8MpauHg",
