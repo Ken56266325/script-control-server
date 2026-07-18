@@ -38700,11 +38700,12 @@
             "referred_by": "Soso79103",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-23T07:24:41.434150",
+            "countdown_start_time": "2026-07-18T10:19:13.736553",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 2
+            "countdown_paused": true,
+            "pause_count": 2,
+            "paused_remaining_time": 421527
         },
         {
             "id": "StanneyTXbGAKd",
