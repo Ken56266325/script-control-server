@@ -33642,12 +33642,11 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-18T10:44:31.119096",
+            "countdown_start_time": "2026-07-20T09:05:49.131285",
             "affiliation_balance": 0,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "plan": "Basique",
-            "pause_count": 3,
-            "paused_remaining_time": 130902
+            "pause_count": 3
         },
         {
             "id": "IlovonjyJXObxkUt",
