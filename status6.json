@@ -38182,13 +38182,12 @@
             "android_id": "19e7f3f85f5382bc84ee61803b084430",
             "referred_by": "Soso79103",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-15T09:00:09.756079",
+            "status": "active",
+            "countdown_start_time": "2026-07-24T12:24:19.407614",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 494575
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "Rayanah5coOa3Zr",
