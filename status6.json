@@ -26240,13 +26240,12 @@
             "android_id": "d0316aabe42e2dae1913dd2a5ab1af69",
             "referred_by": "MaximeespinolahcDIlFqR8",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-18T10:24:39.013708",
+            "status": "active",
+            "countdown_start_time": "2026-07-19T22:18:53.660892",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 107762
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "Solofo2JjgiQ0Z8",
