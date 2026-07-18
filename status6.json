@@ -20902,12 +20902,11 @@
                 "HanitraX9BtyZEX",
                 "TOKYYQ1PpZWWF"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-17T20:34:59.165676",
+            "status": "active",
+            "countdown_start_time": "2026-07-19T07:16:35.312436",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 89702,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
