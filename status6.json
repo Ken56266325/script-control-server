@@ -38642,13 +38642,12 @@
             "android_id": "d4f5b2537d6ac0110d93c2fd8358c16c",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-19T08:37:49.283807",
+            "status": "active",
+            "countdown_start_time": "2026-07-20T20:15:15.661987",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 119992
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "bosseLcecMxrT",
