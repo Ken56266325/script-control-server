@@ -33595,12 +33595,11 @@
             "referred_by": "Sinia52772",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-19T08:09:39.137134",
+            "countdown_start_time": "2026-07-21T23:23:05.170599",
             "affiliation_balance": 0,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "plan": "Basique",
-            "pause_count": 3,
-            "paused_remaining_time": 226898
+            "pause_count": 3
         },
         {
             "id": "joel5363",
