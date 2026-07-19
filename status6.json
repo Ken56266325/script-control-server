@@ -18932,13 +18932,12 @@
                 "Harentsy1GL1qjWE",
                 "HarentsyzJW4bwAE"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-19T08:11:09.530165",
+            "status": "active",
+            "countdown_start_time": "2026-07-20T15:08:51.416247",
             "affiliation_balance": 3000,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 101409
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "YtokianaQHxOXDY3",
