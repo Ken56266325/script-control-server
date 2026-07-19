@@ -38584,13 +38584,12 @@
             "android_id": "14fdad73f64f0482d88e599def05dcde",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-19T09:31:36.342206",
+            "status": "active",
+            "countdown_start_time": "2026-07-20T20:11:48.005284",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 4,
-            "paused_remaining_time": 114102
+            "countdown_paused": false,
+            "pause_count": 4
         },
         {
             "id": "Tina4PLnCiez",
