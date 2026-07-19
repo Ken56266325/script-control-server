@@ -38550,11 +38550,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-19T21:13:18.559257",
+            "countdown_start_time": "2026-07-19T09:31:36.342206",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 4
+            "countdown_paused": true,
+            "pause_count": 4,
+            "paused_remaining_time": 42102
         },
         {
             "id": "Tina4PLnCiez",
