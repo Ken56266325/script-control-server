@@ -38526,12 +38526,11 @@
             "android_id": "8007ffce923934cbf3e5ec82eff66670",
             "referred_by": "TOKYYQ1PpZWWF",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-14T17:53:27.843458",
+            "status": "active",
+            "countdown_start_time": "2026-07-20T16:17:33.906890",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 72000,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 2
         },
         {
