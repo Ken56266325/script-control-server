@@ -38548,13 +38548,12 @@
             "android_id": "6400f5b50bbf0d18dd3f46e7eb1f7df6",
             "referred_by": "IonintsoaTianaNyAinavMPiV6Hv",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-12T18:39:38.324153",
+            "status": "active",
+            "countdown_start_time": "2026-07-26T12:00:14.779628",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 604688
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "RadoluciengJlO6hjE",
