@@ -38843,10 +38843,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-20T05:48:37.614097",
+            "countdown_start_time": "2026-07-19T13:06:58.637337",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 60098,
+            "pause_count": 1
         },
         {
             "id": "Georgeyle4eHp2",
