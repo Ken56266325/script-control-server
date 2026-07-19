@@ -18932,11 +18932,12 @@
                 "HarentsyzJW4bwAE"
             ],
             "status": "active",
-            "countdown_start_time": "2026-07-19T16:21:19.375642",
+            "countdown_start_time": "2026-07-19T08:11:09.530165",
             "affiliation_balance": 3000,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 3
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 29409
         },
         {
             "id": "YtokianaQHxOXDY3",
