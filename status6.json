@@ -38570,13 +38570,12 @@
             "android_id": "da661878b4ce9b4836a2312258b9bc89",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-19T08:38:03.355870",
+            "status": "active",
+            "countdown_start_time": "2026-07-24T05:44:10.247376",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 405438
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "AbelosOqZgLlrp",
