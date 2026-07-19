@@ -32133,11 +32133,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-20T05:48:37.613183",
+            "countdown_start_time": "2026-07-19T19:57:15.394229",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 3
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 35482
         },
         {
             "id": "NELSONOrdiUlDq",
