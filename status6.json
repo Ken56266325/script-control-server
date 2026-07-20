@@ -13124,14 +13124,13 @@
                 "Rayanah5coOa3Zr",
                 "NoutahinaZRJqhDPR"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-14T14:49:00.632856",
+            "status": "active",
+            "countdown_start_time": "2026-07-27T07:38:24.664383",
             "affiliation_balance": 5000,
             "plan": "Basique",
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1,
-            "max_pauses": 3,
-            "paused_remaining_time": 589052
+            "max_pauses": 3
         },
         {
             "id": "Fabiend8f8RIM2",
