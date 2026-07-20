@@ -38299,14 +38299,13 @@
             "android_id": "413f34a3793e8f047f8860ff5b63708f",
             "referred_by": "Noutahtahy6rRaqvU",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-18T21:11:05.593994",
+            "status": "active",
+            "countdown_start_time": "2026-07-23T11:13:49.122869",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 3,
-            "max_pauses": 3,
-            "paused_remaining_time": 245327
+            "max_pauses": 3
         },
         {
             "id": "HaingoAbov9p9k",
