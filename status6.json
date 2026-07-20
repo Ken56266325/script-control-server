@@ -38600,10 +38600,11 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-27T16:33:43.386736",
+            "countdown_start_time": "2026-07-20T18:44:01.222665",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 596982
         },
         {
             "id": "JovaneUuf1x72g",
