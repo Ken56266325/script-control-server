@@ -38176,11 +38176,12 @@
             "referred_by": "36888296",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-23T05:54:57.474208",
+            "countdown_start_time": "2026-07-21T11:28:42.740753",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 3
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 152774
         },
         {
             "id": "NiryzY3gWWzA",
