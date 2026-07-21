@@ -34851,13 +34851,12 @@
             "android_id": "d541eeba504edcfbb3969b7024d40f42",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-21T08:27:23.845450",
+            "status": "active",
+            "countdown_start_time": "2026-07-22T12:52:19.596453",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 73771
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "VIP6xZziNWbX",
