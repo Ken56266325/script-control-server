@@ -37697,12 +37697,11 @@
             "android_id": "5b95b1141de787f9a0651a8634b90a0d",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-06-14T05:30:18.678177",
+            "status": "active",
+            "countdown_start_time": "2026-07-23T18:58:22.609208",
             "affiliation_balance": 0,
-            "countdown_paused": true,
-            "plan": "Basique",
-            "paused_remaining_time": 215739
+            "countdown_paused": false,
+            "plan": "Basique"
         },
         {
             "id": "RaissassTrGqOh",
