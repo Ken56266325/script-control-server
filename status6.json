@@ -33656,12 +33656,13 @@
             "referred_by": null,
             "referred_to": [],
             "status": "inactive",
-            "countdown_start_time": "2026-07-27T02:53:40.230608",
+            "countdown_start_time": "2026-07-21T23:23:53.868935",
             "affiliation_balance": 0,
             "plan": "Basique",
             "pause_count": 3,
-            "countdown_paused": false,
-            "max_pauses": 3
+            "countdown_paused": true,
+            "max_pauses": 3,
+            "paused_remaining_time": 444586
         },
         {
             "id": "AlyqT53p0EA",
