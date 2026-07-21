@@ -38790,10 +38790,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-23T18:07:31.676624",
+            "countdown_start_time": "2026-07-21T18:54:50.815583",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 169960,
+            "pause_count": 1
         },
         {
             "id": "Kambana68193",
