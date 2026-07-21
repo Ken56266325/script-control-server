@@ -36967,11 +36967,12 @@
             "referred_by": "Soso79103",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-24T08:42:17.451202",
+            "countdown_start_time": "2026-07-21T07:31:23.178702",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 3
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 263454
         },
         {
             "id": "Lalato7TWkaV",
