@@ -31971,7 +31971,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2026-07-20T05:48:37.613159",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false,
             "pause_count": 1
@@ -32192,12 +32192,13 @@
                 "Yuri2.0ZXRvnHYw",
                 "Yuri5.0lx4T00Ap"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-20T05:48:37.613191",
+            "status": "active",
+            "countdown_start_time": "2026-07-28T09:52:19.725240",
             "affiliation_balance": 1000,
-            "plan": "Basique",
+            "plan": "Semaine",
             "countdown_paused": false,
-            "pause_count": 3
+            "pause_count": 0,
+            "max_pauses": 3
         },
         {
             "id": "MpanjakaPXPzBdqj",
