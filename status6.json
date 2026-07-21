@@ -33311,13 +33311,12 @@
             "android_id": "edb06b0ef10f7f59a33499fbedb26cc2",
             "referred_by": "NadiaxEHQNbby",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-19T10:15:32.722999",
+            "status": "active",
+            "countdown_start_time": "2026-07-22T15:14:46.316557",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 70384
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "GrandgrVBxGOd",
