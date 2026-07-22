@@ -13123,7 +13123,8 @@
                 "Sambatrajafn7fKt8",
                 "OdetteVo0PUhDX",
                 "Rayanah5coOa3Zr",
-                "NoutahinaZRJqhDPR"
+                "NoutahinaZRJqhDPR",
+                "FenowlJ7itBb"
             ],
             "status": "inactive",
             "countdown_start_time": "2026-07-20T21:00:04.331635",
@@ -38954,6 +38955,16 @@
             "countdown_start_time": "2026-07-22T16:35:49.388645",
             "affiliation_balance": 0,
             "countdown_paused": false
+        },
+        {
+            "id": "FenowlJ7itBb",
+            "android_id": "66c0a020a16803c7c25d7cf3ba8d9cae",
+            "referred_by": "Noutahtahy6rRaqvU",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-07-22T17:00:09.010568",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
