@@ -38469,11 +38469,12 @@
             "referred_by": "Ghost0ygJSA6l",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-23T03:18:13.474204",
+            "countdown_start_time": "2026-07-22T18:24:15.610499",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 2
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 32037
         },
         {
             "id": "Fiononana0bS3FY7E",
