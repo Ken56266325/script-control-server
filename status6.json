@@ -36515,11 +36515,11 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-23T03:33:35.458195",
+            "countdown_start_time": "2026-07-30T03:33:35.458195",
             "affiliation_balance": 0,
-            "plan": "Basique",
+            "plan": "Semaine",
             "countdown_paused": false,
-            "pause_count": 3,
+            "pause_count": 0,
             "max_pauses": 3
         },
         {
