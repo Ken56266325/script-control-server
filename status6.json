@@ -38795,13 +38795,12 @@
             "android_id": "993e52b4c8794b972bf8313d1cf13b4d",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-23T17:21:02.098060",
+            "status": "active",
+            "countdown_start_time": "2026-07-24T04:18:08.548941",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 31363
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "Kambana68193",
