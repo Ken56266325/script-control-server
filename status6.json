@@ -38011,7 +38011,8 @@
                 "RovahasinaC2iGysbu",
                 "Onitraalkv5PNfA",
                 "PriscalvLItNX3",
-                "JeanyjC08vSfn"
+                "JeanyjC08vSfn",
+                "RINASOA93DrLcL9"
             ],
             "status": "inactive",
             "countdown_start_time": "2026-07-21T05:35:15.645115",
@@ -38996,6 +38997,16 @@
             "countdown_start_time": "2026-07-23T18:28:03.441608",
             "affiliation_balance": 0,
             "countdown_paused": false
+        },
+        {
+            "id": "RINASOA93DrLcL9",
+            "android_id": "b18d9cc90fd39fc08f6ab7e7a598775e",
+            "referred_by": "TOKYYQ1PpZWWF",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-07-23T17:46:35.646984",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
