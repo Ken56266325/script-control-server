@@ -15505,12 +15505,11 @@
             "android_id": "b89ebaea625057877ee142b87dc65651",
             "referred_by": "Timote689901",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-16T09:51:56.540150",
+            "status": "active",
+            "countdown_start_time": "2026-07-31T07:08:39.724513",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 672353,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
