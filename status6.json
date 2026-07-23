@@ -38694,10 +38694,10 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-23T10:50:50.199500",
+            "countdown_start_time": "2026-07-30T10:50:50.199500",
             "affiliation_balance": 0,
-            "plan": "Basique",
-            "pause_count": 4,
+            "plan": "Semaine",
+            "pause_count": 0,
             "max_pauses": 3,
             "countdown_paused": false
         },
