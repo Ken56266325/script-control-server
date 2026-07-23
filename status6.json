@@ -32197,12 +32197,13 @@
                 "Yuri5.0lx4T00Ap"
             ],
             "status": "active",
-            "countdown_start_time": "2026-07-28T09:52:19.725240",
+            "countdown_start_time": "2026-07-23T07:56:20.135992",
             "affiliation_balance": 1000,
             "plan": "Semaine",
-            "countdown_paused": false,
-            "pause_count": 0,
-            "max_pauses": 3
+            "countdown_paused": true,
+            "pause_count": 1,
+            "max_pauses": 3,
+            "paused_remaining_time": 438959
         },
         {
             "id": "MpanjakaPXPzBdqj",
