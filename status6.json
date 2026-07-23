@@ -38556,11 +38556,12 @@
             "referred_by": "IonintsoaTianaNyAinavMPiV6Hv",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-26T12:00:14.779628",
+            "countdown_start_time": "2026-07-23T09:14:04.074012",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 2
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 269170
         },
         {
             "id": "RadoluciengJlO6hjE",
