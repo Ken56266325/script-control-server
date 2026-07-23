@@ -38978,6 +38978,16 @@
             "countdown_start_time": "2026-07-22T23:52:49.330734",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Tireure8vXPVj5",
+            "android_id": "6f3adff36fd62cfe1d66ebcce913901b",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-07-23T14:35:47.105301",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
