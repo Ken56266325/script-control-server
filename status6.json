@@ -37707,10 +37707,11 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-28T21:42:34.226451",
+            "countdown_start_time": "2026-07-23T14:57:05.646850",
             "affiliation_balance": 0,
-            "countdown_paused": false,
-            "plan": "Basique"
+            "countdown_paused": true,
+            "plan": "Basique",
+            "paused_remaining_time": 456328
         },
         {
             "id": "RaissassTrGqOh",
