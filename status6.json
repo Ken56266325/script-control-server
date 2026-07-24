@@ -36795,12 +36795,13 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-30T19:41:29.292824",
+            "countdown_start_time": "2026-07-24T21:25:35.286785",
             "affiliation_balance": 0,
             "plan": "Semaine",
-            "pause_count": 0,
-            "countdown_paused": false,
-            "max_pauses": 3
+            "pause_count": 1,
+            "countdown_paused": true,
+            "max_pauses": 3,
+            "paused_remaining_time": 512154
         },
         {
             "id": "AsminahL4U8mrdn",
