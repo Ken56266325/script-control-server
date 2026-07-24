@@ -33646,11 +33646,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-27T10:46:44.277249",
+            "countdown_start_time": "2026-07-24T08:17:35.793281",
             "affiliation_balance": 0,
-            "countdown_paused": false,
+            "countdown_paused": true,
             "plan": "Basique",
-            "pause_count": 3
+            "pause_count": 3,
+            "paused_remaining_time": 268148
         },
         {
             "id": "IlovonjyJXObxkUt",
