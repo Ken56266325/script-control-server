@@ -14157,13 +14157,12 @@
             "android_id": "af3ee3fb22fa859a4383f9a9b31c75ed",
             "referred_by": "Dona68919229",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-13T18:59:12.825203",
+            "status": "active",
+            "countdown_start_time": "2026-07-27T07:32:09.275049",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 1,
-            "paused_remaining_time": 215376
+            "countdown_paused": false,
+            "pause_count": 1
         },
         {
             "id": "EulalieU5QJzT08",
