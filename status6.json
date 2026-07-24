@@ -38223,11 +38223,12 @@
             "referred_by": "Soso79103",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-28T05:53:00.166940",
+            "countdown_start_time": "2026-07-24T09:01:46.660245",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 3
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 334273
         },
         {
             "id": "Rayanah5coOa3Zr",
