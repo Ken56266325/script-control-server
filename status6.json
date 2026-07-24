@@ -38186,11 +38186,12 @@
                 "KevinhADaWSCd"
             ],
             "status": "active",
-            "countdown_start_time": "2026-07-28T07:23:15.638049",
+            "countdown_start_time": "2026-07-24T09:01:17.596366",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 3
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 339718
         },
         {
             "id": "NiryzY3gWWzA",
