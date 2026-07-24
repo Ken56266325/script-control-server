@@ -22849,11 +22849,12 @@
                 "JosenQPGQkeD"
             ],
             "status": "active",
-            "countdown_start_time": "2026-07-30T21:57:57.669692",
+            "countdown_start_time": "2026-07-24T13:22:58.252636",
             "affiliation_balance": 1000,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 3
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 549299
         },
         {
             "id": "geldoa0LOLdF",
