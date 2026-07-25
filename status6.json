@@ -2604,12 +2604,11 @@
             "referred_to": [
                 "Ando6819202"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-25T08:19:53.644561",
+            "status": "active",
+            "countdown_start_time": "2026-07-28T00:39:50.695591",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 196526
+            "countdown_paused": false
         },
         {
             "id": "Ravaly68193",
