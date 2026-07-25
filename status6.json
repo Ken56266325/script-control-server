@@ -30362,12 +30362,11 @@
             "android_id": "28784245e3dee23c6fd0150668f8aacd",
             "referred_by": "TinamiBEc6zGQE",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-25T17:31:34.021584",
+            "status": "active",
+            "countdown_start_time": "2026-07-30T11:00:56.698361",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 387762,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
