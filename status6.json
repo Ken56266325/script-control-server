@@ -34197,11 +34197,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "inactive",
-            "countdown_start_time": "2026-07-24T05:51:45.961580",
+            "countdown_start_time": "2026-07-25T18:01:22.123699",
             "affiliation_balance": 0,
-            "countdown_paused": false,
+            "countdown_paused": true,
             "plan": "Basique",
-            "pause_count": 3
+            "pause_count": 3,
+            "paused_remaining_time": 0
         },
         {
             "id": "Tiana1BwmuRbO",
