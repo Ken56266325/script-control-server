@@ -42160,11 +42160,10 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-26T16:55:28.387402",
+            "countdown_start_time": "2026-08-01T22:06:23.987422",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 537041
+            "countdown_paused": false
         },
         {
             "id": "AngelokIPnhAEY",
