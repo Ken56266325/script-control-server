@@ -40241,11 +40241,10 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-26T15:20:34.811266",
+            "countdown_start_time": "2026-07-29T16:30:43.656815",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 237881
+            "countdown_paused": false
         },
         {
             "id": "TonnynatanDQixyj7w",
