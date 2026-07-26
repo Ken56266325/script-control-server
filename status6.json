@@ -22144,11 +22144,10 @@
                 "Prudenceue5yY32I"
             ],
             "status": "active",
-            "countdown_start_time": "2026-07-26T15:20:34.803935",
+            "countdown_start_time": "2026-07-31T18:11:59.108263",
             "affiliation_balance": 3000,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 438451
+            "countdown_paused": false
         },
         {
             "id": "@mampiixq5FmodQ9",
