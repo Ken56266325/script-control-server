@@ -2604,12 +2604,11 @@
             "referred_to": [
                 "Ando6819202"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-26T09:42:55.848765",
+            "status": "active",
+            "countdown_start_time": "2026-07-28T06:17:05.859292",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 140214
+            "countdown_paused": false
         },
         {
             "id": "Ravaly68193",
@@ -33852,12 +33851,13 @@
             "referred_to": [
                 "fanilonarindraIoQCHOU4"
             ],
-            "status": "active",
-            "countdown_start_time": "2026-07-30T11:15:40.889418",
+            "status": "inactive",
+            "countdown_start_time": "2026-07-25T12:20:51.726181",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 3
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 330930
         },
         {
             "id": "Sarobidy4gkqJ4xG",
