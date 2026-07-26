@@ -25474,13 +25474,12 @@
             "android_id": "7e97c7e76577c77baaab6214ba8fc917",
             "referred_by": "TantelyftfhcZ7D",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-07-26T15:20:34.805544",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 1,
-            "paused_remaining_time": 0
+            "countdown_paused": false,
+            "pause_count": 1
         },
         {
             "id": "Bri2563",
