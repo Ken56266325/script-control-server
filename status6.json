@@ -41950,13 +41950,12 @@
             "android_id": "35f717a1e2b4b7d30ea61a33e4514d02",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-26T15:20:34.811816",
+            "status": "active",
+            "countdown_start_time": "2026-07-26T16:16:52.443864",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 1,
-            "paused_remaining_time": 0
+            "countdown_paused": false,
+            "pause_count": 1
         },
         {
             "id": "julienNAUNZZgE",
