@@ -41730,11 +41730,10 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-26T15:20:34.811747",
+            "countdown_start_time": "2026-07-27T15:38:51.997574",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 82547,
-            "countdown_paused": true
+            "countdown_paused": false
         },
         {
             "id": "RAFANOMEZANTSOAAvwqtV41",
