@@ -42170,11 +42170,10 @@
             "referred_by": "fahuAGegkSI",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-26T15:20:34.811905",
+            "countdown_start_time": "2026-07-31T23:14:48.320286",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 441954,
-            "countdown_paused": true
+            "countdown_paused": false
         },
         {
             "id": "YascelioCkXhyYip",
