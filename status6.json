@@ -37693,12 +37693,11 @@
                 "AntoineHS43QMNV"
             ],
             "status": "active",
-            "countdown_start_time": "2026-07-26T15:20:34.810410",
+            "countdown_start_time": "2026-07-27T07:32:43.327084",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 1,
-            "paused_remaining_time": 53649
+            "countdown_paused": false,
+            "pause_count": 1
         },
         {
             "id": "baba>iquedAqYlEjZ",
