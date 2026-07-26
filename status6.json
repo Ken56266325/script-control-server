@@ -40877,12 +40877,11 @@
             "android_id": "79609c168165834ef49d01f3e11b14e3",
             "referred_by": "Sylves1jVLJB98",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-26T15:20:34.811453",
+            "status": "active",
+            "countdown_start_time": "2026-07-26T16:01:49.824558",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 0
+            "countdown_paused": false
         },
         {
             "id": "FabienFwMs1ejo",
