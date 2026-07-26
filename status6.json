@@ -38959,9 +38959,12 @@
             "referred_by": "JUSTe2tXcW5l",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-29T11:29:35.649032",
+            "countdown_start_time": "2026-07-26T10:19:14.182632",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 263421,
+            "countdown_paused": true,
+            "pause_count": 1
         },
         {
             "id": "Tinah79142",
