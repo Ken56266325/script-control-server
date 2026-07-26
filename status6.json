@@ -41218,11 +41218,10 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-26T15:20:34.811564",
+            "countdown_start_time": "2026-07-28T12:10:55.178005",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 158868,
-            "countdown_paused": true
+            "countdown_paused": false
         },
         {
             "id": "FerdinandESXlvzXB",
