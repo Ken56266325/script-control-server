@@ -41825,13 +41825,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-26T15:20:34.811766",
+            "countdown_start_time": "2026-07-30T11:40:47.131590",
             "affiliation_balance": 0,
             "plan": "Semaine",
             "pause_count": 0,
             "max_pauses": 3,
-            "countdown_paused": true,
-            "paused_remaining_time": 329568
+            "countdown_paused": false
         },
         {
             "id": "Andry2Dg2Wi3FL",
