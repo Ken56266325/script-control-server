@@ -39738,12 +39738,11 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-26T15:20:34.811103",
+            "countdown_start_time": "2026-07-27T14:09:20.926422",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 68086
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "OlinaholivMcdhHZN6",
