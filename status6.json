@@ -26352,7 +26352,7 @@
                 "JEREMIA1dtE7s9u"
             ],
             "status": "active",
-            "countdown_start_time": "2026-07-26T16:17:16.415931",
+            "countdown_start_time": "2026-07-31T16:18:42.363474",
             "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false,
@@ -26966,11 +26966,12 @@
                 "RosiakoDCkS6o"
             ],
             "status": "active",
-            "countdown_start_time": "2026-08-18T04:02:28.805605",
+            "countdown_start_time": "2026-07-26T15:20:34.806134",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 3
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 1943091
         },
         {
             "id": "NaomyE10lkrZB",
