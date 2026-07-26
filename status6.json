@@ -26139,12 +26139,11 @@
             "referred_by": "SylvieiShdhZQ5",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-26T15:20:34.805811",
+            "countdown_start_time": "2026-07-31T10:21:02.618978",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 1,
-            "paused_remaining_time": 409228
+            "countdown_paused": false,
+            "pause_count": 1
         },
         {
             "id": "Rosette42626",
