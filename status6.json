@@ -26964,12 +26964,11 @@
                 "RosiakoDCkS6o"
             ],
             "status": "active",
-            "countdown_start_time": "2026-07-26T15:20:34.806134",
+            "countdown_start_time": "2026-08-18T04:09:11.086951",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 1943091
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "NaomyE10lkrZB",
