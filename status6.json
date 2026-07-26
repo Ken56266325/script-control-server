@@ -40923,10 +40923,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-27T14:38:24.878815",
+            "countdown_start_time": "2026-07-26T16:30:32.032673",
             "affiliation_balance": 0,
-            "countdown_paused": false,
-            "plan": "Basique"
+            "countdown_paused": true,
+            "plan": "Basique",
+            "paused_remaining_time": 79672,
+            "pause_count": 1
         },
         {
             "id": "AyanftTSVcec",
