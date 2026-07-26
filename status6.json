@@ -42164,11 +42164,10 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-26T15:20:34.811896",
+            "countdown_start_time": "2026-08-01T22:06:09.464598",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 537742,
-            "countdown_paused": true
+            "countdown_paused": false
         },
         {
             "id": "AngelokIPnhAEY",
