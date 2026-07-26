@@ -41201,11 +41201,10 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-26T15:20:34.811568",
+            "countdown_start_time": "2026-08-01T22:14:07.726626",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 539157,
-            "countdown_paused": true
+            "countdown_paused": false
         },
         {
             "id": "rafitajuliot5dZ30LqW",
