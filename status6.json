@@ -41227,12 +41227,11 @@
             "referred_by": "TOKYYQ1PpZWWF",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-26T15:20:34.811580",
+            "countdown_start_time": "2026-07-27T19:37:37.395042",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 1,
-            "paused_remaining_time": 96390
+            "countdown_paused": false,
+            "pause_count": 1
         },
         {
             "id": "FanarZCiMgLE",
