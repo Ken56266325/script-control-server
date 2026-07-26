@@ -41724,11 +41724,10 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-26T15:20:34.811738",
+            "countdown_start_time": "2026-07-30T17:59:05.062299",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 351703
+            "countdown_paused": false
         },
         {
             "id": "JovaneUuf1x72g",
