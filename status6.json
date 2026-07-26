@@ -42246,11 +42246,10 @@
             "referred_by": "ondriphavipw5TC96WT",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-26T15:20:34.811917",
+            "countdown_start_time": "2026-08-01T21:54:18.599261",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 538491,
-            "countdown_paused": true
+            "countdown_paused": false
         }
     ],
     "references": {
