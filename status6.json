@@ -38409,12 +38409,11 @@
             "referred_by": "Jenny5681519",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-26T15:20:34.810660",
+            "countdown_start_time": "2026-08-02T12:55:17.738253",
             "affiliation_balance": 0,
             "plan": "Basique",
             "pause_count": 0,
-            "countdown_paused": true,
-            "paused_remaining_time": 577623
+            "countdown_paused": false
         },
         {
             "id": "ArnohRGGKSuoZ",
