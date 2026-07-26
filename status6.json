@@ -25624,12 +25624,11 @@
                 "Lenz78ZfMr7X"
             ],
             "status": "active",
-            "countdown_start_time": "2026-07-26T15:20:34.805603",
+            "countdown_start_time": "2026-08-15T09:05:09.105934",
             "affiliation_balance": 2000,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 1,
-            "paused_remaining_time": 1702150
+            "countdown_paused": false,
+            "pause_count": 1
         },
         {
             "id": "HerinirainyaWBbURF2",
