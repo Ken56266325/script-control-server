@@ -33600,11 +33600,12 @@
             "referred_by": "Sinia52772",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-30T21:30:43.726057",
+            "countdown_start_time": "2026-07-26T07:08:14.619139",
             "affiliation_balance": 0,
-            "countdown_paused": false,
+            "countdown_paused": true,
             "plan": "Basique",
-            "pause_count": 3
+            "pause_count": 3,
+            "paused_remaining_time": 397349
         },
         {
             "id": "joel5363",
