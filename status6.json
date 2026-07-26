@@ -41931,12 +41931,11 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-26T15:20:34.811807",
+            "countdown_start_time": "2026-07-28T11:32:23.920534",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 155844
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "Kambana68193",
