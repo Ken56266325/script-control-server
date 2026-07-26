@@ -42061,13 +42061,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-26T15:20:34.811848",
+            "countdown_start_time": "2026-07-28T07:44:38.906466",
             "affiliation_balance": 0,
             "plan": "Semaine",
             "pause_count": 0,
             "max_pauses": 3,
-            "paused_remaining_time": 142557,
-            "countdown_paused": true
+            "countdown_paused": false
         },
         {
             "id": "Tinah9194294",
