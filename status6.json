@@ -41521,11 +41521,10 @@
             "referred_by": "ondriphavipw5TC96WT",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-26T15:20:34.811673",
+            "countdown_start_time": "2026-08-07T15:58:20.929028",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 1035611,
-            "countdown_paused": true
+            "countdown_paused": false
         },
         {
             "id": "Yuri2.0ZXRvnHYw",
