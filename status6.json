@@ -41985,11 +41985,10 @@
             "referred_by": "ut7440788665",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-26T15:20:34.811831",
+            "countdown_start_time": "2026-07-27T13:21:38.073005",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 75026
+            "countdown_paused": false
         },
         {
             "id": "TsiatoSgylNrzc",
