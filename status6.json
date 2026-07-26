@@ -38786,11 +38786,10 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-26T15:20:34.810776",
+            "countdown_start_time": "2026-07-26T18:38:53.443435",
             "affiliation_balance": 0,
-            "countdown_paused": true,
-            "plan": "Basique",
-            "paused_remaining_time": 6930
+            "countdown_paused": false,
+            "plan": "Basique"
         },
         {
             "id": "FranqNo11k7Ie",
