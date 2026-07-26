@@ -41227,11 +41227,12 @@
             "referred_by": "TOKYYQ1PpZWWF",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-27T19:37:37.395042",
+            "countdown_start_time": "2026-07-26T15:20:34.811580",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 1
+            "countdown_paused": true,
+            "pause_count": 1,
+            "paused_remaining_time": 96390
         },
         {
             "id": "FanarZCiMgLE",
@@ -42159,10 +42160,11 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-01T22:06:09.464598",
+            "countdown_start_time": "2026-07-26T16:55:28.387402",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 537041
         },
         {
             "id": "AngelokIPnhAEY",
