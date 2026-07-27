@@ -22563,7 +22563,8 @@
                 "TokyWRpxRqkM",
                 "HaingoCay3DmQY",
                 "HanitraX9BtyZEX",
-                "TOKYYQ1PpZWWF"
+                "TOKYYQ1PpZWWF",
+                "TafitaG1kVQmnf"
             ],
             "status": "active",
             "countdown_start_time": "2026-07-27T17:11:26.411608",
@@ -42218,6 +42219,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-07-27T15:49:37.676807",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "TafitaG1kVQmnf",
+            "android_id": "22eaf9f6d3caaf4ecb03a02ed47a6e60",
+            "referred_by": "TOKYU5LywOFs",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-07-27T18:30:58.915144",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
