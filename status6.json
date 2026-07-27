@@ -41931,12 +41931,11 @@
             "android_id": "e07a4f385608d7d25820eddbbaf60d59",
             "referred_by": "ManahiraA8bhcX0M",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-26T15:20:34.811823",
+            "status": "active",
+            "countdown_start_time": "2026-07-27T21:05:10.554604",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 0,
-            "countdown_paused": true
+            "countdown_paused": false
         },
         {
             "id": "drovaraa9P3QMMh",
