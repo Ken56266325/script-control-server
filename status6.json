@@ -22138,11 +22138,10 @@
                 "Prudenceue5yY32I"
             ],
             "status": "active",
-            "countdown_start_time": "2026-07-27T02:15:35.179038",
+            "countdown_start_time": "2026-07-31T23:17:54.503283",
             "affiliation_balance": 3000,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 402983,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
