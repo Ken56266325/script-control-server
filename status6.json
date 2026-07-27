@@ -41916,12 +41916,11 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-27T11:01:19.533368",
+            "countdown_start_time": "2026-08-02T19:39:03.168375",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 537466
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "julienNAUNZZgE",
