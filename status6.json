@@ -41990,11 +41990,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-29T04:52:38.094607",
+            "countdown_start_time": "2026-07-27T20:37:21.961742",
             "affiliation_balance": 0,
-            "countdown_paused": false,
+            "countdown_paused": true,
             "plan": "Basique",
-            "pause_count": 1
+            "pause_count": 2,
+            "paused_remaining_time": 116116
         },
         {
             "id": "Tinahzh6Gv2xx",
