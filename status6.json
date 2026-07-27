@@ -7998,13 +7998,12 @@
             "referred_by": "Germain5719\u20ac",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-26T15:20:34.796069",
+            "countdown_start_time": "2026-07-28T09:41:23.778499",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 0,
-            "max_pauses": 3,
-            "paused_remaining_time": 73602
+            "max_pauses": 3
         },
         {
             "id": "Bevtt68192920",
