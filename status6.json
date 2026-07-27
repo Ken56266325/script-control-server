@@ -20426,11 +20426,12 @@
                 "ElinahWqbzIawk"
             ],
             "status": "active",
-            "countdown_start_time": "2026-07-27T13:12:33.057087",
+            "countdown_start_time": "2026-07-27T14:00:11.599034",
             "affiliation_balance": 3000,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 3
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 0
         },
         {
             "id": "YtokianaQHxOXDY3",
