@@ -7381,12 +7381,11 @@
             "android_id": "d63382ccba7c91dc74e6278bf3f6bd52",
             "referred_by": "Lalaina89103",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-26T15:20:34.795696",
+            "status": "active",
+            "countdown_start_time": "2026-07-27T15:06:26.727702",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 0
+            "countdown_paused": false
         },
         {
             "id": "Bekaly56189",
