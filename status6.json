@@ -41881,11 +41881,10 @@
             "referred_by": "TOKYYQ1PpZWWF",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-26T15:20:34.811797",
+            "countdown_start_time": "2026-07-28T03:31:12.583930",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 32493,
-            "countdown_paused": true
+            "countdown_paused": false
         },
         {
             "id": "Tsiiferanaqx0LdhOh",
