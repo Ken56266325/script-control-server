@@ -1211,12 +1211,11 @@
             "referred_to": [
                 "1"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-26T15:20:34.792079",
+            "status": "active",
+            "countdown_start_time": "2026-07-27T18:31:55.612559",
             "affiliation_balance": 2000,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 0
+            "countdown_paused": false
         },
         {
             "id": "Brichard1038",
