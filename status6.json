@@ -42085,11 +42085,10 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-26T15:20:34.811872",
+            "countdown_start_time": "2026-07-27T13:15:06.128840",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 0,
-            "countdown_paused": true
+            "countdown_paused": false
         },
         {
             "id": "Tireure8vXPVj5",
