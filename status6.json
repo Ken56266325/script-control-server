@@ -40868,13 +40868,12 @@
             "android_id": "04991582c4877062018b15f11b119700",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-26T15:20:34.811471",
+            "status": "active",
+            "countdown_start_time": "2026-07-27T19:27:51.753052",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 1,
-            "paused_remaining_time": 0
+            "countdown_paused": false,
+            "pause_count": 1
         },
         {
             "id": "NirinabPsVcHlZ",
