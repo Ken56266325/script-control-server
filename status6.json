@@ -42238,6 +42238,16 @@
             "countdown_start_time": "2026-08-04T02:09:45.994321",
             "affiliation_balance": 0,
             "countdown_paused": false
+        },
+        {
+            "id": "AndreaKnfOkGa",
+            "android_id": "50ddf4ef5bbbe4286ff2f59dcdc89482",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-07-28T01:33:47.549902",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
