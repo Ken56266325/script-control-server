@@ -41604,13 +41604,12 @@
             "android_id": "8007ffce923934cbf3e5ec82eff66670",
             "referred_by": "TOKYYQ1PpZWWF",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-26T15:20:34.811709",
+            "status": "active",
+            "countdown_start_time": "2026-07-27T18:30:14.499546",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 0
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "PriscalvLItNX3",
