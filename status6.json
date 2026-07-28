@@ -42148,7 +42148,8 @@
             "android_id": "c86cb5067dbb7009ccfaf6c226da213b",
             "referred_by": null,
             "referred_to": [
-                "Orange3w9u1Q8jM"
+                "Orange3w9u1Q8jM",
+                "ElisadkOjOJmKZw"
             ],
             "status": "active",
             "countdown_start_time": "2026-08-01T22:06:23.987422",
@@ -42318,6 +42319,16 @@
             "paused_remaining_time": 603853,
             "countdown_paused": true,
             "pause_count": 1
+        },
+        {
+            "id": "ElisadkOjOJmKZw",
+            "android_id": "50517e61004173b94d632bb43cf51adb",
+            "referred_by": "Atoniaina2XQwm4AcQ",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-07-29T03:35:25.942575",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
