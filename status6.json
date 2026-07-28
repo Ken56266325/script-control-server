@@ -42280,6 +42280,16 @@
             "countdown_start_time": "2026-07-28T13:33:30.873963",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Sam7uWtMsQB",
+            "android_id": "3bed42a8b79e3aafcbacac28dc9daf62",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-07-28T16:14:01.654399",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
