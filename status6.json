@@ -42274,6 +42274,16 @@
             "countdown_start_time": "2026-07-28T14:33:55.958600",
             "affiliation_balance": 0,
             "countdown_paused": false
+        },
+        {
+            "id": "Tsiverymahefamh5Biz8G",
+            "android_id": "b3027b423eb5a504b7e82fc15409e2f7",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-07-28T13:33:30.873963",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
