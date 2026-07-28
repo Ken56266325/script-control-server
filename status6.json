@@ -7380,11 +7380,10 @@
             "referred_by": "Lalaina89103",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-28T08:01:10.990172",
+            "countdown_start_time": "2026-08-03T23:05:43.574176",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 543985,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
