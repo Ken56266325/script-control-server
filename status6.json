@@ -4084,12 +4084,11 @@
                 "anita29vgIU59",
                 "MaholuckXN7a3jwM"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-26T15:20:34.793802",
+            "status": "active",
+            "countdown_start_time": "2026-07-28T09:06:14.268910",
             "affiliation_balance": 4000,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 0
+            "countdown_paused": false
         },
         {
             "id": "Gilles671930",
