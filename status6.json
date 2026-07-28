@@ -4085,11 +4085,10 @@
                 "MaholuckXN7a3jwM"
             ],
             "status": "active",
-            "countdown_start_time": "2026-07-28T10:21:36.981570",
+            "countdown_start_time": "2026-08-04T09:07:42.033456",
             "affiliation_balance": 4000,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 600357
+            "countdown_paused": false
         },
         {
             "id": "Gilles671930",
