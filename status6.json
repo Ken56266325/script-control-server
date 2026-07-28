@@ -41968,10 +41968,11 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-29T04:32:27.532182",
+            "countdown_start_time": "2026-07-28T08:02:01.234499",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 34439
         },
         {
             "id": "ElinahWqbzIawk",
@@ -42266,9 +42267,10 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-30T18:56:38.011379",
+            "countdown_start_time": "2026-07-28T19:11:43.994571",
             "affiliation_balance": 0,
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 171894
         },
         {
             "id": "Tsiverymahefamh5Biz8G",
