@@ -22132,7 +22132,8 @@
                 "RinahBDxl3jGe",
                 "MandresyOKAALFZm",
                 "TanjonaVbVyness",
-                "Prudenceue5yY32I"
+                "Prudenceue5yY32I",
+                "HermannNGznhNVp"
             ],
             "status": "active",
             "countdown_start_time": "2026-07-28T16:03:12.402518",
@@ -42289,6 +42290,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-07-28T16:14:01.654399",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "HermannNGznhNVp",
+            "android_id": "224fa8e82397458c570c2b70d96d9a79",
+            "referred_by": "jeannie23458",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-07-28T21:19:44.696065",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
