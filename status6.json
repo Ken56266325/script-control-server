@@ -41972,10 +41972,11 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-28T17:36:00.848803",
+            "countdown_start_time": "2026-07-28T08:02:01.234499",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 34439
         },
         {
             "id": "ElinahWqbzIawk",
