@@ -4085,10 +4085,11 @@
                 "MaholuckXN7a3jwM"
             ],
             "status": "active",
-            "countdown_start_time": "2026-08-04T09:07:34.364431",
+            "countdown_start_time": "2026-07-28T10:21:36.981570",
             "affiliation_balance": 4000,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 600357
         },
         {
             "id": "Gilles671930",
@@ -40723,12 +40724,11 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-28T10:09:01.016242",
+            "countdown_start_time": "2026-07-30T14:09:31.821350",
             "affiliation_balance": 0,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "plan": "Basique",
-            "pause_count": 3,
-            "paused_remaining_time": 187230
+            "pause_count": 2
         },
         {
             "id": "RaissassTrGqOh",
