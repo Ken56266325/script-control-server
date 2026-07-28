@@ -24878,12 +24878,11 @@
             "referred_by": "Cetone479580",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-26T15:20:34.805297",
+            "countdown_start_time": "2028-12-25T07:32:51.071467",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 76104309
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "TantelyftfhcZ7D",
@@ -41555,12 +41554,13 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-31T01:47:34.790596",
+            "countdown_start_time": "2026-07-28T09:20:11.588412",
             "affiliation_balance": 0,
             "plan": "Semaine",
             "pause_count": 1,
             "max_pauses": 3,
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 224395
         },
         {
             "id": "RovahasinaC2iGysbu",
