@@ -40722,12 +40722,11 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-27T08:40:15.414649",
+            "countdown_start_time": "2026-07-30T14:09:31.821350",
             "affiliation_balance": 0,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "plan": "Basique",
-            "pause_count": 2,
-            "paused_remaining_time": 201994
+            "pause_count": 2
         },
         {
             "id": "RaissassTrGqOh",
