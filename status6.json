@@ -41838,11 +41838,12 @@
             "referred_by": "Soso79103",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-05T19:46:55.793710",
+            "countdown_start_time": "2026-07-29T20:30:49.572649",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 4
+            "countdown_paused": true,
+            "pause_count": 4,
+            "paused_remaining_time": 602166
         },
         {
             "id": "StanneyTXbGAKd",
