@@ -41557,13 +41557,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-29T04:39:48.445451",
+            "countdown_start_time": "2026-07-31T18:33:10.787212",
             "affiliation_balance": 0,
             "plan": "Semaine",
             "pause_count": 2,
             "max_pauses": 3,
-            "countdown_paused": true,
-            "paused_remaining_time": 163233
+            "countdown_paused": false
         },
         {
             "id": "RovahasinaC2iGysbu",
