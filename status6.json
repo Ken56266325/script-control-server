@@ -42257,9 +42257,11 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-04T15:07:44.782158",
+            "countdown_start_time": "2026-07-29T09:07:37.979470",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 540006,
+            "countdown_paused": true
         },
         {
             "id": "MariolLlpitr5",
