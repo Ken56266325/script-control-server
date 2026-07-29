@@ -41828,11 +41828,10 @@
             "referred_by": "JovaneUuf1x72g",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-29T07:36:55.622918",
+            "countdown_start_time": "2026-07-30T14:07:16.009271",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 105138,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
