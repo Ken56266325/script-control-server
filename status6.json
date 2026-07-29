@@ -42275,11 +42275,10 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-29T17:50:05.182470",
+            "countdown_start_time": "2026-07-31T12:41:07.792352",
             "affiliation_balance": 0,
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 127200
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "Tsiverymahefamh5Biz8G",
