@@ -42277,10 +42277,9 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-29T07:36:46.547472",
+            "countdown_start_time": "2026-07-31T05:10:05.387640",
             "affiliation_balance": 0,
-            "countdown_paused": true,
-            "paused_remaining_time": 128650,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
