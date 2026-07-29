@@ -34865,11 +34865,12 @@
                 "ElyseeeNSLgNwY5"
             ],
             "status": "active",
-            "countdown_start_time": "2026-08-03T14:39:06.549989",
+            "countdown_start_time": "2026-07-29T07:34:54.093961",
             "affiliation_balance": 1000,
             "plan": "Basique",
             "pause_count": 3,
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 457452
         },
         {
             "id": "lucioaldwanEWBzmj9a",
