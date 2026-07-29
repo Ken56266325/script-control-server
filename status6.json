@@ -41827,10 +41827,12 @@
             "referred_by": "JovaneUuf1x72g",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-30T12:49:13.933825",
+            "countdown_start_time": "2026-07-29T07:36:55.622918",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 105138,
+            "pause_count": 1
         },
         {
             "id": "Zinnia10JlNrLkbz",
