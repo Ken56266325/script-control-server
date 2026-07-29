@@ -42151,7 +42151,8 @@
             "referred_by": null,
             "referred_to": [
                 "Orange3w9u1Q8jM",
-                "ElisadkOjOJmKZw"
+                "ElisadkOjOJmKZw",
+                "Jo\u00ebltontonYqAAXR3Z"
             ],
             "status": "active",
             "countdown_start_time": "2026-08-01T22:06:23.987422",
@@ -42350,6 +42351,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-07-29T23:51:32.042891",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Jo\u00ebltontonYqAAXR3Z",
+            "android_id": "aa4b6ae51fad30321f5b7d26412bde88",
+            "referred_by": "Atoniaina2XQwm4AcQ",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-07-30T00:19:34.418197",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
