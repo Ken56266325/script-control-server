@@ -36761,11 +36761,11 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-30T05:45:36.936524",
+            "countdown_start_time": "2026-08-06T05:45:36.936524",
             "affiliation_balance": 0,
             "plan": "Semaine",
             "countdown_paused": false,
-            "pause_count": 1,
+            "pause_count": 0,
             "max_pauses": 3
         },
         {
