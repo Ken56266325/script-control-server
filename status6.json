@@ -42039,11 +42039,10 @@
                 "AngelokIPnhAEY"
             ],
             "status": "active",
-            "countdown_start_time": "2026-07-27T16:37:44.523140",
+            "countdown_start_time": "2026-08-05T00:48:18.610475",
             "affiliation_balance": 0,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "plan": "Basique",
-            "paused_remaining_time": 575307,
             "pause_count": 1
         },
         {
