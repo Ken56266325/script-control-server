@@ -42105,11 +42105,10 @@
             "android_id": "d0a4d9e168fcf70334b25d5c4501c1ce",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-26T15:20:34.811879",
+            "status": "active",
+            "countdown_start_time": "2026-07-29T18:59:34.127014",
             "affiliation_balance": 0,
-            "countdown_paused": true,
-            "paused_remaining_time": 0
+            "countdown_paused": false
         },
         {
             "id": "RINASOA93DrLcL9",
