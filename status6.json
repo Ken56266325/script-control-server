@@ -42197,10 +42197,12 @@
             "referred_by": "JovaneUuf1x72g",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-07T22:42:37.256402",
+            "countdown_start_time": "2026-07-30T17:48:50.988613",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 708826,
+            "pause_count": 1
         },
         {
             "id": "Peurv8kirfK8",
