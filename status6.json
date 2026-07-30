@@ -28098,11 +28098,12 @@
             "referred_by": "HermanODwBrkLl",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-31T22:03:28.528850",
+            "countdown_start_time": "2026-07-30T06:44:54.154599",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 3
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 141514
         },
         {
             "id": "Vezoocarbonele80J3yES",
