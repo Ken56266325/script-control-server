@@ -14115,12 +14115,13 @@
                 "FenowlJ7itBb"
             ],
             "status": "active",
-            "countdown_start_time": "2026-08-02T01:58:54.799432",
+            "countdown_start_time": "2026-07-30T08:21:58.122705",
             "affiliation_balance": 6000,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 2,
-            "max_pauses": 3
+            "countdown_paused": true,
+            "pause_count": 3,
+            "max_pauses": 3,
+            "paused_remaining_time": 236216
         },
         {
             "id": "Fabiend8f8RIM2",
