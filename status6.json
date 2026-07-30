@@ -41846,12 +41846,11 @@
             "referred_by": "Soso79103",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-30T09:07:04.650952",
+            "countdown_start_time": "2026-08-06T14:34:47.655400",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 4,
-            "paused_remaining_time": 592914
+            "countdown_paused": false,
+            "pause_count": 4
         },
         {
             "id": "StanneyTXbGAKd",
