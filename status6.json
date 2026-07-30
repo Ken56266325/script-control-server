@@ -42204,12 +42204,11 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-28T19:59:18.164791",
+            "countdown_start_time": "2026-08-03T17:11:50.640667",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 330721
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "Lenz78ZfMr7X",
