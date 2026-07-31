@@ -2761,10 +2761,11 @@
                 "Ando6819202"
             ],
             "status": "active",
-            "countdown_start_time": "2026-08-05T13:38:33.937958",
+            "countdown_start_time": "2026-07-31T09:31:51.498175",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 446802
         },
         {
             "id": "Ravaly68193",
