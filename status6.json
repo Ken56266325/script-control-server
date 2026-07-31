@@ -40724,11 +40724,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-01T13:31:29.890616",
+            "countdown_start_time": "2026-07-31T12:14:48.410075",
             "affiliation_balance": 0,
-            "countdown_paused": false,
+            "countdown_paused": true,
             "plan": "Basique",
-            "pause_count": 4
+            "pause_count": 4,
+            "paused_remaining_time": 91001
         },
         {
             "id": "RaissassTrGqOh",
