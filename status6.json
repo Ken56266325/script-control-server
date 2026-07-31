@@ -40873,11 +40873,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-03T19:29:15.478214",
+            "countdown_start_time": "2026-07-31T10:13:38.454906",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 1
+            "countdown_paused": true,
+            "pause_count": 2,
+            "paused_remaining_time": 292537
         },
         {
             "id": "NirinabPsVcHlZ",
