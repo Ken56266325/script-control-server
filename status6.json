@@ -41053,13 +41053,12 @@
                 "JeanyjC08vSfn",
                 "RINASOA93DrLcL9"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-26T15:20:34.811525",
+            "status": "active",
+            "countdown_start_time": "2026-07-31T04:35:48.910135",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 4,
-            "paused_remaining_time": 0
+            "countdown_paused": false,
+            "pause_count": 4
         },
         {
             "id": "Zinnia7jX2vCjFr",
