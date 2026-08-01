@@ -42038,11 +42038,12 @@
                 "AngelokIPnhAEY"
             ],
             "status": "active",
-            "countdown_start_time": "2026-08-05T00:48:18.610475",
+            "countdown_start_time": "2026-08-01T14:43:12.537813",
             "affiliation_balance": 0,
-            "countdown_paused": false,
+            "countdown_paused": true,
             "plan": "Basique",
-            "pause_count": 1
+            "pause_count": 2,
+            "paused_remaining_time": 295506
         },
         {
             "id": "BalaTLdvkAHw",
