@@ -40315,14 +40315,13 @@
             "android_id": "ba6ed8b750827ef3cfbda1e7ad7fe96b",
             "referred_by": "Noutahtahy6rRaqvU",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-26T15:20:34.811289",
+            "status": "active",
+            "countdown_start_time": "2026-08-01T10:37:31.218240",
             "affiliation_balance": 0,
             "plan": "Basique",
             "pause_count": 0,
-            "countdown_paused": true,
-            "max_pauses": 3,
-            "paused_remaining_time": 0
+            "countdown_paused": false,
+            "max_pauses": 3
         },
         {
             "id": "Fitiavanafinona0M6sRnL7",
