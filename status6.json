@@ -42331,11 +42331,10 @@
             "referred_by": "Atoniaina2XQwm4AcQ",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-31T16:48:50.457236",
+            "countdown_start_time": "2026-08-06T19:35:54.790472",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 434229,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
