@@ -41244,12 +41244,11 @@
                 "JRan67yLp47A"
             ],
             "status": "active",
-            "countdown_start_time": "2026-07-31T07:54:39.398893",
+            "countdown_start_time": "2026-08-04T06:14:24.504425",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 143427
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "NiryzY3gWWzA",
