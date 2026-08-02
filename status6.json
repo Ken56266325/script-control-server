@@ -40841,11 +40841,12 @@
             "referred_by": "Sylves1jVLJB98",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-05T10:34:17.992382",
+            "countdown_start_time": "2026-08-02T21:06:59.024079",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 1
+            "countdown_paused": true,
+            "pause_count": 2,
+            "paused_remaining_time": 221238
         },
         {
             "id": "FabienFwMs1ejo",
