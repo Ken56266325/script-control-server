@@ -34559,7 +34559,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2026-07-26T15:20:34.809085",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 2000,
             "plan": "Basique",
             "countdown_paused": true,
             "pause_count": 1,
@@ -34797,11 +34797,11 @@
                 "Yuri5.0lx4T00Ap"
             ],
             "status": "active",
-            "countdown_start_time": "2026-07-31T20:23:37.176210",
+            "countdown_start_time": "2026-08-09T15:32:12.581863",
             "affiliation_balance": 0,
             "plan": "Semaine",
             "countdown_paused": false,
-            "pause_count": 3,
+            "pause_count": 0,
             "max_pauses": 3
         },
         {
