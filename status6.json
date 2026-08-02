@@ -38411,7 +38411,9 @@
             "id": "karenia0XR2hs",
             "android_id": "6b15407bf3fe702a9a101da463d6a820",
             "referred_by": "Jenny5681519",
-            "referred_to": [],
+            "referred_to": [
+                "JakartaoNTzCI77"
+            ],
             "status": "active",
             "countdown_start_time": "2026-08-02T13:05:55.110322",
             "affiliation_balance": 0,
@@ -42370,6 +42372,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-08-06T00:19:45.159050",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "JakartaoNTzCI77",
+            "android_id": "3a2516cfadc60ea74bde216d917ad500",
+            "referred_by": "karenia0XR2hs",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-08-02T14:38:45.536990",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
