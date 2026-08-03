@@ -42384,6 +42384,16 @@
             "countdown_start_time": "2026-08-02T14:38:45.536990",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "TokyVSfrGVft",
+            "android_id": "e1058bddd4f6cbbde3504577d6e36f1f",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-08-03T09:26:16.286486",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
