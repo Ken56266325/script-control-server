@@ -42394,6 +42394,16 @@
             "countdown_start_time": "2026-08-03T09:26:16.286486",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Dhlfp4Jik71z",
+            "android_id": "670ba8993444f2771f07861937f2646c",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-08-03T12:07:27.267216",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
