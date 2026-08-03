@@ -604,14 +604,13 @@
                 "Octane5nTT7iX7",
                 "Siskisisisc6nYwEzY"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-07-26T15:20:34.791736",
+            "status": "active",
+            "countdown_start_time": "2026-08-03T13:19:26.309510",
             "affiliation_balance": 1000,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "plan": "Basique",
             "pause_count": 0,
-            "max_pauses": 3,
-            "paused_remaining_time": 0
+            "max_pauses": 3
         },
         {
             "id": "Tatamo5394",
