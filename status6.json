@@ -41756,12 +41756,11 @@
             "referred_by": "Soso79103",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-07-31T07:54:29.265408",
+            "countdown_start_time": "2026-08-10T01:11:02.388036",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 541071
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "BruceZd9QkM2F",
