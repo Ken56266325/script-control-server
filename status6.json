@@ -33441,11 +33441,10 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-02T11:07:04.347442",
+            "countdown_start_time": "2026-08-04T04:29:56.470846",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 35494
+            "countdown_paused": false
         },
         {
             "id": "Akelabienr2JtN16S",
