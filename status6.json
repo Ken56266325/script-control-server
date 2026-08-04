@@ -20923,12 +20923,11 @@
                 "TafitaG1kVQmnf"
             ],
             "status": "active",
-            "countdown_start_time": "2026-08-04T07:31:29.827994",
+            "countdown_start_time": "2026-08-04T19:53:35.440449",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 1,
-            "paused_remaining_time": 43527
+            "countdown_paused": false,
+            "pause_count": 1
         },
         {
             "id": "Rovantsoax61zAGre",
