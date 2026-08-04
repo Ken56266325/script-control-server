@@ -38506,11 +38506,10 @@
             "referred_by": "ondriphavipw5TC96WT",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-04T07:31:29.842130",
+            "countdown_start_time": "2026-08-07T16:16:35.286682",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 289611
+            "countdown_paused": false
         },
         {
             "id": "Yuri2.0ZXRvnHYw",
