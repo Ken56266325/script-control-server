@@ -37198,12 +37198,11 @@
             "referred_by": "Soso79103",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-04T07:31:29.841144",
+            "countdown_start_time": "2026-08-05T23:49:42.988589",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 142613
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "BabeojPc6ud0",
