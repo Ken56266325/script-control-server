@@ -26074,12 +26074,11 @@
             "referred_by": "Velotsara681900",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-04T07:31:29.832237",
+            "countdown_start_time": "2026-08-07T17:11:16.178662",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 292744
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "ClaireAfjicFcp",
