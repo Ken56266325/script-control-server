@@ -26088,12 +26088,11 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-04T07:31:29.832268",
+            "countdown_start_time": "2026-08-04T11:59:25.037488",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 13603
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "RANOFRAbkYTYgSb",
