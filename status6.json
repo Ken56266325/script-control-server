@@ -35578,12 +35578,11 @@
                 "JakartaoNTzCI77"
             ],
             "status": "active",
-            "countdown_start_time": "2026-08-04T07:31:29.839952",
+            "countdown_start_time": "2026-08-17T03:07:52.277904",
             "affiliation_balance": 0,
             "plan": "Basique",
             "pause_count": 2,
-            "countdown_paused": true,
-            "paused_remaining_time": 1081500
+            "countdown_paused": false
         },
         {
             "id": "ArnohRGGKSuoZ",
