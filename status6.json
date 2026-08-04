@@ -38595,12 +38595,11 @@
             "referred_by": "TOKYYQ1PpZWWF",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-04T07:31:29.842213",
+            "countdown_start_time": "2026-08-04T08:57:46.377527",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 0
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "Yuri5.0lx4T00Ap",
