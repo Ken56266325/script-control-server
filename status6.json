@@ -13138,13 +13138,12 @@
                 "FenowlJ7itBb"
             ],
             "status": "active",
-            "countdown_start_time": "2026-08-04T07:31:29.821628",
+            "countdown_start_time": "2026-08-09T23:12:45.689435",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 3,
-            "max_pauses": 3,
-            "paused_remaining_time": 487510
+            "max_pauses": 3
         },
         {
             "id": "Fabiend8f8RIM2",
