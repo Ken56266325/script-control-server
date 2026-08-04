@@ -28163,12 +28163,11 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-03T12:53:17.031731",
+            "countdown_start_time": "2026-08-04T11:18:13.268375",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 18315
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "RANOFRAbkYTYgSb",
