@@ -38540,7 +38540,7 @@
             "referred_by": "TOKYYQ1PpZWWF",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-05T04:37:29.077265",
+            "countdown_start_time": "2026-08-06T04:37:48.945063",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false,
@@ -39075,10 +39075,11 @@
             "referred_by": "TOKYYQ1PpZWWF",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-05T05:58:09.390453",
+            "countdown_start_time": "2026-08-04T07:31:29.842645",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 37529
         },
         {
             "id": "KevinhADaWSCd",
