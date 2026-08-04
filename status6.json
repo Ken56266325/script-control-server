@@ -38846,11 +38846,10 @@
             "referred_by": "TOKYYQ1PpZWWF",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-04T07:31:29.842434",
+            "countdown_start_time": "2026-08-04T10:18:06.483399",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 0
+            "countdown_paused": false
         },
         {
             "id": "Tsiiferanaqx0LdhOh",
