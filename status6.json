@@ -39341,12 +39341,11 @@
             "referred_by": "Atoniaina2XQwm4AcQ",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-04T07:31:29.842825",
+            "countdown_start_time": "2026-08-07T02:54:45.795147",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 240871
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "JRan67yLp47A",
