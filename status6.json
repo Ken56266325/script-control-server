@@ -33653,12 +33653,11 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-04T10:36:11.131098",
+            "countdown_start_time": "2026-08-09T13:36:22.089472",
             "affiliation_balance": 0,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "plan": "Basique",
-            "pause_count": 3,
-            "paused_remaining_time": 420938
+            "pause_count": 3
         },
         {
             "id": "Brutal9100202",
