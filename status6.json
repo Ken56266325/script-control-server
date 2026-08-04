@@ -36658,13 +36658,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-04T07:31:29.840723",
+            "countdown_start_time": "2026-08-06T22:42:02.664706",
             "affiliation_balance": 0,
             "plan": "Semaine",
             "pause_count": 1,
-            "countdown_paused": true,
-            "max_pauses": 3,
-            "paused_remaining_time": 219673
+            "countdown_paused": false,
+            "max_pauses": 3
         },
         {
             "id": "AntoineHS43QMNV",
