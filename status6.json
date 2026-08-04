@@ -32023,13 +32023,12 @@
             "referred_by": "Noutahtahy6rRaqvU",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-04T07:31:29.837122",
+            "countdown_start_time": "2026-08-10T14:28:22.005578",
             "affiliation_balance": 0,
             "plan": "Basique",
             "pause_count": 0,
-            "countdown_paused": true,
-            "max_pauses": 3,
-            "paused_remaining_time": 542266
+            "countdown_paused": false,
+            "max_pauses": 3
         },
         {
             "id": "RazafyijlcqWLe",
