@@ -38989,13 +38989,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-04T07:31:29.842552",
+            "countdown_start_time": "2026-08-04T08:29:43.812674",
             "affiliation_balance": 0,
             "plan": "Semaine",
             "pause_count": 0,
             "max_pauses": 3,
-            "countdown_paused": true,
-            "paused_remaining_time": 789
+            "countdown_paused": false
         },
         {
             "id": "Tinah9194294",
