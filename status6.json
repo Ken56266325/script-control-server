@@ -40143,12 +40143,11 @@
             "referred_by": "Soso79103",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-03T17:55:36.620811",
+            "countdown_start_time": "2026-08-05T23:08:23.584023",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 147286
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "BabeojPc6ud0",
