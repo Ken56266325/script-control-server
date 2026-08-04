@@ -39208,11 +39208,10 @@
             "referred_by": "TOKYU5LywOFs",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-04T07:31:29.842742",
+            "countdown_start_time": "2026-08-04T09:53:53.245355",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 0,
-            "countdown_paused": true
+            "countdown_paused": false
         },
         {
             "id": "olivia7813292",
