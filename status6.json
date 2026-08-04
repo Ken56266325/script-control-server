@@ -39000,12 +39000,11 @@
                 "AngelokIPnhAEY"
             ],
             "status": "active",
-            "countdown_start_time": "2026-08-04T07:31:29.842567",
+            "countdown_start_time": "2026-08-07T05:18:11.130841",
             "affiliation_balance": 0,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "plan": "Basique",
-            "pause_count": 2,
-            "paused_remaining_time": 230877
+            "pause_count": 2
         },
         {
             "id": "BalaTLdvkAHw",
