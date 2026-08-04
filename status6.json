@@ -47,13 +47,12 @@
                 "kennygQDlP4rZ"
             ],
             "status": "active",
-            "countdown_start_time": "2026-08-04T07:31:29.811661",
+            "countdown_start_time": "2028-10-01T06:15:46.586026",
             "affiliation_balance": 819000,
             "android_id": "d099fb72fa1d28a5627ff511b88111f7",
             "plan": "Basique",
             "paused_at": null,
-            "countdown_paused": true,
-            "paused_remaining_time": 68159835
+            "countdown_paused": false
         },
         {
             "id": "Andry5130",
