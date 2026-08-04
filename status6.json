@@ -38696,11 +38696,10 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-04T07:31:29.842282",
+            "countdown_start_time": "2026-08-06T18:43:51.712049",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 211654
+            "countdown_paused": false
         },
         {
             "id": "JovaneUuf1x72g",
