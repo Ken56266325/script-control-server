@@ -38528,10 +38528,10 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-04T07:31:29.842162",
+            "countdown_start_time": "2026-08-11T15:44:08.288334",
             "affiliation_balance": 0,
             "plan": "Semaine",
-            "pause_count": 3,
+            "pause_count": 0,
             "max_pauses": 3,
             "countdown_paused": true,
             "paused_remaining_time": 0
