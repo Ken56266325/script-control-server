@@ -38906,12 +38906,11 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-04T07:31:29.842459",
+            "countdown_start_time": "2026-08-05T19:29:32.439564",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 129116
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "Kambana68193",
