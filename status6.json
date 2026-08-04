@@ -34210,7 +34210,7 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-04T18:52:18.580964",
+            "countdown_start_time": "2026-08-05T18:53:03.990872",
             "affiliation_balance": 0,
             "countdown_paused": false,
             "plan": "Basique",
@@ -38854,11 +38854,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-06T00:11:10.745681",
+            "countdown_start_time": "2026-08-04T13:14:24.120332",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 3
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 108908
         },
         {
             "id": "Kambana68193",
