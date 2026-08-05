@@ -39385,6 +39385,16 @@
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
+        },
+        {
+            "id": "Mamour78142",
+            "android_id": "4e9703d4a3316bf64fad9cf1dacf4ecf",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-08-12T05:09:42.465029",
+            "affiliation_balance": 0,
+            "countdown_paused": false
         }
     ],
     "references": {
