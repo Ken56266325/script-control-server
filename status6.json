@@ -38218,12 +38218,11 @@
                 "JRan67yLp47A"
             ],
             "status": "active",
-            "countdown_start_time": "2026-08-04T21:39:33.919637",
+            "countdown_start_time": "2026-08-07T17:29:36.176014",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 208426
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "NiryzY3gWWzA",
