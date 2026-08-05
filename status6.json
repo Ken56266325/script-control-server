@@ -38165,11 +38165,10 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-04T07:31:29.841850",
+            "countdown_start_time": "2026-08-10T22:47:34.210853",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 481143
+            "countdown_paused": false
         },
         {
             "id": "rafitajuliot5dZ30LqW",
