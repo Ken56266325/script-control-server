@@ -28577,10 +28577,11 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-07T15:19:58.793568",
+            "countdown_start_time": "2026-08-05T17:58:55.637909",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 163263
         },
         {
             "id": "OppooFqTGc9dB",
