@@ -38718,12 +38718,11 @@
             "referred_by": "Soso79103",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-06T08:13:50.928416",
+            "countdown_start_time": "2026-08-10T19:19:14.182851",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 346976
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "BruceZd9QkM2F",
