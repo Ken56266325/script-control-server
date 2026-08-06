@@ -38850,7 +38850,8 @@
             "android_id": "993e52b4c8794b972bf8313d1cf13b4d",
             "referred_by": null,
             "referred_to": [
-                "MathiasxvHeWiyj"
+                "MathiasxvHeWiyj",
+                "Cl\u00e9mentJEbytOrE"
             ],
             "status": "active",
             "countdown_start_time": "2026-08-06T11:18:29.299619",
@@ -39403,6 +39404,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-08-07T14:23:42.127209",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Cl\u00e9mentJEbytOrE",
+            "android_id": "e413641bdd5452e886063b902ea0b0c2",
+            "referred_by": "Tsiiferanaqx0LdhOh",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-08-06T13:16:02.480631",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
