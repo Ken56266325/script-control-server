@@ -38799,12 +38799,11 @@
             "referred_by": "Soso79103",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-06T08:13:36.035627",
+            "countdown_start_time": "2026-08-10T19:40:43.987244",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 4,
-            "paused_remaining_time": 348254
+            "countdown_paused": false,
+            "pause_count": 4
         },
         {
             "id": "StanneyTXbGAKd",
