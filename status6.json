@@ -39039,10 +39039,11 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-09T01:22:27.667217",
+            "countdown_start_time": "2026-08-06T19:50:23.473818",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 192724
         },
         {
             "id": "Tireure8vXPVj5",
