@@ -37727,12 +37727,11 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-06T18:15:57.278369",
+            "countdown_start_time": "2026-08-11T19:27:59.986853",
             "affiliation_balance": 0,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "plan": "Basique",
-            "pause_count": 4,
-            "paused_remaining_time": 436314
+            "pause_count": 4
         },
         {
             "id": "RaissassTrGqOh",
