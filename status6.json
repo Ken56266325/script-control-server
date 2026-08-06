@@ -33664,12 +33664,11 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-04T09:41:42.704270",
+            "countdown_start_time": "2026-08-11T14:07:54.280803",
             "affiliation_balance": 0,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "plan": "Basique",
-            "pause_count": 3,
-            "paused_remaining_time": 453805
+            "pause_count": 3
         },
         {
             "id": "IlovonjyJXObxkUt",
