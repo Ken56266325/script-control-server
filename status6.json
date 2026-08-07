@@ -39300,11 +39300,12 @@
             "referred_by": "Atoniaina2XQwm4AcQ",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-14T02:54:59.598842",
+            "countdown_start_time": "2026-08-07T20:51:30.959733",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 2
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 540208
         },
         {
             "id": "JRan67yLp47A",
