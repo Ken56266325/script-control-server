@@ -39369,11 +39369,10 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-04T07:31:29.842876",
+            "countdown_start_time": "2026-08-07T08:20:30.189365",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 0,
-            "countdown_paused": true
+            "countdown_paused": false
         },
         {
             "id": "ManXyY01ije",
