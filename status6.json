@@ -39420,6 +39420,16 @@
             "countdown_start_time": "2026-08-06T13:16:02.480631",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Pers7923293",
+            "android_id": "c7f83a7406b8063fcf45c71ecb8e3c3c",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-08-14T14:42:29.558741",
+            "affiliation_balance": 0,
+            "countdown_paused": false
         }
     ],
     "references": {
