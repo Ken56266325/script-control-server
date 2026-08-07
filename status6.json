@@ -39440,6 +39440,16 @@
             "countdown_start_time": "2026-08-07T19:01:20.088489",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "AlexQZY0AQOw",
+            "android_id": "8808146fa4ddeda489a324f98780fe8d",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-08-07T19:26:16.169062",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
