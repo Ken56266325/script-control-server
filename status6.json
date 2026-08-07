@@ -39396,7 +39396,8 @@
             "status": "active",
             "countdown_start_time": "2026-08-05T10:09:55.027680",
             "affiliation_balance": 0,
-            "countdown_paused": false
+            "countdown_paused": false,
+            "plan": "Basique"
         },
         {
             "id": "MathiasxvHeWiyj",
