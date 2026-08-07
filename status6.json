@@ -39430,6 +39430,16 @@
             "affiliation_balance": 0,
             "countdown_paused": false,
             "plan": "Basique"
+        },
+        {
+            "id": "SafidyjinLwS1a",
+            "android_id": "78b4288ec2eee1ddb619ff1036c10995",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-08-07T19:01:20.088489",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
