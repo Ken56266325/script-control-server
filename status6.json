@@ -39128,12 +39128,11 @@
             "referred_by": "Tanjona681392",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-04T07:31:29.842679",
+            "countdown_start_time": "2026-08-08T00:10:07.736945",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 1,
-            "paused_remaining_time": 34411
+            "countdown_paused": false,
+            "pause_count": 1
         },
         {
             "id": "Rayan0MziAyW0",
