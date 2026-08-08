@@ -38219,11 +38219,12 @@
                 "JRan67yLp47A"
             ],
             "status": "active",
-            "countdown_start_time": "2026-08-10T18:33:52.956967",
+            "countdown_start_time": "2026-08-08T19:08:49.674172",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 3
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 170703
         },
         {
             "id": "NiryzY3gWWzA",
