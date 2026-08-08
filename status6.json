@@ -39118,12 +39118,11 @@
                 "Jo\u00ebltontonYqAAXR3Z"
             ],
             "status": "active",
-            "countdown_start_time": "2026-08-07T20:51:52.249642",
+            "countdown_start_time": "2026-08-10T22:37:55.284456",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 188666
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "AngelokIPnhAEY",
