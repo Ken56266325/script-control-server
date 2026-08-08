@@ -38858,12 +38858,11 @@
                 "Fran\u00e7oisemUgRb0mM"
             ],
             "status": "active",
-            "countdown_start_time": "2026-08-08T11:56:06.091864",
+            "countdown_start_time": "2026-08-10T00:47:00.776309",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 112591
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "Kambana68193",
