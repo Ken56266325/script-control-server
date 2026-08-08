@@ -39468,6 +39468,16 @@
             "countdown_start_time": "2026-08-10T08:40:58.268548",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "@johnsdhO7C8gyf7",
+            "android_id": "3ee1bc6590b696dd55b39548a6c064c4",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-08-08T17:35:20.267071",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
