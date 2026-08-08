@@ -39044,10 +39044,11 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-09T18:15:34.108417",
+            "countdown_start_time": "2026-08-08T08:22:05.462034",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 122008
         },
         {
             "id": "Tireure8vXPVj5",
