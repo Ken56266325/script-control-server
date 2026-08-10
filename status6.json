@@ -29097,11 +29097,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-12T09:15:21.987613",
+            "countdown_start_time": "2026-08-10T09:20:46.229449",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 3
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 172475
         },
         {
             "id": "onyrak4cr0dOqM",
