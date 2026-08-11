@@ -30378,12 +30378,11 @@
             "referred_by": "TinamiBEc6zGQE",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-11T13:20:48.135544",
+            "countdown_start_time": "2026-08-11T16:22:19.992577",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 4,
-            "paused_remaining_time": 0
+            "countdown_paused": false,
+            "pause_count": 4
         },
         {
             "id": "AndrexURMp5WS0",
