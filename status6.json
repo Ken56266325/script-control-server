@@ -39151,11 +39151,12 @@
             "referred_by": "JovaneUuf1x72g",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-15T01:38:46.417213",
+            "countdown_start_time": "2026-08-11T13:12:17.151945",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 1
+            "countdown_paused": true,
+            "pause_count": 2,
+            "paused_remaining_time": 303989
         },
         {
             "id": "Peurv8kirfK8",
