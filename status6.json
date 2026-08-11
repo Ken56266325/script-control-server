@@ -37182,11 +37182,12 @@
             "referred_by": "Soso79103",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-11T20:43:29.821779",
+            "countdown_start_time": "2026-08-11T13:14:20.554700",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 3
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 26949
         },
         {
             "id": "BabeojPc6ud0",
