@@ -39526,6 +39526,16 @@
             "countdown_start_time": "2026-08-11T22:22:01.904438",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Orlando68139",
+            "android_id": "d59efa876c780f3de45ea4f711ddc525",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-08-18T20:05:18.991280",
+            "affiliation_balance": 0,
+            "countdown_paused": false
         }
     ],
     "references": {
