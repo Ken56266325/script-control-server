@@ -39515,6 +39515,16 @@
             "countdown_start_time": "2026-08-11T20:04:56.966801",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Orlando2yuSg0XYQ",
+            "android_id": "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",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-08-11T22:22:01.904438",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
