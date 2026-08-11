@@ -39490,6 +39490,16 @@
             "countdown_start_time": "2026-08-11T17:02:54.971976",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "GavoGnLbgT6A",
+            "android_id": "4383448ce8e591ae13cb37295ceef626",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-08-11T19:04:21.071862",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
