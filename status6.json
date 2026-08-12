@@ -32288,12 +32288,11 @@
                 "ElyseeeNSLgNwY5"
             ],
             "status": "active",
-            "countdown_start_time": "2026-08-11T20:04:59.741909",
+            "countdown_start_time": "2026-08-17T06:01:43.427253",
             "affiliation_balance": 1000,
             "plan": "Basique",
             "pause_count": 3,
-            "countdown_paused": true,
-            "paused_remaining_time": 413329
+            "countdown_paused": false
         },
         {
             "id": "lucioaldwanEWBzmj9a",
