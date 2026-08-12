@@ -18939,12 +18939,11 @@
                 "ElinahWqbzIawk"
             ],
             "status": "active",
-            "countdown_start_time": "2026-08-11T17:56:24.064466",
+            "countdown_start_time": "2026-08-18T15:11:24.474604",
             "affiliation_balance": 3000,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 509070
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "YtokianaQHxOXDY3",
