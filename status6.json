@@ -37890,12 +37890,11 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-12T18:12:36.000175",
+            "countdown_start_time": "2026-08-12T20:29:54.182514",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 4,
-            "paused_remaining_time": 0
+            "countdown_paused": false,
+            "pause_count": 4
         },
         {
             "id": "Alphonse6829392",
