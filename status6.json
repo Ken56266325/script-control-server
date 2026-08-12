@@ -13135,11 +13135,11 @@
                 "AndryWgJGN05Q"
             ],
             "status": "active",
-            "countdown_start_time": "2026-08-09T23:21:39.703625",
-            "affiliation_balance": 7000,
-            "plan": "Basique",
+            "countdown_start_time": "2026-08-19T15:33:42.248626",
+            "affiliation_balance": 0,
+            "plan": "Semaine",
             "countdown_paused": false,
-            "pause_count": 3,
+            "pause_count": 0,
             "max_pauses": 3
         },
         {
