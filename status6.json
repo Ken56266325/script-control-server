@@ -39150,10 +39150,11 @@
             "referred_by": "fahuAGegkSI",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-17T08:52:15.894686",
+            "countdown_start_time": "2026-08-12T07:47:24.368018",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 435891
         },
         {
             "id": "YascelioCkXhyYip",
