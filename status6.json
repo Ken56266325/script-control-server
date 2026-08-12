@@ -26026,12 +26026,11 @@
                 "ManXyY01ije"
             ],
             "status": "active",
-            "countdown_start_time": "2026-08-11T18:53:58.840274",
+            "countdown_start_time": "2026-08-13T23:39:53.780890",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 151775
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "Vezoocarbonele80J3yES",
