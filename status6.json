@@ -39315,11 +39315,12 @@
             "referred_by": "Atoniaina2XQwm4AcQ",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-15T00:18:06.867311",
+            "countdown_start_time": "2026-08-12T08:47:08.599732",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 3
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 228658
         },
         {
             "id": "JRan67yLp47A",
