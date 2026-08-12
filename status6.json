@@ -39235,10 +39235,11 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-18T19:15:00.955765",
+            "countdown_start_time": "2026-08-12T10:05:45.809699",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 551355
         },
         {
             "id": "MariolLlpitr5",
