@@ -39332,11 +39332,10 @@
             "referred_by": "FanarZCiMgLE",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-13T06:42:00.881879",
+            "countdown_start_time": "2026-08-14T23:33:30.261007",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 124859
+            "countdown_paused": false
         },
         {
             "id": "onyzHdaE0SS",
