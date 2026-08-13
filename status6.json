@@ -39386,11 +39386,10 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-12T13:58:10.550007",
+            "countdown_start_time": "2026-08-19T01:28:47.242162",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 429289,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
