@@ -39599,6 +39599,16 @@
             "countdown_start_time": "2026-08-18T07:43:50.410494",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "TroygdfCDgy3",
+            "android_id": "df85fd118bbf0f43f68aba96304a255e",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-08-13T16:39:51.029637",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
