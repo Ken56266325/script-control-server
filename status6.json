@@ -24397,7 +24397,7 @@
                 "JEREMIA1dtE7s9u"
             ],
             "status": "active",
-            "countdown_start_time": "2026-08-13T20:14:21.103886",
+            "countdown_start_time": "2026-08-18T20:45:10.700339",
             "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false,
@@ -39399,10 +39399,11 @@
             "referred_by": "MarievrCrIHF9",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-14T04:09:56.201274",
+            "countdown_start_time": "2026-08-13T17:52:39.029255",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 26956
         },
         {
             "id": "Mamour78142",
