@@ -39399,10 +39399,12 @@
             "referred_by": "MarievrCrIHF9",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-14T04:21:08.535655",
+            "countdown_start_time": "2026-08-13T21:11:03.884518",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 25804,
+            "pause_count": 1
         },
         {
             "id": "Mamour78142",
