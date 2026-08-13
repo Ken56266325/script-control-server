@@ -573,13 +573,12 @@
                 "Siskisisisc6nYwEzY"
             ],
             "status": "active",
-            "countdown_start_time": "2026-08-04T07:31:29.812116",
+            "countdown_start_time": "2026-08-13T20:06:39.469094",
             "affiliation_balance": 2000,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "plan": "Basique",
             "pause_count": 0,
-            "max_pauses": 3,
-            "paused_remaining_time": 0
+            "max_pauses": 3
         },
         {
             "id": "Tatamo5394",
