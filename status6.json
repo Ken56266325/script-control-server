@@ -39573,6 +39573,16 @@
             "countdown_start_time": "2026-08-13T03:24:12.362388",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "KohjckgfFt",
+            "android_id": "3c46c2c3c74399ffe4574c35881f6c05",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-08-13T07:04:52.059315",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
