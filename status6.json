@@ -39616,6 +39616,16 @@
             "countdown_start_time": "2026-08-13T22:05:04.880164",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Sefoaz50jwcR",
+            "android_id": "966178982285457bae36a8d3491ada2e",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-08-14T04:15:11.011647",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
