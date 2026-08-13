@@ -39399,11 +39399,10 @@
             "referred_by": "MarievrCrIHF9",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-13T21:11:03.884518",
+            "countdown_start_time": "2026-08-14T07:03:29.362612",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 25804,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
