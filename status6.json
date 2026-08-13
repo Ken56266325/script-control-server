@@ -37515,12 +37515,13 @@
             "referred_by": "Noutahtahy6rRaqvU",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-09-02T19:36:25.386827",
+            "countdown_start_time": "2026-08-13T13:00:07.318049",
             "affiliation_balance": 0,
             "plan": "Semaine",
-            "countdown_paused": false,
-            "pause_count": 0,
-            "max_pauses": 3
+            "countdown_paused": true,
+            "pause_count": 1,
+            "max_pauses": 3,
+            "paused_remaining_time": 1751778
         },
         {
             "id": "SadeleCHtZ6umO",
