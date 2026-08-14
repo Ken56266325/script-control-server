@@ -20915,7 +20915,8 @@
                 "HanitraX9BtyZEX",
                 "TOKYYQ1PpZWWF",
                 "TafitaG1kVQmnf",
-                "TodyK5O1kYgC"
+                "TodyK5O1kYgC",
+                "VolatianaFmwMNrWa"
             ],
             "status": "active",
             "countdown_start_time": "2026-08-14T20:50:43.504930",
@@ -39637,6 +39638,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-08-14T16:22:38.725110",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "VolatianaFmwMNrWa",
+            "android_id": "0e8ae4f75bbdfb77debb5e5ae7a607cd",
+            "referred_by": "TOKYU5LywOFs",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-08-14T19:54:49.325676",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
