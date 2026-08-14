@@ -39055,10 +39055,11 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-16T01:38:22.432912",
+            "countdown_start_time": "2026-08-14T08:07:03.476778",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 149478
         },
         {
             "id": "Tireure8vXPVj5",
