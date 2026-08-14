@@ -38231,7 +38231,8 @@
             "referred_to": [
                 "KevinhADaWSCd",
                 "MariolLlpitr5",
-                "JRan67yLp47A"
+                "JRan67yLp47A",
+                "Rajiaoeknwj"
             ],
             "status": "active",
             "countdown_start_time": "2026-08-12T18:20:48.565224",
@@ -39651,6 +39652,16 @@
             "countdown_start_time": "2026-08-15T19:55:08.789626",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Rajiaoeknwj",
+            "android_id": "b5b6f518b1c96cb4d8623c209d871c8d",
+            "referred_by": "FanarZCiMgLE",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-08-21T18:06:13.616785",
+            "affiliation_balance": 0,
+            "countdown_paused": false
         }
     ],
     "references": {
