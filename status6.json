@@ -35093,12 +35093,11 @@
             "referred_by": "FaniryElVRklB0NY",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-15T06:59:45.531842",
+            "countdown_start_time": "2026-08-18T07:46:50.635782",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 222842
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "TanjonaouneQe7q",
