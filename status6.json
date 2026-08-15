@@ -39445,11 +39445,10 @@
             "referred_by": "Tsiiferanaqx0LdhOh",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-15T06:16:21.737934",
+            "countdown_start_time": "2026-08-16T18:53:13.858919",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 129245,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
