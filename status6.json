@@ -36737,12 +36737,11 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-15T07:02:45.567930",
+            "countdown_start_time": "2026-08-17T04:05:43.517255",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 149318
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "JuscoEIgkmbZV",
