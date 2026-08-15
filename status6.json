@@ -39443,12 +39443,11 @@
             "referred_by": "Tsiiferanaqx0LdhOh",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-15T06:59:16.593398",
+            "countdown_start_time": "2026-08-17T00:00:19.091182",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 1,
-            "paused_remaining_time": 129237
+            "countdown_paused": false,
+            "pause_count": 1
         },
         {
             "id": "Pers7923293",
