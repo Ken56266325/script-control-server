@@ -39396,12 +39396,11 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-15T06:48:13.240770",
+            "countdown_start_time": "2026-08-19T15:06:19.839321",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 362597
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "ManXyY01ije",
