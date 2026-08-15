@@ -30481,11 +30481,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-18T13:37:15.918444",
+            "countdown_start_time": "2026-08-15T18:35:03.240776",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 3
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 241332
         },
         {
             "id": "Kalina9mfs86cy",
