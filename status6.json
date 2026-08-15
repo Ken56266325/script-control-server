@@ -38541,12 +38541,13 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-20T18:37:54.841767",
+            "countdown_start_time": "2026-08-15T03:53:10.861071",
             "affiliation_balance": 0,
             "plan": "Semaine",
-            "pause_count": 1,
+            "pause_count": 2,
             "max_pauses": 3,
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 485083
         },
         {
             "id": "RovahasinaC2iGysbu",
