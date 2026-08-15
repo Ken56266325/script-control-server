@@ -25110,11 +25110,10 @@
                 "misainamahayWTl2mk2G"
             ],
             "status": "active",
-            "countdown_start_time": "2026-08-15T11:19:52.664033",
+            "countdown_start_time": "2026-08-18T16:04:00.780291",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 249629,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
