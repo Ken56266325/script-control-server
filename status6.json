@@ -39393,11 +39393,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-19T15:06:19.839321",
+            "countdown_start_time": "2026-08-15T16:56:38.938709",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 2
+            "countdown_paused": true,
+            "pause_count": 2,
+            "paused_remaining_time": 338980
         },
         {
             "id": "ManXyY01ije",
