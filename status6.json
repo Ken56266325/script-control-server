@@ -39106,10 +39106,11 @@
             "referred_by": "FanarZCiMgLE",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-17T16:01:34.205563",
+            "countdown_start_time": "2026-08-16T10:36:13.199260",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 105921
         },
         {
             "id": "JeannerJoJbyGN",
