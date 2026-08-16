@@ -39392,12 +39392,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-16T10:31:25.757569",
+            "countdown_start_time": "2026-08-16T10:31:59.515881",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 286957
+            "pause_count": 4,
+            "paused_remaining_time": 0
         },
         {
             "id": "ManXyY01ije",
