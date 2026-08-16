@@ -38233,12 +38233,11 @@
                 "Rajiaoeknwj"
             ],
             "status": "active",
-            "countdown_start_time": "2026-08-12T18:20:48.565224",
+            "countdown_start_time": "2026-08-17T15:50:06.863443",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 89676
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "NiryzY3gWWzA",
