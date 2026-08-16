@@ -35925,11 +35925,10 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-16T07:59:47.505710",
+            "countdown_start_time": "2026-08-18T04:33:06.301500",
             "affiliation_balance": 0,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "plan": "Basique",
-            "paused_remaining_time": 136679,
             "pause_count": 1
         },
         {
