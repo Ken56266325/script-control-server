@@ -39263,11 +39263,10 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-16T15:45:42.870752",
+            "countdown_start_time": "2026-08-17T19:27:46.698567",
             "affiliation_balance": 0,
-            "countdown_paused": true,
-            "pause_count": 4,
-            "paused_remaining_time": 96604
+            "countdown_paused": false,
+            "pause_count": 4
         },
         {
             "id": "Tsiverymahefamh5Biz8G",
