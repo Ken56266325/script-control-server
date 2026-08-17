@@ -38864,7 +38864,8 @@
             "referred_to": [
                 "MathiasxvHeWiyj",
                 "Cl\u00e9mentJEbytOrE",
-                "Fran\u00e7oisemUgRb0mM"
+                "Fran\u00e7oisemUgRb0mM",
+                "KenPm32ouYD"
             ],
             "status": "active",
             "countdown_start_time": "2026-08-15T20:15:58.031335",
@@ -39662,6 +39663,16 @@
             "countdown_start_time": "2026-08-14T23:07:31.361405",
             "affiliation_balance": 0,
             "countdown_paused": false
+        },
+        {
+            "id": "KenPm32ouYD",
+            "android_id": "3bf0ab7d9b803979a194dc92788eed4c",
+            "referred_by": "Tsiiferanaqx0LdhOh",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-08-17T18:33:45.690924",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
