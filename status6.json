@@ -38800,12 +38800,11 @@
             "referred_by": "JovaneUuf1x72g",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-17T16:58:11.537548",
+            "countdown_start_time": "2026-08-20T17:34:34.050082",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 251899
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "Zinnia10JlNrLkbz",
