@@ -38231,11 +38231,12 @@
                 "Rajiaoeknwj"
             ],
             "status": "active",
-            "countdown_start_time": "2026-08-17T15:50:06.863443",
+            "countdown_start_time": "2026-08-17T11:14:42.783015",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 3
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 16524
         },
         {
             "id": "NiryzY3gWWzA",
