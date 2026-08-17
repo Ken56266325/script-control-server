@@ -13136,13 +13136,12 @@
                 "AndryWgJGN05Q"
             ],
             "status": "active",
-            "countdown_start_time": "2026-08-17T08:14:49.770751",
+            "countdown_start_time": "2026-08-23T06:20:05.304095",
             "affiliation_balance": 0,
             "plan": "Semaine",
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 3,
-            "max_pauses": 3,
-            "paused_remaining_time": 489284
+            "max_pauses": 3
         },
         {
             "id": "Fabiend8f8RIM2",
