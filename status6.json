@@ -38681,12 +38681,11 @@
                 "YascelioCkXhyYip"
             ],
             "status": "active",
-            "countdown_start_time": "2026-08-17T16:54:04.460868",
+            "countdown_start_time": "2026-08-18T03:16:50.641260",
             "affiliation_balance": 2000,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 24597
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "Arnaudzl5oZFQT",
