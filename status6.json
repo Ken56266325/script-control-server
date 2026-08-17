@@ -26026,9 +26026,7 @@
             "id": "MarievrCrIHF9",
             "android_id": "572b1b8adaa96c5e072d3b1453e4d7d2",
             "referred_by": "HermanODwBrkLl",
-            "referred_to": [
-                "ManXyY01ije"
-            ],
+            "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-08-17T21:31:05.140217",
             "affiliation_balance": 0,
@@ -39398,19 +39396,6 @@
             "plan": "Basique",
             "countdown_paused": false,
             "pause_count": 4
-        },
-        {
-            "id": "ManXyY01ije",
-            "android_id": "67fc6fa7bb4f3969687c039ac09003d7",
-            "referred_by": "MarievrCrIHF9",
-            "referred_to": [],
-            "status": "active",
-            "countdown_start_time": "2026-08-15T05:23:11.642437",
-            "affiliation_balance": 0,
-            "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 103892
         },
         {
             "id": "Mamour78142",
