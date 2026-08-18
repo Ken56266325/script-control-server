@@ -38691,11 +38691,10 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-18T18:14:15.866615",
+            "countdown_start_time": "2026-08-23T02:22:45.661827",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 353252,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
