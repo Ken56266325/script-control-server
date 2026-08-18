@@ -38691,10 +38691,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-22T20:21:48.328550",
+            "countdown_start_time": "2026-08-18T18:14:15.866615",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 353252,
+            "pause_count": 1
         },
         {
             "id": "RAFANOMEZANTSOAAvwqtV41",
