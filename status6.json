@@ -39678,6 +39678,16 @@
             "countdown_start_time": "2026-08-18T14:59:36.256207",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "EtiennezE36OhvT",
+            "android_id": "2748b6ce1c0ae9a84ba2647666b5b358",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-08-18T23:18:08.117444",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
