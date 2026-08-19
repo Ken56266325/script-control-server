@@ -18937,7 +18937,8 @@
                 "ElieQPkL1S54",
                 "Harentsy1GL1qjWE",
                 "HarentsyzJW4bwAE",
-                "ElinahWqbzIawk"
+                "ElinahWqbzIawk",
+                "JacquesnGvWUV72"
             ],
             "status": "active",
             "countdown_start_time": "2026-08-18T15:11:24.474604",
@@ -39684,6 +39685,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-08-20T23:20:44.426623",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "JacquesnGvWUV72",
+            "android_id": "f10f5be8d7205d2e572bb6a6d5a09f39",
+            "referred_by": "SylvieiShdhZQ5",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-08-19T10:43:42.517512",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
