@@ -22775,11 +22775,12 @@
             "referred_by": "Amadou681036190",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-25T16:34:16.590019",
+            "countdown_start_time": "2026-08-19T13:11:47.273808",
             "affiliation_balance": 0,
             "plan": "VIP",
-            "countdown_paused": false,
-            "pause_count": 3
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 530549
         },
         {
             "id": "Lauristeunoi0nET68WQjuYS",
