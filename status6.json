@@ -31324,12 +31324,11 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-18T10:15:17.367684",
+            "countdown_start_time": "2026-08-21T04:14:28.615279",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 4,
-            "paused_remaining_time": 158295
+            "countdown_paused": false,
+            "pause_count": 4
         },
         {
             "id": "AsakoRngyyeIR",
