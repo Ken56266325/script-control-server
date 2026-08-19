@@ -39256,11 +39256,10 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-19T08:05:51.095517",
+            "countdown_start_time": "2026-08-20T17:56:43.787995",
             "affiliation_balance": 0,
-            "countdown_paused": true,
-            "pause_count": 4,
-            "paused_remaining_time": 92010
+            "countdown_paused": false,
+            "pause_count": 4
         },
         {
             "id": "Tsiverymahefamh5Biz8G",
