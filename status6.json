@@ -12819,12 +12819,11 @@
                 "Armele3YGfR2e"
             ],
             "status": "active",
-            "countdown_start_time": "2026-08-16T18:22:30.564199",
+            "countdown_start_time": "2026-08-21T10:37:50.219311",
             "affiliation_balance": 1000,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 4,
-            "paused_remaining_time": 174626
+            "countdown_paused": false,
+            "pause_count": 4
         },
         {
             "id": "SitrakaX2ktvrvY",
