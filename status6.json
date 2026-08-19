@@ -39644,9 +39644,11 @@
             "referred_by": "FanarZCiMgLE",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-20T16:33:43.870613",
+            "countdown_start_time": "2026-08-19T07:50:21.874359",
             "affiliation_balance": 0,
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 117801,
+            "pause_count": 1
         },
         {
             "id": "KenPm32ouYD",
