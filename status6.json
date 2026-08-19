@@ -39716,6 +39716,16 @@
             "countdown_start_time": "2026-08-19T15:56:36.086654",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "VillaXADyossI",
+            "android_id": "047a7608413532890e23868e02e1e257",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-08-19T20:44:01.729623",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
