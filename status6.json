@@ -39700,6 +39700,16 @@
             "countdown_start_time": "2026-08-19T10:43:42.517512",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "BassewUwazkeJ",
+            "android_id": "8f59ede480dc6d3b2edce06cb9199937",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-08-19T11:08:20.150341",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
