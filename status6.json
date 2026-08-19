@@ -39709,6 +39709,16 @@
             "countdown_start_time": "2026-08-19T11:08:20.150341",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Vadiko5OOvpRXu",
+            "android_id": "4c052d09b092c0386a438023addc5b3d",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-08-19T15:56:36.086654",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
