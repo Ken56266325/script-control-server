@@ -36730,12 +36730,11 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-20T06:27:47.074544",
+            "countdown_start_time": "2026-08-21T00:41:04.910257",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 47417
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "JuscoEIgkmbZV",
