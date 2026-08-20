@@ -37631,11 +37631,10 @@
             "referred_by": "harsonielnBBuRIyG",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-20T08:24:33.639063",
+            "countdown_start_time": "2026-08-26T00:09:20.015663",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 470813
+            "countdown_paused": false
         },
         {
             "id": "Christianhs9prXap",
