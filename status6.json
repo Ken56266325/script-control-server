@@ -37633,10 +37633,11 @@
             "referred_by": "harsonielnBBuRIyG",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-25T19:11:27.204802",
+            "countdown_start_time": "2026-08-20T08:24:33.639063",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 470813
         },
         {
             "id": "Christianhs9prXap",
