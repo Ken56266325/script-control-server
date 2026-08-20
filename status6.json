@@ -39689,9 +39689,11 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-20T23:20:44.426623",
+            "countdown_start_time": "2026-08-20T06:28:09.425862",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 60755,
+            "countdown_paused": true
         },
         {
             "id": "JacquesnGvWUV72",
