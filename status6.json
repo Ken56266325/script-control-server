@@ -36886,12 +36886,11 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-20T06:27:55.685478",
+            "countdown_start_time": "2026-08-21T12:33:44.768359",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 94668
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "DafahhS0i4amK",
