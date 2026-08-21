@@ -39752,6 +39752,16 @@
             "countdown_start_time": "2026-08-20T18:59:52.073143",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "JosianneiJ5rEMFx",
+            "android_id": "cadf8e4a7c45a6a3319c695ae05c890c",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-08-21T17:26:48.792290",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
