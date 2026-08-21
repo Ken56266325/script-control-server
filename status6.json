@@ -38867,12 +38867,11 @@
                 "KenPm32ouYD"
             ],
             "status": "active",
-            "countdown_start_time": "2026-08-21T11:10:48.400947",
+            "countdown_start_time": "2026-08-22T23:11:48.888865",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 111257
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "Kambana68193",
@@ -39765,7 +39764,7 @@
         },
         {
             "id": "RaphaelLdUJGhe7",
-            "android_id": "VALEUR_SUPPRIMEE",
+            "android_id": "uuaibeiuusbjzudhejj",
             "referred_by": null,
             "referred_to": [],
             "status": "active",
