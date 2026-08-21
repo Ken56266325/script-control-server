@@ -39387,12 +39387,11 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-18T09:59:41.610382",
+            "countdown_start_time": "2026-08-24T12:41:59.109412",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 4,
-            "paused_remaining_time": 268231
+            "countdown_paused": false,
+            "pause_count": 4
         },
         {
             "id": "Mamour78142",
