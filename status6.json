@@ -39763,6 +39763,16 @@
             "countdown_start_time": "2026-08-21T17:26:48.792290",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "RaphaelLdUJGhe7",
+            "android_id": "VALEUR_SUPPRIMEE",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-08-21T18:35:45.116252",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
