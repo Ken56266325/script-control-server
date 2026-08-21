@@ -1480,12 +1480,11 @@
                 "RadoiuKPUkMI"
             ],
             "status": "active",
-            "countdown_start_time": "2026-08-16T11:28:23.315846",
+            "countdown_start_time": "2026-08-22T06:24:17.548872",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 72928
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "Olivoliv57152",
