@@ -39802,9 +39802,11 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-23T23:29:14.887045",
+            "countdown_start_time": "2026-08-23T18:48:37.121896",
             "affiliation_balance": 0,
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 16837,
+            "pause_count": 1
         },
         {
             "id": "Micha0WfxuCmV",
