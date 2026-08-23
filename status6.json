@@ -39799,11 +39799,10 @@
             "android_id": "1c53606b7432b801745a3d87b1cbaee7",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-08-23T18:48:37.121896",
+            "status": "active",
+            "countdown_start_time": "2026-08-24T01:07:13.906866",
             "affiliation_balance": 0,
-            "countdown_paused": true,
-            "paused_remaining_time": 16837,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
