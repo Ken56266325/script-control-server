@@ -39835,6 +39835,16 @@
             "countdown_start_time": "2026-08-24T22:09:20.016292",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "MamanVmw7OUE0",
+            "android_id": "fbb2409e5325d86f18a79579d6e25e05",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-08-24T10:22:43.941885",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
