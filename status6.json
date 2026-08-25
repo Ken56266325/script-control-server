@@ -23599,11 +23599,12 @@
             "referred_by": "TantelyftfhcZ7D",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-28T17:21:06.227715",
+            "countdown_start_time": "2026-08-25T07:43:48.521207",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 1
+            "countdown_paused": true,
+            "pause_count": 1,
+            "paused_remaining_time": 293837
         },
         {
             "id": "Bri2563",
