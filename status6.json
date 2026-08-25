@@ -36545,12 +36545,13 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-28T08:10:03.337336",
+            "countdown_start_time": "2026-08-25T18:18:38.855017",
             "affiliation_balance": 0,
             "plan": "Semaine",
-            "countdown_paused": false,
-            "pause_count": 1,
-            "max_pauses": 3
+            "countdown_paused": true,
+            "pause_count": 2,
+            "max_pauses": 3,
+            "paused_remaining_time": 222684
         },
         {
             "id": "Belolotg4_117v5b5bYj0",
