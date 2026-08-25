@@ -35924,11 +35924,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-26T13:29:28.658511",
+            "countdown_start_time": "2026-08-25T07:35:06.197469",
             "affiliation_balance": 0,
-            "countdown_paused": false,
+            "countdown_paused": true,
             "plan": "Basique",
-            "pause_count": 3
+            "pause_count": 3,
+            "paused_remaining_time": 107662
         },
         {
             "id": "FranqNo11k7Ie",
