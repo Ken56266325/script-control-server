@@ -39414,12 +39414,11 @@
             "referred_to": [
                 "ChantalldmN078X"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-08-26T09:18:36.418730",
+            "status": "active",
+            "countdown_start_time": "2026-08-26T19:50:53.301642",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 15481
+            "countdown_paused": false
         },
         {
             "id": "Cl\u00e9mentJEbytOrE",
