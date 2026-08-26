@@ -39420,10 +39420,11 @@
                 "ChantalldmN078X"
             ],
             "status": "active",
-            "countdown_start_time": "2026-08-26T13:36:38.163303",
+            "countdown_start_time": "2026-08-26T09:18:36.418730",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 15481
         },
         {
             "id": "Cl\u00e9mentJEbytOrE",
