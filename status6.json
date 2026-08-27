@@ -39900,6 +39900,16 @@
             "countdown_start_time": "2026-08-29T17:30:11.420765",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "senaFIL3BQk8",
+            "android_id": "98563f9986ef007fb7be0d3aaff18079",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-08-27T21:42:16.022473",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
