@@ -39057,12 +39057,11 @@
             "android_id": "283fc0fe5f277ed67be7d89cd5ab6bfe",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-08-27T19:11:52.407097",
+            "status": "active",
+            "countdown_start_time": "2026-08-30T01:58:24.910123",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 194113
+            "countdown_paused": false
         },
         {
             "id": "Tireure8vXPVj5",
