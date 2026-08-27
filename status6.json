@@ -39816,9 +39816,11 @@
             "referred_by": "Tsiiferanaqx0LdhOh",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-28T12:09:53.324830",
+            "countdown_start_time": "2026-08-27T12:41:51.452731",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 84481,
+            "countdown_paused": true
         },
         {
             "id": "ChantalldmN078X",
