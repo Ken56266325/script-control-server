@@ -39815,12 +39815,11 @@
             "android_id": "ec53bc1738ff724515a1eb5a60cc240d",
             "referred_by": "Tsiiferanaqx0LdhOh",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-08-27T12:41:51.452731",
+            "status": "active",
+            "countdown_start_time": "2026-08-28T19:08:40.774109",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 84481,
-            "countdown_paused": true
+            "countdown_paused": false
         },
         {
             "id": "ChantalldmN078X",
