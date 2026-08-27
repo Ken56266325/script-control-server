@@ -32215,14 +32215,13 @@
                 "Yuri5.0lx4T00Ap",
                 "Tsiriim7tiG7FSb9"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-08-27T12:58:11.119653",
+            "status": "active",
+            "countdown_start_time": "2026-08-28T14:10:13.392319",
             "affiliation_balance": 0,
             "plan": "Semaine",
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 3,
-            "max_pauses": 3,
-            "paused_remaining_time": 72840
+            "max_pauses": 3
         },
         {
             "id": "MpanjakaPXPzBdqj",
