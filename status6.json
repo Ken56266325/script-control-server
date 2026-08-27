@@ -39910,6 +39910,16 @@
             "countdown_start_time": "2026-08-27T21:42:16.022473",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "@ainaxxxyRAPKvjTZ",
+            "android_id": "AQ.Ab8RN6I5VySUGTxlynhwAQjtbGruH24mMBu8Huz3jf9YiPAGlQ",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-08-27T21:43:22.549151",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
