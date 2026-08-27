@@ -37915,13 +37915,12 @@
             "android_id": "60b200018f816a25ec037133c853d634",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-08-04T07:31:29.841670",
+            "status": "active",
+            "countdown_start_time": "2026-08-27T12:33:44.773643",
             "affiliation_balance": 0,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "plan": "Basique",
-            "pause_count": 1,
-            "paused_remaining_time": 0
+            "pause_count": 1
         },
         {
             "id": "AyanftTSVcec",
