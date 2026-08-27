@@ -33113,12 +33113,13 @@
             "referred_by": "Noutahtahy6rRaqvU",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-29T19:47:03.475090",
+            "countdown_start_time": "2026-08-27T13:40:21.653688",
             "affiliation_balance": 0,
             "plan": "Semaine",
-            "countdown_paused": false,
-            "pause_count": 2,
-            "max_pauses": 3
+            "countdown_paused": true,
+            "pause_count": 3,
+            "max_pauses": 3,
+            "paused_remaining_time": 194801
         },
         {
             "id": "JoelHrMwhyy6",
