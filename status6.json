@@ -39104,11 +39104,10 @@
             "referred_by": "FanarZCiMgLE",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-27T19:23:35.909247",
+            "countdown_start_time": "2026-08-29T23:02:08.208595",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 185741,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
