@@ -39390,13 +39390,12 @@
             "android_id": "670ba8993444f2771f07861937f2646c",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-08-27T13:56:04.542576",
+            "status": "active",
+            "countdown_start_time": "2026-08-31T08:22:32.290974",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 4,
-            "paused_remaining_time": 300773
+            "countdown_paused": false,
+            "pause_count": 4
         },
         {
             "id": "Mamour78142",
