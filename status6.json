@@ -36745,12 +36745,11 @@
             "android_id": "47650080f94eaa2ce1d8de5083fbd1e7",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-08-25T19:03:28.160895",
+            "status": "active",
+            "countdown_start_time": "2026-09-04T18:25:35.930011",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 592100,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
