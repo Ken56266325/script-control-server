@@ -8058,11 +8058,12 @@
             "referred_by": "Joel68010",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-29T23:19:53.724271",
+            "countdown_start_time": "2026-08-28T18:58:11.678118",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 3
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 102102
         },
         {
             "id": "Justine57199302",
