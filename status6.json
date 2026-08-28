@@ -4780,10 +4780,12 @@
             "referred_by": "Hoby5826",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-29T02:43:49.941770",
+            "countdown_start_time": "2026-08-28T19:41:55.926688",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 25314,
+            "pause_count": 1
         },
         {
             "id": "Sedera6810303",
