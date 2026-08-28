@@ -39906,9 +39906,12 @@
             "referred_by": "MathiasxvHeWiyj",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-29T17:30:11.420765",
+            "countdown_start_time": "2026-08-28T11:43:26.902028",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 107204,
+            "countdown_paused": true,
+            "pause_count": 1
         },
         {
             "id": "senaFIL3BQk8",
