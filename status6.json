@@ -29320,13 +29320,12 @@
             "android_id": "e6a624397a7dad5d5b2002162b163764",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-08-28T00:28:48.359864",
+            "status": "active",
+            "countdown_start_time": "2026-08-28T11:59:06.487114",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 4,
-            "paused_remaining_time": 0
+            "countdown_paused": false,
+            "pause_count": 4
         },
         {
             "id": "GwenJyhkYALs",
