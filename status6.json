@@ -39230,10 +39230,10 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-08-28T14:36:34.920968",
+            "countdown_start_time": "2026-09-04T14:42:13.319091",
             "affiliation_balance": 0,
             "countdown_paused": false,
-            "pause_count": 2,
+            "pause_count": 0,
             "max_pauses": 3,
             "plan": "Semaine"
         },
