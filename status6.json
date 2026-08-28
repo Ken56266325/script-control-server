@@ -39105,13 +39105,12 @@
             "android_id": "390cfaff04f17a8ecdde2e9944c0eaf6",
             "referred_by": "FanarZCiMgLE",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-08-28T04:30:11.962988",
+            "status": "active",
+            "countdown_start_time": "2026-08-30T08:26:50.655535",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 153116
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "JeannerJoJbyGN",
