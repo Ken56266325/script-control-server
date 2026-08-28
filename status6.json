@@ -38870,11 +38870,12 @@
                 "Micha0WfxuCmV"
             ],
             "status": "active",
-            "countdown_start_time": "2026-08-29T00:42:58.821119",
+            "countdown_start_time": "2026-08-28T07:24:29.086940",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 3
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 62309
         },
         {
             "id": "Kambana68193",
