@@ -39422,10 +39422,11 @@
                 "Juliar3TApDq4"
             ],
             "status": "active",
-            "countdown_start_time": "2026-08-29T17:22:35.009236",
+            "countdown_start_time": "2026-08-28T08:20:33.116055",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 118921
         },
         {
             "id": "Cl\u00e9mentJEbytOrE",
