@@ -38444,11 +38444,12 @@
             "referred_by": "M\u00e9lodie73skoFcp",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-09-03T10:01:29.714629",
+            "countdown_start_time": "2026-08-29T17:16:49.102507",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 1
+            "countdown_paused": true,
+            "pause_count": 2,
+            "paused_remaining_time": 405880
         },
         {
             "id": "jelorXQe09PnV",
