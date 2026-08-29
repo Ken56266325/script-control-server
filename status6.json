@@ -36816,13 +36816,12 @@
             "android_id": "64afe0df42afc14a7ff140242015e21f",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-08-28T09:50:08.598316",
+            "status": "active",
+            "countdown_start_time": "2026-09-02T22:04:34.092176",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 382855
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "OlinaholivMcdhHZN6",
