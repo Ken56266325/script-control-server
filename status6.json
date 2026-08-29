@@ -31356,11 +31356,12 @@
                 "FanevafrancklinlL5fb6CG"
             ],
             "status": "active",
-            "countdown_start_time": "2026-08-30T20:15:18.376642",
+            "countdown_start_time": "2026-08-29T06:49:18.265602",
             "affiliation_balance": 0,
             "plan": "Basique",
             "pause_count": 1,
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 134760
         },
         {
             "id": "florinPnQCoP4f",
