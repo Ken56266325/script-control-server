@@ -12821,7 +12821,7 @@
             "referred_to": [
                 "Armele3YGfR2e"
             ],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-08-29T01:36:16.203478",
             "affiliation_balance": 1000,
             "plan": "Basique",
@@ -29322,7 +29322,7 @@
             "android_id": "e6a624397a7dad5d5b2002162b163764",
             "referred_by": null,
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-08-29T02:39:22.231074",
             "affiliation_balance": 0,
             "plan": "Basique",
