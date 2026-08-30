@@ -38444,13 +38444,12 @@
             "android_id": "93357fbb2c149137a7521f04e7a4eb08",
             "referred_by": "M\u00e9lodie73skoFcp",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-08-29T17:16:49.102507",
+            "status": "active",
+            "countdown_start_time": "2026-09-04T01:26:02.011322",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 405880
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "jelorXQe09PnV",
