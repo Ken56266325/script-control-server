@@ -26590,11 +26590,12 @@
             "referred_by": "Claudin6189393",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-09-05T08:03:25.120286",
+            "countdown_start_time": "2026-08-31T08:19:25.592185",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 4
+            "countdown_paused": true,
+            "pause_count": 4,
+            "paused_remaining_time": 431039
         },
         {
             "id": "farakdWf0dlp",
