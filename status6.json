@@ -30968,10 +30968,11 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-09-01T19:28:30.772439",
+            "countdown_start_time": "2026-08-31T19:27:39.368069",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 86451
         },
         {
             "id": "Akelabienr2JtN16S",
