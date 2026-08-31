@@ -39435,10 +39435,11 @@
                 "NarybrkWtwjb"
             ],
             "status": "active",
-            "countdown_start_time": "2026-08-31T22:45:02.866126",
+            "countdown_start_time": "2026-08-31T13:18:38.440242",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 33984
         },
         {
             "id": "Cl\u00e9mentJEbytOrE",
