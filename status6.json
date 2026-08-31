@@ -33877,11 +33877,12 @@
                 "fanilonarindraIoQCHOU4"
             ],
             "status": "active",
-            "countdown_start_time": "2026-09-03T05:43:53.237996",
+            "countdown_start_time": "2026-08-31T08:24:52.796000",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 3
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 249540
         },
         {
             "id": "Sarobidy4gkqJ4xG",
