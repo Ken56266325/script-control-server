@@ -39438,10 +39438,11 @@
                 "NarybrkWtwjb"
             ],
             "status": "active",
-            "countdown_start_time": "2026-09-01T01:53:10.999897",
+            "countdown_start_time": "2026-08-31T21:15:33.651459",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 16657
         },
         {
             "id": "Cl\u00e9mentJEbytOrE",
