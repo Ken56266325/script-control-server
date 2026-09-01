@@ -39963,11 +39963,10 @@
             "referred_by": "MathiasxvHeWiyj",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-09-01T07:14:49.009198",
+            "countdown_start_time": "2026-09-02T19:30:23.999692",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 130204,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
