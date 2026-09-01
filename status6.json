@@ -37899,13 +37899,12 @@
             "android_id": "2c7932937b9c9fc749f5485c8d98b4f9",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-08-28T15:07:46.089486",
+            "status": "active",
+            "countdown_start_time": "2026-09-03T21:54:29.867171",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 4,
-            "paused_remaining_time": 178576
+            "countdown_paused": false,
+            "pause_count": 4
         },
         {
             "id": "Alphonse6829392",
