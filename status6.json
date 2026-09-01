@@ -38970,10 +38970,11 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-09-01T21:59:58.386381",
+            "countdown_start_time": "2026-09-01T07:23:04.854803",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 52613
         },
         {
             "id": "ElinahWqbzIawk",
