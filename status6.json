@@ -20919,11 +20919,12 @@
                 "VolatianaFmwMNrWa"
             ],
             "status": "active",
-            "countdown_start_time": "2026-09-01T21:31:16.009600",
+            "countdown_start_time": "2026-09-01T07:22:42.080258",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 1
+            "countdown_paused": true,
+            "pause_count": 2,
+            "paused_remaining_time": 50913
         },
         {
             "id": "Rovantsoax61zAGre",
