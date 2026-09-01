@@ -34175,13 +34175,12 @@
             "android_id": "14a9a966f98439282eb5167d0034a125",
             "referred_by": "fanilonarindraIoQCHOU4",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-08-31T06:38:02.333040",
+            "status": "active",
+            "countdown_start_time": "2026-09-07T18:24:44.207869",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 510136
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "Yas",
