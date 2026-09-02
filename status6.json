@@ -36834,14 +36834,13 @@
             "android_id": "3fb67db42947ffb917dbadfbb03c0db8",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-09-02T12:12:46.475664",
+            "status": "active",
+            "countdown_start_time": "2026-09-05T09:54:50.548175",
             "affiliation_balance": 0,
             "plan": "Semaine",
             "pause_count": 2,
-            "countdown_paused": true,
-            "max_pauses": 3,
-            "paused_remaining_time": 229655
+            "countdown_paused": false,
+            "max_pauses": 3
         },
         {
             "id": "AsminahL4U8mrdn",
