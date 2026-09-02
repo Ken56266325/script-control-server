@@ -38547,12 +38547,13 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-09-05T16:23:52.366578",
+            "countdown_start_time": "2026-09-02T15:56:41.776800",
             "affiliation_balance": 0,
             "plan": "Semaine",
-            "pause_count": 1,
+            "pause_count": 2,
             "max_pauses": 3,
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 260830
         },
         {
             "id": "RovahasinaC2iGysbu",
