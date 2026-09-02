@@ -40022,6 +40022,16 @@
             "countdown_start_time": "2026-09-07T17:26:11.681350",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Sediot791832",
+            "android_id": "b59f8246c19fe7a6e266a71d70c5ab73",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-09-09T10:18:22.261741",
+            "affiliation_balance": 0,
+            "countdown_paused": false
         }
     ],
     "references": {
