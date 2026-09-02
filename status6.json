@@ -38745,13 +38745,12 @@
             "android_id": "d10f0cfa58bb1adce39b520b46514e75",
             "referred_by": "Soso79103",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-08-17T06:34:22.964086",
+            "status": "active",
+            "countdown_start_time": "2026-09-04T15:43:04.441913",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 159979
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "BruceZd9QkM2F",
