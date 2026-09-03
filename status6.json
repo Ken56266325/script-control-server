@@ -31332,13 +31332,12 @@
             "android_id": "f6565fdc22b3d4734edc19bf499818e8",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-08-27T18:51:01.085287",
+            "status": "active",
+            "countdown_start_time": "2026-09-06T17:56:55.790015",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 4,
-            "paused_remaining_time": 265386
+            "countdown_paused": false,
+            "pause_count": 4
         },
         {
             "id": "AsakoRngyyeIR",
