@@ -13133,14 +13133,13 @@
                 "FenowlJ7itBb",
                 "AndryWgJGN05Q"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-09-03T09:14:23.282509",
+            "status": "active",
+            "countdown_start_time": "2026-09-04T21:34:55.972203",
             "affiliation_balance": 1000,
             "plan": "Semaine",
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 3,
-            "max_pauses": 3,
-            "paused_remaining_time": 109349
+            "max_pauses": 3
         },
         {
             "id": "Fabiend8f8RIM2",
