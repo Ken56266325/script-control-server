@@ -39438,12 +39438,11 @@
                 "Juliar3TApDq4",
                 "NarybrkWtwjb"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-08-31T21:15:33.651459",
+            "status": "active",
+            "countdown_start_time": "2026-09-04T00:16:53.566878",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 16657
+            "countdown_paused": false
         },
         {
             "id": "Cl\u00e9mentJEbytOrE",
