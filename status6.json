@@ -37368,12 +37368,13 @@
             "referred_by": "Noutahtahy6rRaqvU",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-09-09T11:30:55.256278",
+            "countdown_start_time": "2026-09-03T11:55:08.904174",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "pause_count": 0,
-            "countdown_paused": false,
-            "max_pauses": 3
+            "pause_count": 1,
+            "countdown_paused": true,
+            "max_pauses": 3,
+            "paused_remaining_time": 516946
         },
         {
             "id": "Fitiavanafinona0M6sRnL7",
