@@ -36822,11 +36822,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-09-05T22:39:08.079584",
+            "countdown_start_time": "2026-09-03T19:50:01.511101",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 3
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 182946
         },
         {
             "id": "OlinaholivMcdhHZN6",
