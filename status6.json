@@ -35143,13 +35143,12 @@
             "android_id": "a5b58738860b2c83e6f1fc1897d71c89",
             "referred_by": "BeloloTG5auK0BF4w",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-08-04T07:31:29.839626",
+            "status": "active",
+            "countdown_start_time": "2026-09-03T19:26:08.187640",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 0
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "Belolotg7BCdvBo04",
