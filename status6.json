@@ -38966,12 +38966,11 @@
             "android_id": "20985efd3a8ab9d32f43510f6cbfac12",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-09-01T07:23:04.854803",
+            "status": "active",
+            "countdown_start_time": "2026-09-05T12:00:05.751676",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 52613
+            "countdown_paused": false
         },
         {
             "id": "ElinahWqbzIawk",
