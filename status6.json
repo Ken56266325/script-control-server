@@ -39829,12 +39829,11 @@
             "android_id": "1c53606b7432b801745a3d87b1cbaee7",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-09-03T07:18:52.355163",
+            "status": "active",
+            "countdown_start_time": "2026-09-05T16:50:18.965414",
             "affiliation_balance": 0,
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 115858
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "Micha0WfxuCmV",
