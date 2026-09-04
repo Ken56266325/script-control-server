@@ -31333,11 +31333,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-09-06T17:56:55.790015",
+            "countdown_start_time": "2026-09-04T18:49:55.405367",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 4
+            "countdown_paused": true,
+            "pause_count": 4,
+            "paused_remaining_time": 169620
         },
         {
             "id": "AsakoRngyyeIR",
