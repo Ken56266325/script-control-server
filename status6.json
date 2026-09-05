@@ -22355,13 +22355,12 @@
                 "BastazcS1UiYx",
                 "TantelyftfhcZ7D"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-08-04T07:31:29.829153",
+            "status": "active",
+            "countdown_start_time": "2026-09-05T19:11:05.131947",
             "affiliation_balance": 2000,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 1,
-            "paused_remaining_time": 0
+            "countdown_paused": false,
+            "pause_count": 1
         },
         {
             "id": "IdaRosiaK1Sap61d",
