@@ -30971,12 +30971,11 @@
             "android_id": "3bcc00b1e47dd5bfdc32826cedd7602c",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-08-31T19:27:39.368069",
+            "status": "active",
+            "countdown_start_time": "2026-09-06T12:32:12.097116",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 86451
+            "countdown_paused": false
         },
         {
             "id": "Akelabienr2JtN16S",
