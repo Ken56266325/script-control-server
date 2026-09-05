@@ -40052,6 +40052,16 @@
             "countdown_start_time": "2026-09-02T18:54:58.996244",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Jey5830293",
+            "android_id": "974fce2c9b1b06d3cf730e890eef1d8c",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-09-12T20:31:19.363351",
+            "affiliation_balance": 0,
+            "countdown_paused": false
         }
     ],
     "references": {
