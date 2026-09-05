@@ -36552,11 +36552,11 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-09-05T11:17:15.973432",
+            "countdown_start_time": "2026-09-12T11:17:15.973432",
             "affiliation_balance": 0,
             "plan": "Semaine",
             "countdown_paused": false,
-            "pause_count": 2,
+            "pause_count": 0,
             "max_pauses": 3
         },
         {
