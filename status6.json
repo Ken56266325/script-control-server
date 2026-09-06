@@ -40060,6 +40060,16 @@
             "countdown_start_time": "2026-09-06T01:31:31.757277",
             "affiliation_balance": 0,
             "countdown_paused": false
+        },
+        {
+            "id": "ElysahQQXUkGKH",
+            "android_id": "01d7c8ab38b6e3b6080b8f4f082d3b03",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-09-06T10:51:39.629794",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
