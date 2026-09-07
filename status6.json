@@ -32222,14 +32222,13 @@
                 "Yuri5.0lx4T00Ap",
                 "Tsiriim7tiG7FSb9"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-08-28T07:25:47.335660",
+            "status": "active",
+            "countdown_start_time": "2026-09-08T05:11:23.224058",
             "affiliation_balance": 0,
             "plan": "Semaine",
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 3,
-            "max_pauses": 3,
-            "paused_remaining_time": 24266
+            "max_pauses": 3
         },
         {
             "id": "MpanjakaPXPzBdqj",
