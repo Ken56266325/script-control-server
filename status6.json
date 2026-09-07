@@ -39987,9 +39987,11 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-09-10T14:27:24.197610",
+            "countdown_start_time": "2026-09-07T10:09:36.866997",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 274667,
+            "countdown_paused": true
         },
         {
             "id": "HaingoqXRdv8H7",
