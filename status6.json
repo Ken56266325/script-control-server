@@ -13366,13 +13366,12 @@
             "referred_to": [
                 "Andrib502kg3o"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-09-05T10:01:23.352647",
+            "status": "active",
+            "countdown_start_time": "2026-09-13T12:26:06.885468",
             "affiliation_balance": 4000,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 423118
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "NanahkHTx0qbq",
