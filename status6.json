@@ -26027,11 +26027,12 @@
             "referred_by": "HermanODwBrkLl",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-09-13T09:53:03.128686",
+            "countdown_start_time": "2026-09-09T06:16:42.853321",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 3
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 358580
         },
         {
             "id": "Vezoocarbonele80J3yES",
