@@ -40069,6 +40069,16 @@
             "countdown_start_time": "2026-09-06T10:51:39.629794",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Stydielir025wF",
+            "android_id": "b4d98518c3d02f18de60de755dc52752",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-09-09T21:21:38.604378",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
