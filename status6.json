@@ -40098,6 +40098,16 @@
             "countdown_start_time": "2026-09-10T19:56:21.207726",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "NtsoaMOK11k46",
+            "android_id": "d35cedffef6ac04e9cbc764c6e1470ae",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-09-10T20:33:29.414898",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
