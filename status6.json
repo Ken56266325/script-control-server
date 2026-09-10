@@ -32220,12 +32220,13 @@
                 "Tsiriim7tiG7FSb9"
             ],
             "status": "active",
-            "countdown_start_time": "2026-09-11T09:33:36.356742",
+            "countdown_start_time": "2026-09-10T12:06:52.316008",
             "affiliation_balance": 0,
             "plan": "Semaine",
-            "countdown_paused": false,
+            "countdown_paused": true,
             "pause_count": 3,
-            "max_pauses": 3
+            "max_pauses": 3,
+            "paused_remaining_time": 77204
         },
         {
             "id": "MpanjakaPXPzBdqj",
