@@ -40108,6 +40108,16 @@
             "countdown_start_time": "2026-09-10T20:33:29.414898",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "JulienVEV5jKSt",
+            "android_id": "7bb2603e9b0a4ae884120cde291553a6",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-09-17T17:38:29.053374",
+            "affiliation_balance": 0,
+            "countdown_paused": false
         }
     ],
     "references": {
