@@ -39236,10 +39236,10 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-09-12T00:04:35.474342",
+            "countdown_start_time": "2026-09-19T00:04:35.474342",
             "affiliation_balance": 0,
             "countdown_paused": false,
-            "pause_count": 1,
+            "pause_count": 0,
             "max_pauses": 3,
             "plan": "Semaine"
         },
