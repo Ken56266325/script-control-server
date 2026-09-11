@@ -38762,10 +38762,10 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-09-11T08:47:07.028343",
+            "countdown_start_time": "2026-09-18T08:49:21.658656",
             "affiliation_balance": 0,
             "plan": "Semaine",
-            "pause_count": 1,
+            "pause_count": 0,
             "max_pauses": 3,
             "countdown_paused": false
         },
