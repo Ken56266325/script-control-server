@@ -39841,12 +39841,11 @@
             "android_id": "40378e3ae3c1a0bf88a1edcea9524483",
             "referred_by": "MathiasxvHeWiyj",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-09-10T13:44:11.700416",
+            "status": "active",
+            "countdown_start_time": "2026-09-12T13:22:18.003756",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 108523,
-            "countdown_paused": true
+            "countdown_paused": false
         },
         {
             "id": "TokinomenaGtYI1wVI",
