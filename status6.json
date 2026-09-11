@@ -40014,11 +40014,10 @@
             "referred_by": "SolofoTyiJ9s1s",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-09-11T08:12:10.685598",
+            "countdown_start_time": "2026-09-18T08:11:53.285607",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 604765,
-            "countdown_paused": true
+            "countdown_paused": false
         },
         {
             "id": "Sediot791832",
