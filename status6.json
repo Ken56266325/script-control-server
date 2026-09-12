@@ -40119,6 +40119,16 @@
             "countdown_start_time": "2026-09-11T20:28:50.031972",
             "affiliation_balance": 0,
             "countdown_paused": false
+        },
+        {
+            "id": "ElodieCXTFcU4M",
+            "android_id": "8bb207ec75d138bf3f4fcae2cb4f9a74",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-09-12T19:57:25.554653",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
