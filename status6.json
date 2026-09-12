@@ -12820,7 +12820,7 @@
                 "Armele3YGfR2e"
             ],
             "status": "active",
-            "countdown_start_time": "2026-09-12T08:31:28.834416",
+            "countdown_start_time": "2026-09-19T08:58:43.715393",
             "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false,
@@ -36829,7 +36829,7 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-09-19T10:03:31.405534",
+            "countdown_start_time": "2026-09-12T10:03:31.405534",
             "affiliation_balance": 0,
             "plan": "Semaine",
             "pause_count": 0,
@@ -40085,11 +40085,12 @@
             "android_id": "7d72fb043f10ea5a95d2a406114775d1",
             "referred_by": null,
             "referred_to": [],
-            "status": "active",
-            "countdown_start_time": "2026-09-18T04:52:32.127834",
+            "status": "inactive",
+            "countdown_start_time": "2026-09-11T21:20:38.548611",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
+            "paused_remaining_time": 504359,
+            "countdown_paused": true,
             "pause_count": 1
         },
         {
