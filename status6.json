@@ -39225,7 +39225,7 @@
             "android_id": "22eaf9f6d3caaf4ecb03a02ed47a6e60",
             "referred_by": "TOKYU5LywOFs",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-09-12T07:13:16.240620",
             "affiliation_balance": 0,
             "plan": "Basique",
@@ -40075,7 +40075,7 @@
             "android_id": "b4d98518c3d02f18de60de755dc52752",
             "referred_by": null,
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-09-12T07:12:57.179632",
             "affiliation_balance": 0,
             "plan": "Basique"
