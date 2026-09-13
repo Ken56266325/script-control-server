@@ -36544,11 +36544,11 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-09-13T23:40:45.197465",
+            "countdown_start_time": "2026-09-20T23:40:45.197465",
             "affiliation_balance": 0,
             "plan": "Semaine",
             "countdown_paused": false,
-            "pause_count": 3,
+            "pause_count": 0,
             "max_pauses": 3
         },
         {
