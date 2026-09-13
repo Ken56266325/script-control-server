@@ -37098,13 +37098,12 @@
             "android_id": "886b2f1e45f4516638e6a266bc17ee1e",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-09-13T07:26:03.323646",
+            "status": "active",
+            "countdown_start_time": "2026-09-15T01:23:04.981567",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 4,
-            "paused_remaining_time": 138060
+            "countdown_paused": false,
+            "pause_count": 4
         },
         {
             "id": "EllahqapDfQ7W",
