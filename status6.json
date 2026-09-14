@@ -37744,13 +37744,12 @@
             "android_id": "5b95b1141de787f9a0651a8634b90a0d",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-09-14T08:06:33.727489",
+            "status": "active",
+            "countdown_start_time": "2026-09-16T23:10:25.111550",
             "affiliation_balance": 0,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "plan": "Basique",
-            "pause_count": 4,
-            "paused_remaining_time": 187310
+            "pause_count": 4
         },
         {
             "id": "RaissassTrGqOh",
