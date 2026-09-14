@@ -36744,13 +36744,12 @@
             "android_id": "47650080f94eaa2ce1d8de5083fbd1e7",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-09-05T17:22:09.625000",
+            "status": "active",
+            "countdown_start_time": "2026-09-20T15:42:53.765817",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 503553
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "LazawPXCepxF",
