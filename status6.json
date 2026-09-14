@@ -40141,6 +40141,16 @@
             "countdown_start_time": "2026-09-14T17:43:09.150074",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "NirintsoabCjmmGDk",
+            "android_id": "536d62689c1331104d321cae21b3f4dc",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-09-14T18:54:55.330647",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
