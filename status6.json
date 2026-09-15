@@ -18940,13 +18940,12 @@
                 "ElinahWqbzIawk",
                 "JacquesnGvWUV72"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-09-15T15:02:37.554446",
+            "status": "active",
+            "countdown_start_time": "2026-09-21T15:04:31.288207",
             "affiliation_balance": 5000,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 486772
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "YtokianaQHxOXDY3",
