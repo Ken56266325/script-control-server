@@ -39608,9 +39608,12 @@
             "referred_by": "M\u00e9lodie73skoFcp",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-09-17T19:03:05.328465",
+            "countdown_start_time": "2026-09-15T15:15:42.773407",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 186442,
+            "countdown_paused": true,
+            "pause_count": 1
         },
         {
             "id": "TroygdfCDgy3",
