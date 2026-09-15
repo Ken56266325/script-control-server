@@ -39987,10 +39987,11 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-09-20T17:00:24.242751",
+            "countdown_start_time": "2026-09-15T21:48:04.411290",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 414739
         },
         {
             "id": "HaingoqXRdv8H7",
