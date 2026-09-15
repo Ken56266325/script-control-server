@@ -40179,10 +40179,12 @@
             "android_id": "67bbb42fb44284ffaf8806004af23cff",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-09-15T14:21:04.651986",
+            "status": "active",
+            "countdown_start_time": "2026-09-22T16:08:20.228164",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Semaine",
+            "pause_count": 0,
+            "max_pauses": 3
         }
     ],
     "references": {
