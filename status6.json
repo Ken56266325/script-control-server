@@ -36744,11 +36744,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-09-22T06:11:55.497638",
+            "countdown_start_time": "2026-09-16T14:15:34.584107",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 2
+            "countdown_paused": true,
+            "pause_count": 2,
+            "paused_remaining_time": 489380
         },
         {
             "id": "LazawPXCepxF",
