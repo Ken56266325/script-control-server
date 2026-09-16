@@ -39984,12 +39984,11 @@
             "android_id": "63d8cbe54cc351b451f168a2c1e9e312",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-09-15T21:48:04.411290",
+            "status": "active",
+            "countdown_start_time": "2026-09-21T12:18:57.820635",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 414739
+            "countdown_paused": false
         },
         {
             "id": "HaingoqXRdv8H7",
