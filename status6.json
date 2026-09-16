@@ -39066,10 +39066,11 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-09-17T05:04:56.481981",
+            "countdown_start_time": "2026-09-16T18:39:25.495575",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 37530
         },
         {
             "id": "Tireure8vXPVj5",
