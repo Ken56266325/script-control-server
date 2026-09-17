@@ -7423,11 +7423,12 @@
             "referred_by": "Rakotomandimby78104",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-09-19T14:09:44.743610",
+            "countdown_start_time": "2026-09-18T00:23:21.608096",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 2
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 135983
         },
         {
             "id": "Mamy68193920",
