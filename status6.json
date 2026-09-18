@@ -40084,13 +40084,12 @@
             "android_id": "7d72fb043f10ea5a95d2a406114775d1",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-09-18T13:53:06.851339",
+            "status": "active",
+            "countdown_start_time": "2026-09-18T22:27:44.353624",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 16738
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "DarwinbTn2gUFE",
