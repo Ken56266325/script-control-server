@@ -40178,13 +40178,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-09-18T16:55:48.414567",
+            "countdown_start_time": "2026-09-22T18:01:00.436920",
             "affiliation_balance": 0,
             "plan": "Semaine",
             "pause_count": 2,
             "max_pauses": 3,
-            "countdown_paused": true,
-            "paused_remaining_time": 347191
+            "countdown_paused": false
         }
     ],
     "references": {
