@@ -7422,13 +7422,12 @@
             "android_id": "2fa5615196600cf157d97f72f66718b7",
             "referred_by": "Rakotomandimby78104",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-09-18T00:25:12.093161",
+            "status": "active",
+            "countdown_start_time": "2026-09-18T08:32:54.224940",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 4,
-            "paused_remaining_time": 0
+            "countdown_paused": false,
+            "pause_count": 4
         },
         {
             "id": "Mamy68193920",
