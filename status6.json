@@ -36540,12 +36540,12 @@
             "android_id": "1d4d6e8c27f1463dc1e31ce3b4c80181",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-09-18T20:18:12.432378",
+            "status": "active",
+            "countdown_start_time": "2026-09-26T11:48:33.596051",
             "affiliation_balance": 0,
             "plan": "Semaine",
             "countdown_paused": false,
-            "pause_count": 1,
+            "pause_count": 0,
             "max_pauses": 3
         },
         {
