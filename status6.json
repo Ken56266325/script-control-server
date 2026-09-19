@@ -40182,6 +40182,16 @@
             "pause_count": 2,
             "max_pauses": 3,
             "countdown_paused": false
+        },
+        {
+            "id": "Felana8e4rJkbW",
+            "android_id": "ec51dcc2e780dddce4fd2bb74f186b8c",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-09-19T12:17:21.070043",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
