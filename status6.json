@@ -39982,10 +39982,11 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-09-21T12:18:57.820635",
+            "countdown_start_time": "2026-09-19T12:41:42.071371",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 171435
         },
         {
             "id": "HaingoqXRdv8H7",
