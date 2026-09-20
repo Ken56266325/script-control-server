@@ -18939,11 +18939,12 @@
                 "JacquesnGvWUV72"
             ],
             "status": "active",
-            "countdown_start_time": "2026-09-21T15:04:31.288207",
+            "countdown_start_time": "2026-09-20T07:16:15.023107",
             "affiliation_balance": 5000,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 3
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 114496
         },
         {
             "id": "YtokianaQHxOXDY3",
