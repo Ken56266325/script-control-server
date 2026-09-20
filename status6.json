@@ -24400,11 +24400,12 @@
                 "JEREMIA1dtE7s9u"
             ],
             "status": "active",
-            "countdown_start_time": "2026-09-22T12:21:54.533224",
+            "countdown_start_time": "2026-09-20T18:34:30.701623",
             "affiliation_balance": 1000,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 3
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 150443
         },
         {
             "id": "jassb65eTkA6",
