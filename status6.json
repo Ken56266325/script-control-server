@@ -38477,11 +38477,12 @@
             "referred_by": "ondriphavipw5TC96WT",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-10-16T14:50:57.534401",
+            "countdown_start_time": "2026-09-20T21:57:26.988689",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 1
+            "countdown_paused": true,
+            "pause_count": 2,
+            "paused_remaining_time": 2220810
         },
         {
             "id": "Yuri2.0ZXRvnHYw",
