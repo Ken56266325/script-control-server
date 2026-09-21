@@ -40172,12 +40172,11 @@
             "android_id": "d48e064610508a08ceea3fc89b09d829",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-09-19T09:55:21.689800",
+            "status": "active",
+            "countdown_start_time": "2026-09-24T09:26:19.258548",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 218133,
-            "countdown_paused": true
+            "countdown_paused": false
         },
         {
             "id": "TokiniainadxtodG8M",
