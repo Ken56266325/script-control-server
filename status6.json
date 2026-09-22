@@ -40192,6 +40192,16 @@
             "countdown_start_time": "2026-09-23T12:16:38.966054",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "FianakoCMQ3aTHF",
+            "android_id": "dade744892dabe3a5104d5c4c26d6307",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-09-22T14:55:48.470112",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
