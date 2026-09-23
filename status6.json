@@ -39986,10 +39986,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-09-28T00:11:12.486662",
+            "countdown_start_time": "2026-09-23T20:52:11.607102",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 357540,
+            "pause_count": 1
         },
         {
             "id": "HaingoqXRdv8H7",
