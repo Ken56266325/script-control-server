@@ -39985,10 +39985,11 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-09-27T23:43:19.114157",
+            "countdown_start_time": "2026-09-23T15:05:55.234421",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 376643
         },
         {
             "id": "HaingoqXRdv8H7",
