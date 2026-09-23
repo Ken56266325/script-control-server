@@ -37743,12 +37743,11 @@
             "referred_by": null,
             "referred_to": [],
             "status": "inactive",
-            "countdown_start_time": "2026-09-14T20:34:16.924654",
+            "countdown_start_time": "2026-09-23T09:38:42.101424",
             "affiliation_balance": 0,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "plan": "Basique",
-            "pause_count": 4,
-            "paused_remaining_time": 182168
+            "pause_count": 4
         },
         {
             "id": "RaissassTrGqOh",
