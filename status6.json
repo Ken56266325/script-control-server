@@ -40120,9 +40120,10 @@
             "referred_by": null,
             "referred_to": [],
             "status": "inactive",
-            "countdown_start_time": "2026-09-11T20:28:50.031972",
+            "countdown_start_time": "2026-09-24T09:04:56.763815",
             "affiliation_balance": 0,
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 0
         },
         {
             "id": "ElodieCXTFcU4M",
