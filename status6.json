@@ -40017,10 +40017,11 @@
             "referred_by": "SolofoTyiJ9s1s",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-09-25T17:07:16.626873",
+            "countdown_start_time": "2026-09-24T13:55:03.044834",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 97933
         },
         {
             "id": "Sediot791832",
