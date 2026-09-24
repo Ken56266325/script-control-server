@@ -37099,11 +37099,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-09-25T20:52:01.560521",
+            "countdown_start_time": "2026-09-24T09:05:06.946835",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 4
+            "countdown_paused": true,
+            "pause_count": 4,
+            "paused_remaining_time": 128814
         },
         {
             "id": "EllahqapDfQ7W",
