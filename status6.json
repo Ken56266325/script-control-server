@@ -31327,11 +31327,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-09-30T12:39:17.084675",
+            "countdown_start_time": "2026-09-24T09:06:33.868001",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 4
+            "countdown_paused": true,
+            "pause_count": 4,
+            "paused_remaining_time": 531163
         },
         {
             "id": "AsakoRngyyeIR",
