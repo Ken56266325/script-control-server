@@ -33633,13 +33633,12 @@
             "android_id": "12d0f8212f089f462dfd10d98a54bba1",
             "referred_by": "Sinia52772",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-09-24T18:10:02.579391",
+            "status": "active",
+            "countdown_start_time": "2026-09-26T14:07:22.311309",
             "affiliation_balance": 0,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "plan": "Basique",
-            "pause_count": 3,
-            "paused_remaining_time": 107736
+            "pause_count": 3
         },
         {
             "id": "Nico52727",
