@@ -31327,13 +31327,12 @@
             "android_id": "f6565fdc22b3d4734edc19bf499818e8",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-09-26T07:26:14.316203",
+            "status": "active",
+            "countdown_start_time": "2026-10-01T21:30:58.314983",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 4,
-            "paused_remaining_time": 463183
+            "countdown_paused": false,
+            "pause_count": 4
         },
         {
             "id": "AsakoRngyyeIR",
