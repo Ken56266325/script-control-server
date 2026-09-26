@@ -4779,7 +4779,7 @@
             "android_id": "31d7e426c565f0f80aa62e7d60bdce54",
             "referred_by": "Hoby5826",
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-09-26T08:18:15.776059",
             "affiliation_balance": 0,
             "plan": "Basique",
@@ -40162,7 +40162,7 @@
             "android_id": "1c658b12a3677c6e82392fc51eed97a0",
             "referred_by": null,
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-09-26T08:20:45.806802",
             "affiliation_balance": 0,
             "plan": "Basique"
