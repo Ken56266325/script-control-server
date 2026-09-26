@@ -22459,11 +22459,12 @@
             "referred_by": "BaltaXGt6rapo",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-09-29T17:38:19.277786",
+            "countdown_start_time": "2026-09-26T17:20:43.928204",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 1
+            "countdown_paused": true,
+            "pause_count": 1,
+            "paused_remaining_time": 260255
         },
         {
             "id": "TeckakfNOECr4",
