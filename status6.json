@@ -40253,6 +40253,16 @@
             "countdown_start_time": "2026-09-27T17:57:10.857136",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "NirinaaaCRKGU2l9",
+            "android_id": "c5c59e6299b16bc6f3ffdfcc98d2f32d",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-09-28T09:52:40.981528",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
