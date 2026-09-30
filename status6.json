@@ -39982,13 +39982,12 @@
             "android_id": "63d8cbe54cc351b451f168a2c1e9e312",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-09-29T12:28:11.654370",
+            "status": "active",
+            "countdown_start_time": "2026-10-03T11:56:11.244317",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 258736
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "HaingoqXRdv8H7",
