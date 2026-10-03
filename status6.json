@@ -40230,9 +40230,10 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-10-10T17:13:32.731726",
+            "countdown_start_time": "2026-10-03T17:14:44.802866",
             "affiliation_balance": 0,
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 604727
         },
         {
             "id": "jeremieWdyO3ItW",
