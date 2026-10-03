@@ -40341,9 +40341,10 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-10-09T18:12:16.721575",
+            "countdown_start_time": "2026-10-03T14:17:56.050913",
             "affiliation_balance": 0,
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 532460
         },
         {
             "id": "EliseeefcPw1Imt",
