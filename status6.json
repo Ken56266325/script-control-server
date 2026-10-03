@@ -18939,7 +18939,8 @@
                 "Harentsy1GL1qjWE",
                 "HarentsyzJW4bwAE",
                 "ElinahWqbzIawk",
-                "JacquesnGvWUV72"
+                "JacquesnGvWUV72",
+                "Fasap7DAApwl"
             ],
             "status": "active",
             "countdown_start_time": "2026-10-04T20:53:12.598395",
@@ -40353,6 +40354,16 @@
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2026-10-02T23:46:53.202403",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Fasap7DAApwl",
+            "android_id": "a308285b43a482242cc1f2ba3d31d215",
+            "referred_by": "SylvieiShdhZQ5",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-10-03T17:40:33.056444",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
