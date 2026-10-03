@@ -30045,11 +30045,12 @@
             "referred_by": "Claudin6189393",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-10-10T15:52:21.638089",
+            "countdown_start_time": "2026-10-03T18:03:01.132453",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 4
+            "countdown_paused": true,
+            "pause_count": 4,
+            "paused_remaining_time": 596960
         },
         {
             "id": "MAYTUPJl2ZIr2U",
