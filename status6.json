@@ -40343,11 +40343,10 @@
             "android_id": "27c3d92f62b35f08f3d74c7decfffa10",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-10-03T14:17:56.050913",
+            "status": "active",
+            "countdown_start_time": "2026-10-10T00:42:18.898009",
             "affiliation_balance": 0,
-            "countdown_paused": true,
-            "paused_remaining_time": 532460
+            "countdown_paused": false
         },
         {
             "id": "EliseeefcPw1Imt",
