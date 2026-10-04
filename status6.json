@@ -32859,7 +32859,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2026-10-06T00:06:28.625225",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false,
             "pause_count": 3
