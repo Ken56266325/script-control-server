@@ -24401,13 +24401,12 @@
                 "RaharyRzJrcm3m",
                 "JEREMIA1dtE7s9u"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-10-05T07:51:40.134210",
+            "status": "active",
+            "countdown_start_time": "2026-10-05T13:28:10.544702",
             "affiliation_balance": 1000,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 11902
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "jassb65eTkA6",
