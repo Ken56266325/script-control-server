@@ -38537,10 +38537,10 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-10-07T20:41:28.016155",
+            "countdown_start_time": "2026-10-14T20:41:28.016155",
             "affiliation_balance": 0,
             "plan": "Semaine",
-            "pause_count": 1,
+            "pause_count": 0,
             "max_pauses": 3,
             "countdown_paused": false
         },
