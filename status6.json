@@ -40222,12 +40222,11 @@
             "android_id": "8bb8f0d3dc12dfc8557877874d048111",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-10-07T13:39:41.840548",
+            "status": "active",
+            "countdown_start_time": "2026-10-08T02:20:22.768347",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 28463,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
