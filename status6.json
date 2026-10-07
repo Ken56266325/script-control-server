@@ -33746,11 +33746,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-10-14T05:05:46.390215",
+            "countdown_start_time": "2026-10-07T07:32:16.330379",
             "affiliation_balance": 0,
-            "countdown_paused": false,
+            "countdown_paused": true,
             "plan": "Basique",
-            "pause_count": 1
+            "pause_count": 2,
+            "paused_remaining_time": 596010
         },
         {
             "id": "LalainazsDU8W1e",
