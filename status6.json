@@ -38539,14 +38539,13 @@
             "android_id": "1d96c9388590b11c9c12fc7a6d8b1565",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-10-07T18:22:24.479339",
+            "status": "active",
+            "countdown_start_time": "2026-10-14T23:39:52.732421",
             "affiliation_balance": 0,
             "plan": "Semaine",
             "pause_count": 1,
             "max_pauses": 3,
-            "countdown_paused": true,
-            "paused_remaining_time": 613143
+            "countdown_paused": false
         },
         {
             "id": "RovahasinaC2iGysbu",
