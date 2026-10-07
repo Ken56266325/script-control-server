@@ -34908,7 +34908,7 @@
             "referred_to": [
                 "AntoineHS43QMNV"
             ],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-10-07T06:37:39.646936",
             "affiliation_balance": 0,
             "plan": "Basique",
@@ -40168,7 +40168,7 @@
             "android_id": "1c658b12a3677c6e82392fc51eed97a0",
             "referred_by": null,
             "referred_to": [],
-            "status": "active",
+            "status": "inactive",
             "countdown_start_time": "2026-10-07T06:44:37.687287",
             "affiliation_balance": 0,
             "plan": "Basique"
