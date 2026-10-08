@@ -40374,6 +40374,16 @@
             "countdown_start_time": "2026-10-03T17:40:33.056444",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "AvenzoZ8ERD5iW",
+            "android_id": "18acbc73cda708f420e33ef44b837d78",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-10-08T17:33:36.876841",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
