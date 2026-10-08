@@ -4014,13 +4014,12 @@
                 "ZafitalI7V0bH0p",
                 "GangmanolvQEO5W"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-09-25T15:54:29.827923",
+            "status": "active",
+            "countdown_start_time": "2026-10-09T19:19:55.389656",
             "affiliation_balance": 2000,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 1,
-            "paused_remaining_time": 100922
+            "countdown_paused": false,
+            "pause_count": 1
         },
         {
             "id": "My5794",
