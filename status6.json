@@ -33745,13 +33745,12 @@
             "android_id": "1bbd3ab6e011e02bbea750132ec39fbe",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-10-07T18:37:33.263651",
+            "status": "active",
+            "countdown_start_time": "2026-10-14T18:12:00.597922",
             "affiliation_balance": 0,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "plan": "Basique",
-            "pause_count": 3,
-            "paused_remaining_time": 570356
+            "pause_count": 3
         },
         {
             "id": "LalainazsDU8W1e",
