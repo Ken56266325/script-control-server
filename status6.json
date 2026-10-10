@@ -32860,7 +32860,7 @@
             ],
             "status": "inactive",
             "countdown_start_time": "2026-10-10T00:36:30.347691",
-            "affiliation_balance": 1000,
+            "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false,
             "pause_count": 3
