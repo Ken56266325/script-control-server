@@ -26261,11 +26261,12 @@
             "referred_by": "MaximeespinolahcDIlFqR8",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-10-15T15:06:24.632849",
+            "countdown_start_time": "2026-10-10T12:38:53.596296",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 3
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 440851
         },
         {
             "id": "Solofo2JjgiQ0Z8",
