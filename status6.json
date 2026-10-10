@@ -40348,11 +40348,10 @@
             "android_id": "27c3d92f62b35f08f3d74c7decfffa10",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-10-03T22:06:00.848367",
+            "status": "active",
+            "countdown_start_time": "2026-10-17T01:29:42.701712",
             "affiliation_balance": 0,
-            "countdown_paused": true,
-            "paused_remaining_time": 527778,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
