@@ -40232,12 +40232,11 @@
             "android_id": "abb524a193a2140d75c93e9739541344",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-10-10T05:49:45.748163",
+            "status": "active",
+            "countdown_start_time": "2026-10-15T05:43:57.089498",
             "affiliation_balance": 0,
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 275270
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "jeremieWdyO3ItW",
