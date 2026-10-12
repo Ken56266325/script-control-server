@@ -40422,6 +40422,16 @@
             "countdown_start_time": "2026-10-12T13:42:22.630427",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "JospinyN502c6S",
+            "android_id": "7e6e582e94f35e03670fd2a338504bf8",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-10-12T14:36:44.247496",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
