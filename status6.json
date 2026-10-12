@@ -40335,13 +40335,12 @@
             "android_id": "a4143d01c41cc09a43c7720108efbeda",
             "referred_by": "JamalPQlZBan4",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-10-05T11:28:29.725225",
+            "status": "active",
+            "countdown_start_time": "2026-10-14T20:54:15.735915",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 194624
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "judienne681930",
