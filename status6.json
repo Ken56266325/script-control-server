@@ -40433,6 +40433,16 @@
             "countdown_start_time": "2026-10-19T19:59:05.696237",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "LarissaXqTcCvGc",
+            "android_id": "ff87a1cf7c8647d5acb596a81b5b09f8",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-10-13T18:43:39.701358",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
