@@ -40443,6 +40443,16 @@
             "countdown_start_time": "2026-10-15T18:44:53.810616",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "HaingoZI8BKKJK",
+            "android_id": "dba1387992323b769ad69c8e6911f731",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-10-14T13:45:04.552688",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
