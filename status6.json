@@ -29753,13 +29753,12 @@
             "android_id": "93abab710270b832528bebc00c4e604e",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-10-14T06:06:23.793259",
+            "status": "active",
+            "countdown_start_time": "2026-10-19T23:55:08.179767",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 4,
-            "paused_remaining_time": 411283
+            "countdown_paused": false,
+            "pause_count": 4
         },
         {
             "id": "ElychaRioLGwCbgKr",
