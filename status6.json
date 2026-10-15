@@ -23725,7 +23725,8 @@
                 "JosioNAXAvfyj",
                 "lifamTA2BbXS",
                 "Tina4PLnCiez",
-                "Lenz78ZfMr7X"
+                "Lenz78ZfMr7X",
+                "FabriocIppNJ2q"
             ],
             "status": "active",
             "countdown_start_time": "2026-10-17T09:31:46.445926",
@@ -40449,6 +40450,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-10-15T14:41:20.340040",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "FabriocIppNJ2q",
+            "android_id": "96d28fa0c101c76b82c4ccddffdb5320",
+            "referred_by": "ondriphavipw5TC96WT",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-10-15T13:23:57.112217",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
