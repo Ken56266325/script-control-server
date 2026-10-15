@@ -33671,11 +33671,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-10-17T12:34:12.155715",
+            "countdown_start_time": "2026-10-15T07:55:42.985235",
             "affiliation_balance": 0,
-            "countdown_paused": false,
+            "countdown_paused": true,
             "plan": "Basique",
-            "pause_count": 3
+            "pause_count": 3,
+            "paused_remaining_time": 189509
         },
         {
             "id": "IlovonjyJXObxkUt",
