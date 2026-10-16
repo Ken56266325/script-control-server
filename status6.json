@@ -31327,12 +31327,13 @@
             "android_id": "f6565fdc22b3d4734edc19bf499818e8",
             "referred_by": null,
             "referred_to": [],
-            "status": "active",
-            "countdown_start_time": "2026-10-21T15:25:04.463222",
+            "status": "inactive",
+            "countdown_start_time": "2026-10-16T06:35:51.292582",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 4
+            "countdown_paused": true,
+            "pause_count": 4,
+            "paused_remaining_time": 422502
         },
         {
             "id": "AsakoRngyyeIR",
@@ -40483,7 +40484,7 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-10-23T18:02:43.964551",
+            "countdown_start_time": "2026-10-16T23:04:24.948804",
             "affiliation_balance": 0,
             "countdown_paused": false
         }
