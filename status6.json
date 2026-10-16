@@ -40477,6 +40477,16 @@
             "countdown_start_time": "2026-10-16T13:22:41.563022",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Lucio564361",
+            "android_id": "d2aca55cd732e4cc58c441da3eaa64f1",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-10-23T18:02:43.964551",
+            "affiliation_balance": 0,
+            "countdown_paused": false
         }
     ],
     "references": {
