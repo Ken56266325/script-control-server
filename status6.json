@@ -40026,9 +40026,11 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-10-22T13:45:43.764674",
+            "countdown_start_time": "2026-10-16T15:26:59.385902",
             "affiliation_balance": 0,
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 512324,
+            "pause_count": 1
         },
         {
             "id": "FgkecJEZGJyGg",
