@@ -40461,6 +40461,16 @@
             "countdown_start_time": "2026-11-15T13:24:55.239006",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "DuelDZ1XENMK",
+            "android_id": "3c67ffe11c57940911e3f0493a21230a",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-10-16T13:22:41.563022",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
