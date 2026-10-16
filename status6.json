@@ -40487,6 +40487,16 @@
             "countdown_start_time": "2026-10-16T23:04:24.948804",
             "affiliation_balance": 0,
             "countdown_paused": false
+        },
+        {
+            "id": "Omer5pjOCwfy",
+            "android_id": "d3a97a24d15c42c7875be272b090cb8e",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-10-16T22:01:54.305099",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
