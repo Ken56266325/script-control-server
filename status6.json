@@ -40503,6 +40503,16 @@
             "countdown_start_time": "2026-10-17T13:59:01.413402",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Rovak8BRDJ9T",
+            "android_id": "30740f9f24d0ae4fdbebd96c0034aeb7",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-10-17T14:17:51.501854",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
