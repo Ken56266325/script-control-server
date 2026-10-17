@@ -40348,12 +40348,11 @@
             "android_id": "27c3d92f62b35f08f3d74c7decfffa10",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-10-11T23:10:27.042405",
+            "status": "active",
+            "countdown_start_time": "2026-10-22T11:44:34.748909",
             "affiliation_balance": 0,
-            "countdown_paused": true,
-            "pause_count": 2,
-            "paused_remaining_time": 440355
+            "countdown_paused": false,
+            "pause_count": 2
         },
         {
             "id": "EliseeefcPw1Imt",
