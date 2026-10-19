@@ -40546,6 +40546,16 @@
             "countdown_start_time": "2026-10-19T20:52:14.249285",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Hanitriniaina9zdxdMaO",
+            "android_id": "02b07e3351c1ad081f2b0908c4d9ff92",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-10-19T21:18:30.874297",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
