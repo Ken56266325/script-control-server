@@ -40557,6 +40557,16 @@
             "countdown_start_time": "2026-10-21T21:21:28.272510",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Manantenaawza3p5qJ",
+            "android_id": "b053a888ff4834fef73d1d26ac88dcf4",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-10-20T13:46:31.979240",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
