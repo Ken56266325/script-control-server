@@ -40555,11 +40555,10 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-10-22T06:53:44.005516",
+            "countdown_start_time": "2026-10-22T21:23:38.347376",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 52186,
-            "countdown_paused": true
+            "countdown_paused": false
         },
         {
             "id": "Manantenaawza3p5qJ",
