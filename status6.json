@@ -21647,11 +21647,12 @@
                 "rostonaheS2NmBhD"
             ],
             "status": "active",
-            "countdown_start_time": "2026-10-28T03:16:44.233267",
+            "countdown_start_time": "2026-10-23T15:44:46.776146",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 3
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 387117
         },
         {
             "id": "BELOLOcQsrrdX0",
