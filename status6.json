@@ -26592,14 +26592,13 @@
             "android_id": "1220e4ad98c8e48c7cdf24aac332d37e",
             "referred_by": "Claudin6189393",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-10-25T10:30:51.806087",
+            "status": "active",
+            "countdown_start_time": "2026-10-28T03:40:59.325085",
             "affiliation_balance": 0,
             "plan": "Semaine",
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 0,
-            "max_pauses": 3,
-            "paused_remaining_time": 204804
+            "max_pauses": 3
         },
         {
             "id": "farakdWf0dlp",
