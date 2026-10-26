@@ -36829,10 +36829,10 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-10-26T20:16:13.795628",
+            "countdown_start_time": "2026-11-02T20:16:13.795628",
             "affiliation_balance": 0,
             "plan": "Semaine",
-            "pause_count": 2,
+            "pause_count": 0,
             "countdown_paused": false,
             "max_pauses": 3
         },
