@@ -40569,6 +40569,16 @@
             "countdown_start_time": "2026-10-27T09:33:09.113032",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "TafitaYzzZEyJE",
+            "android_id": "191eccd74233ae5e1adbdb410e126dac",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-10-26T17:47:35.338097",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
