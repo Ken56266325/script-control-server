@@ -40588,9 +40588,11 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-10-27T14:22:11.699249",
+            "countdown_start_time": "2026-10-27T13:17:53.243721",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 3858,
+            "countdown_paused": true
         }
     ],
     "references": {
