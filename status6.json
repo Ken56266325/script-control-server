@@ -32862,11 +32862,12 @@
                 "Andry53637"
             ],
             "status": "active",
-            "countdown_start_time": "2026-10-28T20:17:05.744661",
+            "countdown_start_time": "2026-10-27T18:25:52.637093",
             "affiliation_balance": 1000,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 3
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 93073
         },
         {
             "id": "Hery536262",
