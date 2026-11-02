@@ -33663,13 +33663,12 @@
             "android_id": "5236dcd1f1ac28ef53297d21cde92d96",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-10-15T05:33:49.293650",
+            "status": "active",
+            "countdown_start_time": "2026-11-07T12:26:55.243557",
             "affiliation_balance": 0,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "plan": "Basique",
-            "pause_count": 3,
-            "paused_remaining_time": 422932
+            "pause_count": 3
         },
         {
             "id": "Brutal9100202",
