@@ -33651,13 +33651,12 @@
             "android_id": "037ae15eff3aa75a82902eff43c47309",
             "referred_by": "Sinia52772",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-10-30T12:29:00.707141",
+            "status": "active",
+            "countdown_start_time": "2026-11-04T11:46:08.463024",
             "affiliation_balance": 0,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "plan": "Basique",
-            "pause_count": 3,
-            "paused_remaining_time": 174751
+            "pause_count": 3
         },
         {
             "id": "Pamelah89193022",
