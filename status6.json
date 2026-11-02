@@ -38879,13 +38879,12 @@
                 "KenPm32ouYD",
                 "Micha0WfxuCmV"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-08-28T07:24:29.086940",
+            "status": "active",
+            "countdown_start_time": "2026-11-03T16:12:52.920151",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 62309
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "Kambana68193",
