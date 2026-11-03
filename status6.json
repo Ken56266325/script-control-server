@@ -37749,12 +37749,11 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-11-02T06:38:35.050297",
+            "countdown_start_time": "2026-11-05T21:59:03.612881",
             "affiliation_balance": 0,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "plan": "Basique",
-            "pause_count": 4,
-            "paused_remaining_time": 226820
+            "pause_count": 4
         },
         {
             "id": "RaissassTrGqOh",
