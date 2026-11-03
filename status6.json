@@ -23731,11 +23731,12 @@
                 "FabriocIppNJ2q"
             ],
             "status": "active",
-            "countdown_start_time": "2026-11-17T09:33:33.196065",
+            "countdown_start_time": "2026-11-03T19:24:10.580395",
             "affiliation_balance": 2000,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 1
+            "countdown_paused": true,
+            "pause_count": 1,
+            "paused_remaining_time": 1174162
         },
         {
             "id": "HerinirainyaWBbURF2",
