@@ -23730,13 +23730,12 @@
                 "Lenz78ZfMr7X",
                 "FabriocIppNJ2q"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-11-03T19:24:10.580395",
+            "status": "active",
+            "countdown_start_time": "2026-11-17T11:28:13.604656",
             "affiliation_balance": 2000,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 1,
-            "paused_remaining_time": 1174162
+            "countdown_paused": false,
+            "pause_count": 1
         },
         {
             "id": "HerinirainyaWBbURF2",
