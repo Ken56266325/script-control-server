@@ -18943,7 +18943,7 @@
             ],
             "status": "active",
             "countdown_start_time": "2026-11-10T23:42:35.086382",
-            "affiliation_balance": 0,
+            "affiliation_balance": 1000,
             "plan": "Basique",
             "countdown_paused": false,
             "pause_count": 3
