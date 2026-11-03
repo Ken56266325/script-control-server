@@ -40505,12 +40505,11 @@
             "android_id": "070f46d1a608cbe81291733fc4fb77b7",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-10-24T09:49:08.869533",
+            "status": "active",
+            "countdown_start_time": "2026-11-09T14:03:18.101379",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 540559,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
