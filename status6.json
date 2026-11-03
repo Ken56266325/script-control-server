@@ -39271,12 +39271,11 @@
             "android_id": "d573fbea245f08d4cb60509d2dffcf12",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-08-28T19:00:47.820010",
+            "status": "active",
+            "countdown_start_time": "2026-11-04T15:21:30.802627",
             "affiliation_balance": 0,
-            "countdown_paused": true,
-            "pause_count": 4,
-            "paused_remaining_time": 84453
+            "countdown_paused": false,
+            "pause_count": 4
         },
         {
             "id": "Tsiverymahefamh5Biz8G",
