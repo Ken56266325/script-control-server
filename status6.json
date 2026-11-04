@@ -30048,14 +30048,13 @@
             "android_id": "a177614624e2973eb2dadbe8047e96e2",
             "referred_by": "Claudin6189393",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-11-03T19:18:15.868883",
+            "status": "active",
+            "countdown_start_time": "2026-11-09T06:46:48.799876",
             "affiliation_balance": 0,
             "plan": "Semaine",
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 3,
-            "max_pauses": 3,
-            "paused_remaining_time": 426700
+            "max_pauses": 3
         },
         {
             "id": "MAYTUPJl2ZIr2U",
