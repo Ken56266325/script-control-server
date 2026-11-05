@@ -31332,11 +31332,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-11-12T14:56:45.144145",
+            "countdown_start_time": "2026-11-05T14:57:01.488122",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 4
+            "countdown_paused": true,
+            "pause_count": 4,
+            "paused_remaining_time": 604783
         },
         {
             "id": "AsakoRngyyeIR",
