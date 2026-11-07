@@ -40616,6 +40616,16 @@
             "countdown_start_time": "2026-10-29T13:38:36.873929",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "anthariantsoaw48uLqUX",
+            "android_id": "\ud83d\udcd6 Voir des Tuto",
+            "referred_by": "\ud83d\udce2\ud83d\udce3ANNONCE... \ud83d\udce2\ud83d\udce3",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-11-07T20:41:55.675250",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
