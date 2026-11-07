@@ -40507,11 +40507,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-11-12T02:23:38.386964",
+            "countdown_start_time": "2026-11-07T06:38:54.740212",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 2
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 416683
         },
         {
             "id": "Rovak8BRDJ9T",
