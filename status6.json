@@ -31334,11 +31334,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-11-13T10:44:38.335850",
+            "countdown_start_time": "2026-11-07T06:58:56.064618",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 4
+            "countdown_paused": true,
+            "pause_count": 4,
+            "paused_remaining_time": 531942
         },
         {
             "id": "AsakoRngyyeIR",
