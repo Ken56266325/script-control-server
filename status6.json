@@ -40592,11 +40592,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-11-14T04:25:13.897679",
+            "countdown_start_time": "2026-11-07T12:51:56.065824",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 4
+            "countdown_paused": true,
+            "pause_count": 4,
+            "paused_remaining_time": 574397
         },
         {
             "id": "NiraiYTXKWiV",
