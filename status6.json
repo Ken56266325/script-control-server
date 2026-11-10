@@ -31335,11 +31335,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-11-14T12:12:22.413321",
+            "countdown_start_time": "2026-11-10T08:08:14.793014",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 4
+            "countdown_paused": true,
+            "pause_count": 4,
+            "paused_remaining_time": 360247
         },
         {
             "id": "AsakoRngyyeIR",
