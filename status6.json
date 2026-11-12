@@ -40390,11 +40390,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-11-13T15:11:29.977301",
+            "countdown_start_time": "2026-11-12T10:14:00.935343",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 1
+            "countdown_paused": true,
+            "pause_count": 1,
+            "paused_remaining_time": 104249
         },
         {
             "id": "Joelinirina561316",
