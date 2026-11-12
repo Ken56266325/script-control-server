@@ -40633,6 +40633,16 @@
             "countdown_start_time": "2026-11-15T09:49:46.735086",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "DaviralldkUbouJa",
+            "android_id": "114a0bc3afeafe21656ef457960968a2",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-11-12T12:11:54.152059",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
