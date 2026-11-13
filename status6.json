@@ -40644,12 +40644,11 @@
             "android_id": "114a0bc3afeafe21656ef457960968a2",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-11-13T05:35:03.816175",
+            "status": "active",
+            "countdown_start_time": "2026-11-16T12:26:36.986087",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 245704,
-            "countdown_paused": true
+            "countdown_paused": false
         }
     ],
     "references": {
