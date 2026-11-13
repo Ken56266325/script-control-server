@@ -40645,10 +40645,11 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-11-16T12:26:36.986087",
+            "countdown_start_time": "2026-11-13T17:38:45.540713",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 240471
         },
         {
             "id": "fiera53436",
