@@ -40649,6 +40649,16 @@
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": false
+        },
+        {
+            "id": "fiera53436",
+            "android_id": "7991a834b8806e46e1c484cbf8fe00f4",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-11-20T16:11:54.242514",
+            "affiliation_balance": 0,
+            "countdown_paused": false
         }
     ],
     "references": {
