@@ -29760,11 +29760,12 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-11-17T09:41:38.882722",
+            "countdown_start_time": "2026-11-14T14:26:05.179347",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 4
+            "countdown_paused": true,
+            "pause_count": 4,
+            "paused_remaining_time": 242133
         },
         {
             "id": "ElychaRioLGwCbgKr",
