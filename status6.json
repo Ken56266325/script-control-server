@@ -40662,6 +40662,16 @@
             "countdown_start_time": "2026-11-20T16:11:54.242514",
             "affiliation_balance": 0,
             "countdown_paused": false
+        },
+        {
+            "id": "FulgencekdXAj1yu",
+            "android_id": "aa7d2620feb0efcd5c64ed6ca64d10cf",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-11-15T13:56:30.488133",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
