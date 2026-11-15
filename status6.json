@@ -27572,11 +27572,12 @@
             "referred_by": "TalboteyFvTphnm",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-11-18T19:18:57.395920",
+            "countdown_start_time": "2026-11-15T09:16:54.679961",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 3
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 295322
         },
         {
             "id": "DassyUdTmKEGT",
