@@ -40395,13 +40395,12 @@
             "android_id": "3a9d29079cd5cefb37241610d89c3eac",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-11-16T09:26:03.192444",
+            "status": "active",
+            "countdown_start_time": "2026-11-16T22:34:01.748291",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 1,
-            "paused_remaining_time": 42752
+            "countdown_paused": false,
+            "pause_count": 1
         },
         {
             "id": "Joelinirina561316",
