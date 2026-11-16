@@ -38546,10 +38546,10 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-11-16T16:47:57.627462",
+            "countdown_start_time": "2026-11-23T16:47:57.627462",
             "affiliation_balance": 0,
             "plan": "Semaine",
-            "pause_count": 2,
+            "pause_count": 0,
             "max_pauses": 3,
             "countdown_paused": false
         },
