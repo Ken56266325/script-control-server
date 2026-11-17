@@ -40594,13 +40594,12 @@
             "android_id": "6177ef3f7bface024228e2157ad19f4b",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-11-17T09:07:37.293126",
+            "status": "active",
+            "countdown_start_time": "2026-11-19T06:54:44.880957",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 4,
-            "paused_remaining_time": 157552
+            "countdown_paused": false,
+            "pause_count": 4
         },
         {
             "id": "NiraiYTXKWiV",
