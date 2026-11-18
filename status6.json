@@ -40694,6 +40694,16 @@
             "countdown_start_time": "2026-11-26T15:46:08.316186",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "Talbot5331694",
+            "android_id": "34559931e86cbaaeddee54594b1d6c93",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-11-25T21:06:34.529339",
+            "affiliation_balance": 0,
+            "countdown_paused": false
         }
     ],
     "references": {
