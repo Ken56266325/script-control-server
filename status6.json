@@ -22861,7 +22861,8 @@
             "referred_by": "Maharongatry1ysCar4h",
             "referred_to": [
                 "LovasoawqkRkqca",
-                "JosenQPGQkeD"
+                "JosenQPGQkeD",
+                "MichelleMichelleQ2AiOAU8"
             ],
             "status": "active",
             "countdown_start_time": "2026-11-19T17:03:33.929225",
@@ -40681,6 +40682,16 @@
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2026-11-17T12:54:38.781979",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "MichelleMichelleQ2AiOAU8",
+            "android_id": "4c0dbb102d5b24abbd32d060de8d3384",
+            "referred_by": "RomualdVkgjeCpi",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-11-18T15:45:37.443826",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
