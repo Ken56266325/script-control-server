@@ -40628,13 +40628,12 @@
             "android_id": "ffa5f15a4d7f382f2d29e6bfb0775a38",
             "referred_by": "\ud83d\udce2\ud83d\udce3ANNONCE... \ud83d\udce2\ud83d\udce3",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-11-19T15:56:37.435432",
+            "status": "active",
+            "countdown_start_time": "2026-11-20T07:20:55.674787",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 4,
-            "paused_remaining_time": 42428
+            "countdown_paused": false,
+            "pause_count": 4
         },
         {
             "id": "zazadezayqQgx8yN",
