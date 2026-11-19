@@ -22862,7 +22862,8 @@
             "referred_to": [
                 "LovasoawqkRkqca",
                 "JosenQPGQkeD",
-                "MichelleMichelleQ2AiOAU8"
+                "MichelleMichelleQ2AiOAU8",
+                "sabrinaRafanomezampitiavanalWizZCUr"
             ],
             "status": "active",
             "countdown_start_time": "2026-11-19T17:03:33.929225",
@@ -40735,6 +40736,16 @@
             "referred_to": [],
             "status": "inactive",
             "countdown_start_time": "2026-11-19T00:21:19.954674",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "sabrinaRafanomezampitiavanalWizZCUr",
+            "android_id": "0a895dfbb2e84fe9d6379fa391a3c37a",
+            "referred_by": "RomualdVkgjeCpi",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-11-19T13:22:38.215139",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
