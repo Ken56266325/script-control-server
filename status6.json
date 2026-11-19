@@ -23917,7 +23917,8 @@
             "referred_by": "JassBoy58103",
             "referred_to": [
                 "JahlmanYVEEGDYX",
-                "HariI1os4ZrW"
+                "HariI1os4ZrW",
+                "Bemaso\ud83d\ude00uOwSmIuM"
             ],
             "status": "inactive",
             "countdown_start_time": "2026-08-04T07:31:29.830503",
@@ -40746,6 +40747,16 @@
             "referred_to": [],
             "status": "active",
             "countdown_start_time": "2026-11-19T13:22:38.215139",
+            "affiliation_balance": 0,
+            "plan": "Basique"
+        },
+        {
+            "id": "Bemaso\ud83d\ude00uOwSmIuM",
+            "android_id": "1e5e8b7bad57184b0a627dca9c242a44",
+            "referred_by": "RAZAFINDRAIBEHARISONJeanTheodosePwsjhbwr",
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-11-19T13:30:40.293817",
             "affiliation_balance": 0,
             "plan": "Basique"
         }
