@@ -15230,12 +15230,11 @@
             "android_id": "85887ada8d2443b183adcc379031dda7",
             "referred_by": "Joel68010",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-11-20T17:33:48.408580",
+            "status": "active",
+            "countdown_start_time": "2026-11-20T18:52:43.476037",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 0,
+            "countdown_paused": false,
             "pause_count": 2
         },
         {
