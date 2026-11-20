@@ -15231,12 +15231,12 @@
             "referred_by": "Joel68010",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-11-20T17:31:57.844497",
+            "countdown_start_time": "2026-11-20T17:33:48.408580",
             "affiliation_balance": 0,
             "plan": "Basique",
             "countdown_paused": true,
-            "paused_remaining_time": 591544,
-            "pause_count": 1
+            "paused_remaining_time": 0,
+            "pause_count": 2
         },
         {
             "id": "DimbilazaCNVGUHsa",
