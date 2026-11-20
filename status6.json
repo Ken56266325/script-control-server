@@ -18942,11 +18942,12 @@
                 "Fasap7DAApwl"
             ],
             "status": "active",
-            "countdown_start_time": "2026-11-25T13:37:29.963893",
+            "countdown_start_time": "2026-11-20T10:56:45.519086",
             "affiliation_balance": 2000,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 3
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 441644
         },
         {
             "id": "YtokianaQHxOXDY3",
