@@ -40391,9 +40391,11 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-11-26T00:39:24.546345",
+            "countdown_start_time": "2026-11-20T07:54:49.209816",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 492275,
+            "countdown_paused": true
         },
         {
             "id": "nambinintsoaK25232Rs",
