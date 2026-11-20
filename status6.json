@@ -22868,11 +22868,12 @@
                 "sabrinaRafanomezampitiavanalWizZCUr"
             ],
             "status": "active",
-            "countdown_start_time": "2026-11-27T17:06:55.183466",
+            "countdown_start_time": "2026-11-20T19:06:28.035269",
             "affiliation_balance": 3000,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 3
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 597627
         },
         {
             "id": "geldoa0LOLdF",
