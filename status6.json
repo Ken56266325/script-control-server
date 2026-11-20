@@ -40758,9 +40758,11 @@
             "referred_by": "RomualdVkgjeCpi",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-11-27T13:23:27.909478",
+            "countdown_start_time": "2026-11-20T19:37:46.027745",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 582341,
+            "countdown_paused": true
         },
         {
             "id": "Bemaso\ud83d\ude00uOwSmIuM",
