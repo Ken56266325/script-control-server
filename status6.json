@@ -40665,12 +40665,11 @@
             "android_id": "114a0bc3afeafe21656ef457960968a2",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-11-21T14:50:53.905934",
+            "status": "active",
+            "countdown_start_time": "2026-11-24T07:56:46.926984",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "paused_remaining_time": 230643
+            "countdown_paused": false
         },
         {
             "id": "fiera53436",
