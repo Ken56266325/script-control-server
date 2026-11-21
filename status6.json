@@ -40655,9 +40655,12 @@
                 "TaTab9vwegYk"
             ],
             "status": "active",
-            "countdown_start_time": "2026-12-16T09:51:27.428989",
+            "countdown_start_time": "2026-11-21T04:33:55.103565",
             "affiliation_balance": 0,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 2179052,
+            "countdown_paused": true,
+            "pause_count": 1
         },
         {
             "id": "DaviralldkUbouJa",
