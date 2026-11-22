@@ -40651,12 +40651,11 @@
             "referred_to": [
                 "TaTab9vwegYk"
             ],
-            "status": "inactive",
-            "countdown_start_time": "2026-11-21T04:33:55.103565",
+            "status": "active",
+            "countdown_start_time": "2026-12-17T12:31:33.459842",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 2179052,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 1
         },
         {
