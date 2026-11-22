@@ -39249,14 +39249,13 @@
             "android_id": "6b6759ba4f8d5e2e8a8ed3dc144d9fd0",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-11-20T07:54:39.092466",
+            "status": "active",
+            "countdown_start_time": "2026-11-23T21:43:06.450861",
             "affiliation_balance": 0,
-            "countdown_paused": true,
+            "countdown_paused": false,
             "pause_count": 3,
             "max_pauses": 3,
-            "plan": "Semaine",
-            "paused_remaining_time": 141536
+            "plan": "Semaine"
         },
         {
             "id": "AndreaKnfOkGa",
