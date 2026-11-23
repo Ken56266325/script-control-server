@@ -38776,12 +38776,13 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-11-29T05:47:30.921327",
+            "countdown_start_time": "2026-11-23T14:17:56.240366",
             "affiliation_balance": 0,
             "plan": "Semaine",
             "pause_count": 1,
             "max_pauses": 3,
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 487774
         },
         {
             "id": "Andry2Dg2Wi3FL",
