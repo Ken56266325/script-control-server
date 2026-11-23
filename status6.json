@@ -40519,13 +40519,12 @@
             "android_id": "070f46d1a608cbe81291733fc4fb77b7",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-11-07T06:38:54.740212",
+            "status": "active",
+            "countdown_start_time": "2026-11-28T09:05:46.873381",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": true,
-            "pause_count": 3,
-            "paused_remaining_time": 416683
+            "countdown_paused": false,
+            "pause_count": 3
         },
         {
             "id": "Rovak8BRDJ9T",
