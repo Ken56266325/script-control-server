@@ -40391,12 +40391,11 @@
             "android_id": "18acbc73cda708f420e33ef44b837d78",
             "referred_by": null,
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-11-20T07:54:49.209816",
+            "status": "active",
+            "countdown_start_time": "2026-11-29T09:57:38.999100",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 492275,
-            "countdown_paused": true
+            "countdown_paused": false
         },
         {
             "id": "nambinintsoaK25232Rs",
