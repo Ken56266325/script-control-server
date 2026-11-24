@@ -40783,6 +40783,16 @@
             "countdown_start_time": "2026-11-19T23:11:04.228228",
             "affiliation_balance": 0,
             "plan": "Basique"
+        },
+        {
+            "id": "rajomakSIGfDyP",
+            "android_id": "3a55b75d1ab2e5c240edff770138df17",
+            "referred_by": null,
+            "referred_to": [],
+            "status": "active",
+            "countdown_start_time": "2026-11-24T21:00:47.598150",
+            "affiliation_balance": 0,
+            "plan": "Basique"
         }
     ],
     "references": {
