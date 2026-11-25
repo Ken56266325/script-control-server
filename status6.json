@@ -39249,12 +39249,13 @@
             "referred_by": null,
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-11-30T20:15:04.594059",
+            "countdown_start_time": "2026-11-25T10:10:08.783028",
             "affiliation_balance": 0,
-            "countdown_paused": false,
+            "countdown_paused": true,
             "pause_count": 0,
             "max_pauses": 3,
-            "plan": "Basique"
+            "plan": "Basique",
+            "paused_remaining_time": 468295
         },
         {
             "id": "AndreaKnfOkGa",
