@@ -24410,11 +24410,12 @@
                 "JEREMIA1dtE7s9u"
             ],
             "status": "active",
-            "countdown_start_time": "2026-11-28T02:53:28.805657",
+            "countdown_start_time": "2026-11-27T10:50:53.923745",
             "affiliation_balance": 1000,
             "plan": "Basique",
-            "countdown_paused": false,
-            "pause_count": 3
+            "countdown_paused": true,
+            "pause_count": 3,
+            "paused_remaining_time": 57754
         },
         {
             "id": "jassb65eTkA6",
