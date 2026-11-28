@@ -40709,10 +40709,12 @@
             "referred_by": "RomualdVkgjeCpi",
             "referred_to": [],
             "status": "active",
-            "countdown_start_time": "2026-12-04T10:36:41.076246",
+            "countdown_start_time": "2026-11-28T15:47:53.636440",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "countdown_paused": false
+            "countdown_paused": true,
+            "paused_remaining_time": 499727,
+            "pause_count": 1
         },
         {
             "id": "Talbot5331694",
