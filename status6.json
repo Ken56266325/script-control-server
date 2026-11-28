@@ -40761,12 +40761,11 @@
             "android_id": "0a895dfbb2e84fe9d6379fa391a3c37a",
             "referred_by": "RomualdVkgjeCpi",
             "referred_to": [],
-            "status": "inactive",
-            "countdown_start_time": "2026-11-20T19:37:46.027745",
+            "status": "active",
+            "countdown_start_time": "2026-12-05T09:32:44.205739",
             "affiliation_balance": 0,
             "plan": "Basique",
-            "paused_remaining_time": 582341,
-            "countdown_paused": true
+            "countdown_paused": false
         },
         {
             "id": "Bemaso\ud83d\ude00uOwSmIuM",
